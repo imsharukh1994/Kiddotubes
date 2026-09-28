@@ -39,19 +39,19 @@ export default function HistoryPage() {
         </Link>
       </div>
 
-      <div className="bg-white rounded-2xl p-6 border border-slate-200/80 shadow-subtle space-y-2">
+      <div className="bg-white rounded-2xl sm:rounded-3xl p-4 xs:p-6 border border-slate-200/80 shadow-subtle space-y-2">
         <div className="inline-flex items-center gap-1.5 px-2.5 py-0.5 bg-purple-50 text-purple-900 text-xs font-bold rounded-md uppercase tracking-wider">
           <History className="w-3.5 h-3.5 text-purple-700" />
           <span>Device Watch History</span>
         </div>
-        <h1 className="text-2xl sm:text-3xl font-black text-slate-900 tracking-tight">Recently Watched</h1>
-        <p className="text-slate-600 text-sm font-medium">
+        <h1 className="text-xl sm:text-3xl font-black text-slate-900 tracking-tight">Recently Watched</h1>
+        <p className="text-slate-600 text-xs sm:text-sm font-medium">
           Resume your learning journey! Videos you watch on this device appear here automatically.
         </p>
       </div>
 
       {history.length > 0 ? (
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+        <div className="grid grid-cols-1 xs:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3.5 sm:gap-5">
           {history.map((video) => (
             <VideoCard key={video.id} video={video} />
           ))}

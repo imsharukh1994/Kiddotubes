@@ -4,6 +4,15 @@
 
 :root {
   --font-outfit: 'Outfit', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --sat: env(safe-area-inset-top, 0px);
+  --sab: env(safe-area-inset-bottom, 0px);
+  --sal: env(safe-area-inset-left, 0px);
+  --sar: env(safe-area-inset-right, 0px);
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
 }
 
 body {
@@ -14,8 +23,11 @@ body {
   display: flex;
   flex-direction: column;
   -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: transparent;
   overflow-x: hidden;
   max-width: 100vw;
+  padding-top: var(--sat);
+  padding-bottom: var(--sab);
 }
 
 /* Guarantee no browser default blue underlined links */
@@ -27,6 +39,11 @@ a {
 /* Guarantee image overflow prevention */
 img, iframe, video {
   max-width: 100%;
+}
+
+/* Touch manipulation optimization */
+button, a, input, select {
+  touch-action: manipulation;
 }
 
 /* Hide scrollbar for clean horizontal rows */
@@ -41,8 +58,8 @@ img, iframe, video {
 
 /* Custom smooth scrollbar */
 ::-webkit-scrollbar {
-  height: 8px;
-  width: 8px;
+  height: 6px;
+  width: 6px;
 }
 
 ::-webkit-scrollbar-track {
@@ -57,3 +74,14 @@ img, iframe, video {
 ::-webkit-scrollbar-thumb:hover {
   background: #94A3B8;
 }
+
+/* Keyframes for fadeIn mobile drawer animation */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.2s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+

@@ -60,7 +60,7 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
       </div>
 
       {/* Category Banner */}
-      <section className="bg-white rounded-2xl p-6 sm:p-8 border border-slate-200/80 shadow-subtle space-y-3">
+      <section className="bg-white rounded-2xl sm:rounded-3xl p-4 xs:p-6 sm:p-8 border border-slate-200/80 shadow-subtle space-y-3">
         <div className="flex items-center gap-2">
           <span className="px-2.5 py-0.5 bg-purple-100 text-purple-900 text-xs font-bold rounded-md uppercase tracking-wider">
             Ages {ageBadge}
@@ -68,24 +68,24 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
           <span className="text-xs text-slate-400 font-semibold">• {videos.length} Videos</span>
         </div>
 
-        <h1 className="text-2xl sm:text-4xl font-black text-slate-900 tracking-tight">{title}</h1>
+        <h1 className="text-xl xs:text-2xl sm:text-4xl font-black text-slate-900 tracking-tight">{title}</h1>
 
-        <p className="text-slate-600 font-medium text-sm sm:text-base max-w-2xl leading-relaxed">
+        <p className="text-slate-600 font-medium text-xs sm:text-base max-w-2xl leading-relaxed">
           {description}
         </p>
 
         <div className="pt-2 flex items-center gap-2 text-xs font-medium text-slate-400">
-          <ShieldCheck className="w-4 h-4 text-emerald-600" />
+          <ShieldCheck className="w-4 h-4 text-emerald-600 shrink-0" />
           <span>Strict server-side safe query: &quot;{query}&quot;</span>
         </div>
       </section>
 
       {/* Video Grid */}
       <section className="space-y-4">
-        <h2 className="text-lg font-bold text-slate-900">Watch & Learn</h2>
+        <h2 className="text-lg sm:text-xl font-bold text-slate-900">Watch & Learn</h2>
 
         {videos.length > 0 ? (
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+          <div className="grid grid-cols-1 xs:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3.5 sm:gap-5">
             {videos.map((video) => (
               <VideoCard key={video.id} video={video} categoryLabel={title} />
             ))}

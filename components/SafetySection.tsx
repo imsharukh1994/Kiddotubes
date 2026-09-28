@@ -28,21 +28,21 @@ export default function SafetySection() {
   ];
 
   return (
-    <section className="my-12 p-6 sm:p-8 bg-slate-100/70 border border-slate-200/80 rounded-2xl">
-      <div className="max-w-2xl mb-8">
-        <div className="inline-flex items-center gap-1.5 px-3 py-1 bg-purple-100 text-purple-900 text-xs font-bold rounded-md uppercase tracking-wider mb-2">
-          <ShieldCheck className="w-4 h-4 text-emerald-600" />
+    <section className="my-8 sm:my-12 p-4 xs:p-6 sm:p-8 bg-slate-100/70 border border-slate-200/80 rounded-2xl sm:rounded-3xl">
+      <div className="max-w-2xl mb-6 sm:mb-8">
+        <div className="inline-flex items-center gap-1.5 px-3 py-1 bg-purple-100 text-purple-900 text-xs font-bold rounded-lg uppercase tracking-wider mb-2">
+          <ShieldCheck className="w-4 h-4 text-emerald-600 shrink-0" />
           <span>Parent Trust</span>
         </div>
-        <h2 className="text-2xl font-black text-slate-900 tracking-tight">
+        <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">
           Designed with families in mind
         </h2>
-        <p className="text-sm font-medium text-slate-600 mt-1">
+        <p className="text-xs sm:text-sm font-medium text-slate-600 mt-1">
           KiddoTube is a clean, modern content discovery platform designed to give parents peace of mind while kids explore.
         </p>
       </div>
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+      <div className="grid grid-cols-1 xs:grid-cols-2 lg:grid-cols-4 gap-3.5 sm:gap-5">
         {points.map((pt, idx) => {
           const Icon = pt.icon;
           return (

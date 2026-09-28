@@ -3,6 +3,8 @@ import { Outfit } from 'next/font/google';
 import './globals.css';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
+import AuthModal from '@/components/AuthModal';
+import { AuthProvider } from '@/context/AuthContext';
 
 const outfit = Outfit({
   subsets: ['latin'],
@@ -15,6 +17,11 @@ export const metadata: Metadata = {
   description:
     'Discover videos, stories, music, and learning for every stage of childhood growth on KiddoTube.',
   keywords: ['Kids Videos', 'KiddoTube', 'Educational Videos', 'Nursery Rhymes', 'Safe Content Discovery'],
+  icons: {
+    icon: '/images/favicon.png',
+    shortcut: '/images/favicon.png',
+    apple: '/images/favicon.png',
+  },
 };
 
 export default function RootLayout({
@@ -25,11 +32,14 @@ export default function RootLayout({
   return (
     <html lang="en" className={outfit.variable}>
       <body className="bg-[#F8FAFC] text-slate-900 font-sans min-h-screen flex flex-col antialiased">
-        <Header />
-        <main className="flex-1 max-w-[1440px] w-full mx-auto px-6 sm:px-8 lg:px-12 py-6 sm:py-8">
-          {children}
-        </main>
-        <Footer />
+        <AuthProvider>
+          <Header />
+          <main className="flex-1 max-w-[1440px] w-full mx-auto px-4 xs:px-5 sm:px-8 lg:px-12 py-4 sm:py-8">
+            {children}
+          </main>
+          <Footer />
+          <AuthModal />
+        </AuthProvider>
       </body>
     </html>
   );

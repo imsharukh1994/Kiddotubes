@@ -64,7 +64,7 @@ export default async function WatchPage({ params }: WatchPageProps) {
   const ageText = video.ageGroup ? `Ages ${video.ageGroup}` : 'Ages 2–6';
 
   return (
-    <div className="max-w-[1280px] mx-auto w-full px-4 sm:px-6 lg:px-8 py-6 space-y-8">
+    <div className="max-w-[1280px] mx-auto w-full px-1 xs:px-2 sm:px-6 lg:px-8 py-4 sm:py-6 space-y-6 sm:space-y-8">
       {/* Tracker for Recently Watched local storage */}
       <WatchTracker video={video} />
 
@@ -72,7 +72,7 @@ export default async function WatchPage({ params }: WatchPageProps) {
       <div>
         <Link
           href="/"
-          className="inline-flex items-center gap-2 px-4 py-2 bg-white rounded-full text-slate-700 font-bold text-xs sm:text-sm border border-slate-200 hover:border-purple-300 hover:text-purple-700 hover:bg-purple-50 transition-all shadow-subtle focus:outline-none focus:ring-2 focus:ring-purple-600"
+          className="inline-flex items-center gap-2 px-3.5 py-2 bg-white rounded-full text-slate-700 font-bold text-xs sm:text-sm border border-slate-200 hover:border-purple-300 hover:text-purple-700 hover:bg-purple-50 transition-all shadow-subtle active:scale-95 focus:outline-none focus:ring-2 focus:ring-purple-600"
         >
           <ArrowLeft className="w-4 h-4" />
           <span>Back to Discover</span>
@@ -85,16 +85,16 @@ export default async function WatchPage({ params }: WatchPageProps) {
       </section>
 
       {/* VIDEO DETAILS CARD */}
-      <section className="bg-white rounded-2xl p-6 sm:p-8 border border-slate-200/80 shadow-subtle space-y-6">
+      <section className="bg-white rounded-2xl sm:rounded-3xl p-4 xs:p-6 sm:p-8 border border-slate-200/80 shadow-subtle space-y-5 sm:space-y-6">
         {/* Title */}
-        <h1 className="text-2xl sm:text-3xl lg:text-4xl font-black text-slate-900 leading-tight tracking-tight break-words">
+        <h1 className="text-xl sm:text-3xl lg:text-4xl font-black text-slate-900 leading-tight tracking-tight break-words">
           {video.title}
         </h1>
 
         {/* Creator & Metadata & Action Buttons Bar */}
-        <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-slate-100 pb-6">
+        <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-slate-100 pb-5 sm:pb-6">
           {/* Creator & Metadata Chips */}
-          <div className="space-y-3">
+          <div className="space-y-2.5 sm:space-y-3">
             <div>
               <p className="text-base sm:text-lg font-black text-slate-900">
                 {video.channelTitle || 'Kids Faith TV'}
@@ -133,7 +133,7 @@ export default async function WatchPage({ params }: WatchPageProps) {
             <Sparkles className="w-3.5 h-3.5 text-amber-500" />
             <span>About this video</span>
           </div>
-          <p className="text-slate-700 font-medium text-xs sm:text-sm leading-relaxed whitespace-pre-line bg-slate-50 p-4 rounded-xl border border-slate-100">
+          <p className="text-slate-700 font-medium text-xs sm:text-sm leading-relaxed whitespace-pre-line bg-slate-50 p-3.5 sm:p-4 rounded-xl border border-slate-100">
             {video.description || 'No description provided for this video.'}
           </p>
           <div className="flex items-center gap-2 text-xs font-semibold text-slate-500 pt-1">
@@ -149,16 +149,16 @@ export default async function WatchPage({ params }: WatchPageProps) {
       </section>
 
       {/* RELATED VIDEOS GRID ("More Like This") */}
-      <section className="space-y-6">
+      <section className="space-y-4 sm:space-y-6">
         <div className="flex items-center justify-between">
-          <h2 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2">
-            <Sparkles className="w-6 h-6 text-purple-600" />
+          <h2 className="text-lg sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2">
+            <Sparkles className="w-5 h-5 sm:w-6 sm:h-6 text-purple-600" />
             <span>More Like This</span>
           </h2>
         </div>
 
         {filteredRelated.length > 0 ? (
-          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+          <div className="grid grid-cols-1 xs:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3.5 sm:gap-6">
             {filteredRelated.map((rel) => (
               <VideoCard key={rel.id} video={rel} />
             ))}

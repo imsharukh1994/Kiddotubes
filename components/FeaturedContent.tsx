@@ -92,7 +92,7 @@ export default function FeaturedContent({ featuredVideo, sideVideos = [] }: Feat
         </div>
 
         {/* Right Side: 3 Smaller Cards matching mockup */}
-        <div className="lg:col-span-5 grid grid-cols-1 sm:grid-cols-3 lg:grid-cols-1 gap-3.5">
+        <div className="lg:col-span-5 grid grid-cols-1 xs:grid-cols-2 md:grid-cols-3 lg:grid-cols-1 gap-3.5">
           {sideVideos.length > 0 ? (
             sideVideos.slice(0, 3).map((vid, idx) => {
               const labels = [

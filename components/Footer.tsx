@@ -2,7 +2,8 @@
 
 import React from 'react';
 import Link from 'next/link';
-import { Play, ShieldCheck, User } from 'lucide-react';
+import Image from 'next/image';
+import { ShieldCheck, User } from 'lucide-react';
 
 export default function Footer() {
   return (
@@ -12,13 +13,14 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* Column 1: Brand Logo & Mission */}
           <div className="md:col-span-1 space-y-3">
-            <Link href="/" className="flex items-center gap-2">
-              <div className="w-8 h-8 rounded-xl bg-purple-600 flex items-center justify-center text-white">
-                <Play className="w-4 h-4 fill-current ml-0.5 text-white" />
-              </div>
-              <span className="text-xl font-black text-slate-900 tracking-tight">
-                Kiddo<span className="text-purple-600">Tube</span>
-              </span>
+            <Link href="/" className="inline-block">
+              <Image
+                src="/images/Logo.png"
+                alt="KiddoTube Logo"
+                width={150}
+                height={38}
+                className="h-9 w-auto object-contain"
+              />
             </Link>
             <p className="text-xs font-semibold text-slate-500 leading-relaxed">
               Curated video discovery platform for kids. Safe, fun, and educational videos for every developmental stage.

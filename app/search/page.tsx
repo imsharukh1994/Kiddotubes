@@ -43,17 +43,17 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
       </div>
 
       {/* Results Header */}
-      <div className="bg-white rounded-2xl p-6 border border-slate-200/80 shadow-subtle space-y-2">
+      <div className="bg-white rounded-2xl sm:rounded-3xl p-4 xs:p-6 border border-slate-200/80 shadow-subtle space-y-2">
         <div className="flex items-center gap-3">
-          <div className="p-2.5 bg-purple-50 text-purple-900 rounded-xl">
+          <div className="p-2.5 bg-purple-50 text-purple-900 rounded-xl shrink-0">
             <Search className="w-5 h-5" />
           </div>
           <div>
-            <h1 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">
+            <h1 className="text-lg sm:text-2xl font-black text-slate-900 tracking-tight">
               {query ? `Search Results for "${query}"` : 'Search KiddoTube'}
             </h1>
             <p className="text-slate-500 font-medium text-xs flex items-center gap-1 mt-0.5">
-              <ShieldCheck className="w-3.5 h-3.5 text-emerald-600 inline" />
+              <ShieldCheck className="w-3.5 h-3.5 text-emerald-600 shrink-0" />
               <span>Safe strict search enabled via YouTube Data API</span>
             </p>
           </div>
@@ -69,7 +69,7 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
           actionHref="/"
         />
       ) : videos.length > 0 ? (
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+        <div className="grid grid-cols-1 xs:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3.5 sm:gap-5">
           {videos.map((video) => (
             <VideoCard key={video.id} video={video} />
           ))}

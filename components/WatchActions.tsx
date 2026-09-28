@@ -57,20 +57,20 @@ export default function WatchActions({ video }: WatchActionsProps) {
   };
 
   return (
-    <div className="flex items-center gap-3">
+    <div className="flex items-center gap-2 sm:gap-3 flex-wrap sm:flex-nowrap">
       {/* Save / Favorite Button */}
       <button
         onClick={handleFavoriteToggle}
         type="button"
         aria-label={favorite ? 'Remove video from saved favorites' : 'Save video to favorites'}
-        className={`px-5 py-2.5 rounded-full font-bold text-xs sm:text-sm flex items-center gap-2 transition-all duration-200 border focus:outline-none focus:ring-2 focus:ring-rose-500 shadow-sm ${
+        className={`px-4 sm:px-5 py-2 sm:py-2.5 rounded-full font-bold text-xs sm:text-sm flex items-center justify-center gap-1.5 sm:gap-2 transition-all duration-200 border focus:outline-none focus:ring-2 focus:ring-rose-500 shadow-sm active:scale-95 shrink-0 ${
           favorite
             ? 'bg-rose-600 text-white border-rose-600 hover:bg-rose-700 shadow-rose-200'
             : 'bg-white text-slate-700 border-slate-200 hover:border-rose-300 hover:text-rose-600 hover:bg-rose-50/50'
         }`}
       >
         <Heart className={`w-4 h-4 transition-transform ${favorite ? 'fill-current scale-110' : ''}`} />
-        <span>{favorite ? 'Saved to Favorites' : 'Save'}</span>
+        <span>{favorite ? 'Saved' : 'Save'}</span>
       </button>
 
       {/* Share Button */}
@@ -78,12 +78,12 @@ export default function WatchActions({ video }: WatchActionsProps) {
         onClick={handleShare}
         type="button"
         aria-label="Share video link"
-        className="px-5 py-2.5 rounded-full font-bold text-xs sm:text-sm flex items-center gap-2 bg-white text-slate-700 border border-slate-200 hover:border-purple-300 hover:text-purple-700 hover:bg-purple-50/50 transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-purple-600 shadow-sm"
+        className="px-4 sm:px-5 py-2 sm:py-2.5 rounded-full font-bold text-xs sm:text-sm flex items-center justify-center gap-1.5 sm:gap-2 bg-white text-slate-700 border border-slate-200 hover:border-purple-300 hover:text-purple-700 hover:bg-purple-50/50 transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-purple-600 shadow-sm active:scale-95 shrink-0"
       >
         {copied ? (
           <>
             <Check className="w-4 h-4 text-emerald-600" />
-            <span className="text-emerald-700">Link Copied!</span>
+            <span className="text-emerald-700">Copied!</span>
           </>
         ) : (
           <>
