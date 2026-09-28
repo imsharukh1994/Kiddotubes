@@ -4,7 +4,7 @@ import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import SearchBar from './SearchBar';
-import { Sparkles, ShieldCheck } from 'lucide-react';
+import { Sparkles, ShieldCheck, Play } from 'lucide-react';
 
 export default function Hero() {
   const ageOptions = [
@@ -15,43 +15,51 @@ export default function Hero() {
   ];
 
   return (
-    <section className="relative overflow-hidden bg-gradient-to-br from-purple-50 via-white to-amber-50/40 rounded-3xl p-6 sm:p-8 lg:p-10 border border-purple-100/80 shadow-subtle">
-      {/* Background Decorative Circles */}
-      <div className="absolute -top-12 -right-12 w-64 h-64 bg-purple-200/30 rounded-full blur-3xl pointer-events-none" />
-      <div className="absolute -bottom-12 -left-12 w-64 h-64 bg-amber-200/30 rounded-full blur-3xl pointer-events-none" />
+    <section className="relative overflow-hidden bg-gradient-to-r from-purple-900 via-purple-800 to-indigo-900 rounded-3xl p-6 sm:p-10 lg:p-12 text-white shadow-xl">
+      {/* Decorative Glowing Background Orbs */}
+      <div className="absolute top-0 right-1/4 w-80 h-80 bg-purple-500/20 rounded-full blur-3xl pointer-events-none" />
+      <div className="absolute -bottom-10 left-10 w-72 h-72 bg-amber-400/15 rounded-full blur-3xl pointer-events-none" />
+      <div className="absolute top-1/2 right-10 w-96 h-96 bg-indigo-500/20 rounded-full blur-3xl pointer-events-none" />
 
-      <div className="relative z-10 grid grid-cols-1 lg:grid-cols-12 gap-8 items-center">
-        {/* Left Column: Headline, Search, & Quick Age Buttons */}
-        <div className="lg:col-span-8 space-y-6">
+      {/* Hero Grid */}
+      <div className="relative z-10 grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-12 items-center">
+        
+        {/* Left Column: Headlines & Search */}
+        <div className="lg:col-span-7 space-y-6">
           <div className="space-y-3">
-            <div className="inline-flex items-center gap-1.5 px-3 py-1 bg-white/90 text-purple-700 rounded-full text-[11px] sm:text-xs font-black uppercase tracking-wider border border-purple-200/80 shadow-xs">
-              <Sparkles className="w-3.5 h-3.5 text-amber-500 shrink-0 animate-pulse" />
-              <span>Safe & Curated Kid Discovery</span>
+            <div className="inline-flex items-center gap-2 px-3.5 py-1.5 bg-white/10 backdrop-blur-md text-amber-300 rounded-full text-xs font-black uppercase tracking-wider border border-white/20 shadow-inner">
+              <Sparkles className="w-4 h-4 text-amber-300 animate-spin" style={{ animationDuration: '6s' }} />
+              <span>Safe & Curated Video Discovery</span>
             </div>
 
-            <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-slate-900 tracking-tight leading-[1.15]">
-              Find something wonderful for <span className="text-purple-700 underline decoration-amber-400 decoration-wavy decoration-2">curious little minds</span>.
+            <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-[1.15] text-white">
+              Find something wonderful for{' '}
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-amber-300 via-amber-200 to-amber-400">
+                curious little minds.
+              </span>
             </h1>
 
-            <p className="text-sm sm:text-base lg:text-lg text-slate-600 font-medium max-w-2xl leading-relaxed">
-              Videos, stories, music, and learning tailored for every developmental milestone.
+            <p className="text-sm sm:text-base lg:text-lg text-purple-100/90 font-medium max-w-xl leading-relaxed">
+              Discover educational videos, catchy nursery rhymes, quiet bedtime stories, and fun science activities for every developmental stage.
             </p>
           </div>
 
-          {/* Hero Search Field & Quick Age Selection */}
-          <div className="space-y-3 pt-1 max-w-2xl">
-            <SearchBar size="large" placeholder="Search videos, stories, music, learning..." />
+          {/* Search Bar & Age Selection */}
+          <div className="space-y-4 pt-1 max-w-xl">
+            <div className="bg-white/10 backdrop-blur-lg p-2 rounded-2xl border border-white/20 shadow-2xl">
+              <SearchBar size="large" placeholder="Search videos, stories, songs, learning..." />
+            </div>
 
             {/* Quick Age Buttons */}
             <div className="flex items-center gap-2 overflow-x-auto scrollbar-none pt-1">
-              <span className="text-xs font-extrabold text-slate-400 uppercase tracking-wider shrink-0 mr-1">
+              <span className="text-xs font-extrabold text-purple-200 uppercase tracking-wider shrink-0 mr-1">
                 Age Groups:
               </span>
               {ageOptions.map((age) => (
                 <Link
                   key={age.id}
                   href={`/category/${age.id}`}
-                  className="px-3.5 py-2 bg-white hover:bg-purple-600 hover:text-white text-slate-800 font-bold text-xs rounded-xl transition-all border border-slate-200 hover:border-purple-600 shadow-xs flex items-center gap-1 shrink-0 active:scale-95 focus:outline-none focus:ring-2 focus:ring-purple-600"
+                  className="px-4 py-2 bg-white/15 hover:bg-amber-400 hover:text-slate-950 text-white font-black text-xs rounded-xl transition-all border border-white/25 hover:border-amber-400 shadow-sm flex items-center gap-1 shrink-0 active:scale-95 focus:outline-none focus:ring-2 focus:ring-amber-400"
                 >
                   <span>Age {age.label}</span>
                 </Link>
@@ -60,46 +68,33 @@ export default function Hero() {
           </div>
         </div>
 
-        {/* Right Column: KiddoTube Official Mascots Showcase */}
-        <div className="lg:col-span-4 flex items-center justify-center lg:justify-end">
-          <div className="relative w-full max-w-[340px] aspect-square flex items-center justify-center">
-            {/* Soft Glow Ring Behind Mascots */}
-            <div className="absolute inset-0 bg-gradient-to-tr from-purple-300/40 to-amber-200/50 rounded-full blur-2xl scale-95" />
+        {/* Right Column: Seamless Floating Mascot */}
+        <div className="lg:col-span-5 flex items-center justify-center lg:justify-end relative">
+          <div className="relative w-full max-w-[320px] sm:max-w-[360px] lg:max-w-[400px] aspect-square flex items-center justify-center">
+            
+            {/* Soft Ambient Mascot Glow */}
+            <div className="absolute inset-4 bg-gradient-to-tr from-amber-400/30 to-purple-400/40 rounded-full blur-2xl animate-pulse" style={{ animationDuration: '4s' }} />
 
-            {/* Mascot Container Card */}
-            <div className="relative w-full h-full bg-white/80 backdrop-blur-md rounded-3xl p-4 border border-purple-100 shadow-xl flex items-center justify-center overflow-hidden group">
-              {/* Mascot 1 */}
-              <div className="relative w-1/2 h-full flex items-center justify-center p-2 transition-transform duration-300 group-hover:scale-105">
-                <Image
-                  src="/images/mascot-1.png"
-                  alt="KiddoTube Mascot Explorer"
-                  width={220}
-                  height={220}
-                  className="w-full h-auto object-contain drop-shadow-md"
-                  priority
-                />
-              </div>
+            {/* Floating Mascot Image - NO WHITE CARD BOX */}
+            <div className="relative w-full h-full flex items-center justify-center transition-transform duration-500 hover:scale-105">
+              <Image
+                src="/images/mascot-1.png"
+                alt="KiddoTube Mascot Guide"
+                width={420}
+                height={420}
+                className="w-full h-full object-contain drop-shadow-[0_20px_40px_rgba(0,0,0,0.45)]"
+                priority
+              />
+            </div>
 
-              {/* Mascot 2 */}
-              <div className="relative w-1/2 h-full flex items-center justify-center p-2 transition-transform duration-300 group-hover:scale-105">
-                <Image
-                  src="/images/mascot-2.png"
-                  alt="KiddoTube Mascot Buddy"
-                  width={220}
-                  height={220}
-                  className="w-full h-auto object-contain drop-shadow-md"
-                  priority
-                />
-              </div>
-
-              {/* Badge Overlay */}
-              <div className="absolute bottom-3 left-1/2 -translate-x-1/2 bg-white/95 px-3 py-1 rounded-full border border-purple-200 shadow-sm text-[11px] font-black text-purple-900 tracking-wider flex items-center gap-1 shrink-0 whitespace-nowrap">
-                <ShieldCheck className="w-3.5 h-3.5 text-emerald-600" />
-                <span>KiddoTube Guides</span>
-              </div>
+            {/* Floating Sparkle Badge Overlay */}
+            <div className="absolute bottom-2 right-4 bg-white/95 backdrop-blur-md px-4 py-2 rounded-2xl border border-purple-200 shadow-xl text-xs font-black text-purple-950 tracking-wide flex items-center gap-2 transform rotate-2 hover:rotate-0 transition-transform">
+              <ShieldCheck className="w-4 h-4 text-emerald-600" />
+              <span>Official KiddoTube Buddy</span>
             </div>
           </div>
         </div>
+
       </div>
     </section>
   );

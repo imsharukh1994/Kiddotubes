@@ -4,7 +4,10 @@ import './globals.css';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import AuthModal from '@/components/AuthModal';
+import BedtimeLockModal from '@/components/BedtimeLockModal';
+import PremiumUpgradeModal from '@/components/PremiumUpgradeModal';
 import { AuthProvider } from '@/context/AuthContext';
+import { TimerProvider } from '@/context/TimerContext';
 
 const outfit = Outfit({
   subsets: ['latin'],
@@ -33,12 +36,16 @@ export default function RootLayout({
     <html lang="en" className={outfit.variable}>
       <body className="bg-[#F8FAFC] text-slate-900 font-sans min-h-screen flex flex-col antialiased">
         <AuthProvider>
-          <Header />
-          <main className="flex-1 max-w-[1440px] w-full mx-auto px-4 xs:px-5 sm:px-8 lg:px-12 py-4 sm:py-8">
-            {children}
-          </main>
-          <Footer />
-          <AuthModal />
+          <TimerProvider>
+            <Header />
+            <main className="flex-1 max-w-[1440px] w-full mx-auto px-4 xs:px-5 sm:px-8 lg:px-12 py-4 sm:py-8">
+              {children}
+            </main>
+            <Footer />
+            <AuthModal />
+            <BedtimeLockModal />
+            <PremiumUpgradeModal />
+          </TimerProvider>
         </AuthProvider>
       </body>
     </html>

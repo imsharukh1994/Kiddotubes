@@ -84,30 +84,43 @@ export default function ProfilePage() {
       </div>
 
       {/* Quick Navigation Cards */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+      <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
         <Link
           href="/favorites"
-          className="p-5 bg-white rounded-2xl border border-slate-200/80 shadow-subtle hover:border-purple-300 transition-all flex items-center gap-4"
+          className="p-5 bg-white rounded-2xl border border-slate-200/80 shadow-subtle hover:border-purple-300 transition-all flex items-center gap-3.5"
         >
           <div className="w-10 h-10 rounded-xl bg-rose-50 text-rose-600 flex items-center justify-center shrink-0">
             <Heart className="w-5 h-5 fill-current" />
           </div>
           <div>
             <h3 className="font-extrabold text-slate-900 text-sm">Saved Favorites</h3>
-            <p className="text-xs text-slate-500 font-medium">View your saved video library</p>
+            <p className="text-xs text-slate-500 font-medium">Saved video library</p>
           </div>
         </Link>
 
         <Link
           href="/history"
-          className="p-5 bg-white rounded-2xl border border-slate-200/80 shadow-subtle hover:border-purple-300 transition-all flex items-center gap-4"
+          className="p-5 bg-white rounded-2xl border border-slate-200/80 shadow-subtle hover:border-purple-300 transition-all flex items-center gap-3.5"
         >
           <div className="w-10 h-10 rounded-xl bg-purple-50 text-purple-700 flex items-center justify-center shrink-0">
             <History className="w-5 h-5" />
           </div>
           <div>
             <h3 className="font-extrabold text-slate-900 text-sm">Watch History</h3>
-            <p className="text-xs text-slate-500 font-medium">Resume your recently watched videos</p>
+            <p className="text-xs text-slate-500 font-medium">Recently watched videos</p>
+          </div>
+        </Link>
+
+        <Link
+          href="/parents"
+          className="p-5 bg-white rounded-2xl border border-slate-200/80 shadow-subtle hover:border-emerald-300 transition-all flex items-center gap-3.5"
+        >
+          <div className="w-10 h-10 rounded-xl bg-emerald-50 text-emerald-600 flex items-center justify-center shrink-0">
+            <ShieldCheck className="w-5 h-5 text-emerald-600" />
+          </div>
+          <div>
+            <h3 className="font-extrabold text-slate-900 text-sm">Parent Controls</h3>
+            <p className="text-xs text-slate-500 font-medium">Safety & age filters</p>
           </div>
         </Link>
       </div>

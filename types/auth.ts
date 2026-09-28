@@ -4,6 +4,7 @@ export interface User {
   email: string;
   avatar: string;
   pin?: string;
+  isPremium?: boolean;
   createdAt: string;
 }
 

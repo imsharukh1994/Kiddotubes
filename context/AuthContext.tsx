@@ -14,6 +14,7 @@ const DEFAULT_DEMO_USERS: (User & { passwordHash: string })[] = [
     email: 'demo@kiddotube.com',
     avatar: '🚀',
     pin: '1234',
+    isPremium: false,
     createdAt: new Date().toISOString(),
     passwordHash: 'password123',
   },
@@ -25,8 +26,12 @@ interface AuthContextType {
   isLoading: boolean;
   authModalOpen: boolean;
   authModalTab: 'login' | 'register';
+  premiumModalOpen: boolean;
   openAuthModal: (tab?: 'login' | 'register') => void;
   closeAuthModal: () => void;
+  openPremiumModal: () => void;
+  closePremiumModal: () => void;
+  activatePremium: () => void;
   login: (credentials: LoginCredentials) => Promise<{ success: boolean; message?: string }>;
   register: (credentials: RegisterCredentials) => Promise<{ success: boolean; message?: string }>;
   logout: () => void;
@@ -41,6 +46,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
   const [isLoading, setIsLoading] = useState<boolean>(true);
   const [authModalOpen, setAuthModalOpen] = useState<boolean>(false);
   const [authModalTab, setAuthModalTab] = useState<'login' | 'register'>('login');
+  const [premiumModalOpen, setPremiumModalOpen] = useState<boolean>(false);
 
   // Load existing users DB or initialize default demo accounts
   const getUsersDB = (): (User & { passwordHash: string })[] => {
@@ -81,6 +87,28 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     setAuthModalOpen(false);
   };
 
+  const openPremiumModal = () => {
+    setPremiumModalOpen(true);
+  };
+
+  const closePremiumModal = () => {
+    setPremiumModalOpen(false);
+  };
+
+  const activatePremium = () => {
+    if (user) {
+      const updatedUser = { ...user, isPremium: true };
+      setUser(updatedUser);
+      localStorage.setItem(CURRENT_USER_KEY, JSON.stringify(updatedUser));
+
+      // Update in users DB
+      const usersDB = getUsersDB();
+      const updatedDB = usersDB.map(u => u.id === user.id ? { ...u, isPremium: true } : u);
+      localStorage.setItem(USERS_STORAGE_KEY, JSON.stringify(updatedDB));
+    }
+    setPremiumModalOpen(false);
+  };
+
   const login = async (credentials: LoginCredentials): Promise<{ success: boolean; message?: string }> => {
     const usersDB = getUsersDB();
     const foundUser = usersDB.find(
@@ -118,6 +146,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
       email: credentials.email.trim(),
       avatar: credentials.avatar || '🦁',
       pin: credentials.pin || '1234',
+      isPremium: true, // Gift 7-day free trial on new registrations
       createdAt: new Date().toISOString(),
       passwordHash: credentials.password,
     };
@@ -166,8 +195,12 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
         isLoading,
         authModalOpen,
         authModalTab,
+        premiumModalOpen,
         openAuthModal,
         closeAuthModal,
+        openPremiumModal,
+        closePremiumModal,
+        activatePremium,
         login,
         register,
         logout,
