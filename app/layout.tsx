@@ -6,6 +6,7 @@ import Footer from '@/components/Footer';
 import AuthModal from '@/components/AuthModal';
 import BedtimeLockModal from '@/components/BedtimeLockModal';
 import PremiumUpgradeModal from '@/components/PremiumUpgradeModal';
+import CookieConsentBanner from '@/components/CookieConsentBanner';
 import { AuthProvider } from '@/context/AuthContext';
 import { TimerProvider } from '@/context/TimerContext';
 
@@ -45,6 +46,7 @@ export default function RootLayout({
             <AuthModal />
             <BedtimeLockModal />
             <PremiumUpgradeModal />
+            <CookieConsentBanner />
           </TimerProvider>
         </AuthProvider>
       </body>

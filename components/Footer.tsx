@@ -3,7 +3,7 @@
 import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
-import { ShieldCheck, User } from 'lucide-react';
+import { ShieldCheck, Lock, Heart, History, Scale, Cookie, RefreshCw } from 'lucide-react';
 
 export default function Footer() {
   return (
@@ -11,9 +11,9 @@ export default function Footer() {
       <div className="max-w-[1280px] mx-auto px-4 sm:px-6 lg:px-8 space-y-10">
         
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
-          {/* Column 1: Brand Logo & Mission */}
+          {/* Column 1: Brand Logo & Business Details */}
           <div className="md:col-span-1 space-y-3">
-            <Link href="/" className="inline-block">
+            <Link href="/" className="inline-block focus:outline-none focus:ring-2 focus:ring-purple-600 rounded-lg">
               <Image
                 src="/images/Logo.png"
                 alt="KiddoTube Logo"
@@ -23,7 +23,10 @@ export default function Footer() {
               />
             </Link>
             <p className="text-xs font-semibold text-slate-500 leading-relaxed">
-              Curated video discovery platform for kids. Safe, fun, and educational videos for every developmental stage.
+              KiddoTube Media Inc. — Safe, curated video discovery platform for kids. COPPA & GDPR-K compliant.
+            </p>
+            <p className="text-[11px] font-bold text-slate-400">
+              Support: support@kiddotubes.com
             </p>
           </div>
 
@@ -31,44 +34,45 @@ export default function Footer() {
           <div className="space-y-3">
             <h4 className="text-xs font-extrabold uppercase tracking-wider text-slate-900">Explore</h4>
             <ul className="space-y-2 text-xs font-semibold text-slate-600">
-              <li><Link href="/" className="hover:text-purple-700 transition-colors">Home</Link></li>
-              <li><Link href="/category/2-4" className="hover:text-purple-700 transition-colors">Browse</Link></li>
-              <li><Link href="/category/songs" className="hover:text-purple-700 transition-colors">Categories</Link></li>
-              <li><Link href="/category/2-4" className="hover:text-purple-700 transition-colors">Age Groups</Link></li>
+              <li><Link href="/" className="hover:text-purple-700 transition-colors focus:ring-2 focus:ring-purple-600 rounded-sm">Home</Link></li>
+              <li><Link href="/category/2-4" className="hover:text-purple-700 transition-colors focus:ring-2 focus:ring-purple-600 rounded-sm">Browse by Age</Link></li>
+              <li><Link href="/category/songs" className="hover:text-purple-700 transition-colors focus:ring-2 focus:ring-purple-600 rounded-sm">Categories</Link></li>
+              <li><Link href="/premium" className="hover:text-purple-700 transition-colors focus:ring-2 focus:ring-purple-600 rounded-sm">KiddoTube Premium</Link></li>
             </ul>
           </div>
 
-          {/* Column 3: Parents & Safety */}
+          {/* Column 3: Legal & Privacy Policies */}
           <div className="space-y-3">
-            <h4 className="text-xs font-extrabold uppercase tracking-wider text-slate-900">Parents & Safety</h4>
+            <h4 className="text-xs font-extrabold uppercase tracking-wider text-slate-900">Legal & Trust</h4>
             <ul className="space-y-2 text-xs font-semibold text-slate-600">
-              <li><Link href="/parents" className="hover:text-purple-700 transition-colors">For Parents</Link></li>
-              <li><Link href="/parents" className="hover:text-purple-700 transition-colors">Child Safety Guidelines</Link></li>
-              <li><Link href="/parents" className="hover:text-purple-700 transition-colors">Privacy & Data Rights</Link></li>
-              <li><Link href="/parents" className="hover:text-purple-700 transition-colors">Child-Directed Advertising</Link></li>
+              <li><Link href="/privacy" className="hover:text-purple-700 transition-colors focus:ring-2 focus:ring-purple-600 rounded-sm">Privacy Policy</Link></li>
+              <li><Link href="/terms" className="hover:text-purple-700 transition-colors focus:ring-2 focus:ring-purple-600 rounded-sm">Terms of Service</Link></li>
+              <li><Link href="/cookie-policy" className="hover:text-purple-700 transition-colors focus:ring-2 focus:ring-purple-600 rounded-sm">Cookie Policy</Link></li>
+              <li><Link href="/refund-policy" className="hover:text-purple-700 transition-colors focus:ring-2 focus:ring-purple-600 rounded-sm">Refund Guarantee (30 Days)</Link></li>
             </ul>
           </div>
 
-          {/* Column 4: Library & Support */}
+          {/* Column 4: Parents & Support */}
           <div className="space-y-3">
-            <h4 className="text-xs font-extrabold uppercase tracking-wider text-slate-900">My Library</h4>
+            <h4 className="text-xs font-extrabold uppercase tracking-wider text-slate-900">Parents & Library</h4>
             <ul className="space-y-2 text-xs font-semibold text-slate-600">
-              <li><Link href="/favorites" className="hover:text-purple-700 transition-colors">Saved Favorites</Link></li>
-              <li><Link href="/history" className="hover:text-purple-700 transition-colors">Watch History</Link></li>
-              <li><Link href="/parents" className="hover:text-purple-700 transition-colors">Report an Ad</Link></li>
+              <li><Link href="/parents" className="hover:text-purple-700 transition-colors focus:ring-2 focus:ring-purple-600 rounded-sm">Parent Dashboard</Link></li>
+              <li><Link href="/favorites" className="hover:text-purple-700 transition-colors focus:ring-2 focus:ring-purple-600 rounded-sm">Saved Favorites</Link></li>
+              <li><Link href="/history" className="hover:text-purple-700 transition-colors focus:ring-2 focus:ring-purple-600 rounded-sm">Watch History</Link></li>
+              <li><Link href="/parents" className="hover:text-purple-700 transition-colors focus:ring-2 focus:ring-purple-600 rounded-sm">Report Content / Ad</Link></li>
             </ul>
           </div>
         </div>
 
-        {/* Bottom Bar */}
+        {/* Bottom Disclaimer & Copyright */}
         <div className="pt-6 border-t border-slate-100 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs font-semibold text-slate-400">
           <div className="flex items-center gap-2">
-            <ShieldCheck className="w-4 h-4 text-emerald-600" />
-            <span>Official YouTube Data API v3 integration with privacy-enhanced no-cookie player embeds.</span>
+            <ShieldCheck className="w-4 h-4 text-emerald-600 shrink-0" />
+            <span>Official YouTube Data API v3 integration with privacy-enhanced no-cookie embeds.</span>
           </div>
 
           <div>
-            © {new Date().getFullYear()} KiddoTube. Safe. Fun. Learning Always.
+            © {new Date().getFullYear()} KiddoTube Inc. All Rights Reserved. COPPA & GDPR-K Compliant.
           </div>
         </div>
       </div>
