@@ -11,10 +11,6 @@ const nextConfig = {
         protocol: 'https',
         hostname: 'yt3.ggpht.com',
       },
-      {
-        protocol: 'https',
-        hostname: 'image.pollinations.ai',
-      },
     ],
   },
 };
