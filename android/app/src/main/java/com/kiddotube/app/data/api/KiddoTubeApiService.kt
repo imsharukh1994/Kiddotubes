@@ -23,4 +23,9 @@ interface KiddoTubeApiService {
     suspend fun getMultipleVideoDetails(
         @Query("ids") videoIds: String
     ): Response<ApiResponse<List<VideoItem>>>
+
+    @retrofit2.http.POST("api/subscription/verify-play-purchase")
+    suspend fun verifyPlaySubscription(
+        @retrofit2.http.Body request: Map<String, String>
+    ): Response<ApiResponse<Map<String, Any>>>
 }

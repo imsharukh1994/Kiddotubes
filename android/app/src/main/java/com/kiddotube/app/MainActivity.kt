@@ -3,23 +3,25 @@ package com.kiddotube.app
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
-import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.*
 import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.Category
-import androidx.compose.material.icons.filled.Favorite
-import androidx.compose.material.icons.filled.History
-import androidx.compose.material.icons.filled.Home
-import androidx.compose.material.icons.filled.Search
+import androidx.compose.material.icons.filled.*
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
+import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.unit.dp
+import androidx.compose.ui.unit.sp
 import androidx.navigation.NavGraph.Companion.findStartDestination
 import androidx.navigation.NavType
 import androidx.navigation.compose.*
 import androidx.navigation.navArgument
+import com.kiddotube.app.billing.BillingManager
+import com.kiddotube.app.billing.SubscriptionState
 import com.kiddotube.app.data.repository.VideoRepository
+import com.kiddotube.app.ui.components.ParentPinGate
 import com.kiddotube.app.ui.screens.*
 import com.kiddotube.app.ui.theme.KiddoTubeTheme
 import com.kiddotube.app.ui.theme.Purple700
@@ -27,35 +29,81 @@ import com.kiddotube.app.ui.theme.Purple700
 class MainActivity : ComponentActivity() {
 
     private lateinit var repository: VideoRepository
+    private lateinit var billingManager: BillingManager
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         repository = VideoRepository(applicationContext)
+        billingManager = BillingManager.getInstance(applicationContext)
 
         setContent {
             KiddoTubeTheme {
                 val navController = rememberNavController()
+                val subscriptionState by billingManager.subscriptionState.collectAsState()
+                var showParentPinGate by remember { mutableStateOf(false) }
 
                 val items = listOf(
                     NavigationItem("home", "Home", Icons.Default.Home),
                     NavigationItem("category/2-4", "Categories", Icons.Default.Category),
                     NavigationItem("search", "Search", Icons.Default.Search),
                     NavigationItem("favorites", "Favorites", Icons.Default.Favorite),
-                    NavigationItem("history", "History", Icons.Default.History)
+                    NavigationItem("history", "History", Icons.Default.History),
+                    NavigationItem("parents", "Parent Zone", Icons.Default.Lock)
                 )
 
                 val navBackStackEntry by navController.currentBackStackEntryAsState()
                 val currentRoute = navBackStackEntry?.destination?.route
 
+                if (showParentPinGate) {
+                    ParentPinGate(
+                        onDismiss = { showParentPinGate = false },
+                        onSuccess = {
+                            showParentPinGate = false
+                            navController.navigate("parents") {
+                                launchSingleTop = true
+                            }
+                        }
+                    )
+                }
+
                 Scaffold(
                     topBar = {
                         CenterAlignedTopAppBar(
                             title = {
-                                Text(
-                                    text = "KiddoTube",
-                                    fontWeight = FontWeight.Black,
-                                    color = Purple700
-                                )
+                                Row(
+                                    verticalAlignment = Alignment.CenterVertically,
+                                    horizontalArrangement = Arrangement.Center
+                                ) {
+                                    Text(
+                                        text = "KiddoTube",
+                                        fontWeight = FontWeight.Black,
+                                        color = Purple700
+                                    )
+                                    if (subscriptionState == SubscriptionState.PREMIUM) {
+                                        Spacer(modifier = Modifier.width(6.dp))
+                                        Surface(
+                                            color = Color(0xFFFEF3C7),
+                                            shape = MaterialTheme.shapes.extraSmall
+                                        ) {
+                                            Text(
+                                                text = "PREMIUM",
+                                                color = Color(0xFFD97706),
+                                                fontSize = 9.sp,
+                                                fontWeight = FontWeight.Black,
+                                                modifier = Modifier.padding(horizontal = 4.dp, vertical = 2.dp)
+                                            )
+                                        }
+                                    }
+                                }
+                            },
+                            actions = {
+                                IconButton(onClick = { showParentPinGate = true }) {
+                                    Icon(
+                                        imageVector = Icons.Default.Shield,
+                                        contentDescription = "Parent Zone",
+                                        tint = Purple700
+                                    )
+                                }
                             },
                             colors = TopAppBarDefaults.centerAlignedTopAppBarColors(
                                 containerColor = Color.White
@@ -63,16 +111,14 @@ class MainActivity : ComponentActivity() {
                         )
                     },
                     bottomBar = {
-                        NavigationBar(
-                            containerColor = Color.White
-                        ) {
+                        NavigationBar(containerColor = Color.White) {
                             items.forEach { item ->
-                                val selected = currentRoute == item.route || 
-                                    (item.route.startsWith("category") && currentRoute?.startsWith("category") == true)
+                                val selected = currentRoute == item.route ||
+                                        (item.route.startsWith("category") && currentRoute?.startsWith("category") == true)
 
                                 NavigationBarItem(
                                     icon = { Icon(item.icon, contentDescription = item.title) },
-                                    label = { Text(item.title, fontWeight = FontWeight.Bold) },
+                                    label = { Text(item.title, fontWeight = FontWeight.Bold, fontSize = 10.sp) },
                                     selected = selected,
                                     colors = NavigationBarItemDefaults.colors(
                                         selectedIconColor = Purple700,
@@ -80,12 +126,16 @@ class MainActivity : ComponentActivity() {
                                         indicatorColor = Color(0xFFEDE9FE)
                                     ),
                                     onClick = {
-                                        navController.navigate(item.route) {
-                                            popUpTo(navController.graph.findStartDestination().id) {
-                                                saveState = true
+                                        if (item.route == "parents") {
+                                            showParentPinGate = true
+                                        } else {
+                                            navController.navigate(item.route) {
+                                                popUpTo(navController.graph.findStartDestination().id) {
+                                                    saveState = true
+                                                }
+                                                launchSingleTop = true
+                                                restoreState = true
                                             }
-                                            launchSingleTop = true
-                                            restoreState = true
                                         }
                                     }
                                 )
@@ -141,6 +191,13 @@ class MainActivity : ComponentActivity() {
                             )
                         }
 
+                        composable("parents") {
+                            ParentZoneScreen(
+                                billingManager = billingManager,
+                                onBackClick = { navController.popBackStack() }
+                            )
+                        }
+
                         composable(
                             route = "watch/{videoId}",
                             arguments = listOf(navArgument("videoId") { type = NavType.StringType })
@@ -156,6 +213,11 @@ class MainActivity : ComponentActivity() {
                 }
             }
         }
+    }
+
+    override fun onDestroy() {
+        super.onDestroy()
+        billingManager.endConnection()
     }
 }
 
