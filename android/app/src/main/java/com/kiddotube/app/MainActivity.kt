@@ -1,3 +1,5 @@
+@file:OptIn(ExperimentalMaterial3Api::class)
+
 package com.kiddotube.app
 
 import android.os.Bundle
@@ -33,6 +35,7 @@ class MainActivity : ComponentActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
         repository = VideoRepository(applicationContext)
         billingManager = BillingManager.getInstance(applicationContext)
 
@@ -40,15 +43,42 @@ class MainActivity : ComponentActivity() {
             KiddoTubeTheme {
                 val navController = rememberNavController()
                 val subscriptionState by billingManager.subscriptionState.collectAsState()
-                var showParentPinGate by remember { mutableStateOf(false) }
+
+                var showParentPinGate by remember {
+                    mutableStateOf(false)
+                }
 
                 val items = listOf(
-                    NavigationItem("home", "Home", Icons.Default.Home),
-                    NavigationItem("category/2-4", "Categories", Icons.Default.Category),
-                    NavigationItem("search", "Search", Icons.Default.Search),
-                    NavigationItem("favorites", "Favorites", Icons.Default.Favorite),
-                    NavigationItem("history", "History", Icons.Default.History),
-                    NavigationItem("parents", "Parent Zone", Icons.Default.Lock)
+                    NavigationItem(
+                        "home",
+                        "Home",
+                        Icons.Default.Home
+                    ),
+                    NavigationItem(
+                        "category/2-4",
+                        "Categories",
+                        Icons.Default.Category
+                    ),
+                    NavigationItem(
+                        "search",
+                        "Search",
+                        Icons.Default.Search
+                    ),
+                    NavigationItem(
+                        "favorites",
+                        "Favorites",
+                        Icons.Default.Favorite
+                    ),
+                    NavigationItem(
+                        "history",
+                        "History",
+                        Icons.Default.History
+                    ),
+                    NavigationItem(
+                        "parents",
+                        "Parent Zone",
+                        Icons.Default.Lock
+                    )
                 )
 
                 val navBackStackEntry by navController.currentBackStackEntryAsState()
@@ -56,9 +86,12 @@ class MainActivity : ComponentActivity() {
 
                 if (showParentPinGate) {
                     ParentPinGate(
-                        onDismiss = { showParentPinGate = false },
+                        onDismiss = {
+                            showParentPinGate = false
+                        },
                         onSuccess = {
                             showParentPinGate = false
+
                             navController.navigate("parents") {
                                 launchSingleTop = true
                             }
@@ -79,8 +112,12 @@ class MainActivity : ComponentActivity() {
                                         fontWeight = FontWeight.Black,
                                         color = Purple700
                                     )
+
                                     if (subscriptionState == SubscriptionState.PREMIUM) {
-                                        Spacer(modifier = Modifier.width(6.dp))
+                                        Spacer(
+                                            modifier = Modifier.width(6.dp)
+                                        )
+
                                         Surface(
                                             color = Color(0xFFFEF3C7),
                                             shape = MaterialTheme.shapes.extraSmall
@@ -90,14 +127,21 @@ class MainActivity : ComponentActivity() {
                                                 color = Color(0xFFD97706),
                                                 fontSize = 9.sp,
                                                 fontWeight = FontWeight.Black,
-                                                modifier = Modifier.padding(horizontal = 4.dp, vertical = 2.dp)
+                                                modifier = Modifier.padding(
+                                                    horizontal = 4.dp,
+                                                    vertical = 2.dp
+                                                )
                                             )
                                         }
                                     }
                                 }
                             },
                             actions = {
-                                IconButton(onClick = { showParentPinGate = true }) {
+                                IconButton(
+                                    onClick = {
+                                        showParentPinGate = true
+                                    }
+                                ) {
                                     Icon(
                                         imageVector = Icons.Default.Shield,
                                         contentDescription = "Parent Zone",
@@ -111,14 +155,32 @@ class MainActivity : ComponentActivity() {
                         )
                     },
                     bottomBar = {
-                        NavigationBar(containerColor = Color.White) {
+                        NavigationBar(
+                            containerColor = Color.White
+                        ) {
                             items.forEach { item ->
-                                val selected = currentRoute == item.route ||
-                                        (item.route.startsWith("category") && currentRoute?.startsWith("category") == true)
+
+                                val selected =
+                                    currentRoute == item.route ||
+                                            (
+                                                item.route.startsWith("category") &&
+                                                        currentRoute?.startsWith("category") == true
+                                            )
 
                                 NavigationBarItem(
-                                    icon = { Icon(item.icon, contentDescription = item.title) },
-                                    label = { Text(item.title, fontWeight = FontWeight.Bold, fontSize = 10.sp) },
+                                    icon = {
+                                        Icon(
+                                            item.icon,
+                                            contentDescription = item.title
+                                        )
+                                    },
+                                    label = {
+                                        Text(
+                                            item.title,
+                                            fontWeight = FontWeight.Bold,
+                                            fontSize = 10.sp
+                                        )
+                                    },
                                     selected = selected,
                                     colors = NavigationBarItemDefaults.colors(
                                         selectedIconColor = Purple700,
@@ -126,13 +188,17 @@ class MainActivity : ComponentActivity() {
                                         indicatorColor = Color(0xFFEDE9FE)
                                     ),
                                     onClick = {
+
                                         if (item.route == "parents") {
                                             showParentPinGate = true
                                         } else {
                                             navController.navigate(item.route) {
-                                                popUpTo(navController.graph.findStartDestination().id) {
+                                                popUpTo(
+                                                    navController.graph.findStartDestination().id
+                                                ) {
                                                     saveState = true
                                                 }
+
                                                 launchSingleTop = true
                                                 restoreState = true
                                             }
@@ -143,70 +209,108 @@ class MainActivity : ComponentActivity() {
                         }
                     }
                 ) { paddingValues ->
+
                     NavHost(
                         navController = navController,
                         startDestination = "home",
                         modifier = Modifier.padding(paddingValues)
                     ) {
+
                         composable("home") {
                             HomeScreen(
                                 repository = repository,
-                                onVideoClick = { videoId -> navController.navigate("watch/$videoId") },
-                                onCategoryClick = { slug -> navController.navigate("category/$slug") },
-                                onSearchClick = { navController.navigate("search") }
+                                onVideoClick = { videoId ->
+                                    navController.navigate("watch/$videoId")
+                                },
+                                onCategoryClick = { slug ->
+                                    navController.navigate("category/$slug")
+                                },
+                                onSearchClick = {
+                                    navController.navigate("search")
+                                }
                             )
                         }
 
                         composable(
                             route = "category/{slug}",
-                            arguments = listOf(navArgument("slug") { type = NavType.StringType })
+                            arguments = listOf(
+                                navArgument("slug") {
+                                    type = NavType.StringType
+                                }
+                            )
                         ) { backStackEntry ->
-                            val slug = backStackEntry.arguments?.getString("slug") ?: "2-4"
+
+                            val slug =
+                                backStackEntry.arguments?.getString("slug")
+                                    ?: "2-4"
+
                             CategoriesScreen(
                                 categorySlug = slug,
                                 repository = repository,
-                                onVideoClick = { videoId -> navController.navigate("watch/$videoId") },
-                                onCategoryClick = { newSlug -> navController.navigate("category/$newSlug") }
+                                onVideoClick = { videoId ->
+                                    navController.navigate("watch/$videoId")
+                                },
+                                onCategoryClick = { newSlug ->
+                                    navController.navigate("category/$newSlug")
+                                }
                             )
                         }
 
                         composable("search") {
                             SearchScreen(
                                 repository = repository,
-                                onVideoClick = { videoId -> navController.navigate("watch/$videoId") }
+                                onVideoClick = { videoId ->
+                                    navController.navigate("watch/$videoId")
+                                }
                             )
                         }
 
                         composable("favorites") {
                             FavoritesScreen(
                                 repository = repository,
-                                onVideoClick = { videoId -> navController.navigate("watch/$videoId") }
+                                onVideoClick = { videoId ->
+                                    navController.navigate("watch/$videoId")
+                                }
                             )
                         }
 
                         composable("history") {
                             RecentlyWatchedScreen(
                                 repository = repository,
-                                onVideoClick = { videoId -> navController.navigate("watch/$videoId") }
+                                onVideoClick = { videoId ->
+                                    navController.navigate("watch/$videoId")
+                                }
                             )
                         }
 
                         composable("parents") {
                             ParentZoneScreen(
                                 billingManager = billingManager,
-                                onBackClick = { navController.popBackStack() }
+                                onBackClick = {
+                                    navController.popBackStack()
+                                }
                             )
                         }
 
                         composable(
                             route = "watch/{videoId}",
-                            arguments = listOf(navArgument("videoId") { type = NavType.StringType })
+                            arguments = listOf(
+                                navArgument("videoId") {
+                                    type = NavType.StringType
+                                }
+                            )
                         ) { backStackEntry ->
-                            val videoId = backStackEntry.arguments?.getString("videoId") ?: ""
+
+                            val videoId =
+                                backStackEntry.arguments?.getString("videoId")
+                                    ?: ""
+
                             VideoDetailsScreen(
                                 videoId = videoId,
                                 repository = repository,
-                                onVideoClick = { newVideoId -> navController.navigate("watch/$newVideoId") }
+                                onVideoClick = { newVideoId ->
+                                    navController.navigate("watch/$newVideoId")
+                                }
                             )
                         }
                     }
