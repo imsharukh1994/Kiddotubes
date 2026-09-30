@@ -1,0 +1,1537 @@
+3:I[575,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","106","static/chunks/106-47a5a1efa19d79a5.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-3af544ae5eabb728.js"],"AuthProvider"]
+4:I[1196,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","106","static/chunks/106-47a5a1efa19d79a5.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-3af544ae5eabb728.js"],"TimerProvider"]
+5:I[842,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","106","static/chunks/106-47a5a1efa19d79a5.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-3af544ae5eabb728.js"],"default"]
+6:I[4707,[],""]
+7:I[6423,[],""]
+8:I[8349,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","106","static/chunks/106-47a5a1efa19d79a5.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-3af544ae5eabb728.js"],"default"]
+9:I[6733,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","106","static/chunks/106-47a5a1efa19d79a5.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-3af544ae5eabb728.js"],"default"]
+a:I[3633,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","106","static/chunks/106-47a5a1efa19d79a5.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-3af544ae5eabb728.js"],"default"]
+b:I[833,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","106","static/chunks/106-47a5a1efa19d79a5.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-3af544ae5eabb728.js"],"default"]
+c:I[5050,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","106","static/chunks/106-47a5a1efa19d79a5.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-3af544ae5eabb728.js"],"default"]
+0:["y0cAsLvuXZ_zKYR9RIhIS",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/65022725ca4d158e.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_ed3508","children":["$","body",null,{"className":"bg-[#F8FAFC] text-slate-900 font-sans min-h-screen flex flex-col antialiased","children":["$","$L3",null,{"children":["$","$L4",null,{"children":[["$","$L5",null,{}],["$","main",null,{"className":"flex-1 max-w-[1440px] w-full mx-auto px-4 xs:px-5 sm:px-8 lg:px-12 py-4 sm:py-8","children":["$","$L6",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","$L8",null,{}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}]]}]}]}]}]],null],null],["$Ld",null]]]]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"KiddoTube — Modern Video Discovery for Kids"}],["$","meta","3",{"name":"description","content":"Discover videos, stories, music, and learning for every stage of childhood growth on KiddoTube."}],["$","meta","4",{"name":"keywords","content":"Kids Videos,KiddoTube,Educational Videos,Nursery Rhymes,Safe Content Discovery"}],["$","link","5",{"rel":"shortcut icon","href":"/images/favicon.png"}],["$","link","6",{"rel":"icon","href":"/images/favicon.png"}],["$","link","7",{"rel":"apple-touch-icon","href":"/images/favicon.png"}]]
+1:null
+e:I[16,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","931","static/chunks/app/page-a013d8a4c6f14a9f.js"],"default"]
+f:I[4515,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","931","static/chunks/app/page-a013d8a4c6f14a9f.js"],"default"]
+19:I[8649,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","931","static/chunks/app/page-a013d8a4c6f14a9f.js"],"default"]
+21:I[5693,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","931","static/chunks/app/page-a013d8a4c6f14a9f.js"],"default"]
+22:I[6532,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","931","static/chunks/app/page-a013d8a4c6f14a9f.js"],"default"]
+23:I[6793,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","931","static/chunks/app/page-a013d8a4c6f14a9f.js"],"default"]
+24:I[634,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","931","static/chunks/app/page-a013d8a4c6f14a9f.js"],"default"]
+33:I[4579,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","931","static/chunks/app/page-a013d8a4c6f14a9f.js"],"default"]
+38:I[3498,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","931","static/chunks/app/page-a013d8a4c6f14a9f.js"],"default"]
+10:T790,Hey Kids!
+Come and have fun with the vibrant rich color Crayons suitable for toddlers, preschool, kindergarten and early learners as they dance, laugh, sing and have a good time. Our animated videos will keep your toddlers creatively engaged and entertained for hours, spark their imagination, increase attention and observation skills.
+All our episodes have an educational core to them so that your little one can learn about good habits, opposites, vegetables,  months, letters, numbers and much more while the dancing swaying colorful Crayons ensure that learning has never been more fun! These delightful Crayons will add color to the canvas of your preschooler and boost cognition especially in children who love drawing and art.
+Subscribe and let the red, yellow, blue, violet or green Crayons bring a collection of songs and nursery rhymes for the tiny tots to enjoy, inculcate social responsibility, and show them how to deal with certain situations and people.
+
+
+Apples & Bananas Kids Game Learning App is now LIVE 🔴 on App Store! DOWNLOAD NOW - https://play.google.com/store/apps/details?id=com.uspdigital.applesbananas&pli=1
+Apples & Bananas Kids Game Learning App is now LIVE 🔴 on Play Store! DOWNLOAD NOW - https://apps.apple.com/in/app/apples-bananas-kids-app/id6738340192
+
+Apples and Bananas, the early learning app for toddlers and preschoolers, is here! Explore fun songs, interactive activities, educational videos, games, bedtime stories and more! 🎵
+
+
+Visit our website http://www.uspdigital.co/ for more  Children Nursery Rhymes & Kids Videos
+
+© 2024 USP Digital Private Limited
+============================================
+Music and Lyrics: Copyright USP Digital™
+Video: Copyright USP Digital™
+============================================
+
+Apples & Bananas App Download #viralshort #kidscartoon #babysong #ytshort #kidsapp #learning#crayons  #nurseryrhymes #babysongs #cartoon #kindergarten #singalong11:T92b,It’s the perfect day for rainbow popsicles, but what ingredients do we need? Sing along and help TomTom, Yoyo, and JJ make some while learning colors!
+Subscribe for new videos every week: https://www.youtube.com/c/cocomelon?sub_confirmation=1
+
+Lyrics:
+
+It’s time for rainbow popsicles
+Yummy yummy colorful popsicles
+It’s time for rainbow popsicles
+What color do we need?
+
+We need to find a fruit that is red
+We need to find a fruit that is red
+We need to find a fruit that is red
+Look!  Some strawberries!
+
+We need to find a fruit that is orange
+We need to find a fruit that is orange
+We need to find a fruit that is orange
+Look!  Some oranges!
+
+We need to find a fruit that is yellow 
+We need to find a fruit that is yellow
+We need to find a fruit that is yellow
+Look!  A pineapple!
+
+We need to find a fruit that is green 
+We need to find a fruit that is green
+We need to find a fruit that is green
+Look!  Some Kiwis!
+
+We need to find a fruit that is blue 
+We need to find a fruit that is blue
+We need to find a fruit that is blue
+Look!  Some blueberries!
+
+
+We need to find a fruit that is purple 
+We need to find a fruit that is purple
+We need to find a fruit that is purple
+Look!  Some grapes!
+
+I love rainbow popsicles
+Yummy yummy colorful popsicles
+I love rainbow popsicles
+Yummy yummy popsicles!
+
+About Cocomelon:
+
+Where kids can be happy and smart!
+
+At Cocomelon, our goal is to help make learning a fun and enjoyable experience for kids by creating beautiful 3D animation, educational lyrics, and toe-tapping music. 
+
+Kids will laugh, dance, sing, and play along with our videos, learning letters, numbers, animal sounds, colors, and much, much more while simply enjoying our friendly characters and fun stories.
+
+We also make life easier for parents who want to keep their kids happily entertained, giving you the peace of mind that your children are receiving quality educational content.  Our videos also give you an opportunity to teach and play with your children as you both watch!
+
+ALL NEW Melon Patch Episodes! 🍉
+https://www.youtube.com/playlist?list=PLG-JTGmBSVRl8-uwmN0GmKVDbMi97gP4O
+
+WEBSITE: http://www.Cocomelon.com
+FACEBOOK: https://www.facebook.com/Cocomelonkids
+INSTAGRAM: https://www.instagram.com/cocomelon/
+TWITTER: https://www.twitter.com/Cocomelonkids
+
+
+Copyright © Treasure Studio, Inc. All rights reserved.12:T6c1,🌈 Help us hit 100M! Subscribe now - https://www.youtube.com/ChuChuTV?sub_confirmation=1
+
+Check out the new Vegetable Dance Party song! - https://youtu.be/seCqGIm4QUg
+
+Get ready for a super fun dance party! "The Fruit Friends" are putting on a show where different types of fruit will come on stage and dance their hearts out to entertain the kids. You won't want to miss this!
+
+You can listen to this song on your preferred music streaming platforms. - https://orcd.co/fruitfriends
+
+ChuChu TV is now available on all major music streaming platforms. You can now listen to your favorite ChuChu TV songs anytime, anywhere.
+
+Listen on Spotify ► https://orcd.co/npnkjdp
+Listen on Apple Music ► https://music.lnk.to/NkiCKW
+Listen on Amazon Music ► https://music.amazon.com/albums/B0BZZJBFF7?ref=AM4APC_AL_P_en_US_B00LP2FTLC_L7KKQQr
+Listen on YouTube Music ► https://music.youtube.com/channel/UC7fk9tVVNRZAjhjps2O4Ygg?si=wAXe-rmmwVnILxyN
+
+Check out our popular playlists to keep your little ones engaged and learning non-stop!
+
+Click here for brand new songs with Baby Taku & Friends ► https://www.youtube.com/playlist?list=PLV-cxl3VSwWEYTEMUd3RSzrTZq2q1hVnW
+Click here for Baby songs compilations! ► https://www.youtube.com/playlist?list=PLV-cxl3VSwWEdz04xWv32x5G4XTBVOUfX
+Click here for Classic Nursery Rhymes! ► https://www.youtube.com/playlist?list=PLV-cxl3VSwWHa83pPHIealm1vg0Cdp3aZ
+
+ChuChu TV creates entertaining and educational videos for toddlers globally. Their lovable characters aid in developing cognitive skills, memory, recognition, and more. Click here to Subscribe to our channel - https://bit.ly/32NxN7y
+
+Copyright © ChuChu TV® Studios LLP. All Rights Reserved!
+
+#ChuChuTV #NurseryRhymes #BabySongs13:Tb6f,It's time to eat your yummy fruits! Sing along with JJ, Cody, Nina and Cody's dad and have fun eating your favorite fruits!
+
+Subscribe for new videos every week! https://www.youtube.com/c/CoComelon?sub_confirmation=1
+
+Lyrics: 
+Apples, apples, it’s time to eat your apples! 
+Yes, yes, yes. I want to eat the apples! 
+Good, good! Apples are good for you! 
+Yay, yay, yay. We love them, oooh! 
+See, see, Dino likes them too. One, two, three, he ate them up you see. 
+Ha, ha, ha. The apples are all gone now. Yum, yum, yum. We like them, wow. 
+
+Grapes, grapes, it’s time to eat your grapes! 
+Yes, yes, yes. I want to eat the grapes! 
+Good, good! Grapes are good for you! 
+Yay, yay, yay. We love them, oooh!
+See, see, Teddy likes them too. One, two, three, he ate them up you see. 
+Ha, ha, ha.The grapes are all gone now. Yum, yum, yum. We like them, wow.
+
+Bananas, bananas, it’s time to eat bananas! 
+Yes, yes, yes. I want to eat bananas! 
+Good, good! Bananas are good for you! 
+Yay, yay, yay. We love them, oooh! 
+See, see, Bunny likes them too. One, two, three, she ate them up you see. 
+Ha, ha, ha. The bananas are all gone now. Yum, yum, yum. We like them, wow. 
+
+Orange, orange, it’s time to eat  your orange! 
+Yes, yes, yes. I want to eat the orange! 
+Good, good! The orange is good for you! 
+Yay, yay, yay. I love it, oooh!
+See, see, Dino likes fruit too. One, two, three, he ate it up you see. 
+Ha, ha, ha. The orange is all gone now.Yum, yum, yum. I like it, wow! 
+
+Music available on all major streaming platforms now:
+🍉 https://cocomelon.lnk.to/TheCompleteCollectionYT!DSC
+🍉 Sign up for the CoCoClub newsletter to access exclusive content, giveaways, and more! https://lnk.to/CCMNews
+
+Watch our playlists: 
+New Kids Songs by CoComelon
+https://www.youtube.com/playlist?list=PLT1rvk7Trkw6-eCetnOs60kLGdmcHhyj0
+
+ALL NEW CoComelon Animal Episodes! 🤩
+https://www.youtube.com/playlist?list=PLb8WrhcvGhOjFm2xrfaUZq3ytKuWQL5wE
+
+ALL NEW CoComelon Classroom Episodes!
+https://www.youtube.com/playlist?list=PLG-JTGmBSVRljCOwbfEgPQlQoWIpvXWpG
+
+Website ► https://cocomelon.com/ 
+Facebook ►https://www.facebook.com/CoComelonKids 
+Instagram ►https://www.instagram.com/cocomelon/ 
+TikTok ► https://www.tiktok.com/@cocomelon?lang=en
+Music Services ►https://lnk.to/CoCoCCYTBYT
+iOS Learning App ► https://apps.apple.com/us/app/cocomelon-kids-learn-play/id6498924680
+Android Learning App ► https://play.google.com/store/apps/details?id=com.moonbug.ccml
+
+About CoComelon:
+
+Where kids can be happy and smart!
+
+CoComelon’s 3D animation and songs create a world that centers on the everyday experiences of young children. 
+In addition to helping preschoolers learn letters, numbers, animal sounds, colors, and more, the videos impart prosocial life lessons, providing parents with an opportunity to teach and play with their children as they watch together.
+
+Copyright Treasure Studio, Inc.  All Rights Reserved.14:Ta42,Ready to sing? 🎤 Join JJ for Yes Yes Playground fun and Finger Family hugs! Let’s play, slide, and sing together! 🛝✨
+
+Subscribe for new videos every week!
+https://www.youtube.com/c/CoComelon?sub_confirmation=1
+
+One, two, three, four, five,
+Finger family!
+
+Daddy finger, daddy finger, where are you?
+Here I am, here I am, how do you do?
+Daddy finger, daddy finger, what do you do?
+Play guitar, play guitar, that’s what I do.
+
+Mommy finger, mommy finger, where are you?
+Here I am, here I am, how do you do?
+Mommy finger, mommy finger, what do you do?
+Exercise, exercise, that’s what I do.
+
+Brother finger, brother finger, where are you?
+Here I am, here I am, how do you do?
+Brother finger, brother finger, what do you do?
+Building things, building things, that’s what I do.
+
+Sister finger, sister finger, where are you?
+Here I am, here I am, how do you do?
+Sister finger, sister finger, what do you do?
+Draw and paint, draw and paint, that’s what I do.
+
+Baby finger, baby finger, where are you?
+Here I am, here I am, how do you do?
+Baby finger, baby finger, what do you do?
+Play with friends, play with friends, that’s what I do. 
+     
+Music available on all major streaming platforms now:
+🍉 https://cocomelon.lnk.to/TheCompleteCollectionYT!DSC
+🍉 Sign up for the CoCoClub newsletter to access exclusive content, giveaways, and more! https://lnk.to/CCMNews
+
+Watch our playlists: 
+New Kids Songs by CoComelon
+https://www.youtube.com/playlist?list=PLT1rvk7Trkw6-eCetnOs60kLGdmcHhyj0
+
+ALL NEW CoComelon Animal Episodes! 🤩
+https://www.youtube.com/playlist?list=PLb8WrhcvGhOjFm2xrfaUZq3ytKuWQL5wE
+
+ALL NEW Melon Patch Episodes! 🍉
+https://www.youtube.com/playlist?list=PLG-JTGmBSVRl8-uwmN0GmKVDbMi97gP4O
+
+Website ► https://cocomelon.com/ 
+Facebook ►https://www.facebook.com/CoComelonKids 
+Instagram ►https://www.instagram.com/cocomelon/ 
+TikTok ► https://www.tiktok.com/@cocomelon?lang=en
+Music Services ►https://lnk.to/CoCoCCYTBYT
+iOS Learning App ► https://apps.apple.com/us/app/cocomelon-kids-learn-play/id6498924680
+Android Learning App ► https://play.google.com/store/apps/details?id=com.moonbug.ccml
+
+About CoComelon:
+
+Where kids can be happy and smart!
+
+CoComelon’s 3D animation and songs create a world that centers on the everyday experiences of young children. 
+In addition to helping preschoolers learn letters, numbers, animal sounds, colors, and more, the videos impart prosocial life lessons, providing parents with an opportunity to teach and play with their children as they watch together.
+
+© Moonbug Entertainment. All rights Reserved.15:T56e,Genevieve's Playhouse toys are now available at Target, Walmart, and on Amazon! Find them here:
+🎯 Target: https://www.target.com/b/genevieve-s-playhouse/-/N-q643lep2c
+🛒 Walmart: https://www.walmart.com/brand/genevievesplayhouse/genevieves-playhouse/20040888?selectedSellerId=0
+📦 Amazon: https://www.amazon.com/stores/page/14B18C57-B58B-4B5E-BD3D-35C3BE857431?ingress=2&lp_context_asin=B0G27V1YJT&lp_context_query=genevieve%27s%20playhouse%20toys&visitId=c731c54a-fd61-49aa-adb3-d8a02ab5e369&ref_=ast_bln
+Genevieve Toys!
+Shop at Walmart now!
+Link: https://www.walmart.com/brand/genevievesplayhouse/genevieves-playhouse/20040888?selectedSellerId=0
+
+Best Learning Video for Toddlers Learn Colors with Crayon Surprises! In this preschool learning video for kids, teach kids colors, common words, and simple sentences with this educational video for toddlers and babies. We'll open each of our rainbow colored crayons to find three toy surprises in each one. This toy learning video for toddlers is a great, colorful way to teach kids simple words, concepts, and to recognize colors!
+
+Get Toys featured on our Channel!
+https://www.genevievesplayhouse.com/featured-toys
+
+
+You can buy some of the great toys featured in our videos here:
+https://www.genevievesplayhouse.com/shop-toys
+
+
+Subscribe to Genevieve's Playhouse Here:
+https://www.youtube.com/GenevievesPlayhouse?sub_confirmation=116:T519,Numbers Song Global English Version - https://bit.ly/2O6z410
+
+Check out our popular playlists to keep your little ones engaged and learning non-stop!
+
+Click here for brand new songs with Baby Taku & Friends ► https://www.youtube.com/playlist?list=PLV-cxl3VSwWEYTEMUd3RSzrTZq2q1hVnW
+Click here for Baby songs compilations! ► https://www.youtube.com/playlist?list=PLV-cxl3VSwWEdz04xWv32x5G4XTBVOUfX
+Click here for Classic Nursery Rhymes! ► https://www.youtube.com/playlist?list=PLV-cxl3VSwWHa83pPHIealm1vg0Cdp3aZ
+
+ChuChu TV is now available on all major music streaming platforms. You can now listen to your favorite ChuChu TV songs anytime, anywhere.
+
+Listen on Spotify ► https://orcd.co/npnkjdp
+Listen on Apple Music ► https://music.lnk.to/NkiCKW
+Listen on Amazon Music ► https://music.amazon.com/albums/B0BZZJBFF7?ref=AM4APC_AL_P_en_US_B00LP2FTLC_L7KKQQr
+Listen on YouTube Music ► https://music.youtube.com/channel/UC7fk9tVVNRZAjhjps2O4Ygg?si=wAXe-rmmwVnILxyN
+
+ChuChu TV creates entertaining and educational videos for toddlers globally. Their lovable characters aid in developing cognitive skills, memory, recognition, and more. Click here to Subscribe to our channel - https://bit.ly/32NxN7y
+
+Copyright © ChuChu TV® Studios LLP. All Rights Reserved!
+
+#ChuChuTV #NurseryRhymes #BabySongs17:Tc1b,Rain, rain, don't go away, we want to play! JJ discovers that wearing his magic rain boots makes him brave enough to handle any obstacle without crying. After learning to stay positive, join JJ and Mom as they practice getting dressed for wet weather. You always need your jacket, hat, and boots before jumping in puddles!
+
+#cocomelon #rainboots #rainyday #gettingdressed #toddlerconfidence #nurseryrhymes #kidssongs
+
+Subscribe for new videos every week!
+https://www.youtube.com/c/CoComelon?sub_confirmation=1
+
+Music available on all major streaming platforms now:
+🍉 https://cocomelon.lnk.to/TheCompleteCollectionYT!DSC
+
+Lyrics 🍉
+
+Boots, boots, I love my boots,
+Boots, boots, I love my boots,
+Boots, boots, I love my boots,
+I love my favorite rain boots!
+
+Skip by the puddles in my boots,
+Skip by the puddles in my boots,
+Skip by the puddles in my boots,
+Skip in my favorite rain boots!
+
+Boots, boots, I love my boots,
+Boots, boots, I love my boots,
+Boots, boots, I love my boots,
+I love my favorite rain boots!
+
+Play on the playground in my boots,
+Play on the playground in my boots,
+Play on the playground in my boots,
+Play in my favorite rain boots!
+
+Boots, boots, I love my boots,
+Boots, boots, I love my boots,
+Boots, boots, I love my boots,
+I love my favorite rain boots!
+
+Hop on some lily pads in my boots,
+Hop on some lily pads in my boots,
+Hop on some lily pads in my boots,
+Hop in my favorite rain boots!
+
+Boots, boots, I love my boots,
+Boots, boots, I love my boots,
+Boots, boots, I love my boots,
+I love my favorite rain boots!
+
+Splash in the puddle in my boots,
+Splash in the puddle in my boots,
+Splash in the puddle in my boots,
+Splash in my favorite rain boots!
+
+Boots, boots, I love my boots,
+Boots, boots, I love my boots,
+Boots, boots, I love my boots,
+I love my favorite rain boots!
+
+Watch our playlists: 
+New Kids Songs by CoComelon
+https://www.youtube.com/playlist?list=PLT1rvk7Trkw6-eCetnOs60kLGdmcHhyj0
+
+ALL NEW CoComelon Animal Episodes! 🤩
+https://www.youtube.com/playlist?list=PLb8WrhcvGhOjFm2xrfaUZq3ytKuWQL5wE
+
+ALL NEW Melon Patch Episodes! 🍉
+https://www.youtube.com/playlist?list=PLG-JTGmBSVRl8-uwmN0GmKVDbMi97gP4O
+
+Website ► https://cocomelon.com/ 
+Facebook ►https://www.facebook.com/CoComelonKids 
+Instagram ►https://www.instagram.com/cocomelon/ 
+TikTok ► https://www.tiktok.com/@cocomelon?lang=en
+Music Services ►https://lnk.to/CoCoCCYTBYT
+iOS Learning App ► https://apps.apple.com/us/app/cocomelon-kids-learn-play/id6498924680
+Android Learning App ► https://play.google.com/store/apps/details?id=com.moonbug.ccml
+
+About CoComelon:
+
+Where kids can be happy and smart!
+
+CoComelon’s 3D animation and songs create a world that centers on the everyday experiences of young children. 
+In addition to helping preschoolers learn letters, numbers, animal sounds, colors, and more, the videos impart prosocial life lessons, providing parents with an opportunity to teach and play with their children as they watch together.
+
+© Moonbug Entertainment. All rights Reserved.18:Ta52,Yes! Neo Official Facebook: https://www.facebook.com/yesneoofficial
+How do you plant a cabbage?
+
+Lyrics:
+How do you plant a cabbage?
+Tell me how, tell me how.
+How do you plant a cabbage?
+Can you come and show me now?
+
+We can plant it with our feet
+Like we do, like we do
+We can plant it with our feet
+Just like we do, you can too!
+I can plant it with my feet
+Like you do, like you do
+I can plant it with my feet
+Just like you do, I can too!
+
+MagicKid is a magical, family-friendly TV channel. Give it a try! https://magickid.tv/en/VideoPlay/CZMQH1
+
+Enjoy watching BabyBus songs and cartoons! 💕 👶 💕
+1. Yes! Neo | Nursery Rhymes & Kids Songs | Imagine!: https://www.youtube.com/playlist?list=PLPA49Pz3BAxMzc-8pwBRztAIG1rxgdyuV
+2. Sheriff Labrador - Kids Cartoon | Safety Cartoon for Kids: https://www.youtube.com/playlist?list=PLPA49Pz3BAxMQZcPY3tAF9ODTxlJIawOv
+3. BabyBus | Monster Trucks | Vroom Vroom Zone🛞| Car Songs | Cars for Kids | Kids Song: https://www.youtube.com/playlist?list=PLPA49Pz3BAxNzQfqtFEoXpIqo9EPfCez7
+4. BabyBus | Food Song | Cooking Pretend Play | Learn Numbers, Learn Colors,  Ice Cream, Colors Song | Kids Song: https://www.youtube.com/playlist?list=PLPA49Pz3BAxNHYb9Iiv8Mbk6OKwCTCxnD
+
+BabyBus has released four best albums for kids! Best Car Songs, Best Food Songs, Super Rescue Team, and Classics for Kids! 
+All the music is available on Spotify, Apple Music, and more!
+（🎵） Spotify: https://spoti.fi/3wRHZsr
+（🍎）Apple Music:  https://apple.co/3wT2jtp 
+
+#kidssong #nurseryrhymes #cartoon #kidscartoon #babybus #babycartoon #cartoonforkids #toddlers #forkids #kidsvideos #childrensongs #babysongs #kidssong #songsforkids  #singalong
+—————BabyBus—————
+At BabyBus, our goal is to make learning a fun and imaginative experience for kids aged 2 - 6 by creating classic nursery rhymes, kid songs, and stories with 2D & 3D animations. 
+
+In the BabyBus world, KiKi, Miumiu, and their friends inspire kids to experience true friendship, care, creativity, and imagination in a fun and smart way. Through our songs and animations, kids around the world can learn about colors, letters, life skills, good habits, safety tips, and more in a fun and educational way.
+
+In the eyes of Kiki and Miumiu, all things are alive: you can talk to animals, you can make friends with vehicles... All the activities can be enjoyed, you can experience different occupations, you can go everywhere... All the unknowns are interesting: what will be in space? Are there aliens on earth?... Join Kiki and Miumiu for the exploration of this world together!
+
+Copyright ©BABYBUS CO.Ltd All Rights Reserved.1a:T4eb,Lyrics: Choo-choo, here comes the sleepy train,
+Rolling through the night, like a soft refrain.
+Through the meadows, under moonlit skies,
+We’ll take a gentle ride, where dreams arise.
+
+All aboard the sleepy train,
+To Dreamland, where we’ll stay.
+Pick up friends along the way,
+And drift to sleep today.
+
+First we see a yawning bunny,
+Fluffy tail, so soft and sunny.
+“Hop aboard,” the train conductor calls,
+As stars shine bright on Dreamland’s walls.
+
+All aboard the sleepy train,
+To Dreamland, where we’ll stay.
+Pick up friends along the way,
+And drift to sleep today.
+
+Next we find a dozing bear,
+Snuggled in his rocking chair.
+“Come with us,” the train whispers low,
+Through the river’s gentle flow.
+
+All aboard the sleepy train,
+To Dreamland, where we’ll stay.
+Pick up friends along the way,
+And drift to sleep today.
+
+Through a tunnel, soft and deep,
+Where the stars and moonlight creep.
+Every friend is tucked in tight,
+As the train rolls through the night.
+
+All aboard the sleepy train,
+To Dreamland, where we’ll stay.
+Pick up friends along the way,
+And drift to sleep today.
+
+Choo-choo, the sleepy train slows down,
+In Dreamland’s town, where dreams are found.
+
+Copyright BabyTV Nursery Rhymes & Kids Songs. All Rights Reserved1b:T546,🌙✨ Tonight, the nursery glows with magic.
+
+In this enchanting reimagining of the timeless Hush Little Baby lullaby, Mama gently comforts her little one while glowing birds, twinkling stars, moonlit lanterns, magical toys, and dreamy bedtime wonders fill the room with warmth and love. This heartwarming version transforms the beloved classic into a magical nursery adventure guided by a mother's gentle love. 🧸⭐💜
+
+Each magical moment invites little dreamers into a world of wonder, comfort, and peaceful sleep. 😴
+
+May the soft glow of the nursery, the warmth of Mama's embrace, and the magic of bedtime carry your little one into a peaceful night of sweet dreams. 💛
+
+Perfect for:
+✨ Bedtime routines
+✨ Baby sleep music
+✨ Toddler nap time
+✨ Nursery background music
+✨ Quiet family moments
+✨ Relaxing sleep playlists
+
+If this lullaby brings sweet dreams to your little one, please subscribe, and join us for more gentle bedtime adventures every week.
+
+🌙 New videos every week!
+
+❤️ Kidz Wonder TV Show Lullaby Playlist:
+https://www.youtube.com/playlist?list=PLijinPU0aLOs3uBhOxD3WECT-Jeq3M9Fc
+
+#lullaby #hushlittlebaby #bedtimesong #babysleepmusic #babylullaby #toddlersleep #sleepmusic #bedtimemusic #calmingmusic #nurseryrhymes #kidssongs #sleepytime #moonlightlullaby #babybedtime #relaxingmusic #kidzwondertvshow1c:T43f,"Rockabye Baby Lullaby" by Leigha Marina is a soft and relaxing lullaby song that is perfect for putting babies to sleep. This song has a soothing melody that is easy to listen to, and the lyrics are calming and gentle on the newborn's ears. This video is perfect for bedtime or when you want your baby to relax. The delicate and soft music and the slow animation will help your little one drift off to dreamland faster.
+
+The lullaby has gentle animation and a lulling melody, making it ideal for a child's bedtime or naptime. The tranquil lullaby is suitable for young children, newborns, infants, toddlers, preschoolers, or anyone looking for calm music to help them fall asleep faster and remain asleep longer. The soft and restful lullaby will lull you or your child into a serene sleep so you can wake refreshed and ready to take on the day and another adventure.
+
+Find us on: 
+https://LeighaMarina.com
+
+Copyright © all rights reserved MENICANIN DESIGN LLC and LEIGHA MARINA brand. 
+
+#rockabyebaby #rockabye #sleepmusic #lullaby #nurseryrhymes #leighamarina 
+
+http://vevo.ly/n3WDKM1d:T6a9,आजा निंदिया रानी आजा | Aaja Nindiya Rani Aaja | Baby Sleep Song | Nursery Rhymes | Kids Lullabies
+
+A sweet rhyme to put your baby to sleep... Aaja Nindiya Rani Aaja
+
+#aayurhymes  #rhymes #humptytrain 
+__________________________________________________________
+For Subscribe - https://bit.ly/3AsLYiD
+__________________________________________________________
+
+🌈 If you enjoyed this collection, you may also like these Hindi compilations:
+https://www.youtube.com/watch?v=1hOBaVt5lS8&t=12s
+https://www.youtube.com/watch?v=CNrRoElWey0
+https://www.youtube.com/watch?v=sRZR2AEKxsc
+https://www.youtube.com/watch?v=DR6b9YzS5O4&t=3s
+https://www.youtube.com/watch?v=oYQ3DMEmyfg
+https://www.youtube.com/watch?v=8c4E9J8vB9U
+https://youtu.be/sZgZVSEhSBY
+https://youtu.be/A8EhrGNhVvM
+https://youtu.be/a18P_l0t4LE
+https://youtu.be/P0ijrNKsQ7w
+https://youtu.be/3-RyJbOQyOo
+https://youtu.be/LfhDfNl9d5Q
+https://youtu.be/bkNkdDjfFck
+https://youtu.be/02YLTpDn3uA
+https://youtu.be/62p3Ip1GHWc
+https://youtu.be/tryh5Z9A7io
+https://youtu.be/TEDuq4eDTLA
+https://youtu.be/HmP3L-P_1qI
+https://youtu.be/CiaCycDew60
+https://youtu.be/fVDX27UtkOM
+https://youtu.be/GfhzrJ0Fw8U
+https://youtu.be/SSUDe7uAvUI
+https://youtu.be/1oBhvtC8_B8
+https://youtu.be/jbKSlMMwvwA
+https://youtu.be/kJQzaTSuDbk
+https://youtu.be/29rqbSfpcsc
+https://youtu.be/9l6eUAH3Il0
+https://youtu.be/jErcEnxPY1Q
+https://youtu.be/BditpTMfRbk
+https://youtu.be/YU1MlQfEJfc
+https://youtu.be/-qD45kaCSKg
+https://youtu.be/LlKKxfbFx1E
+https://youtu.be/3OD58qKO4K8
+https://youtu.be/Ryn9N7iUxRI
+https://youtu.be/COJEVbntNGM
+https://youtu.be/UVJIeBtXKzk
+https://youtu.be/XaJwu5orK58
+https://youtu.be/WQ43u50bRzk
+https://youtu.be/mqv4VYPSqTE1e:Tae9,Three stars come to life at night and invite the little ones to play. But the noise wakes up the parents, and everyone quickly hides back in their beds.
+                                         🌟Twinkle Twinkle Little Star Lyrics:🌟
+Verse 1
+Twinkle, twinkle Yellow star
+How I wonder what you are.
+Up above the world so high,
+Like a diamond in the sky.
+Twinkle, twinkle Yellow star
+How I wonder what you are!
+Verse 2
+Twinkle, twinkle Blue star
+How I wonder what you are.
+Up above the world so high,
+Like a diamond in the sky.
+Twinkle, twinkle Blue star
+How I wonder what you are!
+Verse 3
+Twinkle, twinkle Red star,
+How I wonder what you are.
+Up above the world so high,
+Like a diamond in the sky.
+Twinkle, twinkle Red star,
+How I wonder what you are!
+Verse 4
+Twinkle, twinkle Funny stars,
+How I wonder what you are.
+Up above the world so high,
+Like a diamond in the sky.
+Twinkle, twinkle Funny stars,
+How I wonder what you are!
+🎶 Almama Nursery Rhymes – The Best Way to Learn and Play! 🌟
+Looking for fun, educational, and engaging content for your little one? Almama Nursery Rhymes brings the joy of learning to life with vibrant 3D animations and catchy tunes. Our nursery rhymes teach your child important concepts such as counting, animal names, colors, and so much more—all while they sing, dance, and play along! 🐻🎵
+
+👶 Perfect for children aged 1-4, Almama Nursery Rhymes is designed to keep toddlers entertained and educated through music, colorful characters, and interactive songs. From learning numbers to exploring animals, each video offers something new and exciting!
+
+✨ What makes Almama unique?
+
+3D animation that’s engaging and visually stimulating.
+Educational songs that focus on key learning concepts.
+Fresh new videos are uploaded every week for endless fun!
+Jump into our magical song adventures:
+Baa Baa Black Sheep 🐑  https://www.youtube.com/watch?v=A88nV0eL6vg
+Finger Family Farm Song   https://www.youtube.com/watch?v=bwHSmOU2VQo
+Johny Johny Yes Papa!      https://www.youtube.com/watch?v=ssAFYbrzelw
+Rain Rain Go Away Song     https://www.youtube.com/watch?v=Ned3XRrfY88
+Good Manners Song (Farm Version)   https://www.youtube.com/watch?v=swVRu_XQALo
+Finger Family Baby  https://www.youtube.com/watch?v=sH8eRJ9Rofk
+Hickory Dickory Dock Hamster Puzzle Game! 🐹  https://www.youtube.com/watch?v=tcEkGN386Ho
+
+🔔 Subscribe now to stay updated with new releases every week and give your child the gift of fun learning with Almama Nursery Rhymes. Don't forget to hit the bell so you never miss a new adventure!
+https://www.youtube.com/@almama-nursery-rhymes/videos
+
+#Almama #nurseryrhymes #babysongs #kidssongs #forkids #forbaby #baby #babysong #kidsong #AlmamaKidsSongs #AlmamaNurseryRhymes #almamanurseryrhymes #goodmanners #wheelsonthebus1f:T64a,By supporting me, you will receive a heartfelt, timeless gift that will stay in your heart forever. 💛🎁
+👉 https://rhymesreflections.gumroad.com 
+
+The music and visuals in this video are completely original, created by me. All rights to this content are owned by me. This content is unique and crafted to provide a creative and original experience for my audience. 
+
+💜 Lavender’s Blue is a timeless and soothing nursery rhyme that has lulled children to sleep for generations. This classic lullaby, with its gentle melody and calming rhythm, is perfect for creating a peaceful bedtime routine. 🌙✨
+
+Let your little one relax with this soft and tranquil version of "Lavender’s Blue," designed to bring comfort, warmth, and deep sleep to babies and toddlers. A perfect addition to your child's nighttime routine! 💖👶
+
+🔹 Why Parents Love This Lullaby:
+✔️ Helps babies and toddlers sleep faster 💤
+✔️ Creates a relaxing and comforting sleep atmosphere 🌟
+✔️ Soothes fussy newborns and restless sleepers 🌜
+✔️ Strengthens the bedtime bond between parent and child 🤗
+
+🎵 More Sleepy-Time Lullabies from Rhymes & Reflections:
+🔹 https://www.youtube.com/watch?v=Bcb8s_xFItk
+🔹 https://www.youtube.com/watch?v=rWeGl9JB7_k
+🔹 https://www.youtube.com/watch?v=viXZsHQLjVo
+
+🌜 Make bedtime magical with soft and soothing lullabies from Rhymes & Reflections! Subscribe for more sleep-inducing music. 🎶💖
+
+#LavendersBlue #Lullaby #BabySleepMusic #SoothingMusic #ClassicLullabies #RhymesAndReflections #NewbornSleep #BedtimeRoutine #CalmBaby #GentleSleepSounds20:T9d7,Children can enjoy this compilation of classic nursery rhymes from The Good and the Beautiful without interruption. After listening to this collection of favorite nursery rhymes, visit our blog for printable lyrics and fun activities for kids and read about the story behind each song.
+
+Visit the Good and Beautiful Blog: https://www.goodandbeautiful.com/blogs/inspiration/good-and-beautiful-songs/#nursery-rhymns
+
+Baa, Baa, Black Sheep: https://www.youtube.com/watch?v=BS_3U_tr_Hw&pp=0gcJCa0JAYcqIYzv
+Mary Had a Little Lamb: https://www.youtube.com/watch?v=pyT5HnMt4Kg
+Old MacDonald Had a Farm: https://www.youtube.com/watch?v=B4HT-epc7yo
+Itsy Bitsy Spider: https://www.youtube.com/watch?v=qpVyL4Y_lUE
+Little Bo-Peep: https://www.youtube.com/watch?v=vNFCFmPSVVY
+The Farmer in the Dell: https://www.youtube.com/watch?v=JojgVRaJ91A
+Row, Row, Row Your Boat: https://www.youtube.com/watch?v=N4jJ9UsAv5c
+
+________________________________________________
+🎬 OTHER POPULAR VIDEOS:
+The Story of Mary Had a Little Lamb: https://www.youtube.com/watch?v=-AiG45S16Qk&t=3s
+Happy Birthday: https://www.youtube.com/watch?v=HwTg7KHuRQQ
+Take Me Out to the Ball Game: https://www.youtube.com/watch?v=OHJa8i_T0Sw
+
+✨ HELPFUL RESOURCES:
+The Good and the Beautiful Book List: https://goodandbeautifulbooklist.com
+The Good and the Beautiful Bookshop: https://www.goodandbeautiful.com/pages/bookshop
+The Good and the Beautiful Blog: https://www.goodandbeautiful.com/pages/blogs
+
+🔔 VISIT AND SUBSCRIBE FOR MORE VIDEOS:
+The Good and the Beautiful Channel: https://www.youtube.com/@TheGoodandtheBeautiful
+The Good and the Beautiful Kids Channel: https://www.youtube.com/@TheGoodandtheBeautifulKids  
+The Good and the Beautiful Science Channel: https://www.youtube.com/@TheGoodandtheBeautifulScience    
+
+📚 THE GOOD AND THE BEAUTIFUL CURRICULUM:
+Science: https://www.goodandbeautiful.com/collections/science-health
+Language Arts: https://www.goodandbeautiful.com/collections/language-arts
+Math: https://www.goodandbeautiful.com/collections/math
+Handwriting: https://www.goodandbeautiful.com/collections/handwriting
+History: https://www.goodandbeautiful.com/collections/history
+High School: https://www.goodandbeautiful.com/pages/choose-high-school
+Electives: https://www.goodandbeautiful.com/collections/electives
+
+#thegoodandthebeautiful #tgtb #goodandbeautiful #homeschool #homeschoolcurriculum #christianhomeschool #NurseryRhymes #NurseryRhymesForKids #NurseryRhymesSongs #NurseryRhymesCompilation #NurseryRhymesCompilationWithLyrics25:T77c,Ocean Animals for Kids is a video designed to help students understand how important all of our oceans are.  There is an abundance of life that goes on under the water and its important for everyone! From animals like sharks and turtles, to plants like Seaweed and Kelp every living thing in our ocean plays an important role for all of us. When finished with this video, head over to our website and download our free Ocean Animals lesson plan that will provide even more content, activities, worksheets and more all designed to help students learn about our oceans and what lives within them.
+
+You can download that lesson plan here: https://learnbright.org/lessons/science/what-lives-in-the-ocean/
+
+Check out some of our other videos related to ocean animals here: 
+Oceans: https://youtu.be/1WZsxVDTqcU
+Sharks: https://youtu.be/kl9qJMpoYqs
+Coral Reefs: https://youtu.be/8d0MgxoECq8
+All about Fish: https://youtu.be/TwVAMry3SQ0
+
+Thank you for watching and learning with us! We’re constantly releasing new content and videos, so click that “Subscribe” button and you’ll get notified.
+
+Find and Follow Us Online: 
+Facebook: https://www.facebook.com/LearnBright/ 
+Instagram: https://instagram.com/LearnBrightEducation
+Pinterest: https://pinterest.com/LearnBrightEducation 
+YouTube: https://www.youtube.com/LearnBright 
+Website: https://learnbright.org/
+
+*Teachers and Parents! Did you know? In addition to these great videos, we have also created a library of high quality and engaging lessons for your elementary aged student(s). Visit us, sign up for a free account, and instantly you'll have access to thousands of lesson plans, learning materials, teaching instructions, activities, and assignments that your kids will really enjoy! We hope to see you soon! 
+
+Browse our entire collection of Science lesson plans: https://learnbright.org/lessons/?filter_subject=science
+
+#OceanAnimalsForKids
+#OceanAnimals26:T1106,Teachers and parents: scroll down to check out the Next Generation Science Standards (NGSS) for this episode!
+
+Squeaks is so excited to learn all about ancient sea monsters, like the plesiosaurs and mosasaurs! We'll also take a look at a fish wearing armor and the biggest shark to ever live - Megalodon! 
+
+First Grade Next Generation Science Standards
+
+Disciplinary Core Idea:
+
+LS1.A: Structure and Function - All organisms have external parts. Different animals use their body parts in different ways to see, hear, grasp objects, protect themselves, move from place to place, and seek, find, and take in food, water and air (1-LS1-1).
+
+Performance Expectation:
+
+1-LS1-1. Use materials to design a solution to a human problem by mimicking how plants and/or animals use their external parts to help them survive, grow, and meet their needs.
+
+Second Grade Next Generation Science Standards
+
+Disciplinary Core Idea:
+
+LS4.D: Biodiversity and Humans - There are many different kinds of living things in any area, and they exist in different places on land and in water (2-LS4-1).
+
+Performance Expectation:
+
+2-LS4-1. Make observations of plants and animals to compare the diversity of life in different habitats.
+
+Third Grade Next Generation Science Standards
+
+Disciplinary Core Idea:
+
+LS4.A: Evidence of Common Ancestry and Diversity - Some kinds of plants and animals that once lived on Earth are no longer found anywhere (3-LS4-1). Fossils provide evidence about the types of organisms that lived long ago and also about the nature of their environments (3-LS4-1).
+
+Performance Expectation:
+
+3-LS4-1 Analyze and interpret data from fossils to provide evidence of the organisms and the environments in which they lived long ago.
+
+----------
+Love SciShow Kids and want to help support it? Become a Patron on Patreon: 
+https://www.patreon.com/scishowkids
+
+If you have a question for Jessi, Squeaks, and Mister Brown you can write to them here: https://forms.gle/SENBjH9szoLGfrRC9
+----------
+Looking for SciShow elsewhere on the internet?
+Facebook: http://www.facebook.com/scishowkids
+Twitter: http://www.twitter.com/scishowkids
+----------
+From the team behind the YouTube series SciShow comes SciShow Kids!
+
+Join Jessi, Mister Brown, Squeaks the Robot Lab Rat, and all their friends at the Fort as they conduct experiments, research new questions, and talk with experts to learn about the science-filled world around us. 
+
+There's always something new to discover with SciShow Kids, no matter what your age!
+
+SciShow Kids is ideal for early-elementary learners, Grades 1-3, and many episodes are structured around the Next Generation Science Standards (NGSS) curriculum. 
+----------
+
+SOURCES:
+https://www.britannica.com/animal/plesiosaur
+https://www.nps.gov/articles/000/mosasaur.htm
+https://www.nps.gov/articles/mosasaur-jaw.htm
+https://ohiodnr.gov/discover-and-learn/safety-conservation/about-odnr/geologic-survey/rocks-fossils-identification/dunkleosteus-fossil
+https://ucmp.berkeley.edu/vertebrates/basalfish/placodermi.html
+https://www.nhm.ac.uk/discover/megalodon--the-truth-about-the-largest-shark-that-ever-lived.html
+https://www.nhm.ac.uk/discover/shark-evolution-a-450-million-year-timeline.html
+
+Images:
+https://commons.wikimedia.org/wiki/File:Elasmosaur_skeleton.jpg
+https://commons.wikimedia.org/wiki/File:Elasmosaurus2.jpg
+https://commons.wikimedia.org/wiki/File:Bruce_in_Canadian_Fossil_Discovery_Centre_Morden_Manitoba_Canada.JPG
+https://commons.wikimedia.org/wiki/File:Tylosaurus_pembinensis_1DB_flipped.jpg
+https://commons.wikimedia.org/wiki/File:Dunkleosteus_(15677042802).jpg
+https://commons.wikimedia.org/wiki/File:Dunkleosteus_BW.jpg
+https://commons.wikimedia.org/wiki/File:Model_of_Dunkleosteus_terrelli_(fossil_placoderm)_(Late_Devonian;_Cleveland,_Ohio,_USA)_1_(34189080296).jpg
+https://commons.wikimedia.org/wiki/File:Megalodon_jaws_on_display_at_the_National_Baltimore_Aquarium.jpg
+https://commons.wikimedia.org/wiki/File:Rekonstruktion_Carcharocles_megalodon_W._Kraus.jpg
+https://commons.wikimedia.org/wiki/File:Megalodon_tooth_with_great_white_sharks_teeth.jpg
+https://commons.wikimedia.org/wiki/File:Carcharodon_megalodon_(fossil_shark_tooth)_(Miocene;_Lee_Creek_Phosphate_Mine,_Aurora,_North_Carolina,_USA)_(17386043845).jpg
+
+#seamonster #fossil #megalodon #scishowkids #education #science #elementary #learning #fun #scienceforkids27:T590,Hellooo, scientists! The ocean is one of the coolest places on Earth. In this episode, we’ll explore the different ocean layers and the different animals that live there. The deeper you go in the ocean, the more interesting the fish get. Some of them have big eyes to see more light and other fish make their own light – that’s called bioluminescence! Hop into Jocelyn’s submarine and let’s go on an ocean science adventure!
+
+Jocelyn loves science as much as she loves being silly! Let’s explore the science behind the things all around us.  
+
+SUBSCRIBE to support my YouTube Channel: https://bit.ly/39PZHFr 
+FOLLOW along on Instagram: https://www.instagram.com/JocelynPresents
+WATCH more science adventures: https://bit.ly/3PHel2z 
+LET’S CHAT: HelloJocelynPresents@gmail.com
+
+Jocelyn is a scientist turned communicator that’s passionate about science education. She has written children’s books, stage plays, and multimedia projects all around making science fun, accessible, and colorful!
+
+Image Credits:
+Hatchet Fish: photo by Whitcomb Bronaugh, Oregon State University
+
+Bristlemouth fish: Cyclothone pallida in Fishes of Australia, accessed 15 Jun 2022, https://fishesofaustralia.net.au/home/species/3924
+
+#scienceforkids #oceanscience #oceanexploration #virtualfieldtrip #oceanlayers #deepocean #homeschoolsciencecurriculum #laboratory #ocean #anglerfish #oceananimals #marinebiologist #kidssciencelab28:T519,Numbers Song Global English Version - https://bit.ly/2O6z410
+
+Check out our popular playlists to keep your little ones engaged and learning non-stop!
+
+Click here for brand new songs with Baby Taku & Friends ► https://www.youtube.com/playlist?list=PLV-cxl3VSwWEYTEMUd3RSzrTZq2q1hVnW
+Click here for Baby songs compilations! ► https://www.youtube.com/playlist?list=PLV-cxl3VSwWEdz04xWv32x5G4XTBVOUfX
+Click here for Classic Nursery Rhymes! ► https://www.youtube.com/playlist?list=PLV-cxl3VSwWHa83pPHIealm1vg0Cdp3aZ
+
+ChuChu TV is now available on all major music streaming platforms. You can now listen to your favorite ChuChu TV songs anytime, anywhere.
+
+Listen on Spotify ► https://orcd.co/npnkjdp
+Listen on Apple Music ► https://music.lnk.to/NkiCKW
+Listen on Amazon Music ► https://music.amazon.com/albums/B0BZZJBFF7?ref=AM4APC_AL_P_en_US_B00LP2FTLC_L7KKQQr
+Listen on YouTube Music ► https://music.youtube.com/channel/UC7fk9tVVNRZAjhjps2O4Ygg?si=wAXe-rmmwVnILxyN
+
+ChuChu TV creates entertaining and educational videos for toddlers globally. Their lovable characters aid in developing cognitive skills, memory, recognition, and more. Click here to Subscribe to our channel - https://bit.ly/32NxN7y
+
+Copyright © ChuChu TV® Studios LLP. All Rights Reserved!
+
+#ChuChuTV #NurseryRhymes #BabySongs29:T654,Spell the Numbers 0 - 10 by Jack Hartmann teaches the number words for each numeral 0 - 10.
+See the numeral and spell each number 0 -10 with Jack. For more of a challenge watch our Spell the Numbers 0 - 10 open ended version and spell the numbers on your own.
+
+
+Spell the Numbers 0 - 10 Lyrics
+
+Spell the Numbers 0 - 10
+Spell the numbers, together my friends
+Concentrate and do your best
+Spell the Numbers 0 - 10
+0  z e r o
+1   o n e
+2    t w o
+3    t h r e e
+4    f o u r
+5    f i v e
+6     s i x
+7     s e v e n
+8      e i g h t
+9     n i n e
+10   t e n
+Spell the Numbers 0 - 10
+Spell the numbers, together my friends
+Concentrate and do your best
+Spell the Numbers 0 - 10
+0  z e r o
+1   o n e
+2    t w o
+3    t h r e e
+4    f o u r
+5    f i v e
+6     s i x
+7     s e v e n
+8      e i g h t
+9     n i n e
+10   t e n
+Spell the Numbers 0 - 10
+Spell the numbers, together my friends
+Concentrate and do your best
+Spell the Numbers 0 - 10
+
+
+Help support us on Patreon!
+https://www.patreon.com/jackhartmann
+
+Jack Hartmann's website: https://jackhartmann.com
+
+Subscribe to our YouTube Channel: https://goo.gl/ogaW1i
+
+Remember to connect with Jack Hartmann on his Social Networks:
+
+Facebook: https://facebook.com/hop2itmusic
+Pinterest: https://pinterest.com/jackhartmann
+Twitter: https://twitter.com/Jack_Hartmann
+
+You can find Jack Hartmann's Music on:
+
+Jack Hartmann Website: https://jackhartmann.com
+iTunes: https://goo.gl/GeDJeJ
+Amazon: https://goo.gl/Ei8C6B
+Google Play: https://goo.gl/doZpfS
+CD Baby: https://cdbaby.com/Artist/JackHartmann
+
+Words and Music by Jack Hartmann 
+Copyright 2022
+Jack Hartmann's  Hop 2 It Music2a:T97f,Subscribe to our website for $3.99 USD monthly / $39.99 USD yearly! Watch all of our videos ad free, plus weekly printables and more: 
+https://www.thesingingwalrus.com/
+
+Our "Count to 100 Song" is a fun challenge for children who are learning big numbers! This is another great teaching supplement for teachers and parents who would like to practice some basic counting and math skills with their students / kids. 
+
+Chant along with our characters as they count from 1-100 in groups of twenty. The chorus is catchy, easy to sing along, and so funky that you and your kids will start making up dance moves on the spot :)
+
+Use this song for your kids in preschool, kindergarten, daycare, or for homeschooling! 
+
+As with many of our educational songs for kids, we also wrote this counting song with the young ESL / EFL learners in mind. The lyrics are definitely easy enough to be used by students with basic English skills. 
+
+Buy this song (mp3):
+https://itunes.apple.com/ca/artist/the-singing-walrus/id992755520
+https://play.google.com/store/music/artist/The_Singing_Walrus?id=Acadfghn7zw3q5i2c6bfr3gmcnu
+
+Buy this video from Sellfy (mp4):
+https://sellfy.com/thesingingwalrus
+
+Here are the lyrics of our "Count to 100 Song": 
+
+Chorus:
+Count to 100, come and count with me!
+Count to 100, come and count with me!
+I can count from 1-20
+I can count from 1-20
+
+Verse:
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+
+Chorus:
+Count to 100, come and count with me!
+Count to 100, come and count with me!
+I can count from 20-40
+I can count from 20-40
+
+Verse:
+21, 22, 23, 24, 25, 26, 27, 28, 29, 30
+31, 32, 33, 34, 35, 36, 37, 38, 39, 40
+
+Chorus:
+Count to 100, come and count with me!
+Count to 100, come and count with me!
+I can count from 40-60
+I can count from 40-60
+
+Verse:
+41, 42, 43, 44, 45, 46, 47, 48, 49, 50
+51, 52, 53, 54, 55, 56, 57, 58, 59, 60
+
+Chorus:
+Count to 100, come and count with me!
+Count to 100, come and count with me!
+I can count from 60-80
+I can count from 60-80
+
+Verse:
+61, 62, 63, 64, 65, 66, 67, 68, 69, 70
+71, 72, 73, 74, 75, 76, 77, 78, 79, 80
+
+Chorus:
+Count to 100, come and count with me!
+Count to 100, come and count with me!
+I can count from 80-100
+I can count from 80-100
+
+Verse:
+81, 82, 83, 84, 85, 86, 87, 88, 89, 90
+91,92, 93, 94, 95, 96, 97, 98, 99, 100
+
+Chorus:
+Count to 100, come and count with me!
+Count to 100, come and count with me!
+I can count from 1-100
+I can count from 1-1002b:Tbf7,🌈 Help us hit 100M! Subscribe now - https://www.youtube.com/ChuChuTV?sub_confirmation=1
+
+This song is available to listen on all music streaming platforms.- https://orcd.co/chuchutvhits
+
+Please Subscribe to our channel - https://bit.ly/32NxN7y
+
+NEW 3D Animated Nursery Rhymes with Baby Taku from ChuChu TV:
+
+Baby goes to Old MacDonald’s Farm - https://www.youtube.com/watch?v=mBgOlyGpKrw
+Baby Loves Stargazing - Twinkle Twinkle Little Star - https://www.youtube.com/watch?v=s1DtPUYby94
+Baby is Sick Song - https://www.youtube.com/watch?v=NjIEhuRG0Ks
+Pat A Cake Song - https://www.youtube.com/watch?v=XuLy-llv3sU
+ChuChu's Baa Baa Black Sheep - https://www.youtube.com/watch?v=0FxhksvgHcw
+The Boo Boo Song - https://www.youtube.com/watch?v=Tmqbbt-yyUQ
+Baby's Humpty Dumpty Song - https://www.youtube.com/watch?v=x8oinWzA0Fs
+Baby's First Steps Song - https://www.youtube.com/watch?v=sWkiwlFQ7cQ
+Bath Song 2 - https://www.youtube.com/watch?v=Qs_ll8GwhIE
+Baby Care and Share Song - https://www.youtube.com/watch?v=UYMm_zgAGaQ
+No No Brush My Teeth Song - https://www.youtube.com/watch?v=fyI_eCTPT_A
+The Muffin Man - https://www.youtube.com/watch?v=ZjbvlfxTgQw
+No No Milk Song - https://www.youtube.com/watch?v=kgRF3qhXlqI
+Color Song - The Wheels On The Bus - https://www.youtube.com/watch?v=C4hvMJOvXWo
+Hello Song - https://www.youtube.com/watch?v=El9VkQCh4sg
+ABC Song with ChuChu Toy Train - https://www.youtube.com/watch?v=Nkmarl4ynRM
+Doctor Checkup Song - https://www.youtube.com/watch?v=R3XAfpxqfqQ
+Yes Yes Fruits Song - https://www.youtube.com/watch?v=nKm0g1boEhE
+Wheels on the Bus Song - Baby Starts Crying - https://www.youtube.com/watch?v=0FwA-1hMAb4
+Baa Baa Black Sheep Song - Colors of the Rainbow - https://www.youtube.com/watch?v=_OuH7Ihbf-c
+Baby Goes Swimming Song - https://www.youtube.com/watch?v=YvKHNShAaa4
+Hickory Dickory Dock - https://www.youtube.com/watch?v=Z2jRSAOdwx0
+Johny Johny Yes Papa - Grandparents Version - https://www.youtube.com/watch?v=GAtj5v27heE
+No No Yes Yes Go to School Song - https://www.youtube.com/watch?v=4GcLWywzQXY
+Yes Yes Wake Up Song - https://www.youtube.com/watch?v=V7si2KRHLls
+
+Nursery rhymes in English,Piosenki dla dzieci po angielsku, canciones en inglés para niños,เพลงภาษาอังกฤษสำหรับเด็ก, Comptines en anglais,Kinderlieder in Englisch, Lagu-lagu anak berbahasa Inggeris, Musik Untuk Anak,Engelse kinderliedjes, Músicas em inglês para crianças, Gyerekzene, barnvisorna på engelska, 英文兒歌, Písničky v angličtině, أناشيد أطفال باللغة الإنجليزية, अंग्रेजी में नर्सरी कविताएं, Barnerim på engelsk, Canzoni per bambini in inglese 
+
+===============================================
+Video: Copyright 2020 ChuChu TV® Studios
+Music and Lyrics: Copyright 2020 ChuChu TV® Studios
+ChuChu TV ®, Cutians ®, all the characters and logos 
+used are the registered trademarks of ChuChu TV Studios
+===============================================
+
+#ChuChuTV #NurseryRhymes #kidslearning2c:T727,🌊 Goodnight Ocean, a soothing bedtime story for babies, toddlers and preschoolers.
+
+📚 The book, every format: https://www.bedtimestoryco.com/ocean
+
+Beneath the moonlit waves, the gentle whale, the playful dolphin, the tiny seahorse and all their underwater friends settle down for the night. Soft narration, gentle music and slow pacing to help your little one relax, feel safe and drift gently into sleep. 🌙✨
+
+🎨 Free Goodnight colouring pages: https://www.bedtimestoryco.com/freebies
+📱 Tap to Sleep app, ad free: https://bedtimestoryco.app.link
+🎬 More Goodnight bedtime stories: https://www.youtube.com/playlist?list=PL6H6--hXpVofsLBixUYe9pGF2mCgWo7cm
+
+⏭️ MORE GOODNIGHT STORIES
+🐞 Goodnight Little Bugs: https://youtu.be/KtLCU1HAPhA
+🌊 Goodnight Ocean: https://youtu.be/L77IDc1kJBc
+🦁 Goodnight Zoo: https://youtu.be/UzAvcmgsKMs
+🌻 Goodnight Garden: https://youtu.be/ouc5gkTvYCM
+🦕 Goodnight Dinosaurs: https://youtu.be/k86jwRV2dHo
+🐄 Goodnight Farm: https://youtu.be/w7W6wXDjmQk
+
+🎧 VIDEO FEATURES
+Narrated by Gemma, a real human voice
+Soft narration and gentle ambient ocean sounds
+No loud sounds, no flashing lights
+Calming visuals made for sensory sensitive children
+Watch for the little mouse, he only appears in the night scenes
+
+🎯 PERFECT FOR
+The bedtime wind down
+Naptime, the car and the long afternoon
+Babies, toddlers, preschoolers and neurodiverse children
+Sensory sensitive little ones who need a softer landing
+
+Subscribe so you never miss a new Goodnight story: https://www.youtube.com/@bedtimestoryco?sub_confirmation=1
+
+Bedtime Story Co is a small family business making calm bedtime stories, picture books, colouring books and an ad free app for babies, toddlers and preschoolers.
+
+#bedtimestories #goodnightocean #sleepstoryforkids #toddlerbedtime #NeurodiverseFriendly2d:T716,🦁 Goodnight Zoo, a soothing bedtime story for babies, toddlers and preschoolers.
+
+📚 The book, every format: https://www.bedtimestoryco.com/zoo
+
+As the sun sets over the zoo, the sleepy tiger, the quiet bear, the gentle elephant and all their animal friends settle down for the night. Soft narration, gentle music and slow pacing to help your little one relax, feel safe and drift gently into sleep. 🌙✨
+
+🎨 Free Goodnight colouring pages: https://www.bedtimestoryco.com/freebies
+📱 Tap to Sleep app, ad free: https://bedtimestoryco.app.link
+🎬 More Goodnight bedtime stories: https://www.youtube.com/playlist?list=PL6H6--hXpVofsLBixUYe9pGF2mCgWo7cm
+
+⏭️ MORE GOODNIGHT STORIES
+🐞 Goodnight Little Bugs: https://youtu.be/KtLCU1HAPhA
+🌊 Goodnight Ocean: https://youtu.be/L77IDc1kJBc
+🦁 Goodnight Zoo: https://youtu.be/UzAvcmgsKMs
+🌻 Goodnight Garden: https://youtu.be/ouc5gkTvYCM
+🦕 Goodnight Dinosaurs: https://youtu.be/k86jwRV2dHo
+🐄 Goodnight Farm: https://youtu.be/w7W6wXDjmQk
+
+🎧 VIDEO FEATURES
+Narrated by Gemma, a real human voice
+Soft narration and gentle ambient music
+No loud sounds, no flashing lights
+Calming visuals made for sensory sensitive children
+Watch for the little mouse, he only appears in the night scenes
+
+🎯 PERFECT FOR
+The bedtime wind down
+Naptime, the car and the long afternoon
+Babies, toddlers, preschoolers and neurodiverse children
+Sensory sensitive little ones who need a softer landing
+
+Subscribe so you never miss a new Goodnight story: https://www.youtube.com/@bedtimestoryco?sub_confirmation=1
+
+Bedtime Story Co is a small family business making calm bedtime stories, picture books, colouring books and an ad free app for babies, toddlers and preschoolers.
+
+#bedtimestories #goodnightzoo #sleepstoryforkids #toddlerbedtime #NeurodiverseFriendly2e:T91b,Bluey: Sleepytime Read Aloud | A Magical Bedtime Story About Love
+
+Today we’re reading Bluey: Sleepytime, a beautiful and heartwarming bedtime story inspired by one of the most loved Bluey episodes. Join Bluey on a dreamy nighttime adventure filled with imagination, comfort, and the powerful reminder that you are always loved.
+
+This gentle read aloud explores independence, growing up, and the deep emotional bond between parent and child. As Bluey journeys through the night, children are reassured that even when they’re learning to sleep on their own, love is always close by.
+
+Perfect for bedtime wind-down, this story supports social-emotional learning by helping children:
+
+• Feel secure at night
+• Understand separation in a healthy way
+• Build independence with confidence
+• Recognize unconditional love
+• Develop emotional awareness
+
+For parents navigating bedtime transitions, night wakings, or children learning to sleep in their own space — this story can be especially meaningful. It’s a comforting reminder that growth and connection go hand in hand.
+
+Reading aloud helps children:
+• Build vocabulary and listening skills
+• Strengthen emotional intelligence
+• Improve focus and comprehension
+• Support healthy bedtime routines
+• Foster a lifelong love of books
+
+This read aloud is perfect for preschoolers, kindergarten, and early primary children who love Bluey and calming bedtime stories.
+
+Welcome to Books with Bink and Dayn, where we share engaging children’s book read alouds that support early literacy, emotional growth, and expressive storytelling.
+
+🌙 Like the video if your child loves Bluey
+💬 Share the video
+🔔 Subscribe for more calming bedtime read alouds every week
+
+Keywords:
+Bluey Sleepytime read aloud, Bluey bedtime story, Bluey book read aloud, calming bedtime story for kids, social emotional learning story, preschool bedtime read aloud, Bluey story time, emotional children’s book
+
+SOCIALS LINKS:
+
+www.facebook.com/bookswithbinkanddayn
+www.instagram.com/bookswithbinkanddayn
+www.tiktok.com/@bookswithbinkanddayn
+
+-------------------------------------------------------------------------
+
+Credits:
+Created by Joe Brumm
+Music written, performed, recorded and mixed by Hopkins Music Pty Ltd
+
+#bedtimestories #sleep #books #bluey #childrensbooks #readaloud2f:T620,Tune in for a cozy night at the Barkingburg castle with Skye and Everest from PAW Patrol! Spend the night with the pups as they go on a mission to ensure the princess gets a good night’s sleep in preparation for her Royal Ball in the morning. Available anywhere you listen to podcasts!
+
+#PawPatrol #NickJrMusic #PodcastsForKids 
+
+Subscribe to the NEW Nick Jr. Music YouTube channel for weekly musical videos with PAW Patrol, Bubble Guppies, Bossy Bear, Blaze and the Monster Machines, and more of your favorite friends!
+
+Subscribe to the OFFICIAL Nick Jr. Music YouTube Channel: https://at.nick.com/NickJrMusicSubscribe
+
+Watch more videos on the Nick Jr. Music YouTube Channel: https://at.nick.com/NickJrMusicChannel
+
+► Nick Jr. on YouTube https://at.nick.com/NickJrYouTube
+► Blue’s Clues & You! on YouTube https://at.nick.com/BCYYouTube
+► Blaze and the Monster Machines on YouTube: https://at.nick.com/BMMYouTube
+► Bubble Guppies on YouTube: https://at.nick.com/BGYouTube
+► Rubble & Crew on YouTube: https://at.nick.com/RubbleOfficialYT
+
+Welcome to the OFFICIAL Nick Jr. Music channel, where you can find Nick Jr. songs, compilations, and lyric videos! Join all of your favorite Nick Jr. characters from shows like PAW Patrol, Rubble & Crew, Bubble Guppies, Blaze and the Monster Machines, and Blues Clues & You! in sing-alongs, nursery rhymes, and classic jams in this hub for all things music!
+
+From educational videos to theme songs to videos that make you want to dance, watch Bossy Bear, Rubble and so many more characters sing your favorite songs!30:T5d8,Do your kids enjoy Blippi, Paw Patrol, or Daniel Tiger? Do they dance to catchy songs like Wheels On The Bus or Baby Shark? Then they'll love Danny Go! Sing fun kids dance songs, learn about colors, shapes & numbers, AND visit exciting places like fire truck stations, trampoline parks, beaches, race car workshops and more! 
+
+IN THIS VIDEO: 🐳🚀🦋🚂🌋🏎️🦕🌳😺/// What do all these things have in common? Danny Go shows you how to paint them all! Learn colors, counting, painting and more in this fun learning video for kids!
+
+Here's some of our other favorite Danny Go videos!
+The Fire Truck Song - https://www.youtube.com/watch?v=oQH-d2PGzas
+Danny Learns to Paint - https://www.youtube.com/watch?v=vjMHleB-Mlw
+5-in-1 Surprise Music Video Mix - https://www.youtube.com/watch?v=etM4E1NFUBA
+Danny Builds a Sandcastle - https://www.youtube.com/watch?v=YBdRq_L0xA0
+The Stomp Clap Dance Song - https://www.youtube.com/watch?v=nvDLe3FHcuY
+
+For more exclusive Danny Go! videos, visit Yippee.tv!
+
+Danny Go! on Instagram: https://bit.ly/dannygoIG
+Danny Go! on Facebook: https://bit.ly/dannygoFB
+
+Stream or purchase Danny Go! music:  
+Spotify - https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm
+Apple Music - https://music.apple.com/us/artist/danny-go/997447500
+iHeartRadio - https://www.iheart.com/artist/danny-go-33233028/
+Google Play - https://play.google.com/store/music/artist?id=Atxdqomwcejstw5jwhkkxwnem6m&hl=en
+
+© 2019 Giant Jungle Productions, LLC. All Rights Reserved.31:Tae6,Old pens craft ideas | Rajasthani musician wall hanging showpiece | diy home decor | wall decoration ideas | wall hanging craft ideas | art and craft
+
+#wallhanging #walldecoration #rajasthanimusician #papercraft #diy #giftideas  #diyhomedecor   #craftideas #Kalyaniscorner
+
+
+Hey guyss...
+       
+I hope you will loved my work..
+If you have any suggestions or feedback regarding the video, let it share in a comment, your response is valuable to us and always appreciated.
+stay tuned with Kalyani's corner for more quality DIY art and craft videos.
+Thanks for watching this video, have a happy crafting.
+
+Materials required:
+1) Thick Cardboard 
+2) thin cardboard
+3) empty pens & refills
+4) glue gun or fevicol allfix
+5) bottle cap
+6)Acrylic color
+
+
+
+Homemade air-dry clay/paper clay/wall putty dough:
+https://youtu.be/vcgflAyfdnU
+
+Low cost homemade paper clay :
+https://youtu.be/cGhoAm9BQY4
+
+HOMEMADE clay for sculpturing and jewellery making:👇
+https://youtu.be/W-Kk7ngeoPE
+
+Homemade gesso recipe:
+https://youtu.be/hMoAJWsT3-Y
+
+Homemade 3D outliner:
+https://youtu.be/PJosm2ND5y0
+
+Buy here 👇
+Cake decorating tools/clay modelling tools:
+https://www.amazon.in/Generic-Decorating-Fondant-47-Pieces-Multicolour/dp/B013YHP1RC
+
+https://www.amazon.in/Bulfyss-Fondant-Sugarcraft-Butterfly-Decorating/dp/B08WRC58ZX/ref=asc_df_B08WRC58ZX/?tag=googleshopdes-21&linkCode=df0&hvadid=397081069862&hvpos=&hvnetw=g&hvrand=4630008552194318569&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007743&hvtargid=pla-1205648654579&psc=1&ext_vrnc=hi
+
+Watch my other playlist videos👇
+Best out of waste ideas:
+https://www.youtube.com/playlist?list=PLJWuWjM1L_RkOGitHlFm5SQFTbGR9_tH3
+
+Home decor ideas:
+https://www.youtube.com/playlist?list=PLJWuWjM1L_RnBx7dccWBdJ-82QaQ9wPsJ
+
+1-minute crafts:
+https://youtube.com/playlist?list=PLJWuWjM1L_Rn2JI7Jl6Ecqj9No6mrkiNr
+
+Newspaper craft ideas for home decor:
+https://www.youtube.com/playlist?list=PLJWuWjM1L_RkODxwO4WbzKm3oFqO9zoeA
+
+Candle wax flowers for home decor:
+https://www.youtube.com/playlist?list=PLJWuWjM1L_RmMxg1SR9mKMWUqNURHQ9HZ
+
+Bridal hair accessories:
+https://www.youtube.com/playlist?list=PLJWuWjM1L_RkcdO29McDsTFsJ2xuP1Tkm
+
+DIY home remedies:
+https://www.youtube.com/playlist?list=PLJWuWjM1L_RnUQqGVGYeSEQrfmjsv35bu
+
+Kolams/ rangoli :
+https://www.youtube.com/playlist?list=PLJWuWjM1L_RloSJzovHIBLhO8FVYlgSET
+
+Christmas decoration ideas:
+https://youtube.com/playlist?list=PLJWuWjM1L_RnhGMhEXCM1o53_fs4P_EeG
+
+Nailart designs:
+https://youtube.com/playlist?list=PLJWuWjM1L_RnZzxBHSb5ekSd60ZDSuaM6
+
+Beautiful handmade bracelets:
+https://youtube.com/playlist?list=PLJWuWjM1L_RlwuwXnP9zAK58G-c83UAzh
+
+Stay connected with me:
+Instagram: https://www.instagram.com/ardhi.kalyani/
+facebook: https://www.facebook.com/Kalyanis-corner-100459151501456/32:T16f5,100+ Viksit Bharat Amazing Drawings/Mere Sapno ka Bharat Poster/Viksit Bharat 2047 Poster Drawings/My Vision For India in 2047 drawings/India 1947 vs India 2047 Poster/New India Empowered India Poster Drawing
+
+The "Mere Sapno ka Bharat" painting competition is a national initiative spearheaded by the Ministry of Defence and MyGov in celebration of India's Independence Day. The theme challenges participants to visually contrast the nation's struggles for freedom with its future vision of a developed, self-reliant "Viksit Bharat".
+The drawing or painting competition is for all indian citizens (adults and kids).
+If you are preparing a drawing or poster for this theme, it is helpful for you.
+
+your Queries-
+
+viksit bharat drawing
+viksit bharat 2047 drawing
+25 crores children's dream of india
+viksit bharat
+विकसित भारत चित्र
+bikasita bharat drawing
+বিকশিত ভারত 2047 drawing
+viksit bharat chitra
+bikoshito bharat drawing
+25 crores children's dream of india drawing
+mere sapno ka bharat drawing
+2047 viksit bharat drawing
+বিকশিত ভারত drawing
+विकसित भारत 2047 चित्र
+amar shopner bharat drawing
+swapner bharat drawing
+bikashita bharat drawing
+viksit bharat 2047
+viksit bharat ka chitra
+viksit bharat per drawing
+amar sopner bharat drawing
+২৫ কোটি শিশুর স্বপ্নের ভারত drawing
+25 crore bacho ke sapno ka bharat drawing
+because the bharat drawing
+আমার স্বপ্নের ভারত ড্রয়িং
+mere sapnon ka bharat
+বিকশিত ভারতের ছবি
+25 koti shishu shopner bharat drawing
+বিকশিত ভারত ড্রয়িং
+viksit bharat drawing 2047
+majha swapnatil bharat chitra
+sapno ka bharat drawing
+sapnon ka bharat drawing
+mere sapnon ka bharat drawing
+bikosito bharat drawing
+mo swapnara bharata drawing
+স্বপ্নের ভারত ড্রয়িং
+viksit bharat ki drawing
+vikasita bharata drawing
+amar shopner bharat
+વિકસિત ભારત 2047 ચિત્ર
+viksit bharat 2017
+আমার স্বপ্নের ভারত ছবি আঁকা
+25 কোটি শিশুর স্বপ্নের ভারত ড্রয়িং
+mere sapnon ka bharat per drawing
+my dream india drawing
+amar swapner bharat drawing
+seva sankalp abhiyan drawing
+विकसित भारत ड्राइंग
+swapnil bharat drawing
+viksit bharat 2047 drawing
+viksit bharat drawing
+mere sapno ka bharat drawing
+viksit bharat
+viksit bharat chitra
+bikasita bharat drawing
+વિકસિત ભારત 2047 ચિત્ર
+mere sapnon ka bharat drawing
+2047 viksit bharat drawing
+mere sapnon ka bharat
+viksit bharat per drawing
+বিকশিত ভারত 2047 drawing
+25 crores children's dream of india
+বিকশিত ভারত drawing
+विकसित भारत चित्र
+વિકસિત ભારત ચિત્ર
+viksit bharat 2047
+bikoshito bharat drawing
+mo swapnara bharata drawing
+bikashita bharat drawing
+viksit bharat ka chitra
+amar shopner bharat drawing
+viksit bharat painting
+sapno ka bharat drawing
+digital india drawing
+viksit bharat drawing 2047
+विकसित भारत 2047 चित्र
+krushi mahotsav drawing
+25 crores children's dream of india drawing
+sapnon ka bharat
+mere sapnon ka bharat per drawing
+sapnon ka bharat drawing
+viksit bharat per chitra
+mere sapnon ka bharat chitra
+viksit bharat ki drawing
+amar sopner bharat drawing
+আমার স্বপ্নের ভারত ড্রয়িং
+২৫ কোটি শিশুর স্বপ্নের ভারত drawing
+25 crore bacho ke sapno ka bharat drawing
+because the bharat drawing
+विकसित भारत ड्राइंग
+krishi mahotsav drawing
+swapner bharat drawing
+viksit bharat 2047 chitra
+mara sapna nu viksit bharat chitra
+viksit bharat na chitra
+viksit bharat nu chitra
+garib kalyan mela drawing
+swachh bharat drawing
+make in india drawing 
+viksit bharat poster making
+mere sapno ka bharat poster
+mara sapna nu viksit bharat chitra
+mere sapnon ka bharat painting
+dear pari arts
+mere sapnon ka bharat chitra
+viksit bharat chitra
+viksit bharat drawing
+મારા સપનાનું ભારત ચિત્ર
+mere sapno ka bharat drawing
+mere sapno ka bharat painting
+mere sapnon ka bharat ka chitra
+sapno ka bharat drawing
+viksit bharat chart
+drawing
+hindi diwas drawing easy and beautiful
+mara sapna nu bharat drawing
+mere sapnon ka bharat drawing
+mere sapnon ka bharat per drawing
+sapnon ka bharat chitra
+sapnon ka bharat ka drawing
+viksit bharat vishay chitra
+mere sapno ka bharat drawing easy
+mere sapnon ka bharat chitrkla
+mere sapnon ke bharat per drawing
+nirmal vidyalaya drawing
+sapnon ka bharat chitrkla
+sapnon ka bharat drawing
+simple drawing
+viksit bharat 2047 chitra
+viksit bharat 2047 drawing competition
+viksit bharat drawing easy
+viksit bharat nu chitra
+viksit bharat per chart
+मेरे सपनों का भारत चित्र
+सपनों का भारत
+મારા સ્વપ્નનું ભારત ચિત્ર
+My Vision For India in 2047 Painting
+Drawing on My Vision For India in 2047
+Mere Sapno Ka Bharat Drawing
+India 1947 vs India 2047 Poster
+New India Empowered India Drawing
+India 1947 vs India 2047 Drawing 
+My Vision For India in 2047 drawing 
+Mere Sapno Ka Bharat poster Drawing
+
+
+#viksitbharatdrawing
+#viksitbharatposter
+#myvisionforindiain2047
+#indiaofmydreamin2047drawing
+#india1947vsindia2047poster
+#meresapnokabharatdrawing 
+#newindiaempoweredindiapainting
+#newindiaempoweredindiadrawing
+#myvisionforindiain2047painting
+#painting
+#myvisionforindiain2047drawing
+#indiaofmydreamin2047poster
+#2047myvisionforindia
+#azadikaamritmahotsav 
+#republicdaydrawing
+#republicdayposter
+#dearpariarts 
+#dearpari 
+#easydrawing 
+#drawing34:T525,Sing along with NuNu TV’s fun and educational ABC Song — perfect for toddlers and preschoolers! This video includes carefully curated learning songs that teach alphabet, numbers, colours,  through sing-alongs and playful visuals. Designed to keep little ones engaged and learning joyfully!
+
+Subscribe For New Kids Songs Every Week ►►
+https://www.youtube.com/c/NuNuTVNurseryRhymes?sub_confirmation=1
+
+#NuNuTv #NurseryRhymes #KidsSongs #BabySongs #ChildrenSongs #Rhymes #kidsvideos
+
+Popular Preschool Nursery Song for kids:
+
+Wheels On The Bus: https://www.youtube.com/watch?v=4VaaHIV0oLY
+
+Finger Family: https://www.youtube.com/watch?v=pCEoXh48M4o
+
+Baa Baa Black Sheep: https://www.youtube.com/watch?v=OvERlis9d0c
+
+Baby Shark: https://www.youtube.com/watch?v=WdIFDHP5Kwg
+
+NuNu Tv Nursery Rhymes ►
+
+NuNu TV creates fun and educational Nursery Rhymes for toddlers aged 6 months to 2 years. We make learning joyful and relatable through colours, letters, numbers, and everyday moments.
+
+Our catchy tunes and cheerful stories help little ones grow while families bond through play.
+
+Follow us on Social Media:
+Facebook: https://www.facebook.com/nunutvrhymes
+Instagram: https://www.instagram.com/nunutvrhymes
+Twitter: https://twitter.com/nunutvrhymes
+
+Copyright Sprout Studios Private Limited. All Rights Reserved.35:Tbf7,🌈 Help us hit 100M! Subscribe now - https://www.youtube.com/ChuChuTV?sub_confirmation=1
+
+This song is available to listen on all music streaming platforms.- https://orcd.co/chuchutvhits
+
+Please Subscribe to our channel - https://bit.ly/32NxN7y
+
+NEW 3D Animated Nursery Rhymes with Baby Taku from ChuChu TV:
+
+Baby goes to Old MacDonald’s Farm - https://www.youtube.com/watch?v=mBgOlyGpKrw
+Baby Loves Stargazing - Twinkle Twinkle Little Star - https://www.youtube.com/watch?v=s1DtPUYby94
+Baby is Sick Song - https://www.youtube.com/watch?v=NjIEhuRG0Ks
+Pat A Cake Song - https://www.youtube.com/watch?v=XuLy-llv3sU
+ChuChu's Baa Baa Black Sheep - https://www.youtube.com/watch?v=0FxhksvgHcw
+The Boo Boo Song - https://www.youtube.com/watch?v=Tmqbbt-yyUQ
+Baby's Humpty Dumpty Song - https://www.youtube.com/watch?v=x8oinWzA0Fs
+Baby's First Steps Song - https://www.youtube.com/watch?v=sWkiwlFQ7cQ
+Bath Song 2 - https://www.youtube.com/watch?v=Qs_ll8GwhIE
+Baby Care and Share Song - https://www.youtube.com/watch?v=UYMm_zgAGaQ
+No No Brush My Teeth Song - https://www.youtube.com/watch?v=fyI_eCTPT_A
+The Muffin Man - https://www.youtube.com/watch?v=ZjbvlfxTgQw
+No No Milk Song - https://www.youtube.com/watch?v=kgRF3qhXlqI
+Color Song - The Wheels On The Bus - https://www.youtube.com/watch?v=C4hvMJOvXWo
+Hello Song - https://www.youtube.com/watch?v=El9VkQCh4sg
+ABC Song with ChuChu Toy Train - https://www.youtube.com/watch?v=Nkmarl4ynRM
+Doctor Checkup Song - https://www.youtube.com/watch?v=R3XAfpxqfqQ
+Yes Yes Fruits Song - https://www.youtube.com/watch?v=nKm0g1boEhE
+Wheels on the Bus Song - Baby Starts Crying - https://www.youtube.com/watch?v=0FwA-1hMAb4
+Baa Baa Black Sheep Song - Colors of the Rainbow - https://www.youtube.com/watch?v=_OuH7Ihbf-c
+Baby Goes Swimming Song - https://www.youtube.com/watch?v=YvKHNShAaa4
+Hickory Dickory Dock - https://www.youtube.com/watch?v=Z2jRSAOdwx0
+Johny Johny Yes Papa - Grandparents Version - https://www.youtube.com/watch?v=GAtj5v27heE
+No No Yes Yes Go to School Song - https://www.youtube.com/watch?v=4GcLWywzQXY
+Yes Yes Wake Up Song - https://www.youtube.com/watch?v=V7si2KRHLls
+
+Nursery rhymes in English,Piosenki dla dzieci po angielsku, canciones en inglés para niños,เพลงภาษาอังกฤษสำหรับเด็ก, Comptines en anglais,Kinderlieder in Englisch, Lagu-lagu anak berbahasa Inggeris, Musik Untuk Anak,Engelse kinderliedjes, Músicas em inglês para crianças, Gyerekzene, barnvisorna på engelska, 英文兒歌, Písničky v angličtině, أناشيد أطفال باللغة الإنجليزية, अंग्रेजी में नर्सरी कविताएं, Barnerim på engelsk, Canzoni per bambini in inglese 
+
+===============================================
+Video: Copyright 2020 ChuChu TV® Studios
+Music and Lyrics: Copyright 2020 ChuChu TV® Studios
+ChuChu TV ®, Cutians ®, all the characters and logos 
+used are the registered trademarks of ChuChu TV Studios
+===============================================
+
+#ChuChuTV #NurseryRhymes #kidslearning36:T9bf,Five Little Ducks | Kids Songs | BluLoo Nursery Rhymes & Kids Songs
+
+Join BluLoo on a delightful pond adventure with the "Five Little Ducks" song! 🦆🌈 Sing along and enjoy the fun-filled journey of our five little ducks as they swim and play. This classic nursery rhyme is perfect for kids to learn counting and enjoy a lively, musical experience.
+
+Sing along to the popular kids song "Five Little Ducks" with BluLoo! Join the colorful ducks on an adventure in this fun nursery rhyme video.
+
+Lyrics:
+
+Verse 1:
+Five little ducks swimming in the pond,
+Red, blue, green, and yellow, and one that’s blonde.
+Quack, quack, quack, they’re having so much fun,
+Splashing in the water, underneath the sun.
+
+Chorus:
+Colorful ducks, swimming all around,
+In a line, they follow, never making a sound.
+Waddle, waddle, waddle, to the grassy shore,
+Five little ducks, let's count them once more.
+
+Verse 2:
+Red duck leads, with a quack and a smile,
+Blue duck follows, in a very cool style.
+Green duck wiggles, with feathers so bright,
+Yellow duck dances, oh what a sight!
+
+Chorus:
+Colorful ducks, swimming all around,
+In a line, they follow, never making a sound.
+Waddle, waddle, waddle, to the grassy shore,
+Five little ducks, let's count them once more.
+
+Our kids songs and nursery rhymes, like the "Five Little Ducks" song, are designed to be both educational and entertaining. Children will love the colorful animation and catchy tune as they learn counting with our adorable ducks.
+
+Don't forget to like, comment, and subscribe to BluLoo for more fun and educational nursery rhymes and kids songs! Hit the bell icon to stay updated with our latest videos.
+
+Contact us: contact@bluloo.org
+
+Follow BluLoo:
+Subscribe to our YouTube Channel: 
+https://www.youtube.com/channel/UCpxf2P7fztkrT7NTtQRBG6A
+
+Listen on Spotify: 
+https://open.spotify.com/artist/2hBqftNswdrqlEHYj2zuCY?si=gGh_nNYTQA6w9-tkVwf26w&nd=1&dlsi=72d94e000c3d48c1
+
+Watch all our playlists:
+https://www.youtube.com/playlist?list=PLFOJyZSvt9wGmMSppVlOeEj5ACh2-6llI
+https://www.youtube.com/playlist?list=PLFOJyZSvt9wEY43WvWfXJwQWwKSd0ug-i
+https://www.youtube.com/playlist?list=PLFOJyZSvt9wFxF_1pdilSTuaE09Tl6RC2
+https://www.youtube.com/playlist?list=PLFOJyZSvt9wHF5oRiHnbkfS7GSTx32bZf
+
+#FiveLittleDucks #KidsSongs #NurseryRhymes #BluLoo #EducationalSongs #ChildrensMusic #FunLearning #SingAlong #KidsEducation
+
+Join BluLoo at the pond and discover the fun of counting with colorful ducks! 🌟🎶
+
+Copyright © BluLoo. All rights reserved.37:T7d7,🎨 Help your baby, toddler, preschooler or kindergartener learn all the colors of the rainbow with this adorable learning video for kids! 🖌️ Learn all the names of colors in a family friendly flash card environment designed just for kids. It's like going to school, but way more fun! 🤩 
+
+✏️ Learn colors through exciting and interactive flashcards, all in a delightful learning environment! 🍭 Great for kids of all ages, and the perfect way to teach all of the colors of the rainbow to preschoolers and kindergarteners. Let this family-friendly video give your child a head start on their education! ✔️ Color song is an ideal baby video for preschool learning. ✨  
+
+✍️ Learn Colors With Lucas and Ruby:
+🟢 Green 
+🟣 Purple
+🔴 Red
+⚫ Black
+🌸 Pink
+⚪ White
+🟡 Yellow
+🟠 Orange
+🟤 Brown
+🔵 Blue
+🔘 Grey
+
+⭐ RV AppStudios is thrilled to add our newest song for kids to our collection, and one we're sure your kids will love singing along-to! 👍 As always, be sure to LIKE and SHARE this kids song to show more families that it can be easy and fun to learn 🔔 And don't forget to SUBSCRIBE for more free animated sing-along songs and nursery rhymes for kids by RV Kids! 🔥
+
+📢 Coloring pages for kids and much more - https://www.rvappstudios.com
+
+🎯 Try our FREE Educational Apps for Babies & Toddlers:
+         🟡 Google Play: https://play.google.com/store/apps/dev?id=7430005971129979939
+         🟣 iOS: https://apps.apple.com/developer/rv-appstudios-llc/id340181308
+         🟢 RV AppStudios: https://www.rvappstudios.com/kidsapp.html
+
+🌟 Fun educational videos for toddlers by RV AppStudios:
+🎨 Sing & Learn Colors for Children - https://youtu.be/PoMPLwKgeKw
+🐊 Learn Alphabet for Kids with Animals - https://youtu.be/MZI1izUMLu4
+📖 Counting Numbers 1 to 20 for Kids - https://youtu.be/2KwCtfvvMsY
+🖍️ Colors For Kids Song - https://youtu.be/Mc5S5P_yQ0A
+         
+Copyright © RV AppStudios
+
+#LearnColors #EducationalVideos #Color2:["$","div",null,{"className":"space-y-12","children":[["$","$Le",null,{}],["$","$Lf",null,{"title":"🔥 Trending for Kids","subtitle":"Popular discoveries for young explorers","seeAllHref":"/category/2-4","videos":[{"id":"ujC1dkYDTOs","title":"Ten Little Vegetables - Learn Vegetables with Nursery Rhyme and Kids Song","description":"$10","channelTitle":"Crayons Nursery Rhymes - Cartoons Videos for Kids","channelId":"UCUmvHm-gzYqLFMWEfDtKmBw","publishedAt":"2023-03-17T11:53:28Z","duration":"4:07","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/ujC1dkYDTOs/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/ujC1dkYDTOs/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/ujC1dkYDTOs/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/ujC1dkYDTOs/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/ujC1dkYDTOs/maxresdefault.jpg","width":1280,"height":720}}},{"id":"RvgnuPL9x-s","title":"The Colors Song (with Popsicles) | @CoComelon Nursery Rhymes & Kids Songs","description":"$11","channelTitle":"Cocomelon - Nursery Rhymes","channelId":"UCbCmjCuTUZos6Inko4u57UQ","publishedAt":"2018-09-25T07:00:02Z","duration":"4:52","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/RvgnuPL9x-s/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/RvgnuPL9x-s/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/RvgnuPL9x-s/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/RvgnuPL9x-s/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/RvgnuPL9x-s/maxresdefault.jpg","width":1280,"height":720}}},{"id":"DiV48J0uB_Y","title":"The Fruit Friends Song - ChuChu TV Baby Nursery Rhymes and Kids Songs","description":"$12","channelTitle":"ChuChu TV Nursery Rhymes & Kids Songs","channelId":"UCBnZ16ahKA2DZ_T5W0FPUXg","publishedAt":"2021-08-07T11:30:01Z","duration":"5:42","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/DiV48J0uB_Y/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/DiV48J0uB_Y/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/DiV48J0uB_Y/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/DiV48J0uB_Y/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/DiV48J0uB_Y/maxresdefault.jpg","width":1280,"height":720},"uhd":{"url":"https://i.ytimg.com/vi/DiV48J0uB_Y/uhddefault.jpg","width":3840,"height":2160}}},{"id":"PNepUHLyYwE","title":"Ten Little Fruits Song + More Nursery Rhymes & Kids Songs by @kidscamp","description":"FRUIT JUICE FACTORY: https://www.youtube.com/watch?v=OSUISCh1iGA&t=0s\nMeet the Funny Watermelon!! Ten FRUITS on the Shelf! Fruits Mania With Fruits Song And Nursery Rhymes!!! Elly and Eva go Fruits Shopping and get a wonderful Fruity Surprise by KidsCamp - Education\n\n🔔 Subscribe to our channel KidsCamp to never miss any video ➡️️ https://bit.ly/3ICqqBl\n\n► 📚 Watch the Colors for Kids Series 1, here ➡️️ https://bit.ly/3QMTUlL\n\n► 🎏 Watch the Colors for Kids Series 2, here ➡️️ https://bit.ly/3wetJe5\n\n► 🎹 Watch the Best Nursery Rhymes for Toddlers, here ➡️️ https://bit.ly/3XxUEgG\n\n#kidscampnurseryrhymes #kidscamp #kidsongs\n\nYoBoHo New Media Pvt. Ltd. © 2022. All rights reserved","channelTitle":"KidsCamp Nursery Rhymes & Learning Videos for Kids","channelId":"UCjVkjd2VWCWO-9DHRQER3Yg","publishedAt":"2019-01-10T12:43:18Z","duration":"7:02","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/PNepUHLyYwE/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/PNepUHLyYwE/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/PNepUHLyYwE/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/PNepUHLyYwE/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/PNepUHLyYwE/maxresdefault.jpg","width":1280,"height":720}}},{"id":"j86yN2bOiBQ","title":"Fruits and Vegetables Song | CoComelon Nursery Rhymes & Kids Songs","description":"$13","channelTitle":"Cocomelon - Nursery Rhymes","channelId":"UCbCmjCuTUZos6Inko4u57UQ","publishedAt":"2025-01-07T08:00:37Z","duration":"7:12","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/j86yN2bOiBQ/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/j86yN2bOiBQ/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/j86yN2bOiBQ/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/j86yN2bOiBQ/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/j86yN2bOiBQ/maxresdefault.jpg","width":1280,"height":720}}},{"id":"UZ4LF99rDM4","title":"Yes Yes Finger Family Playground Song | CoComelon Nursery Rhymes & Kids Songs","description":"$14","channelTitle":"Cocomelon - Nursery Rhymes","channelId":"UCbCmjCuTUZos6Inko4u57UQ","publishedAt":"2026-02-21T08:00:29Z","duration":"6:17","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/UZ4LF99rDM4/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/UZ4LF99rDM4/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/UZ4LF99rDM4/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/UZ4LF99rDM4/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/UZ4LF99rDM4/maxresdefault.jpg","width":1280,"height":720}}},{"id":"9_WBQISVHnw","title":"Best Learning Video for Toddlers Learn Colors with Crayon Surprises!","description":"$15","channelTitle":"Genevieve's Playhouse - Learning Videos for Kids","channelId":"UCK5Q72Uyo73uRPk8PmM2A3w","publishedAt":"2019-01-05T16:52:49Z","duration":"10:23","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/9_WBQISVHnw/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/9_WBQISVHnw/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/9_WBQISVHnw/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/9_WBQISVHnw/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/9_WBQISVHnw/maxresdefault.jpg","width":1280,"height":720}}},{"id":"fHqjNHxmB7c","title":"ChuChu TV Numbers Song - NEW Short Version - Number Rhymes For Children","description":"$16","channelTitle":"ChuChu TV Nursery Rhymes & Kids Songs","channelId":"UCBnZ16ahKA2DZ_T5W0FPUXg","publishedAt":"2014-08-21T02:57:16Z","duration":"4:12","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/fHqjNHxmB7c/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/fHqjNHxmB7c/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/fHqjNHxmB7c/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/fHqjNHxmB7c/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/fHqjNHxmB7c/maxresdefault.jpg","width":1280,"height":720},"uhd":{"url":"https://i.ytimg.com/vi/fHqjNHxmB7c/uhddefault.jpg","width":3840,"height":2160}}},{"id":"WjZ2f71dFck","title":"Jump in the Puddles | Rainy Day with Toddlers | CoComelon Nursery Rhymes & Kids Songs","description":"$17","channelTitle":"Cocomelon - Nursery Rhymes","channelId":"UCbCmjCuTUZos6Inko4u57UQ","publishedAt":"2026-09-26T07:00:40Z","duration":"6:18","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/WjZ2f71dFck/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/WjZ2f71dFck/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/WjZ2f71dFck/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/WjZ2f71dFck/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/WjZ2f71dFck/maxresdefault.jpg","width":1280,"height":720},"fhd":{"url":"https://i.ytimg.com/vi/WjZ2f71dFck/fhddefault.jpg","width":1920,"height":1080}}},{"id":"XGwnjA2aSR8","title":"Learn Vegetables and Fruits | Let's Plant Vegetables | Nursery Rhymes & Kids Songs | BabyBus","description":"$18","channelTitle":"BabyBus - Preschool Songs & Learning Cartoons","channelId":"UCpYye8D5fFMUPf9nSfgd4bA","publishedAt":"2025-10-26T10:30:14Z","duration":"16:52","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/XGwnjA2aSR8/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/XGwnjA2aSR8/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/XGwnjA2aSR8/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/XGwnjA2aSR8/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/XGwnjA2aSR8/maxresdefault.jpg","width":1280,"height":720}}}]}],["$","$L19",null,{"videos":[{"id":"zmUzTZhbNh4","title":"The Sleepy Train | Sleep Music For Babies & Kids | Bedtime Music For Toddlers To Sleep | BabyTV","description":"$1a","channelTitle":"BabyTV | Nursery Rhymes & Kids Songs","channelId":"UCR5j2M9GBkLx5Ox7fr1i6Sg","publishedAt":"2025-02-13T20:42:02Z","duration":"4:00","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/zmUzTZhbNh4/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/zmUzTZhbNh4/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/zmUzTZhbNh4/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/zmUzTZhbNh4/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/zmUzTZhbNh4/maxresdefault.jpg","width":1280,"height":720}}},{"id":"baceM9zGEOA","title":"Hush Little Baby | Magical Glowing Nursery Lullaby for Toddlers 🌟","description":"$1b","channelTitle":"Kidz Wonder TV Show","channelId":"UC_LnnCe2WB6RrPjyGoelaYg","publishedAt":"2026-06-13T17:00:30Z","duration":"9:49","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/baceM9zGEOA/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/baceM9zGEOA/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/baceM9zGEOA/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/baceM9zGEOA/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/baceM9zGEOA/maxresdefault.jpg","width":1280,"height":720},"qhd":{"url":"https://i.ytimg.com/vi/baceM9zGEOA/qhddefault.jpg","width":2560,"height":1440}}},{"id":"NjMw6180BPE","title":"Twinkle, Twinkle, Little Star | Lullaby Songs + MORE Sleepy Newborn Nursery Rhymes & Kids Songs","description":"Twinkle, Twinkle, Little Star | Lullaby Songs + MORE Sleepy Newborn Nursery Rhymes & Kids Songs\n\nWheels on the Bus | New Kids Songs & Nursery Rhymes https://youtu.be/66IKO8jx89w\nBoo Boo Nursery Rhymes https://youtu.be/TlgmbSv69lc\nBaby Sick Song | New Nursery Rhymes https://youtu.be/IE8cbNqn1RI\nSwimming Pool Song | New Nursery Rhymes & Kids Songs https://youtu.be/9vd3FGyqEz4\nTooth Song Nursery Rhymes Compilation https://youtu.be/C3koFeAaE-4\nYes Yes Playground Song - No No Nursery Rhymes & NEW Kids Songs https://youtu.be/vLSFw2Rg6tI\n\nnew nursery rhymes and baby shark song with wheel on the bus goes #nurseryrhymes #kidssongs #Playground\n\n#abcsong\n#rhymes\n#alphabet\n#nurseryrhymes\n#kidssongs\nSong origin: Nursery Rhyme \nSong Rerecord and mix: lalafun\nCopyright © 2022. All rights reserved","channelTitle":"Lalafun - Kinderlieder & Kinderreime","channelId":"UCwRfWpQ6NFX6cBiZA--OMuA","publishedAt":"2024-08-07T10:00:17Z","duration":"7:32","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/NjMw6180BPE/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/NjMw6180BPE/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/NjMw6180BPE/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/NjMw6180BPE/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/NjMw6180BPE/maxresdefault.jpg","width":1280,"height":720}}},{"id":"5BYOVTkZ9hs","title":"Leigha Marina - Rockabye Baby Lullaby","description":"$1c","channelTitle":"LeighaMarinaVEVO","channelId":"UC_N4iqvLAxhFWIKe_ZKZVlA","publishedAt":"2022-11-23T18:39:17Z","duration":"5:33","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/5BYOVTkZ9hs/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/5BYOVTkZ9hs/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/5BYOVTkZ9hs/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/5BYOVTkZ9hs/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/5BYOVTkZ9hs/maxresdefault.jpg","width":1280,"height":720}}},{"id":"mqv4VYPSqTE","title":"आजा निंदिया रानी आजा | Aaja Nindiya Rani Aaja | Baby Sleep Song | Nursery Rhymes | Kids Lullabies","description":"$1d","channelTitle":"Aayu Rhymes","channelId":"UCMf9h-8uCDQCPvackomN9QA","publishedAt":"2023-06-14T04:30:12Z","duration":"6:34","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/mqv4VYPSqTE/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/mqv4VYPSqTE/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/mqv4VYPSqTE/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/mqv4VYPSqTE/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/mqv4VYPSqTE/maxresdefault.jpg","width":1280,"height":720}}},{"id":"VayfO7AT3sg","title":"Twinkle Twinkle Little Toy Stars | Almama Nursery Rhymes & Kids Songs","description":"$1e","channelTitle":"Almama - Nursery Rhymes ","channelId":"UC_RTZtuv9bXBZOAe88-Qu6g","publishedAt":"2025-05-02T08:31:43Z","duration":"6:01","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/VayfO7AT3sg/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/VayfO7AT3sg/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/VayfO7AT3sg/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/VayfO7AT3sg/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/VayfO7AT3sg/maxresdefault.jpg","width":1280,"height":720}}},{"id":"6P7e9bFdXQk","title":"Lavender's Blue Lullaby | Classic Nursery Rhyme for Peaceful Sleep","description":"$1f","channelTitle":"Rhymes & Friends","channelId":"UCxi7wfG_9uiF-nApRPyvhEw","publishedAt":"2024-11-06T20:00:02Z","duration":"5:59","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/6P7e9bFdXQk/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/6P7e9bFdXQk/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/6P7e9bFdXQk/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/6P7e9bFdXQk/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/6P7e9bFdXQk/maxresdefault.jpg","width":1280,"height":720}}},{"id":"k76XelYleyU","title":"Classic Nursery Rhymes Compilation for Kids (12 Minutes) | The Good and the Beautiful Kids","description":"$20","channelTitle":"The Good and the Beautiful Kids","channelId":"UCYatIHPmAyKHtRrr4PquMrg","publishedAt":"2025-08-19T14:30:34Z","duration":"12:42","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/k76XelYleyU/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/k76XelYleyU/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/k76XelYleyU/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/k76XelYleyU/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/k76XelYleyU/maxresdefault.jpg","width":1280,"height":720}}}]}],["$","$L21",null,{}],["$","$L22",null,{"placement":"homepage","context":"kids","ageTreatment":"child"}],["$","section",null,{"className":"space-y-4","children":[["$","div",null,{"children":[["$","h2",null,{"className":"text-2xl sm:text-3xl font-black text-slate-900 tracking-tight","children":"Explore by Category"}],["$","p",null,{"className":"text-xs sm:text-sm font-medium text-slate-500 mt-0.5","children":"Discover topics ranging from catchy songs to science experiments"}]]}],["$","div",null,{"className":"grid grid-cols-1 xs:grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-3.5","children":[["$","$L23","songs",{"category":{"id":"songs","slug":"songs","title":"Songs","ageGroup":"2–4","description":"Fun music & rhymes","query":"kids songs sing along nursery rhymes music","color":"bg-pink-100/70 text-pink-800 border-pink-200","gradient":"from-pink-500 to-rose-500","icon":"Music"}}],["$","$L23","stories",{"category":{"id":"stories","slug":"stories","title":"Stories","ageGroup":"5–7","description":"Magical stories","query":"animated kids stories fairy tales read aloud bedtime","color":"bg-amber-100/70 text-amber-900 border-amber-200","gradient":"from-amber-500 to-orange-500","icon":"BookOpen"}}],["$","$L23","science",{"category":{"id":"science","slug":"science","title":"Science","ageGroup":"8–12","description":"Explore & learn","query":"educational science for kids animals space experiments","color":"bg-cyan-100/70 text-cyan-900 border-cyan-200","gradient":"from-cyan-500 to-blue-500","icon":"Microscope"}}],["$","$L23","creativity",{"category":{"id":"creativity","slug":"creativity","title":"Creativity","ageGroup":"5–7","description":"Art, craft & DIY","query":"kids art drawing tutorials crafts easy","color":"bg-emerald-100/70 text-emerald-900 border-emerald-200","gradient":"from-emerald-500 to-teal-500","icon":"Palette"}}],["$","$L23","learning",{"category":{"id":"learning","slug":"learning","title":"Learning","ageGroup":"2–4","description":"Math, letters & more","query":"alphabet for kids numbers counting phonics","color":"bg-purple-100/70 text-purple-900 border-purple-200","gradient":"from-purple-500 to-indigo-500","icon":"Puzzle"}}],["$","$L23","discovery",{"category":{"id":"discovery","slug":"discovery","title":"Discovery","ageGroup":"8–12","description":"World around us","query":"how things work for kids world history geography","color":"bg-sky-100/70 text-sky-900 border-sky-200","gradient":"from-sky-500 to-blue-600","icon":"Compass"}}],["$","$L23","puzzles",{"category":{"id":"puzzles","slug":"puzzles","title":"Puzzles","ageGroup":"8–12","description":"Brain games","query":"kids riddles coding logic scratch for kids","color":"bg-rose-100/70 text-rose-900 border-rose-200","gradient":"from-rose-500 to-pink-600","icon":"Brain"}}],["$","$L23","movement",{"category":{"id":"movement","slug":"movement","title":"Movement","ageGroup":"2–4","description":"Dance & active play","query":"kids yoga action songs dance workout for kids","color":"bg-blue-100/70 text-blue-900 border-blue-200","gradient":"from-blue-500 to-indigo-600","icon":"Activity"}}]]}]]}],["$","$L24",null,{"featuredVideo":{"id":"8adtdg0N2-g","title":"Ocean Animals for Kids | Learn all about the Animals and Plants that Live in the Ocean","description":"$25","channelTitle":"Learn Bright","channelId":"UCKCsVSA5THlkHbnkZTPm6-g","publishedAt":"2020-10-06T19:10:26Z","duration":"9:42","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/8adtdg0N2-g/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/8adtdg0N2-g/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/8adtdg0N2-g/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/8adtdg0N2-g/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/8adtdg0N2-g/maxresdefault.jpg","width":1280,"height":720}}},"sideVideos":[{"id":"N2s7KjzcoKg","title":"Sea Monsters Of The Past | SciShow Kids","description":"$26","channelTitle":"SciShow Kids","channelId":"UCRFIPG2u1DxKLNuE3y2SjHA","publishedAt":"2023-03-06T11:00:22Z","duration":"6:38","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/N2s7KjzcoKg/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/N2s7KjzcoKg/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/N2s7KjzcoKg/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/N2s7KjzcoKg/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/N2s7KjzcoKg/maxresdefault.jpg","width":1280,"height":720}}},{"id":"75S7Ki_q14c","title":"Explore the layers of the ocean and animals | Science for kids | Ocean science | Jocelyn Presents","description":"$27","channelTitle":"Jocelyn’s Science Lab","channelId":"UCiVUHGYEdNJWxBjXQpx8q9g","publishedAt":"2022-06-16T06:14:01Z","duration":"5:04","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/75S7Ki_q14c/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/75S7Ki_q14c/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/75S7Ki_q14c/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/75S7Ki_q14c/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/75S7Ki_q14c/maxresdefault.jpg","width":1280,"height":720}}},{"id":"1Q_4HXewiS0","title":"4 Amazing Science Experiments for a Day Inside | Compilation | SciShow Kids","description":"Squeaks is very bored, so he shows Mister Brown some of his favorite rainy day experiments!\n\nHosted by: Anthony Brown\n----------\nLove SciShow Kids and want to help support it? Become a Patron on Patreon: \nhttps://www.patreon.com/scishow\n\nIf you have a question for Jessi, Squeaks, and Mister Brown you can write to them here: https://forms.gle/SENBjH9szoLGfrRC9\n----------\nLooking for SciShow elsewhere on the internet?\nFacebook: http://www.facebook.com/scishowkids\nTwitter: http://www.twitter.com/scishowkids\nInstagram: http://instagram.com/thescishow\n\nFun With Blubber: https://www.youtube.com/watch?v=_DQGAcqhkGs\nMake a Balloon Rocket: https://www.youtube.com/watch?v=KMX7zgaLC0w\nMake Your Own Secret Ink: https://www.youtube.com/watch?v=yItH9wyF8YA\nMake Your Own Cartoon!: https://www.youtube.com/watch?v=PKvU2kfGnCE\n\n#ScienceExperimentsForKids","channelTitle":"SciShow Kids","channelId":"UCRFIPG2u1DxKLNuE3y2SjHA","publishedAt":"2020-12-28T14:00:00Z","duration":"17:09","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/1Q_4HXewiS0/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/1Q_4HXewiS0/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/1Q_4HXewiS0/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/1Q_4HXewiS0/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/1Q_4HXewiS0/maxresdefault.jpg","width":1280,"height":720}}}]}],["$","$Lf",null,{"title":"🧠 Learn & Explore","subtitle":"ABC, reading, numbers, space and problem solving","seeAllHref":"/category/learning","videos":[{"id":"fHqjNHxmB7c","title":"ChuChu TV Numbers Song - NEW Short Version - Number Rhymes For Children","description":"$28","channelTitle":"ChuChu TV Nursery Rhymes & Kids Songs","channelId":"UCBnZ16ahKA2DZ_T5W0FPUXg","publishedAt":"2014-08-21T02:57:16Z","duration":"4:12","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/fHqjNHxmB7c/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/fHqjNHxmB7c/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/fHqjNHxmB7c/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/fHqjNHxmB7c/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/fHqjNHxmB7c/maxresdefault.jpg","width":1280,"height":720},"uhd":{"url":"https://i.ytimg.com/vi/fHqjNHxmB7c/uhddefault.jpg","width":3840,"height":2160}}},{"id":"LWtnWjPCFbQ","title":"How to Write Numbers - Learning to Spell and Read Numbers - Counting Numbers from 1 to 10","description":"Hello Kiddos, we've got a great one for you today. In this lesson, you will learn how to write, spell, read and count numbers from 1 to 10. Are you ready to learn with Miss V? Let's get started!","channelTitle":"Kiddos World TV","channelId":"UCRaC_9WVNkT7D4XJrK713Mw","publishedAt":"2023-03-21T12:00:24Z","duration":"16:32","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/LWtnWjPCFbQ/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/LWtnWjPCFbQ/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/LWtnWjPCFbQ/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/LWtnWjPCFbQ/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/LWtnWjPCFbQ/maxresdefault.jpg","width":1280,"height":720}}},{"id":"6g_fjnW77Fs","title":"Learn Numbers and Counting 1 to 10 Flashcards | Number Names for Kids","description":"PARENTS: Free Printable Numbers 1-10 Practice Sheets: https://learning-stepbystep.com/free-number-writing-practice-sheets/\n\nLearn Numbers and Counting 1 to 10 Flashcards | Number Names for Kids\n\nThis video is great for you little ones as it is counting items found in nature from 1 to 10 - items that your little ones can relate to.\n\nThis video is great for teaching kids:\nNumbers one to ten.\nThe math skill of one-to-one correspondence.\nNumber names.\nNature vocabulary.\n\nPlease subscribe for more great videos\nhttps://www.youtube.com/c/learningstepbystep/?sub_confirmation=1","channelTitle":"Learning Step By Step","channelId":"UCHxAE6tw5xYnfucVi-r4btQ","publishedAt":"2021-09-08T13:15:58Z","duration":"4:22","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/6g_fjnW77Fs/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/6g_fjnW77Fs/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/6g_fjnW77Fs/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/6g_fjnW77Fs/sddefault.jpg","width":640,"height":480}}},{"id":"KK6aKpoy7Nw","title":"Spell the Numbers 0-10 | Jack Hartmann","description":"$29","channelTitle":"Jack Hartmann Kids Music Channel","channelId":"UCVcQH8A634mauPrGbWs7QlQ","publishedAt":"2022-06-08T11:00:11Z","duration":"4:52","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/KK6aKpoy7Nw/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/KK6aKpoy7Nw/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/KK6aKpoy7Nw/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/KK6aKpoy7Nw/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/KK6aKpoy7Nw/maxresdefault.jpg","width":1280,"height":720}}},{"id":"4YpHh3e0h7U","title":"Learn Numbers with Number Ice Cream Popsicles - Colors and Numbers Collection","description":"Learn Numbers with Number Ice Cream Popsicle - Colors and Numbers Collection\n\n00:00 - Learn Numbers with Number Ice Cream Popsicles\n02:32 - Learn Colors with 3D Bowling Game \n04:08 - Learn to Count to 20 with Gumball Machine\n07:16 - Learn Colors with Color Stack Rings\n09:16 - Learn Numbers with Water Slide Numbers\n09:45 - Learn Numbers with Building Blocks\n10:26 - Learn Colors with 3D Surprise Eggs and Color Balls\n\n============================================\n  Video: Copyright 2016 Little Brain Works\n============================================","channelTitle":"edubuzzkids","channelId":"UCZBu4SD7RaHHwKJqjtE1KGw","publishedAt":"2016-12-10T10:29:20Z","duration":"11:03","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/4YpHh3e0h7U/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/4YpHh3e0h7U/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/4YpHh3e0h7U/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/4YpHh3e0h7U/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/4YpHh3e0h7U/maxresdefault.jpg","width":1280,"height":720}}},{"id":"bGetqbqDVaA","title":"Big Numbers Song | Count to 100 Song | The Singing Walrus","description":"$2a","channelTitle":"The Singing Walrus - English Songs For Kids","channelId":"UCe1VpF4wS_kdcjyTRSXBcnQ","publishedAt":"2016-08-23T20:19:06Z","duration":"4:23","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/bGetqbqDVaA/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/bGetqbqDVaA/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/bGetqbqDVaA/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/bGetqbqDVaA/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/bGetqbqDVaA/maxresdefault.jpg","width":1280,"height":720}}},{"id":"JT0MmZcJ2Vw","title":"ChuChu TV Classics - Numbers Song - Learn to Count from 1 to 10 | Nursery Rhymes and Kids Songs","description":"$2b","channelTitle":"ChuChu TV Nursery Rhymes & Kids Songs","channelId":"UCBnZ16ahKA2DZ_T5W0FPUXg","publishedAt":"2020-01-03T11:00:06Z","duration":"4:38","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/JT0MmZcJ2Vw/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/JT0MmZcJ2Vw/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/JT0MmZcJ2Vw/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/JT0MmZcJ2Vw/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/JT0MmZcJ2Vw/maxresdefault.jpg","width":1280,"height":720},"uhd":{"url":"https://i.ytimg.com/vi/JT0MmZcJ2Vw/uhddefault.jpg","width":3840,"height":2160}}},{"id":"ioplpq_PpO8","title":"Educational Videos for Kids | Learn ABC Phonics, Numbers, Math Skills & Science Experiments | ","description":"","channelTitle":"Coco Kids Songs & Nursery Rhymes","channelId":"UCEgC0-qWVeI6uQjaieZBbJQ","publishedAt":"2026-03-12T05:22:58Z","duration":"11:08","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/ioplpq_PpO8/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/ioplpq_PpO8/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/ioplpq_PpO8/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/ioplpq_PpO8/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/ioplpq_PpO8/maxresdefault.jpg","width":1280,"height":720}}}]}],["$","$Lf",null,{"title":"🌙 Bedtime & Calm","subtitle":"Bedtime stories, lullabies and quiet relaxing music","seeAllHref":"/category/stories","videos":[{"id":"L77IDc1kJBc","title":"Goodnight Ocean  🌊 THE ULTIMATE Calming Bedtime Stories for Babies and Toddlers with Relaxing Music","description":"$2c","channelTitle":"Bedtime Story Co","channelId":"UCRT_sLdaDac745TdA5moaIA","publishedAt":"2023-04-05T20:31:32Z","duration":"5:47","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/L77IDc1kJBc/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/L77IDc1kJBc/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/L77IDc1kJBc/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/L77IDc1kJBc/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/L77IDc1kJBc/maxresdefault.jpg","width":1280,"height":720}}},{"id":"UzAvcmgsKMs","title":"Goodnight Zoo: Soothing Bedtime Story for Toddlers & Babies about Animals 📖 💤","description":"$2d","channelTitle":"Bedtime Story Co","channelId":"UCRT_sLdaDac745TdA5moaIA","publishedAt":"2023-03-11T00:23:51Z","duration":"5:41","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/UzAvcmgsKMs/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/UzAvcmgsKMs/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/UzAvcmgsKMs/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/UzAvcmgsKMs/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/UzAvcmgsKMs/maxresdefault.jpg","width":1280,"height":720}}},{"id":"lmwRkzNpij0","title":"Ava and the Friendly Dinosaur 🐉💤The COZIEST Sleepy Story 💤 Non-Stimulating CUTE Story for Kids","description":"In tonight's cozy bedtime story for kids, Ava discovers a friendly apatosaurus in her dreams and they go on a nighttime adventure. Enjoy the coziest sleepy story.\n\n✨ Features:\n- Relaxing music to create a tranquil atmosphere\n- Soft narration to ease your child into dreamland\n- Beautiful animations to capture young imaginations\n\n✏️ Credits\nNarrated by: Kristen Pual\nWritten by: Laila Weir\n\nWelcome to Snuggle! A calming story-telling channel for kids! Enter a cozy world of imagination perfect for bedtime, quiet time, or any time you want to embark on an enchanting adventure. Enjoy tonight's story for kids!\n\nLearn more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠slumberstudios.com/snuggle⁠⁠⁠⁠⁠","channelTitle":"Snuggle","channelId":"UCwhpLTRxhrr0pR2eCV-t53Q","publishedAt":"2025-07-13T15:01:16Z","duration":"16:21","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/lmwRkzNpij0/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/lmwRkzNpij0/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/lmwRkzNpij0/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/lmwRkzNpij0/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/lmwRkzNpij0/maxresdefault.jpg","width":1280,"height":720}}},{"id":"fmZ54EaTlEk","title":"🐤The Very Sleepy Duckling🐤The CUTEST Story for Sleep 💤💤💤","description":"If you liked  The Very Sleepy Duckling, check out this story too: https://youtu.be/XIVJFxq9cOs\n\nIs your little one struggling to fall asleep? Join Mimi, the sleepy duckling in this calming bedtime story perfect for relaxing and falling asleep! \n\n🐤 Spend a relaxing day with a very sleepy duckling named Mimi.\n\nNarrated by: Evie Brown\nWritten by: Shady Grove Oliver\n\n✨ Features:\n- Relaxing music to create a tranquil atmosphere\n- Soft narration to ease your child into dreamland\n- Beautiful animations to capture young imaginations\n\n✏️ Credits\nNarrated by: Andrew Bond\nWritten by: Alexandra Turney\n\nWelcome to Snuggle! A calming story-telling channel for kids! Enter a cozy world of imagination perfect for bedtime, quiet time, or any time you want to embark on an enchanting adventure.\n\nLearn more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠slumberstudios.com/snuggle⁠⁠⁠⁠⁠","channelTitle":"Snuggle","channelId":"UCwhpLTRxhrr0pR2eCV-t53Q","publishedAt":"2025-03-02T17:00:48Z","duration":"19:44","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/fmZ54EaTlEk/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/fmZ54EaTlEk/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/fmZ54EaTlEk/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/fmZ54EaTlEk/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/fmZ54EaTlEk/maxresdefault.jpg","width":1280,"height":720}}},{"id":"udbhPb2dtZo","title":"Bedtime Stories | Sleepytime | Kids Book Read Aloud","description":"$2e","channelTitle":"Books with Bink and Dayn","channelId":"UCIu1sLUCCmYocgdvWWtBbqQ","publishedAt":"2025-01-13T06:16:12Z","duration":"6:14","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/udbhPb2dtZo/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/udbhPb2dtZo/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/udbhPb2dtZo/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/udbhPb2dtZo/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/udbhPb2dtZo/maxresdefault.jpg","width":1280,"height":720}}},{"id":"gEHxO312zWQ","title":"The Rain Fairy 🌧️ | Bedtime Story with Soothing Rain Sounds for Kids 🌙","description":"🌧️✨ Looking for the perfect bedtime story to help kids sleep peacefully? \"The Rain Fairy\" is a magical sleep story with gentle rain sounds to relax little ones and spark their imagination.\n\nJoin Lily as she meets the enchanting Rain Fairy, who brings soft showers to the world. This calming bedtime fairy tale is designed to soothe, comfort, and create a cozy nighttime atmosphere.\n\n💤 Perfect for:\n✔️ Bedtime, nap time, or relaxation\n✔️ Helping kids sleep faster with soft rain sounds\n✔️ Encouraging imagination & a love for storytelling\n\n🎶 What's inside?\n00:00 - 00:06: Intro\n00:07 - 07:54: The Rain Fairy - A Relaxing Sleep Story\n07:55 - 15:56: Sleep music with gentle rain sounds\n\n🎧 Press play now and let your child enjoy this peaceful sleep story with soothing rain sounds and fairy tale magic! 🌙✨\n\n#bedtimestory #rainsoundsforsleeping #kidsstory #sleepystory #gentlerainsounds #calmbedtime #relaxingstories #sweetdreams #storyforkids #sleepstoryforkids #bedtimestoriesforkids #soothingbedtime #sleepmusicforkids","channelTitle":"EduTales For Kids","channelId":"UCcETp-qZTFEHTSaPCVP7G3g","publishedAt":"2025-03-31T21:30:05Z","duration":"15:57","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/gEHxO312zWQ/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/gEHxO312zWQ/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/gEHxO312zWQ/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/gEHxO312zWQ/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/gEHxO312zWQ/maxresdefault.jpg","width":1280,"height":720}}},{"id":"ZVWwSZeoPYM","title":"🐰 The Moon Rabbit 🐰 Bedtime Story for Kids - Relaxing Sleepy Story","description":"Is your little one struggling to fall asleep? In tonight's bedtime story for kids, a bedtime wish goes on a quest to find the Moon Rabbit one starry night. Enjoy this relaxing sleepy story, perfect for falling asleep! \n\n✨ Features:\n- Relaxing music to create a tranquil atmosphere\n- Soft narration to ease your child into dreamland\n- Beautiful animations to capture young imaginations\n\n✏️ Credits\nNarrated by: Simon Mattacks\nWritten by: Lottie Finklaire\n\nWelcome to Snuggle! A calming story-telling channel for kids! Enter a cozy world of imagination perfect for bedtime, quiet time, or any time you want to embark on an enchanting adventure. Enjoy tonight's story for kids!\n\nLearn more at ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠slumberstudios.com/snuggle⁠⁠⁠⁠⁠","channelTitle":"Snuggle","channelId":"UCwhpLTRxhrr0pR2eCV-t53Q","publishedAt":"2024-09-22T15:00:34Z","duration":"17:00","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/ZVWwSZeoPYM/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/ZVWwSZeoPYM/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/ZVWwSZeoPYM/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/ZVWwSZeoPYM/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/ZVWwSZeoPYM/maxresdefault.jpg","width":1280,"height":720}}},{"id":"hGdZ90148_4","title":"PAW Patrol Soars Into Dreamland Podcast! 😴 Goodnight Bedtime Stories #1 | Nick Jr. Music","description":"$2f","channelTitle":"Nick Jr. Music","channelId":"UCfaDfNjc_vyY3iq_5MFqDVA","publishedAt":"2024-07-05T12:00:53Z","duration":"13:37","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/hGdZ90148_4/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/hGdZ90148_4/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/hGdZ90148_4/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/hGdZ90148_4/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/hGdZ90148_4/maxresdefault.jpg","width":1280,"height":720}}}]}],["$","$Lf",null,{"title":"🎨 Creative Corner","subtitle":"Drawing, crafts, music, dance and DIY imagination","seeAllHref":"/category/creativity","videos":[{"id":"vjMHleB-Mlw","title":"Kid's Painting Ideas w/ Danny Go! 🎨/// Colors, Shapes, Animals + Counting","description":"$30","channelTitle":"Danny Go!","channelId":"UC3wCAOfSB0W9iuKDDtNJeGw","publishedAt":"2019-10-05T10:30:02Z","duration":"10:12","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/vjMHleB-Mlw/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/vjMHleB-Mlw/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/vjMHleB-Mlw/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/vjMHleB-Mlw/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/vjMHleB-Mlw/maxresdefault.jpg","width":1280,"height":720}}},{"id":"riToDDP1tJ8","title":"Easy Drawing Lessons for Kids｜Creativity & Imagination｜Lesson1","description":"Hello! It’s Cat Play Art.\nNurturing Creativity & Imagination for Child Development.\nEnjoy drawing.\nPlease join my channel.\nThanks for watching ♡\nDon't forget to Subscribe & Like.\n\n#catplayart #draw #kids #paint #painting #creativity #Imagination #children #color #learncolors  #drawing #colour #colouring #picture #art","channelTitle":"Cat Play Art","channelId":"UCDb6yQ4558OYPIqWzAqMyOA","publishedAt":"2019-08-29T06:16:53Z","duration":"4:58","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/riToDDP1tJ8/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/riToDDP1tJ8/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/riToDDP1tJ8/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/riToDDP1tJ8/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/riToDDP1tJ8/maxresdefault.jpg","width":1280,"height":720}}},{"id":"EctP6TLptXI","title":"Imagination Painting For Kids | DIY Acrylic Painting | Home Arts","description":"It' another painting session again for Idrielle! This time, he is using his imagination to create his own painting.. Pease watch the whole video and give him a thumb up!\n--------------------------------------------\nCredits:\n\nTrack: Slow — Declan DP [Audio Library Release]\nMusic provided by Audio Library Plus\nWatch: https://youtu.be/AEiXPfjTRck\nFree Download / Stream: https://alplus.io/slow\n\n--------------------------------------------\nDid you enjoy our videos? Please don't leave without hitting the like and subscribe button.. May we request you to click on the notification bell for you to be informed whenever we upload our newest video..\n\nThank you and please continue to support our family!\n\nGod bless us!","channelTitle":"The Jurquibs","channelId":"UC5XSRxktIRep5cF8pqwtZaQ","publishedAt":"2021-07-26T08:45:13Z","duration":"13:02","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/EctP6TLptXI/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/EctP6TLptXI/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/EctP6TLptXI/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/EctP6TLptXI/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/EctP6TLptXI/maxresdefault.jpg","width":1280,"height":720}}},{"id":"wfMj0v6gw18","title":"Easy Drawing Lessons for Kids｜Creativity & Imagination｜Lesson 3","description":"Hello! It’s Cat Play Art.\nNurturing Creativity & Imagination for Child Development.\nEnjoy drawing.\nPlease join my channel.\nThanks for watching ♡\nDon't forget to Subscribe & Like.\n\nMusic: https://www.bensound.com\n#catplayart #draw #kids #paint #painting #creativity #Imagination #children #color #learncolors  #drawing #colour #colouring #picture #art","channelTitle":"Cat Play Art","channelId":"UCDb6yQ4558OYPIqWzAqMyOA","publishedAt":"2019-09-17T10:57:00Z","duration":"4:55","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/wfMj0v6gw18/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/wfMj0v6gw18/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/wfMj0v6gw18/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/wfMj0v6gw18/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/wfMj0v6gw18/maxresdefault.jpg","width":1280,"height":720}}},{"id":"6QL0sQzLuMk","title":"Rajasthani musician wall hanging showpiece | wall decoration ideas | paper craft | diy home decor","description":"$31","channelTitle":"Kalyani's corner","channelId":"UCqe3-9srGs_JY9hyuHrhWHg","publishedAt":"2022-03-06T06:47:09Z","duration":"6:18","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/6QL0sQzLuMk/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/6QL0sQzLuMk/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/6QL0sQzLuMk/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/6QL0sQzLuMk/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/6QL0sQzLuMk/maxresdefault.jpg","width":1280,"height":720}}},{"id":"XgRK1e_JsqU","title":"How to paint folk art || For kids || Easy || Beautiful decoration || Payal  imagining world ||","description":"So guys in this video I tell how to paint a folk art for kids please like and subscribe my YouTube channel \n\n\n#painting # art and craft # folk art \n\n\nplease like and subscribe my YouTube channel if you are watching my videos \n\nStay safe \ntake care \n\nBye!","channelTitle":"Payal imagining world","channelId":"UCL8e5PRmRxLC3dNO0RMYUiw","publishedAt":"2021-09-12T08:34:55Z","duration":"6:01","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/XgRK1e_JsqU/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/XgRK1e_JsqU/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/XgRK1e_JsqU/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/XgRK1e_JsqU/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/XgRK1e_JsqU/maxresdefault.jpg","width":1280,"height":720}}},{"id":"E6UlBVKp9EA","title":"DIY - Independence day card making ideas / Independence day special greeting card handmade","description":"Materials used and purchase link\n\nA4 colour paper :\nhttps://amzn.to/4cRjJ18\nhttps://amzn.to/418zOIp\n\nA4 plain white paper :\nhttps://amzn.to/4sUgdI1\n\nTripod for mobile :\nhttps://amzn.to/47NzhiK\n\nMini table :\nhttps://amzn.to/4uzG09R\n\nGlue :\nhttps://amzn.to/47oV3cP\nhttps://amzn.to/3P4Vq5Z\n\nStapler :\nhttps://amzn.to/4lxNaaF\n\nPaper punch :\nhttps://amzn.to/418zOIp\n\nScissors :\nhttps://amzn.to/4bnVpTr\n\nColours :\nhttps://amzn.to/4bywnjd\nhttps://amzn.to/4lxk2jV\n\nScales :\nhttps://amzn.to/3Nr7gqk\n\nShape cutters :\nhttps://amzn.to/3Pmdp7R\n\nStickers :\nhttps://amzn.to/4s9gqqJ\nhttps://amzn.to/476Zclj\nhttps://amzn.to/4lAintJ\nhttps://amzn.to/4lBBUtV\n\nSingle and Double sided tape :\nhttps://amzn.to/3NHVIiH\nhttps://amzn.to/4rE5O1Y\n\nDIY - Crafts And Kutir\n\nDIY - Independence day card making ideas / Independence day special greeting card handmade\n\n#independencedaycardmaking\n#diyindependencedaycard\n#independencedaycraftideas","channelTitle":"Crafts And Kutir","channelId":"UCwKiy8Mr1u3EriubG3Nv-wQ","publishedAt":"2021-08-07T05:37:49Z","duration":"5:56","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/E6UlBVKp9EA/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/E6UlBVKp9EA/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/E6UlBVKp9EA/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/E6UlBVKp9EA/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/E6UlBVKp9EA/maxresdefault.jpg","width":1280,"height":720}}},{"id":"CJgOxZIcvKs","title":"100+ Viksit Bharat Amazing Drawings/Mere Sapno ka Bharat Poster/Viksit Bharat 2047 Poster Drawings","description":"$32","channelTitle":"Dear Pari","channelId":"UCM_yxcL0imdBX8FaGRAgSHw","publishedAt":"2026-09-24T06:15:33Z","duration":"8:31","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/CJgOxZIcvKs/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/CJgOxZIcvKs/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/CJgOxZIcvKs/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/CJgOxZIcvKs/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/CJgOxZIcvKs/maxresdefault.jpg","width":1280,"height":720}}}]}],["$","$L33",null,{"videos":[{"id":"ko6GBC4bHQA","title":"ABC Song + Learning Songs For Toddlers | Alphabet, Numbers & More Nursery Rhymes | NuNu TV","description":"$34","channelTitle":"NuNu Tv Nursery Rhymes","channelId":"UCMEVZK5J38upc4XiRO3sqWQ","publishedAt":"2025-05-20T05:30:22Z","duration":"17:43","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/ko6GBC4bHQA/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/ko6GBC4bHQA/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/ko6GBC4bHQA/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/ko6GBC4bHQA/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/ko6GBC4bHQA/maxresdefault.jpg","width":1280,"height":720}}},{"id":"36IBDpTRVNE","title":"Alphabet Song | ABC Song | Phonics Song","description":"Teachers: get this Alphabet Song video free for your classroom. No ads, no YouTube needed 👉 https://www.havefunteaching.com/resource/alphabet-song-original-music-video/\n\nAlphabet song for kids! This original ABC song by Have Fun Teaching teaches the alphabet, letter sounds, and uppercase and lowercase letters. It's a favorite in preschool, kindergarten and first grade classrooms for circle time, morning meeting and phonics practice.\n\n🎵 More alphabet songs, worksheets & activities: https://www.havefunteaching.com/resources/phonics/alphabet/\n📚 10,000+ teaching resources for PreK–6th grade: https://www.havefunteaching.com/\n\n▶️ Watch the animated version: https://www.youtube.com/watch?v=7U4Ugu1Y1u0\n\n🔔 Subscribe: https://www.youtube.com/havefunteaching?sub_confirmation=1\n🎧 Apple Music: https://music.apple.com/us/artist/have-fun-teaching/330080674\n📌 Pinterest: https://www.pinterest.com/havefunteaching/\n👍 Facebook: https://www.facebook.com/havefunteaching/\n\n#AlphabetSong #ABCSong #HaveFunTeaching","channelTitle":"Have Fun Teaching","channelId":"UC1jhiDqp-jIYR07Ini8Jamw","publishedAt":"2010-08-06T21:47:43Z","duration":"4:37","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/36IBDpTRVNE/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/36IBDpTRVNE/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/36IBDpTRVNE/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/36IBDpTRVNE/sddefault.jpg","width":640,"height":480}}},{"id":"3xEXxSpxp08","title":"Ice Cream Truck Song | Nina and Nico | Little Angel And Friends Fun Educational Songs","description":"Nina and Nico see the ice cream truck passing in the neighbourhood and want some for themselves! There are so many different flavours and colours! Watch as the whole family enjoyS the yummy ice cream.\n#babyjohn #singalongs #educationalsongs\n\nSubscribe to Little Angel for New Videos ►► http://bit.ly/Subscribe_to_LittleAngel (🔔)\nSubscribe to Little World Adventures ►► http://bit.ly/Subscribe_to_LITTLE_WORLD (🔔)\nSubscribe to Little Angel & Friends – Kids Songs for New Videos ►► https://www.youtube.com/channel/UCvksjnr7kInzcIjMpJpqF2A?sub_confirmation=1 \n\nThese rhymes for children help teach basic skills and improves their ability to comprehend and follow directions. Nursery rhymes and kid’s songs accelerate phonetic awareness improving children's word comprehension, reading and writing skills. \n\nAnimations by: Valnet Inc. \nCopyright 2022 Valnet","channelTitle":"Little Angel: Nursery Rhymes & Kids Songs","channelId":"UCvksjnr7kInzcIjMpJpqF2A","publishedAt":"2022-02-01T12:00:04Z","duration":"15:07","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/3xEXxSpxp08/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/3xEXxSpxp08/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/3xEXxSpxp08/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/3xEXxSpxp08/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/3xEXxSpxp08/maxresdefault.jpg","width":1280,"height":720}}},{"id":"JT0MmZcJ2Vw","title":"ChuChu TV Classics - Numbers Song - Learn to Count from 1 to 10 | Nursery Rhymes and Kids Songs","description":"$35","channelTitle":"ChuChu TV Nursery Rhymes & Kids Songs","channelId":"UCBnZ16ahKA2DZ_T5W0FPUXg","publishedAt":"2020-01-03T11:00:06Z","duration":"4:38","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/JT0MmZcJ2Vw/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/JT0MmZcJ2Vw/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/JT0MmZcJ2Vw/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/JT0MmZcJ2Vw/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/JT0MmZcJ2Vw/maxresdefault.jpg","width":1280,"height":720},"uhd":{"url":"https://i.ytimg.com/vi/JT0MmZcJ2Vw/uhddefault.jpg","width":3840,"height":2160}}},{"id":"__s8drn63XU","title":"Five Little Ducks | Kids Songs | BluLoo Nursery Rhymes & Kids Songs","description":"$36","channelTitle":"BluSleep","channelId":"UCwTXwiE16pKER31OgtjeOkA","publishedAt":"2024-08-20T12:41:45Z","duration":"11:45","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/__s8drn63XU/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/__s8drn63XU/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/__s8drn63XU/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/__s8drn63XU/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/__s8drn63XU/maxresdefault.jpg","width":1280,"height":720}}},{"id":"LiD67tAmd98","title":"Learn Colors with Color Stack Rings and More Colours Videos for Children","description":"Learn Colors with Color Stack Rings and More Colours Videos for Children","channelTitle":"edubuzzkids","channelId":"UCZBu4SD7RaHHwKJqjtE1KGw","publishedAt":"2016-10-15T13:37:39Z","duration":"14:57","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/LiD67tAmd98/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/LiD67tAmd98/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/LiD67tAmd98/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/LiD67tAmd98/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/LiD67tAmd98/maxresdefault.jpg","width":1280,"height":720}}},{"id":"4NkNrGwqsiE","title":"Learn Shapes & Numbers Wooden Slider Tumbling Toys | Preschool Kids Learning 3D Educational Toddler","description":"Watch Learn Shapes & Numbers Wooden Slider Tumbling Toys | Preschool Kids Learning 3D Educational Toddler.\n\n#learnshapes #shapesforkids #educational #kidsvideos #colorsfortoddlers #kidslearning \n\nThanks for watching\nPlease Like! & Share\nFor more Updates and Videos\nSubscribe to us: https://goo.gl/qQOSTh\n\nFollow Us In Other Social Sites...\nBlogger: https://goo.gl/kdQkgV\nInstagram: https://goo.gl/4RaDvg\nTwitter: https://twitter.com/supercrazykids\nFb: https://www.facebook.com/supercrazykidss/\nPinterest: https://www.pinterest.com/supercrazykidss/super-crazy-kids/","channelTitle":"Super Crazy Kids","channelId":"UC2RNg_QGZriSGQo6enPLpeQ","publishedAt":"2024-05-02T11:00:04Z","duration":"17:14","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/4NkNrGwqsiE/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/4NkNrGwqsiE/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/4NkNrGwqsiE/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/4NkNrGwqsiE/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/4NkNrGwqsiE/maxresdefault.jpg","width":1280,"height":720}}},{"id":"qMkXnwRlpRo","title":"Learn Colors With Lucas and Ruby | Learning Video For Toddlers | 🌈 Colour For Kids RV AppStudios","description":"$37","channelTitle":"Toddler Learning Videos For Kids - Lucas & Friends","channelId":"UCYqksDldZTkKmsrBb4OGJ9g","publishedAt":"2022-04-01T08:45:40Z","duration":"15:15","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/qMkXnwRlpRo/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/qMkXnwRlpRo/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/qMkXnwRlpRo/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/qMkXnwRlpRo/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/qMkXnwRlpRo/maxresdefault.jpg","width":1280,"height":720}}}]}],["$","$L38",null,{}]]}]

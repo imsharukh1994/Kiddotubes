@@ -23,24 +23,34 @@ fun CategoryCard(
     onCategoryClick: (String) -> Unit,
     modifier: Modifier = Modifier
 ) {
-    val bgColor = try {
+    val primaryColor = try {
         Color(android.graphics.Color.parseColor(category.colorHex))
     } catch (e: Exception) {
         Color(0xFF7C3AED)
     }
 
+    val iconEmoji = when (category.slug) {
+        "2-4" -> "👶"
+        "5-7" -> "🎨"
+        "8-12" -> "🚀"
+        "nursery-rhymes" -> "🎵"
+        "learning" -> "🧮"
+        "science" -> "🔬"
+        else -> "✨"
+    }
+
     Card(
         modifier = modifier
-            .fillMaxWidth()
+            .width(160.dp)
             .clickable { onCategoryClick(category.slug) },
-        shape = RoundedCornerShape(24.dp),
-        colors = CardDefaults.cardColors(containerColor = bgColor),
-        elevation = CardDefaults.cardElevation(defaultElevation = 4.dp)
+        shape = RoundedCornerShape(22.dp),
+        colors = CardDefaults.cardColors(containerColor = primaryColor),
+        elevation = CardDefaults.cardElevation(defaultElevation = 6.dp)
     ) {
         Column(
             modifier = Modifier
                 .fillMaxWidth()
-                .padding(18.dp)
+                .padding(14.dp)
         ) {
             Row(
                 modifier = Modifier.fillMaxWidth(),
@@ -48,26 +58,32 @@ fun CategoryCard(
                 verticalAlignment = Alignment.CenterVertically
             ) {
                 Surface(
-                    shape = RoundedCornerShape(12.dp),
+                    shape = RoundedCornerShape(10.dp),
                     color = Color.White.copy(alpha = 0.25f)
                 ) {
                     Text(
                         text = "AGE ${category.ageGroup}",
                         color = Color.White,
-                        fontWeight = FontWeight.Black,
-                        fontSize = 11.sp,
-                        modifier = Modifier.padding(horizontal = 10.dp, vertical = 4.dp)
+                        fontWeight = FontWeight.ExtraBold,
+                        fontSize = 10.sp,
+                        modifier = Modifier.padding(horizontal = 8.dp, vertical = 3.dp)
                     )
                 }
+
+                Text(
+                    text = iconEmoji,
+                    fontSize = 20.sp
+                )
             }
 
-            Spacer(modifier = Modifier.height(12.dp))
+            Spacer(modifier = Modifier.height(10.dp))
 
             Text(
                 text = category.title,
                 color = Color.White,
                 fontWeight = FontWeight.Black,
-                fontSize = 20.sp
+                fontSize = 17.sp,
+                maxLines = 1
             )
 
             Spacer(modifier = Modifier.height(4.dp))
@@ -75,9 +91,10 @@ fun CategoryCard(
             Text(
                 text = category.description,
                 color = Color.White.copy(alpha = 0.9f),
-                fontSize = 12.sp,
+                fontSize = 11.sp,
                 fontWeight = FontWeight.Medium,
-                maxLines = 2
+                maxLines = 2,
+                lineHeight = 15.sp
             )
         }
     }

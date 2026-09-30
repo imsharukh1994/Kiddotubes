@@ -7,6 +7,13 @@ import Link from 'next/link';
 import { ArrowLeft, ShieldCheck, Sparkles } from 'lucide-react';
 import type { Metadata } from 'next';
 
+export async function generateStaticParams() {
+  const ageSlugs = ['0-2', '2-4', '5-7', '8-12'];
+  const categorySlugs = CATEGORIES.map((c) => c.slug);
+  const allSlugs = Array.from(new Set([...ageSlugs, ...categorySlugs]));
+  return allSlugs.map((slug) => ({ category: slug }));
+}
+
 interface CategoryPageProps {
   params: {
     category: string;

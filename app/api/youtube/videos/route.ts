@@ -1,6 +1,8 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { getVideoDetailsByIds, getSingleVideoDetails } from '@/lib/youtube';
 
+export const dynamic = 'force-static';
+
 export async function GET(request: NextRequest) {
   const { searchParams } = new URL(request.url);
   const ids = searchParams.get('ids');

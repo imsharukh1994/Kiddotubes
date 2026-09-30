@@ -8,11 +8,22 @@ import java.util.concurrent.TimeUnit
 
 object RetrofitClient {
 
-    // Default to Android Emulator loopback host for Next.js dev server running on port 3000
-    private var baseUrl: String = "http://10.0.2.2:3000/"
+    private const val DEFAULT_BASE_URL = "http://10.0.2.2:3000/"
+    private var baseUrl: String = DEFAULT_BASE_URL
+
+    fun init(context: android.content.Context) {
+        val prefs = context.getSharedPreferences("kiddotube_prefs", android.content.Context.MODE_PRIVATE)
+        val savedUrl = prefs.getString("custom_backend_url", null)
+        if (!savedUrl.isNullOrEmpty() && savedUrl.isNotBlank()) {
+            setCustomBaseUrl(savedUrl)
+        }
+    }
+
+    fun getBaseUrl(): String = baseUrl
 
     fun setCustomBaseUrl(url: String) {
-        baseUrl = if (url.endsWith("/")) url else "$url/"
+        val cleanUrl = url.trim()
+        baseUrl = if (cleanUrl.endsWith("/")) cleanUrl else "$cleanUrl/"
         apiService = createService()
     }
 
@@ -22,8 +33,8 @@ object RetrofitClient {
 
     private val okHttpClient = OkHttpClient.Builder()
         .addInterceptor(loggingInterceptor)
-        .connectTimeout(15, TimeUnit.SECONDS)
-        .readTimeout(15, TimeUnit.SECONDS)
+        .connectTimeout(8, TimeUnit.SECONDS)
+        .readTimeout(8, TimeUnit.SECONDS)
         .build()
 
     private fun createService(): KiddoTubeApiService {

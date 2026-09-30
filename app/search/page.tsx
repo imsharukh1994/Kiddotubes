@@ -1,29 +1,56 @@
-import React from 'react';
+'use client';
+
+import React, { Suspense, useEffect, useState } from 'react';
+import { useSearchParams } from 'next/navigation';
 import SearchBar from '@/components/SearchBar';
 import VideoCard from '@/components/VideoCard';
 import EmptyState from '@/components/EmptyState';
-import { searchYouTubeVideos } from '@/lib/youtube';
 import Link from 'next/link';
-import { ArrowLeft, Search, ShieldCheck } from 'lucide-react';
-import type { Metadata } from 'next';
+import { ArrowLeft, Search, ShieldCheck, Loader2 } from 'lucide-react';
+import { VideoItem } from '@/types/youtube';
+import { getApiUrl } from '@/lib/api-config';
 
-interface SearchPageProps {
-  searchParams: {
-    q?: string;
-  };
-}
+function SearchContent() {
+  const searchParams = useSearchParams();
+  const query = searchParams.get('q') || '';
 
-export async function generateMetadata({ searchParams }: SearchPageProps): Promise<Metadata> {
-  const query = searchParams.q || 'Kids Videos';
-  return {
-    title: `Search results for "${query}" — KiddoTube`,
-    description: `Safe YouTube video search results for ${query} on KiddoTube.`,
-  };
-}
+  const [videos, setVideos] = useState<VideoItem[]>([]);
+  const [loading, setLoading] = useState(false);
 
-export default async function SearchPage({ searchParams }: SearchPageProps) {
-  const query = searchParams.q || '';
-  const videos = query ? await searchYouTubeVideos(query, 16) : [];
+  useEffect(() => {
+    if (!query) {
+      setVideos([]);
+      return;
+    }
+
+    let isMounted = true;
+    setLoading(true);
+
+    const apiUrl = getApiUrl(`/api/youtube/search?q=${encodeURIComponent(query)}&limit=16`);
+    fetch(apiUrl)
+      .then((res) => res.json())
+      .then((data) => {
+        if (isMounted) {
+          if (data && data.success && Array.isArray(data.data)) {
+            setVideos(data.data);
+          } else {
+            setVideos([]);
+          }
+          setLoading(false);
+        }
+      })
+      .catch((err) => {
+        console.error('Failed to search videos:', err);
+        if (isMounted) {
+          setVideos([]);
+          setLoading(false);
+        }
+      });
+
+    return () => {
+      isMounted = false;
+    };
+  }, [query]);
 
   return (
     <div className="space-y-8 pb-8">
@@ -61,7 +88,11 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
       </div>
 
       {/* Video Grid */}
-      {!query ? (
+      {loading ? (
+        <div className="flex items-center justify-center p-12">
+          <Loader2 className="w-8 h-8 text-purple-600 animate-spin" />
+        </div>
+      ) : !query ? (
         <EmptyState
           title="Type Something to Search!"
           description="Enter a search term above like 'nursery rhymes', 'dinosaurs', or 'space' to find kid-friendly videos."
@@ -83,5 +114,13 @@ export default async function SearchPage({ searchParams }: SearchPageProps) {
         />
       )}
     </div>
+  );
+}
+
+export default function SearchPage() {
+  return (
+    <Suspense fallback={<div className="p-8 text-center text-slate-500">Loading search...</div>}>
+      <SearchContent />
+    </Suspense>
   );
 }

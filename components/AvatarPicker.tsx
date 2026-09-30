@@ -3,6 +3,7 @@
 import React, { useState } from 'react';
 import Image from 'next/image';
 import { Sparkles, Wand2, Check, RefreshCw, Palette } from 'lucide-react';
+import { getApiUrl } from '@/lib/api-config';
 
 export interface AvatarOption {
   id: string;
@@ -76,7 +77,7 @@ export default function AvatarPicker({ selectedAvatar, onSelectAvatar }: AvatarP
 
     setIsGenerating(true);
     try {
-      const res = await fetch('/api/avatar/generate', {
+      const res = await fetch(getApiUrl('/api/avatar/generate'), {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ prompt: customPrompt.trim() }),

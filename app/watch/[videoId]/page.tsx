@@ -10,6 +10,11 @@ import WatchTracker from './WatchTracker';
 import { ArrowLeft, Sparkles, ShieldCheck, Clock } from 'lucide-react';
 import type { Metadata } from 'next';
 
+export async function generateStaticParams() {
+  const fallbackIds = ['_slpLnBoHek', 'fC7oUOUEEi4', 'XqZsoesa55w', 't0Q2otsqC4I', '30pY7-F-JdI', '71h8MZKFkt4', 'dp1_xV0-R0k', 'hTqtGJwsJVE'];
+  return fallbackIds.map((id) => ({ videoId: id }));
+}
+
 interface WatchPageProps {
   params: {
     videoId: string;

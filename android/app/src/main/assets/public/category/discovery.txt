@@ -1,0 +1,455 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[575,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","106","static/chunks/106-47a5a1efa19d79a5.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-3af544ae5eabb728.js"],"AuthProvider"]
+7:I[1196,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","106","static/chunks/106-47a5a1efa19d79a5.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-3af544ae5eabb728.js"],"TimerProvider"]
+8:I[842,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","106","static/chunks/106-47a5a1efa19d79a5.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-3af544ae5eabb728.js"],"default"]
+9:I[8349,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","106","static/chunks/106-47a5a1efa19d79a5.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-3af544ae5eabb728.js"],"default"]
+a:I[6733,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","106","static/chunks/106-47a5a1efa19d79a5.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-3af544ae5eabb728.js"],"default"]
+b:I[3633,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","106","static/chunks/106-47a5a1efa19d79a5.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-3af544ae5eabb728.js"],"default"]
+c:I[833,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","106","static/chunks/106-47a5a1efa19d79a5.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-3af544ae5eabb728.js"],"default"]
+d:I[5050,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","106","static/chunks/106-47a5a1efa19d79a5.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-3af544ae5eabb728.js"],"default"]
+4:["category","discovery","d"]
+0:["y0cAsLvuXZ_zKYR9RIhIS",[[["",{"children":["category",{"children":[["category","discovery","d"],{"children":["__PAGE__?{\"category\":\"discovery\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["category",{"children":[["category","discovery","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","category","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","category","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/65022725ca4d158e.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_ed3508","children":["$","body",null,{"className":"bg-[#F8FAFC] text-slate-900 font-sans min-h-screen flex flex-col antialiased","children":["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","main",null,{"className":"flex-1 max-w-[1440px] w-full mx-auto px-4 xs:px-5 sm:px-8 lg:px-12 py-4 sm:py-8","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}]]}]}]}]}]],null],null],["$Le",null]]]]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Discovery Videos — KiddoTube"}],["$","meta","3",{"name":"description","content":"World around us"}],["$","meta","4",{"name":"keywords","content":"Kids Videos,KiddoTube,Educational Videos,Nursery Rhymes,Safe Content Discovery"}],["$","link","5",{"rel":"shortcut icon","href":"/images/favicon.png"}],["$","link","6",{"rel":"icon","href":"/images/favicon.png"}],["$","link","7",{"rel":"apple-touch-icon","href":"/images/favicon.png"}]]
+1:null
+f:I[2972,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","130","static/chunks/app/category/%5Bcategory%5D/page-526a8d841d796d9e.js"],""]
+10:I[265,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","130","static/chunks/app/category/%5Bcategory%5D/page-526a8d841d796d9e.js"],"default"]
+11:T54d,THINGS YOU DIDN'T KNOW ABOUT ASIA | GEOGRAPHY FOR KIDS | HAPPY LEARNING 🇨🇳 🇷🇺 🇲🇳 🇮🇳
+
+Hello, Happy Learning explorers! 🌏 Are you ready to embark on an exciting adventure through the fascinating continent of Asia? 🐼🏯 In this special episode, we'll discover together the most surprising and fun secrets of this place full of magic and ancient traditions.
+
+Did you know that in Asia you can find the longest wall in the world? It's so long that you could go around your house thousands and thousands of times! And what about pandas? Those adorable little bears that only live in China and make us smile with their antics.
+
+But that's not all, Asia is full of wonders! From ancient temples to modern cities that shine like stars in the sky. And did you know that in Japan you can ride a train faster than a rocket!? It's crazy!
+
+So grab your backpacks, get ready to fly on magic carpets, and join us on this incredible adventure through the largest and most amazing continent on the planet. Let's learn and have fun together discovering the curiosities of Asia! 🌟🎎 #HappyLearning #Asia #Curiosities #Adventure 🐉🎉
+
+Discover hundreds of never-before-seen resources! Create your free account at https://my.happylearning.tv/ and learn in the most enjoyable way.
+
+#happylearning
+#learning
+#happylearning 
+#asia 
+#geography12:T9e4,Dinosaurs for Kids is a fun and comprehensive look at dinosaur history. In this video we highlight the various kinds of dinosaurs, talk about how they receive their names, famous dinosaur fossils, and we talk about the people who find dinosaur fossils: Paleontologists. 
+
+We think that one of the most fascinating creatures to ever roam the Earth was the dinosaur. You most likely have heard of dinosaurs, seen pictures of them on TV or the Internet, or may have seen their bones in a museum. Dinosaurs are an interesting group of animals that no longer exist, meaning they are extinct. Dinosaurs evolved, meaning they changed, over millions of years. 
+
+In this dinosaur for kids video we also talk about how the dinosaurs’ extinction took place about 66 million years ago and 75% of all life on Earth died. There are many theories or guesses as to what may have happened leading to the extinction. They include worldwide volcanic eruptions, changes in the Earth’s climate, or perhaps a meteorite from space smashing into the Earth. 
+
+If you're looking for more Dinosaur resources check out our FREE comprehensive lesson plan complete with fun activities, worksheets, quizzes and more! The free dinosaur lesson can be found at: https://learnbright.org/lessons/science/dinosaurs/
+
+Check out some of our other dinosaur-related videos here: 
+Extinction: https://youtu.be/ogLFEq1X0RM
+Dinosaur Facts: https://youtu.be/Q5z5C1MFmT8
+T-Rex Facts: https://youtu.be/wOulvIK-brM
+Fossils: https://youtu.be/tyOjxjFHW-c
+Extinct and Endangered Animals: https://youtu.be/E5cVr3HdLa4
+
+Thank you for watching and learning with us! We’re constantly releasing new content and videos, so click that “Subscribe” button and you’ll get notified.
+
+Find and Follow Us Online: 
+Facebook: https://www.facebook.com/LearnBright/ 
+Instagram: https://instagram.com/LearnBrightEducation
+Pinterest: https://pinterest.com/LearnBrightEducation 
+YouTube: https://www.youtube.com/LearnBright 
+Website: https://learnbright.org/
+
+*Teachers and Parents! Did you know? In addition to these great videos, we have also created a library of high quality and engaging lessons for your elementary aged student(s). Visit us, sign up for a free account, and instantly you'll have access to thousands of lesson plans, learning materials, teaching instructions, activities, and assignments that your kids will really enjoy! We hope to see you soon! 
+
+Browse our entire collection of Science lesson plans: https://learnbright.org/lessons/?filter_subject=science
+
+#Dinosaurs13:T599,Salthy Ocean Water | Why is the Ocean Salty | Ocean Water | Ocean On Earth | Aquatic Animals | Stay Safe | Best Kids Show | Dr Binocs Show | Dr Binocs | Peekaboo Kidz
+
+Hey kids, in this video, Dr Binocs will explain, Why Is Ocean Water Salty? | Earth's Ocean | Dr Binocs Show | Peekaboo Kidz
+
+Make sure you watch the whole video to know all the answers to your curious questions!
+
+Leave your ideas, suggestions and questions for Dr. Binocs at this Email Id: peekabookidzfeedback@gmail.com
+
+For more fun learning videos SUBSCRIBE to Peekaboo Kidz: http://bit.ly/SubscribeTo-Peekabookidz
+
+Watch Guess The Shapes With Baby Binocs here - https://youtu.be/vNm422Ta44w
+
+Watch other fun learning episodes of Dr. Binocs here - http://bit.ly/2kfNS22
+
+Watch our NEW SERIES of Baby Binocs, stay tuned to this playlist - http://bit.ly/2kyC2jU
+
+Copyrights and Publishing: Rajshri Entertainment Private Limited
+All rights reserved
+
+#OceanWaterSalty #PeekabooKidz #DrBinocsShow 
+
+Catch Dr.Binocs At - https://goo.gl/SXhLmc
+
+To Watch More Popular Nursery Rhymes Go To - https://goo.gl/CV0Xoo
+
+To Watch Alphabet Rhymes Go To - https://goo.gl/qmIRLv
+
+To Watch Compilations Go To - https://goo.gl/nW3kw9
+
+Catch More Lyricals At - https://goo.gl/A7kEmO
+
+Subscribe to Peekaboo Kidz: http://bit.ly/peekabookidz
+
+Like our Facebook page: https://www.facebook.com/peekabootv ,
+
+For brand collaborations and inquiries, reach out to us at :  collab@rajshri.com14:T424,Are you a classroom teacher who loves using our videos with your students? Check out our Classroom Licensing page to learn how our platform can help you personalize student learning with our easy educator accounts. Use referral code CLSSYT when applying! https://tinyurl.com/5n99xz5x    
+
+Learn about the seven continents and the major oceans, as well as other facts about the world.
+
+We hope you are enjoying this video! For more in-depth learning, check out Miacademy.co (https://www.parents.miacademy.co/), an online learning platform with lessons and practice games that go along with our videos. Use coupon code VIDEOSPECIAL for a discount. Good for homeschoolers, Parents, Teachers, or anyone with kids in grades K-8.
+
+Miacademy also offers many hands-on learning activities including a business simulation, writing in the Miacademy weekly, and creating artwork. Teaching social skills is also one of the key values at Miacademy. On the site, kids can interact safely in a moderated environment and share their artwork, videos, and ideas with each other.15:T4dc,Are you interested in Geography? In this STEM and Beyond video we will learn all about Rivers. You will learn some new vocabulary and some interesting facts about rivers around the world. 
+
+🔔 Subscribe for more fun learning videos just like this: https://www.youtube.com/channel/UC8y45o8FIiF6ocxtHcl821g?sub_confirmation=1
+
+THINGS YOU NEED TO KNOW
+------------------------------------------------------------
+🎬 - MOST RECENT VIDEOS: https://www.youtube.com/channel/UC8y45o8FIiF6ocxtHcl821g/videos​
+​
+🎓 - LEARN MORE AT EXPLORE PLANET ENGLISH: https://exploreplanetenglish.com​
+​
+SOCIAL
+-----------------------------------------------------------
+📝 - BLOG: https://www.exploreplanetenglish.com/blog
+​
+👍 - FACEBOOK: https://www.facebook.com/ExplorePlanetEnglish
+​
+🐦 - TWITTER: https://twitter.com/ExplorePlanetE2
+​
+📸 - INSTAGRAM: https://www.instagram.com/exploreplanetenglish/
+​
+📌 - PINTEREST: https://www.pinterest.co.uk/ExplorePlanetEnglish/
+
+#esl​​ #elearning​ #exploreplanetenglish #stem #stemart #stemactivitesforkids #homelearning #ks1 #ks1geography #rivers #riversaroundtheworld #geography #learnaboutoceans #playbasedlearning #learningfromhome #homeschool #geographyforkids
+ 
+#KS1 Y1 Ge1/1.3a16:T72a,In our Cultures of the world video we will learn about what culture means and how cultures can be very different around the world.  We will learn how to appreciate the differences and how they influence our own identities. We will explore the American culture, French, Chinese, and many other cultures around the world.  
+
+Looking for more Cultures of the World resources?  Download our free comprehensive lesson plan here: https://learnbright.org/lessons/social-studies/cultures-of-the-world/
+
+Check out some of our other culture-related videos here: 
+Europe: https://youtu.be/XZtZRw7zrqI
+Asia: https://youtu.be/1pNBDTNVhCw
+Africa: https://youtu.be/KcNVNsvyFfA
+Australia: https://youtu.be/zmon5Tv6bYU
+China: https://youtu.be/q7JK5Vxf_VQ
+North America: https://youtu.be/JZk6_dgA9uQ
+South America: https://youtu.be/Z4iwEMbal24
+Mexico: https://youtu.be/hmhLgM9uGN0
+
+Thank you for watching and learning with us! We’re constantly releasing new content and videos so click that “Subscribe” button and you’ll notified. 
+
+Find and Follow Us Online: 
+Facebook: https://www.facebook.com/LearnBright/ 
+Instagram: https://instagram.com/LearnBrightEducation
+Pinterest: https://pinterest.com/LearnBrightEducation 
+YouTube: https://www.youtube.com/LearnBright 
+Website: https://learnbright.org/
+
+*Teachers and Parents! Did you know? In addition to these great videos, we have also created a library of high quality and engaging lessons for your elementary aged student(s). Visit us, sign up for a free account, and instantly you'll have access to thousands of lesson plans, learning materials, teaching instructions, activities, and assignments that your kids will really enjoy! We hope to see you soon! 
+
+Browse our entire collection of Social Studies lesson plans: https://learnbright.org/lessons/?filter_subject=social-studies
+
+#Cultures17:T483,The history of money is fascinating and goes back thousands of years. From the early days of bartering to the first metal coins and eventually the first paper money, money has always had an important impact on the way we function as a society.
+
+Make sure you watch the whole video to know all the answers to your curious questions! 
+
+Leave your ideas, suggestions and questions for Dr. Binocs at this Email Id: peekabookidzfeedback@gmail.com
+
+For more fun learning videos SUBSCRIBE to Peekaboo Kidz: http://bit.ly/SubscribeTo-Peekabookidz
+
+Credits - 
+Copyrights and Publishing: Rajshri Entertainment Private Limited 
+All rights reserved.
+
+#Inventionofmoney #DrBinocsShow #PeekabooKidz
+
+
+Catch Dr.Binocs At - https://goo.gl/SXhLmc
+
+To Watch More Popular Nursery Rhymes Go To - https://goo.gl/CV0Xoo
+
+To Watch Alphabet Rhymes Go To - https://goo.gl/qmIRLv
+
+To Watch Compilations Go To - https://goo.gl/nW3kw9
+
+Catch More Lyricals At - https://goo.gl/A7kEmO
+
+Subscribe to Peekaboo Kidz: http://bit.ly/peekabookidz
+
+Like our Facebook page: https://www.facebook.com/peekabootv ,
+
+For brand collaborations and inquiries, reach out to us at :  collab@rajshri.com18:Tc85,So, what is geography? In our first episode of Crash Course Geography, we will endeavor to answer this seemingly simple question with the help of a similarly simple factoid: that the US imports more than 3 billion pounds of bananas from Guatemala each year. But as it turns out, beneath the kinds of factoids we usually associate with Geography are much grander stories that really are Geography. So let's go a little bananas as we explore the sordid history of the Chiquita banana. 
+
+Follow Alizé!
+Twitter: https://twitter.com/alizecarrere 
+Instagram: https://www.instagram.com/alizecarrere/ 
+Facebook: https://www.facebook.com/alizecarrere/
+Website: https://www.alizecarrere.com/ 
+
+[SOURCES]
+
+http://sethrainforestecosystem.weebly.com/the-rainforest.html
+https://www.yourarticlelibrary.com/essay/plantation-agriculture-location-and-characteristics-with-area-maps/25452
+https://www.tripsavvy.com/mount-everest-facts-1458258
+https://time.com/3923694/mount-everest-nepal-earthquake/
+https://sajana1231.wordpress.com/2011/05/02/environmental-impacts-of-tourism-on-mount-everest/
+https://adventure.howstuffworks.com/outdoor-activities/climbing/mt-everest-tourism2.htm
+https://theodora.com/wfbcurrent/guatemala/guatemala_economy.html
+https://en.wikipedia.org/wiki/Center_of_origin
+https://www.nytimes.com/1991/04/19/world/cholera-kills-1100-in-peru-and-marches-on-reaching-the-brazilian-border.html
+https://www.history.com/topics/inventions/history-of-cholera
+https://www.farmingindia.in/banana-cultivation/
+http://new-ag.info/en/country/profile.php?a=842
+https://www.worldatlas.com/articles/where-do-america-s-bananas-come-from.html
+https://insteading.com/blog/global-agriculture-threats/
+https://fews.net/sites/default/files/documents/reports/Consolidated%20GT%20LZ%20document_Jan%2031%202017.pdf
+https://www.mapsofworld.com/lat_long/guatemala-lat-long.html
+https://www.touropia.com/volcanoes-in-guatemala/
+https://www.touropia.com/tourist-attractions-in-guatemala/
+https://www.findlatitudeandlongitude.com/l/Tikal%2C+Peten%2C+Guatemala/5472472/
+
+Crash Course is on Patreon! You can support us directly by signing up at http://www.patreon.com/crashcourse
+
+Thanks to the following patrons for their generous monthly contributions that help keep Crash Course free for everyone forever:
+
+Vincent LaBarca, Bjartur Thorlacius, Scott Harrison, Alexander Thomson, Mark & Susan Billian, Junrong Eric Zhu, Alan Bridgeman, Jennifer Smith, Matt Curls, Tim Kwist, Jonathan Zbikowski, Jennifer Killen, Sarah & Nathan Catchings, Brandon Westmoreland, team dorsey, Trevin Beattie, Yasenia Cruz, Eric Koslow, Indika Siriwardena, Khaled El Shalakany, Shawn Arnold, Siobhán, Ken Penttinen, Nathan Taylor, William McGraw, Andrei Krishkevich, Sam Ferguson, Jirat, Brian Thomas Gossett, SR Foxley, Ian Dundore, Jason A Saslow, Jessica Wode, Caleb Weeks, Mark, Patty Laqua, Stephen Saar, John Lee, Eric Prestemon
+__
+
+Want to find Crash Course elsewhere on the internet?
+Facebook - http://www.facebook.com/YouTubeCrashCourse
+Twitter - http://www.twitter.com/TheCrashCourse
+Tumblr - http://thecrashcourse.tumblr.com 
+Support Crash Course on Patreon: http://patreon.com/crashcourse
+
+CC Kids: http://www.youtube.com/crashcoursekids19:T739,In this video we will explain plate tectonics for kids!  Together we will learn about the two main types of tectonic plates, Oceanic and Continental. We also cover the 3 kinds of boundaries which are: Convergent, Divergent, and Transform. This helps us understand exactly how the plate tectonics move AND what happens when they do. We will also learn about Pangaea and how all of the plates were once together and over millions the plate tectonics have cause the continents to separate. 
+
+Don't just stop with this video.  Visit us at https://learnbright.org/lessons/science/plate-tectonics/ and download your free 12 page lesson plane with more plate tectonics worksheets, activities and more! 
+
+Check out some of our other videos related to plate tectonics here: 
+Volcanoes: https://youtu.be/3Jxeh-yAXek
+Earthquakes & Tsunamis: https://youtu.be/Q-v-G1iL67w
+
+Thank you for watching and learning with us! We’re constantly releasing new content and videos, so click that “Subscribe” button and you’ll get notified.
+
+Find and Follow Us Online: 
+Facebook: https://www.facebook.com/LearnBright/ 
+Instagram: https://instagram.com/LearnBrightEducation
+Pinterest: https://pinterest.com/LearnBrightEducation 
+YouTube: https://www.youtube.com/LearnBright 
+Website: https://learnbright.org/
+
+*Teachers and Parents! Did you know? In addition to these great videos, we have also created a library of high quality and engaging lessons for your elementary aged student(s). Visit us, sign up for a free account, and instantly you'll have access to thousands of lesson plans, learning materials, teaching instructions, activities, and assignments that your kids will really enjoy! We hope to see you soon! 
+
+Browse our entire collection of Science lesson plans: https://learnbright.org/lessons/?filter_subject=science
+
+#PlateTectonicsForKids
+#TectonicPlates1a:T49c,How to Make a Map?! watch this video to learn how !
+☀Fid more FREE books at https://www.redcatreading.com/?utm_source=youtube&utm_medium=video&utm_content=description&utm_campaign=map_read_along_youtube
+
+"How to Make a Map" is a Leveled reading ebook teaching kids about maps, discovery and basic geography terms, created by Red Cat Reading
+
+Subscribe to KidsVsLife's YouTube channel for more videos to help your curious kids learn to read! Kids love learning to read using our phonics and read aloud videos!! don't miss out!
+
+New videos are uploaded every week.
+☀YouTube Channel: https://www.youtube.com/user/kidsvslife
+Enjoy educational songs, learn to read videos and stories for preschool kids created by the experts in children's education.
+
+Follow us on Facebook for new updates and free promotions.
+☀ Facebook: https://www.facebook.com/RedCatReading/
+☀ Website: https://www.redcatreading.com/?utm_source=youtube&utm_medium=video&utm_content=description&utm_campaign=map_read_along_youtube
+
+#redcatreading #levelreading #readalong #kidsvslife #kidsvsphonics #howtoread #funfacts #factsforkids #sciencefacts
+
+Copyright © 2018 Red Cat Reading™. All Rights Reserved.1b:T523,How many planets are in the solar system? How did it form in the Milky Way galaxy? Learn facts about the solar system’s genesis, plus its planets, moons, and asteroids.
+➡ Subscribe: https://on.natgeo.com/4p5A0D6
+
+#NationalGeographic #SolarSystem #Educational
+
+About National Geographic:
+National Geographic is the world's premium destination for critically acclaimed storytelling around science and exploration. Discover amazing wildlife, ancient civilizations, hidden worlds, and the incredible wonders of our Earth. Through world-class scientists, photographers, journalists, and filmmakers, Nat Geo inspires fans of all ages to connect with, explore, and care about the world.
+
+Get More National Geographic:
+Official Site: https://nationalgeographic.com
+Instagram: https://instagram.com/natgeo 
+Facebook: https://facebook.com/natgeo
+Threads: https://threads.com/@natgeo
+X: https://x.com/NatGeo
+LinkedIn: https://linkedin.com/company/national-geographic
+TikTok: https://tiktok.com/@natgeo
+Reddit: https://reddit.com/user/nationalgeographic
+TikTok: http://www.tiktok.com/@natgeo
+Tenor: http://on.natgeo.com/31b3Koc
+
+Read more in "The solar system, explained"
+https://on.natgeo.com/2U3E2Be
+
+Solar System 101 | National Geographic 
+https://youtu.be/libKVRa01L8
+
+National Geographic
+https://www.youtube.com/natgeo1c:T4d1,Ancient Mesopotamia proved that fertile land and the knowledge to cultivate it was a fortuitous recipe for wealth and civilization. Learn how this "land between two rivers" became the birthplace of the world's first cities, advancements in math and science, and the earliest evidence of literacy and a legal system.
+➡ Subscribe: https://on.natgeo.com/4p5A0D6
+
+#NationalGeographic #Mesopotamia #Educational
+
+About National Geographic:
+National Geographic is the world's premium destination for science, exploration, and adventure. Through their world-class scientists, photographers, journalists, and filmmakers, Nat Geo gets you closer to the stories that matter and past the edge of what's possible.
+
+Get More National Geographic:
+Official Site: https://nationalgeographic.com
+Instagram: https://instagram.com/natgeo 
+Facebook: https://facebook.com/natgeo
+Threads: https://threads.com/@natgeo
+X: https://x.com/NatGeo
+LinkedIn: https://linkedin.com/company/national-geographic
+TikTok: https://tiktok.com/@natgeo
+Reddit: https://reddit.com/user/nationalgeographic
+Pinterest: https://pinterest.com/natgeo
+
+Ancient Mesopotamia 101 | National Geographic 
+https://youtu.be/xVf5kZA0HtQ
+
+National Geographic
+https://www.youtube.com/natgeo1d:T1383,People have been migrating and transplanting since before recorded history, and understanding the reasons why people migrate can help explain some of the cultural, economic, and political patterns we see around the world. Today, we’re going to mostly focus on the Indian diaspora, which is the largest in the world with over 18 million people of Indian descent living outside of India. And through this lens, we’ll teach you about many different types of voluntary and involuntary migration throughout history and around the world. 
+
+SOURCES
+Migration
+Getis, Bjelland, and Getis. Introduction to Geography, 15 ed. McGraw-Hill Education. 2017. ISBN: 978-1-259-57000-1
+Gregory, Derek, Ron Johnston, Geraldine Pratt, Michael Watts, and Sarah Whatmore, eds. 2009. The Dictionary of Human Geography. 5th ed. Willey-Blackwell. ISBN: 978-1-4051-3288-6
+https://www.un.org/development/desa/en/news/population/international-migrant-stock-2019.html
+UN Migration Data Sets: https://migrationdataportal.org/?i=stock_abs_&t=2017&m=1
+
+India
+https://www.cia.gov/the-world-factbook/countries/india/ 
+https://economictimes.indiatimes.com/nri/migrate/at-18-million-india-has-the-worlds-largest-diaspora-population/articleshow/80290768.cms?from=mdr 
+https://www.commonwealthroundtable.co.uk/commonwealth/eurasia/india/diaspora-development-indian-state/# 
+https://data.worldbank.org/indicator/BX.TRF.PWKR.DT.GD.ZS?locations=IN 
+https://www.worldbank.org/en/news/press-release/2019/04/08/record-high-remittances-sent-globally-in-2018 
+
+Trinidad
+https://www.cia.gov/the-world-factbook/countries/trinidad-and-tobago/#geography 
+ https://www.smithsonianmag.com/travel/trinidad-and-tobago-history-and-heritage-17893991/
+https://scholar.library.miami.edu/emancipation/trade2.htm
+https://www.nationalarchives.gov.uk/pathways/blackhistory/india/forced.htm
+http://www.caribbean-atlas.com/en/themes/waves-of-colonization-and-control-in-the-caribbean/waves-of-colonization/the-experience-of-indian-indenture-in-trinidad-arrival-and-settlement.html
+
+Persian Gulf
+https://www.mei.edu/publications/india-gulf-migration-testing-time
+https://www.livepopulation.com/country/qatar.html 
+https://www.migrationpolicy.org/programs/migration-data-hub?qt-data_hub_tabs=1#datahub-tabs
+https://www.migrationpolicy.org/programs/data-hub/global-remittances-guide
+https://www.orfonline.org/research/twin-crises-gulf-implications-india-65432/
+
+East (and South) Africa
+https://www.vifindia.org/sites/default/files/final-an-overview-of-indian-diaspora-in-africa.pdf 
+https://idsa.in/africatrends/indian-diaspora-in-africa-a-profile_rkgupta_0614
+https://www.weforum.org/agenda/2015/06/15-facts-about-the-indian-diaspora-in-africa/ 
+
+Refugees
+https://www.unhcr.org/figures-at-a-glance.html 
+https://www.un.org/en/global-issues/refugees
+https://www.dezeen.com/2015/11/23/refugee-camps-cities-of-tomorrow-killian-kleinschmidt-interview-humanitarian-aid-expert/
+http://popstats.unhcr.org/en/overview
+https://www.unrefugees.org/refugee-facts/statistics/ 
+https://migrationdataportal.org/themes/migrant-deaths-and-disappearances 
+https://www.internal-displacement.org/database
+https://www.amnesty.org/en/what-we-do/refugees-asylum-seekers-and-migrants/global-refugee-crisis-statistics-and-facts/
+
+Watch our videos and review your learning with the Crash Course App! 
+Download here for Apple Devices: https://apple.co/3d4eyZo
+Download here for Android Devices: https://bit.ly/2SrDulJ
+
+Crash Course is on Patreon! You can support us directly by signing up at http://www.patreon.com/crashcourse
+
+Thanks to the following patrons for their generous monthly contributions that help keep Crash Course free for everyone forever:
+DL Singfield, Jeremy Mysliwiec, Shannon McCone, Amelia Ryczek, Ken Davidian, Brian Zachariah, Stephen Akuffo, Toni Miles, Oscar Pinto-Reyes, Erin Nicole, Steve Segreto, Michael M. Varughese, Kyle & Katherine Callahan, Laurel A Stevens, Vincent, Michael Wang, Stacey Gillespie, Jaime Willis, Krystle Young, Michael Dowling, Alexis B, Rene Duedam, Burt Humburg, Aziz Y, DAVID MORTON HUDSON, Perry Joyce, Scott Harrison, Mark & Susan Billian, Junrong Eric Zhu, Alan Bridgeman, Rachel Creager, Jennifer Smith, Matt Curls, Tim Kwist, Jonathan Zbikowski, Jennifer Killen, Sarah & Nathan Catchings, Brandon Westmoreland, team dorsey, Trevin Beattie, Divonne Holmes à Court, Eric Koslow, Jennifer Dineen, Indika Siriwardena, Khaled El Shalakany, Jason Rostoker, Shawn Arnold, Siobhán, Ken Penttinen, Nathan Taylor, William McGraw, Andrei Krishkevich, ThatAmericanClare, Rizwan Kassim, Sam Ferguson, Alex Hackman, Jirat, Katie Dean, neil matatall, TheDaemonCatJr, Wai Jack Sin, Ian Dundore, Matthew, Justin, Jessica Wode, Mark, Caleb Weeks
+__
+
+Facebook - http://www.facebook.com/YouTubeCrashCourse
+Twitter - http://www.twitter.com/TheCrashCourse
+Tumblr - http://thecrashcourse.tumblr.com 
+Support Crash Course on Patreon: http://patreon.com/crashcourse
+CC Kids: http://www.youtube.com/crashcoursekids
+
+#CrashCourse #Geography #Migration1e:T759,What is Earth Day? You're about to find out! In this educational video, kids learn about Earth Day, including its history and ways people celebrate and care for our planet.
+
+In this lesson, I explain what Earth Day is, why it is celebrated each year, and how people around the world work to help protect the Earth. Kids will learn simple, age-appropriate ideas for caring for the environment and understand why taking care of our planet is important.
+
+This video is designed for elementary students and is great for classrooms, homeschooling, and independent learning. It introduces Earth Day in a positive, kid-friendly way that encourages awareness and responsibility.
+This is perfect for Earth Day lessons, environmental awareness units, and elementary science and social studies learning.
+
+👉 Learn how to support videos like this one, and get Homeschool Pop tattoos! https://www.patreon.com/homeschoolpop
+
+00:00 Introduction
+0:17 When is Earth Day?
+0:49 Why do we celebrate Earth Day?
+1:53 Recycling explained for kids
+3:32 Saving electricity
+4:09 Planting trees
+5:09 The history of Earth Day
+6:19 Earth Day today
+6:37 How to celebrate Earth Day
+
+Music credits:
+Digital Lemonade by Kevin MacLeod
+Link: https://incompetech.filmmusic.io
+License: http://creativecommons.org/licenses/by/4.0/
+
+Jellyfish in Space Kevin MacLeod
+Link: https://incompetech.filmmusic.io
+License: http://creativecommons.org/licenses/by/4.0/
+
+Electrodoodle by Kevin MacLeod
+Link: https://incompetech.filmmusic.io/song/3707-electrodoodle
+License: https://filmmusic.io/standard-license
+
+Rocket by Kevin MacLeod
+Link: https://incompetech.filmmusic.io/song/3707-electrodoodle
+License: https://filmmusic.io/standard-license
+
+Sock Hop by Kevin MacLeod
+Link: https://incompetech.filmmusic.io/song/3707-electrodoodle
+License: https://filmmusic.io/standard-license
+
+Thanks for watching!
+
+Daniel
+"Homeschool Pop"1f:Tcbe,Did you know that continent of Australia is also a country and an island? In fact, it's the biggest island in the world! In All about Australia for Kids, you will learn many more cool facts about this unique continent. It's one of the seven continents on the earth and is surrounded by the Pacific and Indian oceans, plus a few other seas. 
+
+The first people who lived on the continent were the Aboriginal and Torres Strait Island Peoples. They invented the spear and the boomerang and lived in the Outback, which is a desert that covers about two-thirds of the land. They arrived on the continent from the Indonesian islands almost 60,000 years before the British settlers in 1776. Other colonists came to the country because of the discovery of gold. Today, only 2% of the population are Aborigines.
+
+Apart from kangaroos, Australia's land is home to Tasmanian devils, wallabies, thorny dragons, koala bears, 828 species of birds, and more. And in the ocean, many people come from all over the world to visit the Great Barrier Reef, which is the largest reef system in the world. Uluru is another cool landform that attracts many visitors every year. Uluru is a sacred natural formation that rises 1,100 feet tall. It is the largest rock in the whole world!
+
+When it comes to manmade structures, this cool island-country-continent boasts the famous Sydney Opera House. It is an incredibly iconic building. Another cool structure is the Sydney Harbour Bridge, nicknamed The Coat Hanger, which is over 400 feet tall and 1,640 feet long. People can even climb up to the very top.
+
+We hope you and your student(s) enjoyed learning about Australia! If you want even more information, head over to our website and download one of our many free lesson plans, full of activities, worksheets, and more! 
+
+https://learnbright.org/lessons/social-studies/all-about-australia/
+https://learnbright.org/lessons/social-studies/the-seven-continents/
+
+What you will learn in All about Australia for Kids:
+0:00 Introduction to Australia
+1:03 Aborigines and colonization
+2:08 Geography, population, and government
+3:09 All about the Outback
+4:00 Famous landforms and common industries
+5:04 Wildlife of Australia
+5:47 Great Barrier Reef, Uluru, and other famous attractions
+7:09 Review of the facts
+
+Thank you for watching and learning with us! We’re constantly releasing new content and videos, so click that “Subscribe” button and you’ll get notified. 
+
+Find and Follow Us Online: 
+Facebook: https://www.facebook.com/LearnBright/ 
+Instagram: https://instagram.com/LearnBrightEducation
+Pinterest: https://pinterest.com/LearnBrightEducation 
+YouTube: @LearnBright
+Website: https://learnbright.org/
+
+*Teachers and Parents! Did you know? In addition to these great videos, we have also created a library of high-quality and engaging lessons for your elementary aged student(s). Visit us and sign up for a free account, and you'll instantly have access to thousands of lesson plans, learning materials, teaching instructions, activities, and assignments that your kids will really enjoy! We hope to see you soon! 
+
+Browse our entire collection of Social Studies lesson plans: https://learnbright.org/lessons/?filter_subject=social-studies
+
+#AustraliaForKids
+#AllAboutAustralia2:["$","div",null,{"className":"space-y-8 pb-8","children":[["$","div",null,{"children":["$","$Lf",null,{"href":"/","className":"inline-flex items-center gap-1.5 px-3 py-1.5 bg-white rounded-lg text-slate-600 font-semibold text-xs border border-slate-200 hover:border-purple-300 hover:text-purple-900 transition-colors shadow-subtle","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-3.5 h-3.5","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"Back to Discover"}]]}]}],["$","section",null,{"className":"bg-white rounded-2xl sm:rounded-3xl p-4 xs:p-6 sm:p-8 border border-slate-200/80 shadow-subtle space-y-3","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"px-2.5 py-0.5 bg-purple-100 text-purple-900 text-xs font-bold rounded-md uppercase tracking-wider","children":["Ages ","8–12"]}],["$","span",null,{"className":"text-xs text-slate-400 font-semibold","children":["• ",16," Videos"]}]]}],["$","h1",null,{"className":"text-xl xs:text-2xl sm:text-4xl font-black text-slate-900 tracking-tight","children":"Discovery"}],["$","p",null,{"className":"text-slate-600 font-medium text-xs sm:text-base max-w-2xl leading-relaxed","children":"World around us"}],["$","div",null,{"className":"pt-2 flex items-center gap-2 text-xs font-medium text-slate-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-shield-check w-4 h-4 text-emerald-600 shrink-0","children":[["$","path","oel41y",{"d":"M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"}],["$","path","dzmm74",{"d":"m9 12 2 2 4-4"}],"$undefined"]}],["$","span",null,{"children":["Strict server-side safe query: \"","how things work for kids world history geography","\""]}]]}]]}],["$","section",null,{"className":"space-y-4","children":[["$","h2",null,{"className":"text-lg sm:text-xl font-bold text-slate-900","children":"Watch & Learn"}],["$","div",null,{"className":"grid grid-cols-1 xs:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3.5 sm:gap-5","children":[["$","$L10","YrT5jcnu8NA",{"video":{"id":"YrT5jcnu8NA","title":"Continents of the World for Kids | Geography for Kids","description":"Learn all about the continents of the world in this fun learning video for kids! This geography lesson video for early elementary students will make learning the continents of the world a breeze! As a bonus, at the end of the video is an exciting quiz to see how much you remember!\n\n\n👉 Support my channel on Patreon and get fun Homeschool Pop rewards like temporary tattoos:\nhttps://www.patreon.com/homeschoolpop\n\nThanks for watching this Homeschool Pop video! I hope to see you again soon!\n\nDaniel\n\"Homeschool Pop\"","channelTitle":"Homeschool Pop","channelId":"UCfPyVJEBD7Di1YYjTdS2v8g","publishedAt":"2017-01-20T22:49:19Z","duration":"13:38","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/YrT5jcnu8NA/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/YrT5jcnu8NA/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/YrT5jcnu8NA/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/YrT5jcnu8NA/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/YrT5jcnu8NA/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Discovery"}],["$","$L10","bh_RIbTmqkQ",{"video":{"id":"bh_RIbTmqkQ","title":"THINGS YOU DIDN'T KNOW ABOUT ASIA | GEOGRAPHY FOR KIDS | HAPPY LEARNING 🇨🇳 🇷🇺 🇲🇳 🇮🇳","description":"$11","channelTitle":"Happy Learning English","channelId":"UC8eJxPzmvTb12v7LlZUJcLQ","publishedAt":"2024-05-13T13:00:28Z","duration":"6:05","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/bh_RIbTmqkQ/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/bh_RIbTmqkQ/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/bh_RIbTmqkQ/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/bh_RIbTmqkQ/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/bh_RIbTmqkQ/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Discovery"}],["$","$L10","dktnOPfE7Dc",{"video":{"id":"dktnOPfE7Dc","title":"Dinosaurs for Kids | Learn about Dinosaur History, Fossils, Dinosaur Extinction and more!","description":"$12","channelTitle":"Learn Bright","channelId":"UCKCsVSA5THlkHbnkZTPm6-g","publishedAt":"2018-10-03T20:09:49Z","duration":"9:14","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/dktnOPfE7Dc/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/dktnOPfE7Dc/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/dktnOPfE7Dc/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/dktnOPfE7Dc/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/dktnOPfE7Dc/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Discovery"}],["$","$L10","_yH3BntZCSI",{"video":{"id":"_yH3BntZCSI","title":"Why Is Ocean Water Salty? | Earth's Ocean | Dr Binocs Show | Peekaboo Kidz","description":"$13","channelTitle":"Peekaboo Kidz","channelId":"UCxlJ45KjG4XVcQ_hd8j227A","publishedAt":"2021-04-23T12:30:10Z","duration":"4:58","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/_yH3BntZCSI/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/_yH3BntZCSI/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/_yH3BntZCSI/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/_yH3BntZCSI/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/_yH3BntZCSI/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Discovery"}],["$","$L10","hNVD8fyIsEI",{"video":{"id":"hNVD8fyIsEI","title":"World Geography Made Easy","description":"$14","channelTitle":"Miacademy & MiaPrep Learning Channel","channelId":"UC6XTIVq86zJPKNeiPay1czQ","publishedAt":"2020-04-03T21:51:01Z","duration":"6:09","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/hNVD8fyIsEI/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/hNVD8fyIsEI/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/hNVD8fyIsEI/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/hNVD8fyIsEI/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/hNVD8fyIsEI/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Discovery"}],["$","$L10","bTogMbV06Ss",{"video":{"id":"bTogMbV06Ss","title":"All About Rivers | Geography For Kids | STEM Home Learning","description":"$15","channelTitle":"Explore Planet English","channelId":"UC8y45o8FIiF6ocxtHcl821g","publishedAt":"2023-04-11T14:00:31Z","duration":"5:17","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/bTogMbV06Ss/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/bTogMbV06Ss/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/bTogMbV06Ss/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/bTogMbV06Ss/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/bTogMbV06Ss/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Discovery"}],["$","$L10","RwSYrsjTiW4",{"video":{"id":"RwSYrsjTiW4","title":"Cultures of the World | A fun overview of the world cultures for kids","description":"$16","channelTitle":"Learn Bright","channelId":"UCKCsVSA5THlkHbnkZTPm6-g","publishedAt":"2020-01-27T19:16:30Z","duration":"9:28","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/RwSYrsjTiW4/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/RwSYrsjTiW4/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/RwSYrsjTiW4/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/RwSYrsjTiW4/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/RwSYrsjTiW4/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Discovery"}],["$","$L10","GZ7y-yFdX9M",{"video":{"id":"GZ7y-yFdX9M","title":"Who Invented Money? | The History of Money | Barter System of Exchange | The Dr Binocs Show","description":"$17","channelTitle":"Peekaboo Kidz","channelId":"UCxlJ45KjG4XVcQ_hd8j227A","publishedAt":"2023-06-02T12:30:07Z","duration":"5:36","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/GZ7y-yFdX9M/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/GZ7y-yFdX9M/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/GZ7y-yFdX9M/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/GZ7y-yFdX9M/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/GZ7y-yFdX9M/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Discovery"}],["$","$L10","93LLwiMjDko",{"video":{"id":"93LLwiMjDko","title":"🍌 What is Geography? Crash Course Geography #1","description":"$18","channelTitle":"CrashCourse","channelId":"UCX6b17PVsYBQ0ip5gyeme-Q","publishedAt":"2020-11-30T21:01:34Z","duration":"10:33","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/93LLwiMjDko/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/93LLwiMjDko/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/93LLwiMjDko/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/93LLwiMjDko/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/93LLwiMjDko/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Discovery"}],["$","$L10","bVn04eJRjV4",{"video":{"id":"bVn04eJRjV4","title":"Plate Tectonics for Kids | Tectonic plates explained","description":"$19","channelTitle":"Learn Bright","channelId":"UCKCsVSA5THlkHbnkZTPm6-g","publishedAt":"2020-05-28T15:50:21Z","duration":"7:22","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/bVn04eJRjV4/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/bVn04eJRjV4/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/bVn04eJRjV4/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/bVn04eJRjV4/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/bVn04eJRjV4/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Discovery"}],["$","$L10","DSnVCV4uGGQ",{"video":{"id":"DSnVCV4uGGQ","title":"How to Make a Map | Geography for Kids | Made by Red Cat Reading","description":"$1a","channelTitle":"Kids vs Life","channelId":"UC1XbXsp48-VkYbNBJQ1YvOQ","publishedAt":"2018-03-09T13:30:00Z","duration":"5:10","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/DSnVCV4uGGQ/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/DSnVCV4uGGQ/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/DSnVCV4uGGQ/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/DSnVCV4uGGQ/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/DSnVCV4uGGQ/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Discovery"}],["$","$L10","libKVRa01L8",{"video":{"id":"libKVRa01L8","title":"Solar System 101 | National Geographic","description":"$1b","channelTitle":"National Geographic","channelId":"UCpVm7bg6pXKo1Pr6k5kxG9A","publishedAt":"2017-08-30T12:00:26Z","duration":"4:11","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/libKVRa01L8/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/libKVRa01L8/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/libKVRa01L8/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/libKVRa01L8/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/libKVRa01L8/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Discovery"}],["$","$L10","xVf5kZA0HtQ",{"video":{"id":"xVf5kZA0HtQ","title":"Ancient Mesopotamia 101 | National Geographic","description":"$1c","channelTitle":"National Geographic","channelId":"UCpVm7bg6pXKo1Pr6k5kxG9A","publishedAt":"2018-11-04T15:59:45Z","duration":"4:10","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/xVf5kZA0HtQ/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/xVf5kZA0HtQ/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/xVf5kZA0HtQ/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/xVf5kZA0HtQ/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/xVf5kZA0HtQ/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Discovery"}],["$","$L10","5Z55k7CqZ0c",{"video":{"id":"5Z55k7CqZ0c","title":"Where and Why Do People Move? Crash Course Geography #32","description":"$1d","channelTitle":"CrashCourse","channelId":"UCX6b17PVsYBQ0ip5gyeme-Q","publishedAt":"2021-11-01T19:16:35Z","duration":"11:16","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/5Z55k7CqZ0c/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/5Z55k7CqZ0c/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/5Z55k7CqZ0c/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/5Z55k7CqZ0c/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/5Z55k7CqZ0c/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Discovery"}],["$","$L10","wefswCPT7B4",{"video":{"id":"wefswCPT7B4","title":"Earth Day for Kids | Earth Day History & Activities","description":"$1e","channelTitle":"Homeschool Pop","channelId":"UCfPyVJEBD7Di1YYjTdS2v8g","publishedAt":"2022-04-18T14:27:18Z","duration":"8:12","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/wefswCPT7B4/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/wefswCPT7B4/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/wefswCPT7B4/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/wefswCPT7B4/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/wefswCPT7B4/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Discovery"}],["$","$L10","zmon5Tv6bYU",{"video":{"id":"zmon5Tv6bYU","title":"All about Australia for Kids | Learn about the Australian continent and country","description":"$1f","channelTitle":"Learn Bright","channelId":"UCKCsVSA5THlkHbnkZTPm6-g","publishedAt":"2022-06-07T19:07:08Z","duration":"8:51","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/zmon5Tv6bYU/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/zmon5Tv6bYU/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/zmon5Tv6bYU/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/zmon5Tv6bYU/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/zmon5Tv6bYU/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Discovery"}]]}]]}]]}]

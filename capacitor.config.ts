@@ -1,9 +1,9 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.kiddotube.app',
+  appId: 'com.pixelsdevelopments.kiddotubes',
   appName: 'KiddoTube',
-  webDir: 'public'
+  webDir: 'out'
 };
 
 export default config;

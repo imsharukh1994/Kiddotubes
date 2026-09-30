@@ -1,0 +1,669 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[575,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","106","static/chunks/106-47a5a1efa19d79a5.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-3af544ae5eabb728.js"],"AuthProvider"]
+7:I[1196,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","106","static/chunks/106-47a5a1efa19d79a5.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-3af544ae5eabb728.js"],"TimerProvider"]
+8:I[842,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","106","static/chunks/106-47a5a1efa19d79a5.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-3af544ae5eabb728.js"],"default"]
+9:I[8349,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","106","static/chunks/106-47a5a1efa19d79a5.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-3af544ae5eabb728.js"],"default"]
+a:I[6733,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","106","static/chunks/106-47a5a1efa19d79a5.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-3af544ae5eabb728.js"],"default"]
+b:I[3633,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","106","static/chunks/106-47a5a1efa19d79a5.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-3af544ae5eabb728.js"],"default"]
+c:I[833,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","106","static/chunks/106-47a5a1efa19d79a5.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-3af544ae5eabb728.js"],"default"]
+d:I[5050,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","106","static/chunks/106-47a5a1efa19d79a5.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-3af544ae5eabb728.js"],"default"]
+4:["category","5-7","d"]
+0:["y0cAsLvuXZ_zKYR9RIhIS",[[["",{"children":["category",{"children":[["category","5-7","d"],{"children":["__PAGE__?{\"category\":\"5-7\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["category",{"children":[["category","5-7","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","category","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","category","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/65022725ca4d158e.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_ed3508","children":["$","body",null,{"className":"bg-[#F8FAFC] text-slate-900 font-sans min-h-screen flex flex-col antialiased","children":["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","main",null,{"className":"flex-1 max-w-[1440px] w-full mx-auto px-4 xs:px-5 sm:px-8 lg:px-12 py-4 sm:py-8","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}]]}]}]}]}]],null],null],["$Le",null]]]]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"5–7 Videos — KiddoTube"}],["$","meta","3",{"name":"description","content":"Animated stories, numbers, beginner science, and creative crafts."}],["$","meta","4",{"name":"keywords","content":"Kids Videos,KiddoTube,Educational Videos,Nursery Rhymes,Safe Content Discovery"}],["$","link","5",{"rel":"shortcut icon","href":"/images/favicon.png"}],["$","link","6",{"rel":"icon","href":"/images/favicon.png"}],["$","link","7",{"rel":"apple-touch-icon","href":"/images/favicon.png"}]]
+1:null
+f:I[2972,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","130","static/chunks/app/category/%5Bcategory%5D/page-526a8d841d796d9e.js"],""]
+10:I[265,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","130","static/chunks/app/category/%5Bcategory%5D/page-526a8d841d796d9e.js"],"default"]
+11:T689,This Phonics Song is a fun way to teach kids the sounds of the alphabet. Sing along and enjoy this educational song!
+
+First we have apple 
+A, a, Apple
+Apple A, Apple, A 
+A Apple
+
+Then we have Ball 
+B, b, Ball
+Ball B, Ball B, 
+B, Ball
+
+C is for Candy
+C, c, Candy
+Candy C Candy C 
+C, Candy
+
+D is for Danny
+D, d, Danny
+Danny D, Danny D 
+D, Danny
+
+E is for Emily 
+E, e, Emily 
+Emily E, Emily E
+E, Emily 
+
+F is for Fish 
+F, f, Fish,
+Fish F Fish F
+F, Fish
+
+G is for Grandpa
+G, g, Grandpa
+Grandpa G, Grandpa G 
+G, Grandpa
+
+H is for Hat
+H, h, Hat
+Hat H Hat H 
+H, Hat
+
+I is for Igloo 
+I, I, Igloo
+Igloo I Igloo I 
+I, Igloo
+
+J is for Jumping
+J, j, Jumping
+Jumping J Jumping J 
+J, Jumping
+
+K is for Keyboard
+K, k, Keyboard
+Keyboard K Keyboard K 
+K, Keyboard
+
+L is for Ladder
+L, l, Ladder
+Ladder L Ladder L 
+L, Ladder
+
+M is for Muddy
+M, m, Muddy
+Muddy M Muddy M 
+M, Muddy
+
+N is for Nose
+N, n, Nose
+Nose N Nose N 
+N, Nose
+
+O is for Orange
+O, o, Orange
+Orange O Orange O 
+O, Orange
+
+P is for Peppa
+P, p, Peppa
+Peppa P Peppa P 
+P, Peppa
+
+Q is for Queen
+Q, q, Queen
+Queen Q Queen Q 
+Q, Queen
+
+R is for Rainbow
+R, r, Rainbow
+Rainbow R Rainbow R 
+R, Rainbow
+
+S is for Suzy
+S, s, Suzy
+Suzy S Suzy S 
+S, Suzy
+
+T is for Teddy
+T, t, Teddy
+Teddy T Teddy T 
+T, Teddy
+
+U is for Umbrella
+U, u, Umbrella
+Umbrella U Umbrella U 
+U, Umbrella
+
+Violin
+V V Violin 
+Violin V Violin V 
+V violin 
+
+W is for Window
+W, w, Window
+Window W Window W 
+W, Window
+
+X is for Xylophone 
+X, x, Xylophone
+Xylophone X Xylophone X 
+X, Xylophone
+
+Y is for Yo Yo
+Y, y, Yo yo
+Yo yo y, yo yo y 
+Y, Yo yo
+
+Z is for Zoe 
+Z, z, Zoe
+Zoe Z Zoe Z 
+Z, Zoe
+
+🎵 More Nursery Rhymes: https://bit.ly/3XTy4PV
+
+#NurseryRhyme #Phonics #ABC12:Tcfa,See It, Say It, Sign It  by Jack Hartmann teaches  sign language for each letter and the letter sounds for each letter of the alphabet with American sign language in this Jack Hartmann video.  Jack shows the sign for each letter and the letter sounds for each letter as he sings the letter name and the letter is shown on the screen. This version also includes the letter sounds and objects beginning with the letter sound.  This is a simple and fun way to learn sign language for each letter of the alphabet.  As a fun follow up challenge have each student spell their name using signs for each letter.  ASL alphabet. A fun and interactive way to learn asl.
+Learn American sign language in this abc song.
+Lyrics
+See it, say it, sign it
+The letters of the alphabet
+See it, say it, sign it
+The letters of the alphabet
+
+A, a this is the letter a
+/A/ /a/ apple
+/A/ /a/ acorn
+B, b, this is the letter b
+/B/ /b/ baby
+/B/ /b/ ball
+C, c, this is the letter c
+/C/ /c/ cat
+/C/ /c/ car
+D, d, this is the letter d
+/D/ /d/ dog
+/D/ /d/ daisy
+E, e, this is the letter e
+/E/ /e/ egg
+/E/ /e/ eagle
+F, f, this is the letter f
+/F/ /f/ fish
+/F/ /f/ fan
+G, g, this is the letter g
+/G/ /g/ goat
+/G/ /g/ gum
+H, h, this is the letter h
+/H/ /h/ hat
+/H/ /h/ hippo
+
+
+See it, say it, sign it
+The letters of the alphabet
+See it, say it, sign it
+The letters of the alphabet
+
+I, i, this is the letter i
+/I/ /i/ igloo
+/I/ /i/ ice
+J, j, this is the letter j
+/J/ /j/ jet
+/J/ /j/ juice
+K, k, this is the letter k
+/K/ /k/ kite
+/K/ /k/ kangaroo
+L, l, this is the letter l
+/L/ /l/ lamp
+/L/ /l/ lion
+M, m, this is the letter m
+/M/ /m/ mouse
+/M/ /m/ monkey
+N, n, this is the letter n
+/N/ /n/ nickel
+/N/ /n/ nest
+O, o, this is the letter o
+/O/ /o/ otter
+/O/ /o/ oval
+P, p, this is the letter p
+/P/ /p/ pumpkin
+/P/ /p/ pizza
+
+See it, say it, sign it
+The letters of the alphabet
+See it, say it, sign it
+The letters of the alphabet
+
+Q, q, this is the letter q
+/Q/ /q/ quail
+/Q/ /q/ quarter
+R, r, this is the letter r
+/R/ /r/ rug
+/R/ /r/ rainbow
+S, s, this is the letter s
+/S/ /s/ sun
+/S/ /s/ sandwich
+T, t, this is the letter t
+/T/ /t/ tiger
+/T/ /t/ taco
+U, u, this is the letter u
+/U/ /u/ umbrella
+/U/ /u/ ukulele
+V, v, this is the letter v
+/V/ /v/ van
+/V/ /v/ viper
+W, w, this is the letter w
+/W/ /w/ woodpecker
+/W/ /w/ windmill
+X, x, this is the letter x
+/X/ /x/ like in fox
+/X/ /x/ like in box
+Y, y, this is the letter y
+/Y/ /y/ yo-yo
+/Y/ /y/ yellow
+Z, z, this is the letter z
+/Z/ /z/ zebra
+/Z/ /z/ zipper
+
+See it, say it, sign it
+The letters of the alphabet
+See it, say it, sign it
+The letters of the alphabet
+
+
+Jack Hartmann's website: www.jackhartmann.com
+
+Remember to connect with Jack Hartmann on his Social Networks:
+
+Facebook: www.facebook.com/hop2itmusic
+Pinterest: www.pinterest.com/jackhartmann
+YouTube: www.youtube.com/user/JackHartmann
+Twitter: twitter.com/Jack_Hartmann
+Google +: plus.google.com/u/0/111246828015196865180
+
+You can find Jack Hartmann's Music on:
+
+Jack Hartmann Website: www.jackhartmann.com
+iTunes: itunes.apple.com/us/artist/jack-hartmann/id391057562
+Amazon Mp3: amazon.com/Boom-Chicka/dp/artist-redirect/B0156RBPXW/ref=sr_1_1?s=dmusic&ie=UTF8&qid=1492528781&sr=1-1&keywords=Jack+Hartmann
+Google Play: play.google.com/store/music/artist/Jack_Hartmann?id=Ax3xg7dhdt5nx4b47dnwxjnhhhy&hl=en
+CD Baby: www.cdbaby.com/Artist/JackHartmann13:T6c6,This animated phonics song helps children learn the sound of the digraph SH in English. A digraph is a combination of two letters representing one sound. Colorful characters teach kids two words at a time with the SH sound. Kids will love singing along and watching the action after each group of two words. As they do, they’ll practice making the sh sound. Developed with speech therapists to form each letter sound correctly. Extra practice reading words with the letter combination SH follows the song.
+
+SH Digraph Song lyrics:
+
+The letters S and H together make the sound:  SH-SH-SH
+
+sh - sheep 
+sh-sh sheep
+sh - shed 
+sh-sh shed
+sh sh sh
+
+sh - shore  
+sh-sh shore
+sh - shell  
+sh-sh shell
+sh sh sh
+
+sh - shoe  
+sh-sh shoe 
+sh - shine 
+sh-sh shine 
+sh sh sh
+
+sh - shark  
+sh-sh shark 
+sh - ship 
+sh-sh ship 
+sh sh sh
+
+sh - shirt  
+sh-sh shirt 
+sh - shorts 
+sh-sh shorts
+sh sh sh
+
+sh - shake  
+sh-sh shake 
+sh - shop 
+sh-sh shop 
+sh sh sh
+
+sh - shower  
+sh-sh shower 
+sh - shampoo 
+sh-sh shampoo
+sh sh sh
+
+
+The letters s and h can come at the end of a word.   
+sh - dish 
+dish … sh-sh 
+sh - wash 
+wash … sh-sh 
+sh sh sh
+
+sh - trash  
+trash … sh-sh 
+sh - push 
+push … sh-sh 
+sh sh sh
+
+sh - fish  
+fish … sh-sh 
+sh - splash 
+splash … sh-sh 
+sh sh sh
+
+
+Great job! Now, see if you can read these words before me, or along with me. These words have the letters sh.
+
+sheet … sh-sh sheet
+shut … sh-sh shut
+shape … sh-sh shape
+share … sh-sh share
+she … sh-sh she
+show … sh-sh show
+sharp … sh-sh sharp
+
+Very good! These next words have the letters sh at the end.
+
+brush … brush … sh-sh
+cash … cash … sh-sh
+wish … wish … sh-sh
+fresh … fresh … sh-sh
+smash … smash … sh-sh
+mush … mush… sh-sh14:T4bb,If you are teaching phonics for beginners or want to review letter digraphs and consonant blends this phonics video is for you! This 15-minute phonics compilation from Scratch Garden is great for English pronunciation practice and learning phonics in general. 
+
+Like our videos? Help support us on Patreon (and access over 50 member-only videos!) ►► https://www.patreon.com/scratchgarden ◄◄
+
+This English phonics collection teaches the most common digraph sounds: SH, TH, CH, WH, PH, and QU. Have fun learning to read in English with Happy Cheese Sounds!
+
+0:00 The SH Sound
+2:33 The TH Sound
+6:05 The CH Sound
+8:27 The WH Sound
+10:47 The PH Sound
+13:13 The QU Sound
+
+We love to teach with music! Watch Scratch Garden Educational Song Videos here: https://www.youtube.com/playlist?list=PL_ym6QHjS1szUhzH9URPbDflLczfPHF6P  
+
+Scratch Garden makes entertaining educational videos for people that like to laugh and learn! Please Subscribe to see more great fun learning videos from Scratch Garden! https://goo.gl/1biPjA
+
+
+Website: https://www.scratchgarden.com
+Instagram: https://www.instagram.com/scratchgarden
+Facebook: https://www.facebook.com/scratchgarden
+
+#EnglishPronunciation #phonicslessons #phonics15:T689,Learn to Read. Learn letter sounds of the English alphabet with sign language, Phonics and pictures of each letter and their sound, American sign language, ASL for babies and toddlers,  Sing alphabet phonics along with Patty Shukla, Learn phonics, Learn English alphabet letters. Extended 7 minute version. 
+
+More Patty Shukla Videos: https://youtube.com/playlist?list=PL-PtrQaHMOvRYU-w91iXup2fTrfcCjnKI&si=_eytvwSxoHMu4LtM
+
+For more videos http://www.pattysprimarysongs.com 
+
+Teaching children about phonics songs is crucial because these songs provide a fun and engaging way for young learners to develop their foundational reading and language skills, helping them become confident and proficient readers.
+
+Discover educational resources by Patty Shukla, including CDs, DVDs, books, and more at https://linktr.ee/pattysprimarysongs. Dive into Miss Patty's music on various platforms like Amazon, Instagram, Facebook, Roku, iTunes, AppleTV, FireTV, Siri, Alexa, Spotify, and beyond. Search for Patty Shukla or Patty Primary Songs to find her content. For further inquiries, please contact info@pattysprimarysongs.com
+
+#learning #learn #phonics_song #kidsvideo #reading Nursery Rhymes and Kids Songs #NurseryRhymes #BabySongs 
+
+#babylearning #babylearningvideos #babyvideos #babyvideosforbabiestowatch #toddlervideos #toddlerlearning #toddlerlearningvideos #babylearningvideos #toddlerlearning #preschool #kidssongs #nurseryrhymes #toddler #preschoollearning #shapes #colors #numbers #letters #pattyshukla #pattyshuklaplaylist
+#toddlers #toddlerlearning #nurseryrhymes #kidssongs #baby
+#toddler #toddlersongs #speech #abc #kidssongs #nurseryrhymes #abcsong #abcs #alphabet16:Tad8,Thousands of parents and educators are turning to the kids’ learning app that makes real learning truly fun. Try Kids Academy now! Enjoy our special Cyber Week offer. The price was 75% higher! https://www.kidsacademy.mobi/subscription-plan/cyber-week/
+
+All students that learn to read begin with the same basic fundamental skills. Students learn to identify upper and lowercase letters, learn letter sounds, and how the letter arrangement or letter order forms words. Students then progress to learning print awareness skills such as to begin reading at the top of a page, and read to the bottom.  Knowing to read words from left to right is print awareness too. 
+
+Kids Academy has a series of videos that teach these basic skills. Beginning with the most basic of concepts, the first video teaches children that every word that is heard can be written down. Children learning how to read for kindergarten level, see easy three-letter words demonstrating this premise.  The video shows how the letters D-O-G make the word DOG. The learner hears the name of each letter and then the word.  Students viewing the video can read along! Further, students learn the names of each uppercase letter of the alphabet in a fun video that writes each letter, and then a fun animation with a character or object with that letter sound moves across the screen. 
+
+With other videos in this series, students progressing from Kindergarten to learning how to read for Grade 1, view letters that make a word. The letters given in the example are not in the correct order and must be unscrambled to make the correct word. Students practice and learn to read the one syllable words given in the examples. Students that are beginning to learn to read with phonics benefit from this instruction using one syllable CVC (consonant-vowel-consonant) words. 
+
+In more videos, students learn that words in a sentence have a space between them. Students clearly see that without these spaces, the words are difficult to read. The videos instructs learners to begin reading from the top of a page and then from left to right.
+
+Teachers in the school as well as the home classroom that need resources on learning to read for kids find these videos are a great addition to daily instruction. Students learn letter identification, read one syllable words, and print awareness concepts. 
+
+Subscribe to our channel: https://goo.gl/iG2Bdr
+
+#TalentedAndGifted #LearnWithKidsAcademy
+
+Kids Academy Talented and Gifted Program for kids aged 2-10: 
+
+*****
+
+Connect with us on :
+
+App Store: https://smart.link/59833db06a6b8
+Google Play: https://smart.link/597210af6eb83
+
+Our website:  http://www.kidsacademy.mobi
+Instagram: https://www.instagram.com/kidsacademyco
+Facebook: https://www.facebook.com/KidsAcademyCompany17:T8ba,Learn the sounds of the letters in the English alphabet while watching familiar and new animals with this ABC Phonics Song. Two super-cute cartoon animals teach kids common sounds for each alphabet letter. Kids love singing along and watching the animals play together. Practice making beginning letter sounds for the 26 letters in the English alphabet. Developed with speech therapists to enunciate the letter sounds correctly. Great for babies, toddlers, preschool, kindergarten, ESL, ELL, bilingual preschool, bilingual kindergarten, and language delayed learners. Even older kids and adults will love learning the names of new exotic animals, some of them endangered species. What is your favorite animal?
+
+Please subscribe to Rock 'N Learn's YouTube channel. Visit our channel for a wide variety of educational videos and fun songs for all ages.
+
+ABC Animal Alphabet Phonics Song Lyrics
+
+A, antelope, a-a-antelope
+A, alligator, a-a-alligator
+a-a-a
+
+B, bear, b-b-bear
+B, bat, b-b-bat
+b-b-b
+
+C, camel, c-c-camel
+C, cat, c-c-cat
+c-c-c
+
+D, dog, d-d-dog
+D, duck, d-d-duck
+d-d-d
+
+E, elephant, e-e-elephant
+E, elk, e-e-elk
+e-e-e
+
+F, ferret, f-f-ferret
+F, fish, f-f-fish
+f-f-f
+
+G, goat, g-g-goat
+G, gorilla, g-g-gorilla
+g-g-g
+
+H, hyena, h-h-hyena
+H, hamster, h-h-hamster
+h-h-h
+
+I, insect, i-i-insect
+I, iguana, i-i-iguana
+i-i-i
+
+J, jaguar, j-j-jaguar
+J, jellyfish, j-j-jellyfish
+j-j-j
+
+K, kangaroo, k-k-kangaroo
+K, koala, k-k-koala
+kuh-kuh-kuh
+
+L, lemur, l-l-lemur
+L, ladybug, l-l-ladybug
+l-l-l
+
+M, monkey, m-m-monkey
+M, moose, m-m-moose
+m-m-m
+
+N, newt, n-n-newt
+N, narwhal, n-n-narwhal
+n-n-n
+
+O, otter, o-o-otter
+O, octopus, o-o-octopus
+o-o-o
+
+P, pig, p-p-pig
+P, parrot, p-p-parrot
+p-p-p
+
+Q, quail, qu-qu-quail
+Q, quokka, qu-qu-quokka
+qu-qu-qu
+
+R, rabbit, r-r-rabbit
+R, raccoon, r-r-raccoon
+r-r-r
+
+S, snake, s-s-snake
+S, skunk, s-s-skunk
+s-s-s
+
+T, tiger, t-t-tiger
+T, turtle, t-t-turtle
+t-t-t
+
+U, upland goose, u-u-upland goose
+U, umbrella bird, u-u-umbrella bird
+u-u-u
+
+V, vulture, v-v-vulture
+V, vaquita, v-v-vaquita
+v-v-v
+
+W, walrus, w-w-walrus
+W, weasel, w-w-weasel
+w-w-w
+
+X, fox, cks, cks, cks
+X, ox, cks, cks, cks
+cks, cks, cks
+
+Y, yak, y-y-yak
+Y, yellowjacket, y-y-yellowjacket
+y-y-y
+
+Z, zebra, z-z-zipper
+Z, zebu, z-z-zebu
+z-z-z18:T7a2,Subscribe to the Channel:
+https://www.youtube.com/@supermuslimkids?sub_confirmation=1
+
+Support us:
+https://ko-fi.com/supermuslimkids
+
+Join us on an incredible journey of learning the Arabic alphabet through our lively and engaging song. 🎶📚 Perfect for pre-schoolers, this fun-filled experience will have your little ones dancing and singing their way through the Arabic alphabet. Press play, subscribe for more educational content, and let's make learning a joyful adventure for our Super Muslim Kids! 🚀 #ArabicAlphabet #SuperMuslimKids #preschoollearning 
+
+Production: http://www.orangepixels.co.uk
+Audio: Tasleem Kariem
+
+(Parents interact with us on our social media)
+Instagram ► https://www.instagram.com/supermuslimkids
+Tiktok ► https://tiktok.com/@supermuslimkids
+Facebook ► http://facebook.com/SuperMuslimKids
+
+Like | Share | Subscribe
+
+Super Muslim Kids is home to a variety of popular vocals only nursery rhymes and educational content to entertain young children.
+Our videos encourage Islamic values and healthy habits.
+Super Muslim Kids. Where learning and fun go hand in hand.
+
+Check out our other videos:
+🐮🦆😺🐑🐎🐔 Old Abdullahs Farm:
+https://youtu.be/Nic2uaKcreY
+
+🦆🐥🐥🐥🐥🐥 Five little ducks:
+https://youtu.be/p77nQ7WyKgc
+
+🧔🏽‍♂🧕🏼👧🏽🧒🏽👶🏽 The Finger Family:
+https://youtu.be/AENYk2x-O1s
+
+🦈Our famous Muslim Shark:
+https://youtu.be/T3DuAFu2ZoY
+
+📒Arabic flashcards: https://youtu.be/lHaPOryRuLY
+ 
+More content coming soon!
+
+#nurseryrhymes #ChildrenSongs #islamic #kidssongs #Nasheed #nurseryrhymes #rhymes #pillarsofislam #cartoon #animation 
+#SuperMuslimKids #vocalsonly #acapella #nomusic #muslim #kidsvideo #song #animals #songsforkids #ForKids #KidsVideo #ForKids #cats #pony #ducks #sheep  #cow #cute #chicken #kitten 
+#ToddlerTV #PreschoolSongs #SingAlong #MusicForChildren #KidsMusic #game #education #challenge #phonics #letters #arabic #learning #words19:T9d9,Phoncis Kids series is designed for young learners of English as a foreign language to master basic phonics and phonemic rules little by little. It covers shapes of letters to pronunciation of the alphabet to related vocabulary. Rhymes, chants, songs and stories integrate language learning into a natural whole, helping learners to acquire English reading ability and fall in love with reading.
+
+Phonics Kids 1A – 6B Lesson Plan
+Level 1A The Alphabet | Aa – Mm
+Level 1B The Alphabet | Nn – Zz
+Level 2A The Consonants | Bb – Pp
+Level 2B The Consonants | Qq – Zz
+Level 3A The Short Vowels | Aa, Ee, Ii
+Level 3B The Short Vowels | Oo, Uu
+Level 4A The Short Vowel Word Families & Consonant Blends | a, e, i, o
+Level 4B The Short Vowel Word Families & Consonant Blends | u, l, r, s
+Level 5A The Vowel Pairs | ai, ay, ee, ea, oa
+Level 5B Consonant Digraphs | sh, ch, th, wh
+Level 6A More Vowel Pairs | a-e, e-e, i-e, o-e, u-e, ow, ou, oo
+Level 6B More Vowel Pairs | ar, er, ir, or, ur
+
+We publish the best-in-class phonics, sight words and readers to help children learn English in an easy and fun way. Phonics helps young learners decode words and sound them out. Sight Words help them read fluently and concentrate on the meaning of the text. Together they open the door to reading.
+
+English for Beginners and Early Learners
+Learn to Listen, Speak, Read and Write
+Kids songs, chants, rhymes and animation
+
+#Phonics, #LearnPhonics, #EasyPhonics, #PhonicsKids, #PhonicsBaby
+#SightWords, #The Alphabet, #ABC Song, #SoundofAtoZ 
+#ReaderForBeginners, #ReaderForChildren, #ReaderForKids, #ReaderForBabies
+
+#EnglishReading, #EnglishLearningProgram, #EnglishForChildren 
+#EnglishForKids, #EnglishForBabies
+#TVSeries, #EnglishLearningTVProgram 
+
+|❤️LIKE us❤️ 
+Facebook - https://www.facebook.com/RASSL/
+Website - www.rasslanguage.com
+
+RASS LANGUAGE is committed to the development of children’s English education materials for over 15 years.  We firmly believe that SOUNDS form the basis for all language learning.  Our name RASS stands for Reading as Art and Science of Sounds. Based on the premise that “Listening/Speaking driving Reading/Writing”, our publications are imbuded with chants, songs, stories and animation to facilitate easy learning. We have developed our own Talking iPEN which is a “point to read” device supporting all our titles. Our publications are grouped into 3 main series covering Phonics, Sight Words and Readers, plus other learning materials such as dictionary and Putonghua.1a:T4ea,Learn about dividing words and counting syllables as we explain what a syllable is in the English language. 
+
+Like our videos? Help support us on Patreon (and access over 50 member-only videos!) ►► https://www.patreon.com/scratchgarden ◄◄
+
+This is a great video for teaching ESL English or as part of an English lesson for kids. Scratch Garden's Syllables! video is a fun and very interactive English video, as we show examples and let you practice one-, two-, three-, and four-syllable words. 
+
+Watch more English language learning videos: https://www.youtube.com/playlist?list=PL_ym6QHjS1sznCEmTtHOXNi9s9naNWXX5
+
+We love to teach with music! Watch Scratch Garden Educational Song Videos here: https://www.youtube.com/playlist?list=PL_ym6QHjS1szUhzH9URPbDflLczfPHF6P  
+
+Scratch Garden makes entertaining educational videos for people who like to laugh and learn! Please Subscribe to see more great fun learning videos from Scratch Garden! https://goo.gl/1biPjA
+
+
+Website: https://www.scratchgarden.com
+Instagram: https://www.instagram.com/scratchgarden
+Facebook: https://www.facebook.com/scratchgarden
+
+#EnglishGrammar #ESLVideos #englishpractice 
+
+00:00 Introduction
+01:10 One Syllable
+01:47 Two Syllables
+02:41 Three Syllables
+03:41 Four Syllables1b:T5bc,This Vowel Teams Song teaches the correct pronunciation of several long A vowel pairs. Learn (and sing along) with examples of the following vowel teams: ai, ay, ea, ey, ei, eigh. 
+
+This is the 1st learning video in a new vowel teams song series by Scratch Garden. Be sure to check back because we will eventually cover ALL of the vowel teams (and dipthongs) in the English language! Here is our vowel teams playlist so far: https://www.youtube.com/playlist?list=PL_ym6QHjS1syTrBG3EyJla2dPTyNWy2m4
+
+Whether teaching ESL or learning to read the English language, this video is sure to help you learn English phonics and pronunciation quickly and happily. 
+
+Watch more English language learning videos: https://www.youtube.com/playlist?list=PL_ym6QHjS1sznCEmTtHOXNi9s9naNWXX5
+
+We love to teach with music! Watch Scratch Garden Educational Song Videos here: https://www.youtube.com/playlist?list=PL_ym6QHjS1szUhzH9URPbDflLczfPHF6P  
+
+Scratch Garden makes entertaining educational videos for people that like to laugh and learn! Please Subscribe to see more great fun learning videos from Scratch Garden! https://goo.gl/1biPjA
+
+Website: https://www.scratchgarden.com
+Instagram: https://www.instagram.com/scratchgarden
+Facebook: https://www.facebook.com/scratchgarden
+
+00:00 Introduction
+00:34 The AI vowel team
+01:06 The AY vowel team
+01:36 The EA vowel team
+02:11 The EY vowel team
+02:41 The EI vowel team
+03:12 The EIGH vowel team
+
+#vowelteams #vowelpairs #voweldigraphs1c:T570,Phonics Song for Children (Real Video) | ABC Phonics | Letter Sounds | Phonics Song with Two Words | Phonics Song for Children | Alphabet Song | Letter Sounds | ABC Phonics| Phonics Song with TWO Words | Phonics song for Kindergarten | ABC Song | ABC Song for Kindergarten
+
+This Educational Video by PLUTO is one of the Best Phonics song with Two words for every Alphabets. This real song by the Real Educator of PLUTO helps kids learn the ABC song very nicely and also learn the phonics associated with each and every alphabet. 
+
+So parents should help kids learn the Sounds of the Letters - usually called Phonic Sounds of Alphabets - with the help of this nice & real Phonics song. This Phonics Song for Kindergarten - is crafted by real teachers - that help kids learn the ABC Song just like they would learn in real schools.
+
+In this wonderful video the real educator teacher of Pluto in a very lively manner sings how phonics song is to be taught to small children and that too with the example to two words for every alphabet. 
+
+This Phonics Song for Kindergarten is a must learn for little kids - as it will help then learn the Phonics Sound of every alphabet correctly - which will help them have good learning ability of the Alphabet sounds.
+
+To know more about PLUTO please visit 
+www.plutokids.in
+www.facebook.com/plutokids.in
+
+#RealLearning
+#PhonicsSong
+#ABCSong
+#PlutoPlaySchool2:["$","div",null,{"className":"space-y-8 pb-8","children":[["$","div",null,{"children":["$","$Lf",null,{"href":"/","className":"inline-flex items-center gap-1.5 px-3 py-1.5 bg-white rounded-lg text-slate-600 font-semibold text-xs border border-slate-200 hover:border-purple-300 hover:text-purple-900 transition-colors shadow-subtle","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-3.5 h-3.5","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"Back to Discover"}]]}]}],["$","section",null,{"className":"bg-white rounded-2xl sm:rounded-3xl p-4 xs:p-6 sm:p-8 border border-slate-200/80 shadow-subtle space-y-3","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"px-2.5 py-0.5 bg-purple-100 text-purple-900 text-xs font-bold rounded-md uppercase tracking-wider","children":["Ages ","Early"]}],["$","span",null,{"className":"text-xs text-slate-400 font-semibold","children":["• ",16," Videos"]}]]}],["$","h1",null,{"className":"text-xl xs:text-2xl sm:text-4xl font-black text-slate-900 tracking-tight","children":"5–7"}],["$","p",null,{"className":"text-slate-600 font-medium text-xs sm:text-base max-w-2xl leading-relaxed","children":"Animated stories, numbers, beginner science, and creative crafts."}],["$","div",null,{"className":"pt-2 flex items-center gap-2 text-xs font-medium text-slate-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-shield-check w-4 h-4 text-emerald-600 shrink-0","children":[["$","path","oel41y",{"d":"M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"}],["$","path","dzmm74",{"d":"m9 12 2 2 4-4"}],"$undefined"]}],["$","span",null,{"children":["Strict server-side safe query: \"","kids stories educational science songs phonics for kids","\""]}]]}]]}],["$","section",null,{"className":"space-y-4","children":[["$","h2",null,{"className":"text-lg sm:text-xl font-bold text-slate-900","children":"Watch & Learn"}],["$","div",null,{"className":"grid grid-cols-1 xs:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3.5 sm:gap-5","children":[["$","$L10","50SqWU6yEK0",{"video":{"id":"50SqWU6yEK0","title":"ABC Phonics Song | Letter Sounds with Peppa Pig | ABC Phonics Song for Children | Kids Songs","description":"$11","channelTitle":"Peppa Pig - Nursery Rhymes and Kids Songs","channelId":"UCOYd4Al0Ty89xigE-l9AIog","publishedAt":"2022-10-21T13:00:04Z","duration":"4:13","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/50SqWU6yEK0/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/50SqWU6yEK0/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/50SqWU6yEK0/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/50SqWU6yEK0/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/50SqWU6yEK0/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"5–7"}],["$","$L10","uVeEAFy1z68",{"video":{"id":"uVeEAFy1z68","title":"Word Families 1 |  -at, -am, -an, -ad  | Phonics CVC Words for Kindergarten","description":"Our Word Family series helps students learn ʺfamiliesʺ of words that appear frequently in English. Each episode introduces a new word family, with a simple, easy-to-read story. As they learn and practice word families, readers quickly build vocabulary and fluency.\n\nYou can check out our stories on the Little Fox YouTube channel.\nSUBSCRIBE : https://url.kr/wf97sk\n\n===================================\n\n00:00 Intro \n00:05 Word Families 1: The Cat Sat\n03:06 Word Families 2: Sam Has Ham\n06:17 Word Families 3: Dan Ran\n08:57 Word Families 4: Dad is Mad\n\n===================================\n\nAbout the Little Fox YouTube Channel \nWelcome to the Little Fox channel of fun animated stories for kids. From traditional fairy tales that have been loved for many generations to classic stories that are recognized worldwide for their literary value, kids will learn natural and authentic English with our stories. Visit our website, www.littlefox.com, for more stories.","channelTitle":"Little Fox - Kids Stories and Songs","channelId":"UCXRPWm72nrs5sK7fNTSXZrw","publishedAt":"2021-05-28T13:00:20Z","duration":"12:17","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/uVeEAFy1z68/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/uVeEAFy1z68/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/uVeEAFy1z68/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/uVeEAFy1z68/sddefault.jpg","width":640,"height":480}}},"categoryLabel":"5–7"}],["$","$L10","WP1blVh1ZQM",{"video":{"id":"WP1blVh1ZQM","title":"See It, Say It, Sign It | Letter Sounds | ASL Alphabet | Jack Hartmann","description":"$12","channelTitle":"Jack Hartmann Kids Music Channel","channelId":"UCVcQH8A634mauPrGbWs7QlQ","publishedAt":"2017-09-28T18:18:49Z","duration":"6:29","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/WP1blVh1ZQM/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/WP1blVh1ZQM/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/WP1blVh1ZQM/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/WP1blVh1ZQM/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/WP1blVh1ZQM/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"5–7"}],["$","$L10","LeZUJwMoki8",{"video":{"id":"LeZUJwMoki8","title":"/a,a/! Ants on my arm Kids Phonics Rhymes || Jolly Phonics Song Aa - Ants on my arm || Phonics song","description":"#jolly phonics song\n#phonics song \n#phonics with two words\n#phonics song 2\n#phonics song ABCD\n#phonics song ato z\n#phonics song of alphabet\n#phonics song ABC \n#phonics rhymes ants on my arm \n#phonics song ant on my arm\n#ant on my arm\n#ant on my arm rhymes\n#ant on my rhymes\n#ant on my nursery rhymes\n#ant on my arm poem\n#phonics rhymes\n#phonics rhymes for kindergarten\n#phonics rhymes with action\n#phonics rhymes in English\n#phonics rhymes for babies\n#phonics rhymes for ukg\n#phonics rhymes of alphabet\n#phonics rhymes ant on my arm\n#phonics rhymes a for apple \n#phonics  rhymes for nursery \n#abc flamingo Nursery TV\n#youtube Viral video\n#viral video","channelTitle":"ABC Flamingo Nursery TV","channelId":"UC8A0atiHfl6_TsxS0Ua-jLA","publishedAt":"2023-02-20T01:30:11Z","duration":"7:14","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/LeZUJwMoki8/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/LeZUJwMoki8/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/LeZUJwMoki8/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/LeZUJwMoki8/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/LeZUJwMoki8/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"5–7"}],["$","$L10","vJWKudfRipc",{"video":{"id":"vJWKudfRipc","title":"SH Digraph Sound | SH Song and Practice | ABC Phonics Song with Sounds for Children","description":"$13","channelTitle":"Rock 'N Learn","channelId":"UCExx109KH5msQR0n52ZzyAw","publishedAt":"2020-06-09T15:00:30Z","duration":"4:04","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/vJWKudfRipc/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/vJWKudfRipc/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/vJWKudfRipc/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/vJWKudfRipc/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/vJWKudfRipc/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"5–7"}],["$","$L10","Oi98UY7G2qQ",{"video":{"id":"Oi98UY7G2qQ","title":"Phonics Compilation | Common Digraph Sounds Compilation | Scratch Garden","description":"$14","channelTitle":"Scratch Garden","channelId":"UC8NFs-VWUsyuq4zaYVVMgCQ","publishedAt":"2020-05-25T12:30:04Z","duration":"15:46","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/Oi98UY7G2qQ/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/Oi98UY7G2qQ/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/Oi98UY7G2qQ/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/Oi98UY7G2qQ/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/Oi98UY7G2qQ/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"5–7"}],["$","$L10","zhbC-3Fu77E",{"video":{"id":"zhbC-3Fu77E","title":"Learn Phonics Song for Children (Official Video) Alphabet Song | Letter Sounds | Signing for babies","description":"$15","channelTitle":"Patty Shukla Kids TV - Children's songs","channelId":"UC1J5R-2zsrrICAYmkt5g_6Q","publishedAt":"2021-05-28T17:08:09Z","duration":"6:56","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/zhbC-3Fu77E/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/zhbC-3Fu77E/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/zhbC-3Fu77E/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/zhbC-3Fu77E/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/zhbC-3Fu77E/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"5–7"}],["$","$L10","g0ghV1JoSig",{"video":{"id":"g0ghV1JoSig","title":"Learn to Read | Phonics for Kids | ELA Lessons for Kindergarten & Grade 1 | Kids Academy","description":"$16","channelTitle":"Kids Academy","channelId":"UCqb89GqploCXgz4lsdR-_ww","publishedAt":"2020-05-04T13:00:31Z","duration":"17:51","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/g0ghV1JoSig/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/g0ghV1JoSig/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/g0ghV1JoSig/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/g0ghV1JoSig/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/g0ghV1JoSig/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"5–7"}],["$","$L10","9C1qj06xduo",{"video":{"id":"9C1qj06xduo","title":"Phonics Story A - English Story - Educational video for Kids","description":"https://www.youtube.com/user/englishsingsing9 \n\nPhonics Story A - English Story -  Educational video for Kids\n\nHello! This is a new video of the Phonics series! Watch English stories, listen, Read aloud and have fun learning English!\nLet's study English with lovely new characters.\nHere is Great Educational Songs & Animations for kids, toddlers, children, babies and EVERYONE!\nPlease enjoy watching fun & exciting English animation!\n\n\n★ Subscribe us on YouTube: http://goo.gl/gDa963\n★ More Our Dialogue: https://goo.gl/QRE9Hk\n\n\n-- Phonics Story A  --\n\nThis is Annie's apple tree.\nAnnie is on the mat.\nMax loves apples.\nAnts love apples, too.\nAnnie's cat is angry.\nDad is coming with a big bag.\nWow, snacks!\nMax loves snacks, too.\n\n\nThanks for checking out the \"English Singsing\".\n© Amanta Inc.","channelTitle":"English Singsing","channelId":"UCGwA4GjY4nGMIYvaJiA0EGA","publishedAt":"2019-07-02T00:44:37Z","duration":"5:09","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/9C1qj06xduo/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/9C1qj06xduo/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/9C1qj06xduo/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/9C1qj06xduo/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/9C1qj06xduo/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"5–7"}],["$","$L10","bVeP6JISfyw",{"video":{"id":"bVeP6JISfyw","title":"Animals ABC Phonics Song for Kids | Two Animals for Each Letter of the Alphabet | Rock ’N Learn","description":"$17","channelTitle":"Rock 'N Learn","channelId":"UCExx109KH5msQR0n52ZzyAw","publishedAt":"2021-02-23T16:00:10Z","duration":"4:52","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/bVeP6JISfyw/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/bVeP6JISfyw/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/bVeP6JISfyw/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/bVeP6JISfyw/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/bVeP6JISfyw/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"5–7"}],["$","$L10","M1S9y-xO7eQ",{"video":{"id":"M1S9y-xO7eQ","title":"Everybody's Reading Now - CVC Phonics Song","description":"This video is designed to teach how to read CVC (consonant vowel consonant) words.\nThis song was written and performed by A.J. Jenkins. Video by KidsTV123.\nCopyright 2020 A.J.Jenkins/KidsTV123: All rights reserved.\nThis is an ORIGINAL song written in 2020 - any copying is illegal.\nFor MP3s, worksheets and much more:\nhttp://www.KidsTV123.com\n\nkids songs song for children\n\nChords\nG C D G\n\nhttps://open.spotify.com/artist/0zC8dOCRSyLAqsBq99du1f\nhttps://music.youtube.com/channel/UC0EqNhs_ejTB7_EgTZzpixA\nhttps://music.apple.com/gb/artist/kids-tv-123/1439675517 https://music.amazon.com/artists/B07JN5GWJC/kids-tv-123","channelTitle":"KidsTV123","channelId":"UCtgpDqkeOToveUgh8igrvXQ","publishedAt":"2020-02-26T07:16:30Z","duration":"5:37","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/M1S9y-xO7eQ/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/M1S9y-xO7eQ/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/M1S9y-xO7eQ/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/M1S9y-xO7eQ/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/M1S9y-xO7eQ/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"5–7"}],["$","$L10","hp2z-X67cjY",{"video":{"id":"hp2z-X67cjY","title":"Arabic Alphabet Song - Phonics - Kids Song (Nasheed) - Vocals Only - Super Muslim Kids","description":"$18","channelTitle":"Super Muslim Kids","channelId":"UCaxqB3KQjOMep2DekLVuXaA","publishedAt":"2024-01-18T09:00:07Z","duration":"4:21","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/hp2z-X67cjY/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/hp2z-X67cjY/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/hp2z-X67cjY/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/hp2z-X67cjY/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/hp2z-X67cjY/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"5–7"}],["$","$L10","xvAodUHIyfU",{"video":{"id":"xvAodUHIyfU","title":"Phonics Kids 2A Unit 6-12 | Consonant Letters | Hh Jj Kk Ll Mm Nn Pp |","description":"$19","channelTitle":"RASS LANGUAGE - Reading as Art & Science of Sounds","channelId":"UCeIP4_JK2Dq6lK4itc-_rGw","publishedAt":"2014-01-29T02:32:24Z","duration":"11:00","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/xvAodUHIyfU/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/xvAodUHIyfU/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/xvAodUHIyfU/hqdefault.jpg","width":480,"height":360}}},"categoryLabel":"5–7"}],["$","$L10","9S7DY2lgJlU",{"video":{"id":"9S7DY2lgJlU","title":"Syllables! | Scratch Garden","description":"$1a","channelTitle":"Scratch Garden","channelId":"UC8NFs-VWUsyuq4zaYVVMgCQ","publishedAt":"2017-02-22T00:00:00Z","duration":"5:08","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/9S7DY2lgJlU/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/9S7DY2lgJlU/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/9S7DY2lgJlU/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/9S7DY2lgJlU/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/9S7DY2lgJlU/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"5–7"}],["$","$L10","X0_i32BgBiA",{"video":{"id":"X0_i32BgBiA","title":"The Vowel Teams Song  | The Long A Sound | Phonics Song","description":"$1b","channelTitle":"Scratch Garden","channelId":"UC8NFs-VWUsyuq4zaYVVMgCQ","publishedAt":"2025-01-13T13:30:05Z","duration":"4:15","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/X0_i32BgBiA/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/X0_i32BgBiA/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/X0_i32BgBiA/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/X0_i32BgBiA/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/X0_i32BgBiA/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"5–7"}],["$","$L10","draRzWLZ784",{"video":{"id":"draRzWLZ784","title":"Phonics Song for Children (Real Video) | ABC Phonics | Letter Sounds | Phonics Song with Two Words","description":"$1c","channelTitle":"Pluto","channelId":"UC5UGbhHA1uyHeEqKnyHBxbA","publishedAt":"2021-08-18T02:19:04Z","duration":"7:17","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/draRzWLZ784/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/draRzWLZ784/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/draRzWLZ784/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/draRzWLZ784/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/draRzWLZ784/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"5–7"}]]}]]}]]}]

@@ -1,0 +1,342 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[575,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","106","static/chunks/106-47a5a1efa19d79a5.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-3af544ae5eabb728.js"],"AuthProvider"]
+7:I[1196,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","106","static/chunks/106-47a5a1efa19d79a5.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-3af544ae5eabb728.js"],"TimerProvider"]
+8:I[842,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","106","static/chunks/106-47a5a1efa19d79a5.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-3af544ae5eabb728.js"],"default"]
+9:I[8349,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","106","static/chunks/106-47a5a1efa19d79a5.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-3af544ae5eabb728.js"],"default"]
+a:I[6733,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","106","static/chunks/106-47a5a1efa19d79a5.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-3af544ae5eabb728.js"],"default"]
+b:I[3633,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","106","static/chunks/106-47a5a1efa19d79a5.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-3af544ae5eabb728.js"],"default"]
+c:I[833,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","106","static/chunks/106-47a5a1efa19d79a5.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-3af544ae5eabb728.js"],"default"]
+d:I[5050,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","106","static/chunks/106-47a5a1efa19d79a5.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-3af544ae5eabb728.js"],"default"]
+4:["category","puzzles","d"]
+0:["y0cAsLvuXZ_zKYR9RIhIS",[[["",{"children":["category",{"children":[["category","puzzles","d"],{"children":["__PAGE__?{\"category\":\"puzzles\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["category",{"children":[["category","puzzles","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","category","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","category","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/65022725ca4d158e.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_ed3508","children":["$","body",null,{"className":"bg-[#F8FAFC] text-slate-900 font-sans min-h-screen flex flex-col antialiased","children":["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","main",null,{"className":"flex-1 max-w-[1440px] w-full mx-auto px-4 xs:px-5 sm:px-8 lg:px-12 py-4 sm:py-8","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}]]}]}]}]}]],null],null],["$Le",null]]]]
+e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Puzzles Videos — KiddoTube"}],["$","meta","3",{"name":"description","content":"Brain games"}],["$","meta","4",{"name":"keywords","content":"Kids Videos,KiddoTube,Educational Videos,Nursery Rhymes,Safe Content Discovery"}],["$","link","5",{"rel":"shortcut icon","href":"/images/favicon.png"}],["$","link","6",{"rel":"icon","href":"/images/favicon.png"}],["$","link","7",{"rel":"apple-touch-icon","href":"/images/favicon.png"}]]
+1:null
+f:I[2972,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","130","static/chunks/app/category/%5Bcategory%5D/page-526a8d841d796d9e.js"],""]
+10:I[265,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","130","static/chunks/app/category/%5Bcategory%5D/page-526a8d841d796d9e.js"],"default"]
+11:T5ac,Teach your children how to thinking logically by learning to code. This video is the third part of incoming series : Basic Logical Thinking.
+In this video, your kid will learn about the very basic thing coding : arrange instructions to achieve the goal.
+
+Coding for kids has many advantages, like : train the kid for logical thinking, and made the kid thinks how to solve problem with multiple ways.
+
+You don't need to spend much money for kid to learn code. The entire software in this video is free. If you have a working computer and internet, it will be good to go.
+
+Coders are one of the hottest job right now, and it will not disappear soon. In the contrary, more jobs needs to be automated, and coders has important role for creating automation process, robots, etc.
+
+Most of us don’t know the first thing about what makes our smartphones, laptops, social media networks, and video games run. Basic programming knowledge can change the way we interact with the technologies we use (and take for granted) daily, and can open our eyes to the infinite possibilities of coding.
+
+----------------------------------------------------------------------------------------------------
+
+Belajar programming / coding untuk anak. Bagus untuk aktivitas anak belajar logika dasar dan latihan anak.. Kalau sudah bosan school from home, bisa gunakan ini sebagai selingan lho moms. Tidak hanya bermain, tapi sekaligus menyiapkan masa depan anak di era digital.12:Taf0,Very Interesting customized, hand picked Brain Teasers Activities for Kids (4+ yrs), Concepts Understanding, Logical Thinking, & Vocabulary Building. Roll the Dice & Add, Riddles, Analogies, Hidden Word Search / Picture Puzzle, Rebus Puzzles & more. Tell 4 days of the week start with letter 'T'?
+Useful for kids overall thinking & learning skills development. 
+#SaachiTalksConceptsandStories  #saachitalksworksheets #kidsconceptsandvocabulary  
+Other Worksheets:
+https://youtu.be/VHhLdYiUEyw
+https://youtu.be/1GYy4z05hYs
+https://youtu.be/X5PM-AAMWiU
+https://youtu.be/uPMsb4id-Z8
+https://youtu.be/yepd6lfxezo
+https://youtu.be/1bvdVXEuTNo
+https://youtu.be/uaiu5khPxO0
+https://youtu.be/Xpe6TlHMvQs
+Recent uploads:
+https://youtu.be/YZfFO7emkw0
+https://youtu.be/JPJn_2Z4ZNs
+https://youtu.be/65ew_yd0XPc
+https://youtu.be/JWPu0xPNHD8
+https://youtu.be/dMxaq84nBxo
+https://youtu.be/N346OEgMrtE
+https://youtu.be/_OysHDVUFwg
+https://youtu.be/p1yJeiO2eHk
+https://youtu.be/_sNtFAnpxOE
+Subscription Link:
+https://www.youtube.com/SaachiTalksConceptsandStories
+Vocabulary Enhancing Kids Activities Ideas
+https://www.youtube.com/watch?v=fjD7uwEPzp0&list=PLKDaN0En95-t4UmxvOJXbNW6Iss2gH6y3
+Celebrating 100 videos with Fun Shorts 
+https://www.youtube.com/watch?v=H-kep6oVgOc&list=PLKDaN0En95-u3CwO522_qHsIVq3Wp1TbG
+Hands on coding activity worksheets, daily practice worksheets:
+https://www.youtube.com/watch?v=oaxSziTYOVU&list=PLKDaN0En95-tVt93p1grjfw5PgOZPBrkD
+Interesting Stories:
+https://www.youtube.com/watch?v=ltGT_ON_bgs&list=PLKDaN0En95-tB6axoyjdj0Ay35ST2dAs9
+Little Presenter shares Science Concepts & Experiments:
+https://www.youtube.com/watch?v=5ISdKZs3e9c&list=PLKDaN0En95-vddwWIIY66_kjlcd-T226U
+DIY Worksheets:
+https://www.youtube.com/watch?v=yepd6lfxezo&list=PLKDaN0En95-uv-hNJ6ZXiLTvucXPYXGcm
+Kids Questions:
+https://www.youtube.com/watch?v=9cQ2-_TvMwE&list=PLKDaN0En95-sLfFunlT3aK1qB840th1Vb
+Curiosity Bites: 
+https://www.youtube.com/watch?v=WWZdkBec9gs&list=PLKDaN0En95-tW-g-P_y7gCRbuL8mUO26A
+Shorts:
+https://www.youtube.com/watch?v=IWW4AGkg7ME&list=PLKDaN0En95-snbXG-pGGVgNuss_p0UUPf
+Knowledge Point:
+https://www.youtube.com/watch?v=_vmF694cYDU&list=PLKDaN0En95-uptq4CFXaUKBEZowuTcsdX
+Let's Read Together:
+https://www.youtube.com/watch?v=K3X6vWkXjAg&list=PLKDaN0En95-vP3VuuEQVAM1xlwePd22iV
+Wisdom Words:
+https://www.youtube.com/watch?v=xgjEoyGHC7E&list=PLKDaN0En95-uZUKQb-7jfL-8av08LhPzW
+Know How:
+https://www.youtube.com/watch?v=4KTAy9tfe3A&list=PLKDaN0En95-tsjHlXQ9EZHickYwhM7xnF
+Five Words Series:
+https://www.youtube.com/watch?v=0sj4aVP4h0k&list=PLKDaN0En95-vVP4eZK50VKn_YaFM9htaN
+Puzzles, Books, Games:
+https://www.youtube.com/watch?v=Td7qlY5Bzfs&list=PLKDaN0En95-vXTScNb4ELKWNLqGXvq9GX
+Colors, Shapes, Numbers:
+https://www.youtube.com/watch?v=HpLFoOxGs4o&list=PLKDaN0En95-s8xzmhgfzaGZZdLGPSd4BN13:T812,#SaachiTalksConceptsandStories #SaachiTalkscodingworksheets #saachitalksworksheets
+#SaachiTalksConceptsandStories
+https://www.youtube.com/SaachiTalksConceptsandStories
+Celebrating 100 videos with Fun Shorts 
+https://www.youtube.com/watch?v=H-kep6oVgOc&list=PLKDaN0En95-u3CwO522_qHsIVq3Wp1TbG
+Hands on coding activity worksheets, daily practice worksheets:
+https://www.youtube.com/watch?v=oaxSziTYOVU&list=PLKDaN0En95-tVt93p1grjfw5PgOZPBrkD
+Interesting Stories:
+https://www.youtube.com/watch?v=ltGT_ON_bgs&list=PLKDaN0En95-tB6axoyjdj0Ay35ST2dAs9
+Little Presenter shares Science Concepts & Experiments:
+https://www.youtube.com/watch?v=5ISdKZs3e9c&list=PLKDaN0En95-vddwWIIY66_kjlcd-T226U
+DIY Worksheets:
+https://www.youtube.com/watch?v=yepd6lfxezo&list=PLKDaN0En95-uv-hNJ6ZXiLTvucXPYXGcm
+Kids Questions:
+https://www.youtube.com/watch?v=9cQ2-_TvMwE&list=PLKDaN0En95-sLfFunlT3aK1qB840th1Vb
+Curiosity Bites: 
+https://www.youtube.com/watch?v=WWZdkBec9gs&list=PLKDaN0En95-tW-g-P_y7gCRbuL8mUO26A
+Shorts:
+https://www.youtube.com/watch?v=IWW4AGkg7ME&list=PLKDaN0En95-snbXG-pGGVgNuss_p0UUPf
+Knowledge Point:
+https://www.youtube.com/watch?v=_vmF694cYDU&list=PLKDaN0En95-uptq4CFXaUKBEZowuTcsdX
+Let's Read Together:
+https://www.youtube.com/watch?v=K3X6vWkXjAg&list=PLKDaN0En95-vP3VuuEQVAM1xlwePd22iV
+Wisdom Words:
+https://www.youtube.com/watch?v=xgjEoyGHC7E&list=PLKDaN0En95-uZUKQb-7jfL-8av08LhPzW
+Know How:
+https://www.youtube.com/watch?v=4KTAy9tfe3A&list=PLKDaN0En95-tsjHlXQ9EZHickYwhM7xnF
+Five Words Series:
+https://www.youtube.com/watch?v=0sj4aVP4h0k&list=PLKDaN0En95-vVP4eZK50VKn_YaFM9htaN
+Puzzles, Books, Games:
+https://www.youtube.com/watch?v=Td7qlY5Bzfs&list=PLKDaN0En95-vXTScNb4ELKWNLqGXvq9GX
+Colors, Shapes, Numbers:
+https://www.youtube.com/watch?v=HpLFoOxGs4o&list=PLKDaN0En95-s8xzmhgfzaGZZdLGPSd4BN
+#kidscancode #codingworksheets #brainboostingactivities #crackthecode #dailypracticeworksheets #screenfreeactivities
+#homeschoolingactivities
+#CodingActivity​
+#BrainTeasers​
+#Codingdecodingactivities
+#LogicalSkills​
+#concentartionskills​
+#codingActivitiesforkids14:T637,Coding skills for every kid are a massive asset for the future. However, unlike in the past, it is easier to teach kids programming and computational thinking when introducing them to the right skills. 
+
+In this short video, as parent, you will be introduced to the best programming Apps and coding Apps for kids. 
+
+These coding applications are simple to use and will get kids to code even before they know to read. In addition, these coding games for kids make coding fun and imaginative. 
+
+Please never think of coding as just about technical skills, in practice, coding introduces young people to building logic and creative thinking. 
+
+When you install this app for your kids, they will be imbibe with skills like problem-solving, patience, creativity, and persistence through puzzles, riddles, coding games, and challenges.
+
+1. Coding Safari - https://apps.apple.com/us/app/hopster-coding-safari-for-kids/id1348232140
+
+2. Kodable - https://apps.apple.com/us/app/kodable/id577673067?mt=8&at=1000lGfk
+
+3. Algorithm City - https://play.google.com/store/apps/details?id=air.MusterenGames.ElHarezmiCoding&hl=en&gl=US
+
+4. Lego Boost https://apps.apple.com/us/app/lego-boost/id1217385613?mt=8&at=1000lGfk
+
+5. Coding Games for Kids - https://apps.apple.com/us/app/coding-games-for-kids/id1246265707?mt=8&at=1000lGfk
+
+
+Get your 100% FREE no-obligation 30-minute strategy call session (worth N5,000). One of my team members will show you how to grow your kid's learning process - to not only survive but thrive in today's digital space. 
+
+Schedule A Call - https://calendly.com/instincthub/30min15:T146b,🧠 Easy Riddles for Kids | Fun Brain Teasers & Logic Quiz by QuizBuddieesWithAhi
+Welcome to QuizBuddiesWithAhi! 🎉
+🌟 Dive into a world of fun with our *Easy Riddles for Kids* video! 🤔 This *Fun & Easy Riddles Challenge* is packed with brain teasers and logic puzzles that will keep your little ones entertained while they learn! 🧩 Perfect for kids of all ages, this educational riddles video offers a range of funny riddles that challenge and educate simultaneously. Join the *Riddles Challenge 2025* and let the laughter commence! 🎉 Whether it's a quick quiz for kids during a fun family night or an easy puzzle game for school projects, this video is your go-to solution for stimulating young minds. Don’t miss out—hit play now! 🎈
+
+Get ready for a super fun session of Easy Riddles designed just for kids, families, and curious minds like you!
+If you love solving puzzles, guessing answers, and using your brainpower 🧩, then this video is your perfect challenge!
+Each riddle will make you think, laugh, and learn — all while having fun! 😄
+👉 Top Keywords:
+easy riddles, riddles for kids, brain teasers for kids, fun riddles quiz, logic riddles for children, quizbuddieswithahi riddles, educational riddles, easy puzzles for kids, family quiz riddles, fun brain teaser video.
+So sit back, think fast, and see how many riddles you can crack before the timer runs out ⏰
+test your brain riddles, quizbuddieswithahi riddles game, general knowledge riddles for children, fun quiz with answers, riddles with timer, short riddles for classroom, easy family quiz, puzzle game kids, thinking challenge riddles.
+________________________________________
+🧩 What’s Inside This Video
+In this fun Easy Riddles Quiz, Ahi will ask you a set of clever and simple riddles.
+You’ll get a few seconds to think, guess, and shout your answer out loud!
+Some riddles will make you smile 😄, others will make you scratch your head 🤔, but all of them will test your thinking skills and creativity!
+Example rounds include:
+🧠 “What has hands but can’t clap?”
+💡 “What gets wetter the more it dries?”
+😄 “I’m tall when I’m young and short when I’m old — what am I?”
+Can you guess them all? Let’s find out!
+________________________________________
+🌟 Why You’ll Love This Riddles Quiz
+✅ Fun + Learning Combo – Improves logical thinking and problem-solving
+✅ Family-Friendly Entertainment – Great for kids, parents, and classrooms
+✅ Short Timer Rounds – Keeps your brain quick and active
+✅ Educational & Engaging – Boosts vocabulary, memory, and focus
+✅ Colorful & Kid-Friendly Design – Perfect for young learners
+________________________________________
+👨‍👩‍👧 Perfect For:
+• Kids who love puzzles and brain games 🧒
+• Parents who want fun educational screen time 👨‍👩‍👧
+• Teachers looking for quick quiz breaks 🏫
+• Family fun nights and quiz competitions 🎯
+________________________________________
+🎬 How to Play
+1. Watch each riddle carefully.
+2. You’ll have a few seconds to think! ⏳
+3. Guess your answer before Ahi reveals it!
+4. Keep score and challenge your friends!
+💬 Comment below:
+How many riddles did YOU solve correctly? 🏆
+Let’s see who’s the Quiz Champion this time!
+________________________________________
+🌈 Why Kids Love QuizBuddiesWithAhi
+Because every video is:
+🎮 Fun
+📚 Educational
+🌟 Interactive
+🎨 Bright and creative
+Each quiz mixes knowledge and play — making learning exciting every single week!
+________________________________________
+📺 Watch More Quizzes from QuizBuddiesWithAhi!
+If you enjoyed this, check out more amazing quizzes below 👇
+🌍 Guess the Country by Celebrity
+🪐 Planet Quiz – Learn About Space
+🎭 Blackpink Members Quiz
+🎨 Guess the Colour Quiz
+🍎 Guess the Fruit Quiz
+🍕 Real or Fake Food Name Challenge
+🧩 Emoji Code Quiz – Guess the Product
+🇮🇳 Know About India Quiz
+Every video is created to make learning joyful and exciting for children everywhere!
+________________________________________
+🎯 Keywords for YouTube SEO Optimization
+easy riddles quiz, quizbuddieswithahi riddles, children’s riddles video, fun puzzle challenge for kids, quick brain teasers, family quiz game, school riddles activity, youtube quiz for kids, riddles and puzzles, general knowledge quiz, logical thinking challenge, mind games for kids, riddles and answers in English, learn with fun quiz, interactive kids content, short educational quiz, test your brain challenge, fun riddles and puzzles, quiz challenge 2025, learning fun with riddles.
+________________________________________
+🏆 Engagement Prompts
+💬 Comment below how many riddles you guessed right!
+👍 Like if you solved at least 5 riddles!
+🔔 Subscribe to QuizBuddiesWithAhi for a new quiz every week!
+👫 Challenge your friends & see who’s the real brain champ!
+________________________________________
+🎉 Final Note
+The Easy Riddles Quiz is not just fun — it’s a brain-boosting game that kids of all ages will love!
+So, are you ready to test your wits and have fun with Ahi?
+Let’s play the Easy Riddles Challenge now — only on QuizBuddiesWithAhi!16:T58f,Hey guys! It’s time to check your brainpower with cool riddles. These puzzles are simple enough to be solved over your coffee break. And tricky enough to stump you for hours, sending your mind on a wild goose chase! To get the answers right, you must pay really close attention to detail and think outside the box. So, are you up to the challenge? We offer you a chance to stretch your brains a little by cracking a few of these mind-bending brain teasers!
+
+#brightside
+
+TIMESTAMPS:
+Oliver's neighbors 0:01
+A smuggler 1:06
+Angry elderly lady 1:48
+How did Chloe survive? 2:42
+A motorbike 3:37
+A dangerous criminal 4:52
+A memory card 5:33
+A riddle (Yup!) 6:37
+Best friends 7:22
+How to get a bag back? 8:08
+Mushroom hunting 8:55
+A party 9:52
+The guest room 10:47
+The burglary 11:32
+
+Music by Epidemic Sound  https://www.epidemicsound.com/
+
+Subscribe to Bright Side : https://goo.gl/rQTJZz
+----------------------------------------------------------------------------------------
+Our Social Media:
+Facebook: https://www.facebook.com/brightside/
+Instagram: https://www.instagram.com/brightgram/
+5-Minute Crafts Youtube: https://www.goo.gl/8JVmuC
+
+Stock materials (photos, footages and other):
+https://www.depositphotos.com
+https://www.shutterstock.com
+https://www.eastnews.ru
+
+----------------------------------------------------------------------------------------
+For more videos and articles visit:
+http://www.brightside.me/17:T995,Easy & Fun way to learn & practice numbers, tweak the questions as per child's age & interest. Number Riddles for Kids, have questions about Doubles, Addition, 4 digit numbers, place values & more. DIY Number Games Fun. Easy number riddles for primary kids with answers.  Number Riddles with Answers. 
+Check out more Maths fun & learn videos at the channel playlists and the following links:
+Comprehensive Maths Concepts Practice 1-100, DIY Number Games,
+check out at the following link:
+https://youtu.be/2H2dT_EZTJo
+Mental Maths Practice Worksheets (20 Questions) 
+https://youtu.be/jCx8_s97V_0
+#SaachiTalksConceptsandStories
+Subscription Link:
+https://www.youtube.com/SaachiTalksConceptsandStories
+Vocabulary Enhancing Kids Activities Ideas
+https://www.youtube.com/watch?v=fjD7uwEPzp0&list=PLKDaN0En95-t4UmxvOJXbNW6Iss2gH6y3
+Celebrating 100 videos with Fun Shorts 
+https://www.youtube.com/watch?v=H-kep6oVgOc&list=PLKDaN0En95-u3CwO522_qHsIVq3Wp1TbG
+Hands on coding activity worksheets, daily practice worksheets:
+https://www.youtube.com/watch?v=oaxSziTYOVU&list=PLKDaN0En95-tVt93p1grjfw5PgOZPBrkD
+Interesting Stories:
+https://www.youtube.com/watch?v=ltGT_ON_bgs&list=PLKDaN0En95-tB6axoyjdj0Ay35ST2dAs9
+Little Presenter shares Science Concepts & Experiments:
+https://www.youtube.com/watch?v=5ISdKZs3e9c&list=PLKDaN0En95-vddwWIIY66_kjlcd-T226U
+DIY Worksheets:
+https://www.youtube.com/watch?v=yepd6lfxezo&list=PLKDaN0En95-uv-hNJ6ZXiLTvucXPYXGcm
+Kids Questions:
+https://www.youtube.com/watch?v=9cQ2-_TvMwE&list=PLKDaN0En95-sLfFunlT3aK1qB840th1Vb
+Curiosity Bites: 
+https://www.youtube.com/watch?v=WWZdkBec9gs&list=PLKDaN0En95-tW-g-P_y7gCRbuL8mUO26A
+Shorts:
+https://www.youtube.com/watch?v=IWW4AGkg7ME&list=PLKDaN0En95-snbXG-pGGVgNuss_p0UUPf
+Knowledge Point:
+https://www.youtube.com/watch?v=_vmF694cYDU&list=PLKDaN0En95-uptq4CFXaUKBEZowuTcsdX
+Let's Read Together:
+https://www.youtube.com/watch?v=K3X6vWkXjAg&list=PLKDaN0En95-vP3VuuEQVAM1xlwePd22iV
+Wisdom Words:
+https://www.youtube.com/watch?v=xgjEoyGHC7E&list=PLKDaN0En95-uZUKQb-7jfL-8av08LhPzW
+Know How:
+https://www.youtube.com/watch?v=4KTAy9tfe3A&list=PLKDaN0En95-tsjHlXQ9EZHickYwhM7xnF
+Five Words Series:
+https://www.youtube.com/watch?v=0sj4aVP4h0k&list=PLKDaN0En95-vVP4eZK50VKn_YaFM9htaN
+Puzzles, Books, Games:
+https://www.youtube.com/watch?v=Td7qlY5Bzfs&list=PLKDaN0En95-vXTScNb4ELKWNLqGXvq9GX
+Colors, Shapes, Numbers:
+https://www.youtube.com/watch?v=HpLFoOxGs4o&list=PLKDaN0En95-s8xzmhgfzaGZZdLGPSd4BN18:T8bf,#SaachiTalksConceptsandStories #SaachiTalkscodingworksheets 
+Introducing coding concept to kids, four interesting activities (using numbers, letters, signs & symbols) with solution & explanation.
+#SaachiTalksConceptsandStories #saachitalksworksheets
+https://www.youtube.com/SaachiTalksConceptsandStories
+Celebrating 100 videos with Fun Shorts 
+https://www.youtube.com/watch?v=H-kep6oVgOc&list=PLKDaN0En95-u3CwO522_qHsIVq3Wp1TbG
+Hands on coding activity worksheets, daily practice worksheets:
+https://www.youtube.com/watch?v=oaxSziTYOVU&list=PLKDaN0En95-tVt93p1grjfw5PgOZPBrkD
+Interesting Stories:
+https://www.youtube.com/watch?v=ltGT_ON_bgs&list=PLKDaN0En95-tB6axoyjdj0Ay35ST2dAs9
+Little Presenter shares Science Concepts & Experiments:
+https://www.youtube.com/watch?v=5ISdKZs3e9c&list=PLKDaN0En95-vddwWIIY66_kjlcd-T226U
+DIY Worksheets:
+https://www.youtube.com/watch?v=yepd6lfxezo&list=PLKDaN0En95-uv-hNJ6ZXiLTvucXPYXGcm
+Kids Questions:
+https://www.youtube.com/watch?v=9cQ2-_TvMwE&list=PLKDaN0En95-sLfFunlT3aK1qB840th1Vb
+Curiosity Bites: 
+https://www.youtube.com/watch?v=WWZdkBec9gs&list=PLKDaN0En95-tW-g-P_y7gCRbuL8mUO26A
+Shorts:
+https://www.youtube.com/watch?v=IWW4AGkg7ME&list=PLKDaN0En95-snbXG-pGGVgNuss_p0UUPf
+Knowledge Point:
+https://www.youtube.com/watch?v=_vmF694cYDU&list=PLKDaN0En95-uptq4CFXaUKBEZowuTcsdX
+Let's Read Together:
+https://www.youtube.com/watch?v=K3X6vWkXjAg&list=PLKDaN0En95-vP3VuuEQVAM1xlwePd22iV
+Wisdom Words:
+https://www.youtube.com/watch?v=xgjEoyGHC7E&list=PLKDaN0En95-uZUKQb-7jfL-8av08LhPzW
+Know How:
+https://www.youtube.com/watch?v=4KTAy9tfe3A&list=PLKDaN0En95-tsjHlXQ9EZHickYwhM7xnF
+Five Words Series:
+https://www.youtube.com/watch?v=0sj4aVP4h0k&list=PLKDaN0En95-vVP4eZK50VKn_YaFM9htaN
+Puzzles, Books, Games:
+https://www.youtube.com/watch?v=Td7qlY5Bzfs&list=PLKDaN0En95-vXTScNb4ELKWNLqGXvq9GX
+Colors, Shapes, Numbers:
+https://www.youtube.com/watch?v=HpLFoOxGs4o&list=PLKDaN0En95-s8xzmhgfzaGZZdLGPSd4BN #codingonpaper #introductiontocoding
+#kidscancode #codingworksheets #brainboostingactivities #crackthecode #dailypracticeworksheets #screenfreeactivities
+#homeschoolingactivities
+#CodingActivity​
+#BrainTeasers​
+#Codingdecodingactivities
+#LogicalSkills​
+#concentartionskills​
+#codingActivitiesforkids2:["$","div",null,{"className":"space-y-8 pb-8","children":[["$","div",null,{"children":["$","$Lf",null,{"href":"/","className":"inline-flex items-center gap-1.5 px-3 py-1.5 bg-white rounded-lg text-slate-600 font-semibold text-xs border border-slate-200 hover:border-purple-300 hover:text-purple-900 transition-colors shadow-subtle","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-3.5 h-3.5","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"Back to Discover"}]]}]}],["$","section",null,{"className":"bg-white rounded-2xl sm:rounded-3xl p-4 xs:p-6 sm:p-8 border border-slate-200/80 shadow-subtle space-y-3","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"px-2.5 py-0.5 bg-purple-100 text-purple-900 text-xs font-bold rounded-md uppercase tracking-wider","children":["Ages ","8–12"]}],["$","span",null,{"className":"text-xs text-slate-400 font-semibold","children":["• ",16," Videos"]}]]}],["$","h1",null,{"className":"text-xl xs:text-2xl sm:text-4xl font-black text-slate-900 tracking-tight","children":"Puzzles"}],["$","p",null,{"className":"text-slate-600 font-medium text-xs sm:text-base max-w-2xl leading-relaxed","children":"Brain games"}],["$","div",null,{"className":"pt-2 flex items-center gap-2 text-xs font-medium text-slate-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-shield-check w-4 h-4 text-emerald-600 shrink-0","children":[["$","path","oel41y",{"d":"M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"}],["$","path","dzmm74",{"d":"m9 12 2 2 4-4"}],"$undefined"]}],["$","span",null,{"children":["Strict server-side safe query: \"","kids riddles coding logic scratch for kids","\""]}]]}]]}],["$","section",null,{"className":"space-y-4","children":[["$","h2",null,{"className":"text-lg sm:text-xl font-bold text-slate-900","children":"Watch & Learn"}],["$","div",null,{"className":"grid grid-cols-1 xs:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3.5 sm:gap-5","children":[["$","$L10","wOR_iRWQ3TQ",{"video":{"id":"wOR_iRWQ3TQ","title":"Coding for Kids (Kindergarten-Elementary) - 03 Coding Sequence (Lesson : Basic Logical Thinking)","description":"$11","channelTitle":"Tawabocah Belajar Coding","channelId":"UCPfDz3_XAj7HsHo1AnBErVA","publishedAt":"2020-09-26T07:32:41Z","duration":"8:51","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/wOR_iRWQ3TQ/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/wOR_iRWQ3TQ/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/wOR_iRWQ3TQ/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/wOR_iRWQ3TQ/sddefault.jpg","width":640,"height":480}}},"categoryLabel":"Puzzles"}],["$","$L10","ZPFEK-wII7A",{"video":{"id":"ZPFEK-wII7A","title":"how to make riddle game in scratch","description":"","channelTitle":"Scratch kid","channelId":"UCaAUIcCkZei9CTumL7TiG0g","publishedAt":"2021-06-07T15:01:12Z","duration":"12:00","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/ZPFEK-wII7A/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/ZPFEK-wII7A/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/ZPFEK-wII7A/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/ZPFEK-wII7A/sddefault.jpg","width":640,"height":480}}},"categoryLabel":"Puzzles"}],["$","$L10","JmjnItscurw",{"video":{"id":"JmjnItscurw","title":"Brain Teasers Kids | 8th DIY Worksheets 10*8=80 | Riddles, Hidden Words, Analogies, Rebus & more |","description":"$12","channelTitle":"Saachi Talks Concepts and Stories ","channelId":"UCr4CdKwGl1Wzb819CdZUZUg","publishedAt":"2021-10-18T08:03:35Z","duration":"11:57","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/JmjnItscurw/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/JmjnItscurw/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/JmjnItscurw/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/JmjnItscurw/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/JmjnItscurw/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Puzzles"}],["$","$L10","p6ciq-lh_80",{"video":{"id":"p6ciq-lh_80","title":"Simple maths quiz game | Coding for kids in Hindi","description":"#klwr #codingforkids #ScratchJr\nIn this video, you will learn how to make a maths quiz game step by step.\nIf you like the video, please don't forget to subscribe and like.\n\nMy other teaching, tips and tricks videos are - \n\n1-Mind boosting through Puzzle-solving / एक पहेली अनेकों फायदे\nhttps://youtu.be/uDk40nMAe2w\n\n2- KL Tower Trip Malaysia in Covid time / बच्चों को खूब घुमाएं और दिमाग तेज कराएं\nhttps://youtu.be/G0VdfFk1AWU\n\n3- Five Ideas how to teach toddlers (1-3 years ) Part-1 / बच्चों के pre-school जाने के पहले की तैयारी\nhttps://youtu.be/ZV99meDF7VY\n\n4- Malaysian super market visit / Self Checkout Process/सेल्फ चेकआउट से समय बचाएं लेकिन कैसे ?\nhttps://youtu.be/IEYHMApmbAQ\n\n5- Five Ideas how to teach toddlers (1-3 years ) Part-2 / बच्चों के pre-school जाने के पहले की तैयारी\nhttps://youtu.be/Tb4nSc33ilc\n\n6- How to teach numbers in a fun way / खेल खेल में बच्चों को नंबर कैसे सिखाएं ?\nhttps://youtu.be/8jqqUtxp_NQ","channelTitle":"Kids Learning with Reyansh","channelId":"UCuNbbZQeS_SXgHn93hlgVlA","publishedAt":"2020-11-15T10:23:24Z","duration":"9:36","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/p6ciq-lh_80/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/p6ciq-lh_80/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/p6ciq-lh_80/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/p6ciq-lh_80/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/p6ciq-lh_80/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Puzzles"}],["$","$L10","Hdz2MMNLJek",{"video":{"id":"Hdz2MMNLJek","title":"Scratch for Kids - Part 4 Story Broadcast | Programming, Coding for kids logical skills","description":"Hi Friends,\n\nI am back with another training video on Scratch platform to share with you how to use Broadcast and create a small story using Scratch.\n\nHope you will like and enjoy it.\n\n#Scratch\n#Programming\n#Coding\n#SelfLearning","channelTitle":"Naughty Duo","channelId":"UC2SlYAXlM7m042ckFPcteRw","publishedAt":"2020-11-09T14:44:47Z","duration":"11:02","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/Hdz2MMNLJek/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/Hdz2MMNLJek/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/Hdz2MMNLJek/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/Hdz2MMNLJek/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/Hdz2MMNLJek/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Puzzles"}],["$","$L10","qfEhjD_mF2g",{"video":{"id":"qfEhjD_mF2g","title":"Scratch Tutorial for kids in Urdu/Hindi |  Coding for kids | How to move charactors using scratch3","description":"#Scratch #scratchvideo #kidscoding #kidscodingclasses #scrach","channelTitle":"Aayan Game Player & Developer","channelId":"UCAupl_-1MV_mqh6wrfD9szA","publishedAt":"2022-07-28T15:25:09Z","duration":"5:01","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/qfEhjD_mF2g/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/qfEhjD_mF2g/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/qfEhjD_mF2g/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/qfEhjD_mF2g/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/qfEhjD_mF2g/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Puzzles"}],["$","$L10","oJwu2Svh2sc",{"video":{"id":"oJwu2Svh2sc","title":"Scratch Jr. Logic Puzzle (Grades K-2)","description":"","channelTitle":"CodeVA","channelId":"UC2ruO_CPn2RDqW5yJeQk9Bg","publishedAt":"2020-05-05T16:27:51Z","duration":"4:19","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/oJwu2Svh2sc/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/oJwu2Svh2sc/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/oJwu2Svh2sc/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/oJwu2Svh2sc/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/oJwu2Svh2sc/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Puzzles"}],["$","$L10","jwPpxSFQNvw",{"video":{"id":"jwPpxSFQNvw","title":"VISUAL MEMORY CHALLENGE for Kids | Are you up for it? | Increase Concentration Through Play 🧠","description":"Educational video for children to improve their memory with a fun 10-level game where they have to remember the position of the picture they're asked to. They will be given 10 seconds to memorize the number behind which the picture is hidden. Very useful resource for elementary school and preschool education. \n\nThanks for visiting us! If you want your children to smile and learn, subscribe! :D\n\nWe only upload our own content, designed by educators so that children smile and learn while watching a video. \n\nAll of our content reinforces educational values, encouraging the use of multiple intelligences and language learning. \n\nIf you like our videos, download Smile and Learn now. You’ll discover more than 5.000 activities for children aged 3 to 12 yeards, all designed by educators. We have 250 games and interactive stories and over 280 videos in five languages: English, Spanish, Portuguese, Italian and French. Try a month for free and start the adventure!","channelTitle":"Smile and Learn - English","channelId":"UCxoDMG0tvaYO5Xobvtqw5nw","publishedAt":"2021-05-25T15:30:04Z","duration":"6:13","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/jwPpxSFQNvw/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/jwPpxSFQNvw/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/jwPpxSFQNvw/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/jwPpxSFQNvw/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/jwPpxSFQNvw/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Puzzles"}],["$","$L10","P7jSOIzubhg",{"video":{"id":"P7jSOIzubhg","title":"Guess What Riddles for Kids with answers.","description":"#riddles and answers, #riddles and jokes for kids, #riddles and jokes with answers, #easy peasy riddles, #guess What Riddles\nNot every riddle is a simple or easy riddle, but for children of all ages, there are many riddles that can be appreciated and even solved. A riddle will ask a question, which requires an answer, and may even make you scratch your head. If you are looking for some interesting ways to spend time with your children during this endless quarantine period and have experienced interesting facts, jokes and knock-on jokes for the children, then you have come to the right place Up. We went ahead and summarized the absolute best riddles to test the skills of you and your child.","channelTitle":"Guess What","channelId":"UCeMNE3tT-XL55TGxwNgkupw","publishedAt":"2020-12-02T14:49:59Z","duration":"6:19","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/P7jSOIzubhg/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/P7jSOIzubhg/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/P7jSOIzubhg/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/P7jSOIzubhg/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/P7jSOIzubhg/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Puzzles"}],["$","$L10","-yB63BOpNWI",{"video":{"id":"-yB63BOpNWI","title":"Coding & Riddles (Coding Worksheets III),  Answering Riddles by Coding.","description":"$13","channelTitle":"Saachi Talks Concepts and Stories ","channelId":"UCr4CdKwGl1Wzb819CdZUZUg","publishedAt":"2021-07-01T14:03:32Z","duration":"6:05","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/-yB63BOpNWI/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/-yB63BOpNWI/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/-yB63BOpNWI/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/-yB63BOpNWI/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/-yB63BOpNWI/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Puzzles"}],["$","$L10","Q6hfSVvvJbs",{"video":{"id":"Q6hfSVvvJbs","title":"5 Coding Games for Kids - Programming for Kids","description":"$14","channelTitle":"InstinctHub (InstinctHub)","channelId":"UCW5Arv3bo4pyaDmGh84UrwQ","publishedAt":"2021-06-25T10:09:37Z","duration":"8:27","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/Q6hfSVvvJbs/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/Q6hfSVvvJbs/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/Q6hfSVvvJbs/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/Q6hfSVvvJbs/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/Q6hfSVvvJbs/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Puzzles"}],["$","$L10","0MjomHSHPq4",{"video":{"id":"0MjomHSHPq4","title":"Easy Riddles for Kids 🤔 | Fun & Easy Riddles Challenge 🧩 | Kids Puzzle Challenge","description":"$15","channelTitle":"QuizBuddieesWithAhi","channelId":"UCJJuXeJM8_058daDBTxUrIw","publishedAt":"2025-10-25T05:57:34Z","duration":"14:35","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/0MjomHSHPq4/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/0MjomHSHPq4/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/0MjomHSHPq4/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/0MjomHSHPq4/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/0MjomHSHPq4/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Puzzles"}],["$","$L10","h-QNH6zwwUY",{"video":{"id":"h-QNH6zwwUY","title":"Riddles (thumbnail Who's not a barber?)","description":"$16","channelTitle":"BRIGHT SIDE","channelId":"UC4rlAVgAK0SGk-yTfe48Qpw","publishedAt":"2020-12-01T03:00:09Z","duration":"12:34","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/h-QNH6zwwUY/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/h-QNH6zwwUY/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/h-QNH6zwwUY/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/h-QNH6zwwUY/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/h-QNH6zwwUY/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Puzzles"}],["$","$L10","zMKr49JT-V0",{"video":{"id":"zMKr49JT-V0","title":"Simple Number Riddles for Kids | Fun & Easy Way to Practice Numbers | Doubles, Place Value & More","description":"$17","channelTitle":"Saachi Talks Concepts and Stories ","channelId":"UCr4CdKwGl1Wzb819CdZUZUg","publishedAt":"2021-11-10T13:23:52Z","duration":"5:05","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/zMKr49JT-V0/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/zMKr49JT-V0/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/zMKr49JT-V0/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/zMKr49JT-V0/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/zMKr49JT-V0/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Puzzles"}],["$","$L10","qDR0AK8hQzY",{"video":{"id":"qDR0AK8hQzY","title":"Coding Worksheets I - Decoding, Maze, Coordinate, Signs | Screen Free, Kids Hands-on Activities","description":"$18","channelTitle":"Saachi Talks Concepts and Stories ","channelId":"UCr4CdKwGl1Wzb819CdZUZUg","publishedAt":"2021-06-04T15:37:51Z","duration":"9:56","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/qDR0AK8hQzY/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/qDR0AK8hQzY/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/qDR0AK8hQzY/hqdefault.jpg","width":480,"height":360}}},"categoryLabel":"Puzzles"}],["$","$L10","XYrW0NcT-gs",{"video":{"id":"XYrW0NcT-gs","title":"Python with Anvita #143 - Solving problems - Train ticket riddle","description":"#problemsolving #maths #reasoning #olympiad \nSpend 5-10 minutes a day with me to learn programming from scratch. Including hacks and tips\nYou can learn step by step Python programming with me.\nRemember, practise is the key.\n#kids #programming #pythonforkids #shortlessons\nPython programming from scratch \nPython for kids\nProgramming for kids","channelTitle":"Python with Anvita","channelId":"UCNQcMVb1rI9sNByuFqC_U_g","publishedAt":"2024-02-13T18:10:17Z","duration":"8:00","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/XYrW0NcT-gs/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/XYrW0NcT-gs/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/XYrW0NcT-gs/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/XYrW0NcT-gs/sddefault.jpg","width":640,"height":480}}},"categoryLabel":"Puzzles"}]]}]]}]]}]

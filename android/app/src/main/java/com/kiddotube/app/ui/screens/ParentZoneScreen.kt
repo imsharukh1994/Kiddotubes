@@ -357,6 +357,7 @@ fun ParentZoneScreen(
                     }
 
                     // Restore Purchases Button
+                    // Restore Purchases Button
                     OutlinedButton(
                         onClick = {
                             billingManager.restorePurchases { }
@@ -381,6 +382,109 @@ fun ParentZoneScreen(
                                 fontSize = 13.sp
                             )
                         }
+                    }
+                }
+            }
+
+            // Next.js Server Backend Settings Card
+            var serverUrlText by remember {
+                mutableStateOf(com.kiddotube.app.data.api.RetrofitClient.getBaseUrl())
+            }
+            var saveStatusMsg by remember { mutableStateOf<String?>(null) }
+
+            Card(
+                shape = RoundedCornerShape(20.dp),
+                colors = CardDefaults.cardColors(containerColor = Color.White),
+                elevation = CardDefaults.cardElevation(defaultElevation = 2.dp),
+                modifier = Modifier.fillMaxWidth()
+            ) {
+                Column(
+                    modifier = Modifier.padding(20.dp),
+                    verticalArrangement = Arrangement.spacedBy(14.dp)
+                ) {
+                    Row(
+                        verticalAlignment = Alignment.CenterVertically,
+                        horizontalArrangement = Arrangement.spacedBy(10.dp)
+                    ) {
+                        Surface(
+                            color = Color(0xFFEDE9FE),
+                            shape = RoundedCornerShape(10.dp),
+                            modifier = Modifier.size(36.dp)
+                        ) {
+                            Box(contentAlignment = Alignment.Center) {
+                                Icon(
+                                    imageVector = Icons.Default.Settings,
+                                    contentDescription = null,
+                                    tint = Purple700,
+                                    modifier = Modifier.size(20.dp)
+                                )
+                            }
+                        }
+
+                        Column {
+                            Text(
+                                text = "Next.js Backend Connection",
+                                fontSize = 16.sp,
+                                fontWeight = FontWeight.Black,
+                                color = Color(0xFF0F172A)
+                            )
+                            Text(
+                                text = "Set Next.js server IP for real device testing",
+                                fontSize = 12.sp,
+                                color = Color(0xFF64748B)
+                            )
+                        }
+                    }
+
+                    OutlinedTextField(
+                        value = serverUrlText,
+                        onValueChange = { serverUrlText = it },
+                        label = { Text("Next.js Server Base URL") },
+                        placeholder = { Text("http://192.168.1.X:3000") },
+                        singleLine = true,
+                        modifier = Modifier.fillMaxWidth(),
+                        shape = RoundedCornerShape(12.dp)
+                    )
+
+                    Row(
+                        horizontalArrangement = Arrangement.spacedBy(8.dp)
+                    ) {
+                        FilterChip(
+                            selected = serverUrlText.contains("10.0.2.2"),
+                            onClick = { serverUrlText = "http://10.0.2.2:3000/" },
+                            label = { Text("Emulator (10.0.2.2)", fontSize = 11.sp) }
+                        )
+                        FilterChip(
+                            selected = serverUrlText.contains("localhost") || serverUrlText.contains("127.0.0.1"),
+                            onClick = { serverUrlText = "http://127.0.0.1:3000/" },
+                            label = { Text("Localhost", fontSize = 11.sp) }
+                        )
+                    }
+
+                    Button(
+                        onClick = {
+                            val clean = serverUrlText.trim()
+                            if (clean.isNotEmpty()) {
+                                com.kiddotube.app.data.api.RetrofitClient.setCustomBaseUrl(clean)
+                                val prefs = context.getSharedPreferences("kiddotube_prefs", android.content.Context.MODE_PRIVATE)
+                                prefs.edit().putString("custom_backend_url", clean).apply()
+                                saveStatusMsg = "Server URL updated successfully!"
+                            }
+                        },
+                        colors = ButtonDefaults.buttonColors(containerColor = Purple700),
+                        shape = RoundedCornerShape(12.dp),
+                        modifier = Modifier.fillMaxWidth()
+                    ) {
+                        Text("Save & Connect Server", fontWeight = FontWeight.Bold)
+                    }
+
+                    saveStatusMsg?.let { msg ->
+                        Text(
+                            text = msg,
+                            color = Color(0xFF059669),
+                            fontSize = 12.sp,
+                            fontWeight = FontWeight.Bold
+                        )
                     }
                 }
             }
