@@ -13,7 +13,7 @@ interface SearchBarProps {
 function SearchBarForm({ placeholder, className = '', size = 'normal' }: SearchBarProps) {
   const router = useRouter();
   const searchParams = useSearchParams();
-  const initialQuery = searchParams.get('q') || '';
+  const initialQuery = searchParams?.get('q') || '';
   const [query, setQuery] = useState(initialQuery);
 
   const handleSearch = (e: React.FormEvent) => {
