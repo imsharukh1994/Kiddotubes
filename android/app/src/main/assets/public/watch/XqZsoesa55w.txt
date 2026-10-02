@@ -9,7 +9,7 @@ b:I[3633,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145
 c:I[833,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","106","static/chunks/106-47a5a1efa19d79a5.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-3af544ae5eabb728.js"],"default"]
 d:I[5050,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","106","static/chunks/106-47a5a1efa19d79a5.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-3af544ae5eabb728.js"],"default"]
 4:["videoId","XqZsoesa55w","d"]
-0:["y0cAsLvuXZ_zKYR9RIhIS",[[["",{"children":["watch",{"children":[["videoId","XqZsoesa55w","d"],{"children":["__PAGE__?{\"videoId\":\"XqZsoesa55w\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["watch",{"children":[["videoId","XqZsoesa55w","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","watch","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","watch","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/65022725ca4d158e.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_ed3508","children":["$","body",null,{"className":"bg-[#F8FAFC] text-slate-900 font-sans min-h-screen flex flex-col antialiased","children":["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","main",null,{"className":"flex-1 max-w-[1440px] w-full mx-auto px-4 xs:px-5 sm:px-8 lg:px-12 py-4 sm:py-8","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}]]}]}]}]}]],null],null],["$Le",null]]]]
+0:["9X7DZWmHw59YdfsGlB83W",[[["",{"children":["watch",{"children":[["videoId","XqZsoesa55w","d"],{"children":["__PAGE__?{\"videoId\":\"XqZsoesa55w\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["watch",{"children":[["videoId","XqZsoesa55w","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","watch","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","watch","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/65022725ca4d158e.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_ed3508","children":["$","body",null,{"className":"bg-[#F8FAFC] text-slate-900 font-sans min-h-screen flex flex-col antialiased","children":["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","main",null,{"className":"flex-1 max-w-[1440px] w-full mx-auto px-4 xs:px-5 sm:px-8 lg:px-12 py-4 sm:py-8","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}]]}]}]}]}]],null],null],["$Le",null]]]]
 e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Baby Shark Dance | #babyshark Most Viewed Video | Animal Songs | PINKFONG Songs for Children — KiddoTube"}],["$","meta","3",{"name":"description","content":"👇 Subscribe and watch new videos uploaded every week👇\nhttps://www.youtube.com/channel/UCcdwLMPsaU2ezNSJU1nFoBQ?sub_confirmation=1\n\n⭐️ ✨ ⭐️ [NEW CHANNEL] Subsc"}],["$","meta","4",{"name":"keywords","content":"Kids Videos,KiddoTube,Educational Videos,Nursery Rhymes,Safe Content Discovery"}],["$","link","5",{"rel":"shortcut icon","href":"/images/favicon.png"}],["$","link","6",{"rel":"icon","href":"/images/favicon.png"}],["$","link","7",{"rel":"apple-touch-icon","href":"/images/favicon.png"}]]
 1:null
 f:I[9374,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","688","static/chunks/app/watch/%5BvideoId%5D/page-56b32338bdcf19d8.js"],"default"]
@@ -574,389 +574,7 @@ Follow us on Facebook for new updates and free promotions.
 ★ Official Merch Store: https://link.cleve.re/10483/
 
 Copyright © 2021 SMARTSTUDY Co., Ltd. All Rights Reserved.
-#pinkfong #babyshark #colors #kidsssongs #nurseryrhymes22:T11ba,You're watching "Eat Your Fruits and Veggies 🥦🍎", an educational and interactive series prepared to you by Pinkfong!
-
-Subscribe Pinkfong Baby Shark Official YouTube channel NOW: https://www.youtube.com/@Pinkfong?sub_confirmation=1
-
-🎥 NEW videos EVERY WEEK:
-https://www.youtube.com/playlist?list=PLQiKLJnked47CjZv_84RL77ebulATg9F7
-
-📺 Perfect for TV Time! | Watch 60+ Minutes of Kids' Favorite Compilations  :
-https://www.youtube.com/playlist?list=PLQiKLJnked46N8w7-Y2ns6zLDd7G9SzhN
-
-Trending🔥 All-Time Favorite Kids' Songs (Baby Shark Dance, Monkey Banana Dance & More)
-https://www.youtube.com/playlist?list=PLQiKLJnked46LZQMfJmHdzACgmoDnlAWj
-
-🏆 Watch #1 Baby Shark Dance in the WORLD – 16 BILLION+ Views :
-https://youtu.be/XqZsoesa55w?si=VTjTPAKWsgs-Ppmb
-
-★ Subscribe Pinkfong Plus FREE for 7 days - https://fong.kr/pinkfongplus.en/14 ➡️ Submit voucher code "PPYT7FTC"
-
-⭐️Time Stamp⭐️
-00:00:00 Yummy Fruits and Veggies
-00:04:12 Fruit Rap
-00:07:17 Colorful Fruit Playground
-
------ 🎵 Yummy Fruits and Veggies Lyrics
-Bell pepper!
-No, no!
-Bell pepper!
-No, no!
-Bell pepper!
-Yes, yes, yes!
-
-Ah, sah sah.
-Ah, sah sah.
-Ah, sah sah sah!
-I like it, like it, like it!
-
-Ah, sah sah.
-Ah, sah sah.
-Ah, sah sah sah!
-
-I bite it, bite it, bite it!
-
-You don't like peppers?
-How could you not like peppers?
-I love them.
-
-Orange!
-No, no!
-Orange!
-No, no!
-Orange!
-Yes, yes, yes!
-
-Ah, sah sah.
-Ah, sah sah.
-Ah, sah sah sah!
-I like it, like it, like it!
-
-Ah, sah sah.
-Ah, sah sah.
-Ah, sah sah sah!
-
-I bite it, bite it, bite it!
-
-You don't like oranges?
-How could you not like oranges?
-I love them.
-
-Banana!
-No, no!
-Banana!
-No, no!
-Banana!
-Yes, yes, yes!
-
-Ah, sah sah.
-Ah, sah sah.
-Ah, sah sah sah!
-I like it, like it, like it!
-
-Ah, sah sah.
-Ah, sah sah.
-Ah, sah sah sah!
-
-I bite it, bite it, bite it!
-
-You don't like bananas?
-How could you not like bananas?
-I love them!
-
-Carrot!
-No, no!
-Carrot!
-No, no!
-Carrot!
-Yes, yes, yes!
-
-Ah, sah sah.
-Ah, sah sah.
-Ah, sah sah sah!
-I like it, like it, like it!
-
-Ah, sah sah.
-Ah, sah sah.
-Ah, sah sah sah!
-
-I bite it, bite it, bite it!
-
-You don't like carrots?
-How could you not like carrots?
-I love them!
-
-Onion!
-No, no!
-Onion!
-No, no!
-Onion!
-Yes, yes, yes!
-
-Ah, sah sah.
-Ah, sah sah.
-Ah, sah sah sah!
-I hate it, hate it, hate it!
-
-Ah, sah sah.
-Ah, sah sah.
-Ah, sah sah sah!
-
-Take it, take it, take it!
-
-You don't like onions?
-How could you like onions?
-Just have a try!
-No no no!
-
-Oh oh oh.
-Hoi, how could you not like me?
-I'm… I'm… yummy!
-
-Trust me.
-Close your eyes and open your mouth.
-
-You'll like it.
-
-Ah, sah sah.
-Ah, sah sah.
-Ah, sah sah sah!
-I like it, like it, like it!
-
-Ah, sah sah.
-Ah, sah sah.
-Ah, sah sah sah!
-I bite it, bite it, bite it!
-
-I like onions!
-I like onions, too!
-I love them.
-
-I love them.
-I love them - them - them.
-
-I love them.
-
-***
-Designed to support early learning, this Pinkfong video combines English vocabulary with fun, movement-based play.
-***
-★ Subscribe 👶🏼 Bebefinn - Nursery Rhymes & Kids Songs ⭐️
-https://www.youtube.com/channel/UC-cY4X2sLECUhishGNiyofQ?sub_confirmation=1
-★ Watch 🦈Baby Shark from 👶🏼 Bebefinn: https://link.cleve.re/11982/01
-★ Watch the 10 billion viewed Baby Shark Dance 🦈 ➡️https://www.youtube.com/watch?v=XqZsoesa55w
-★ Watch Kids' Compilation: https://youtube.com/playlist?list=PLQiKLJnked47YtNDiZvjuyQZZNFpwHM0v
-
-⭐️ Get your Pinkfong Toys NOW at Amazon⭐️
-Link :https://www.amazon.com/stores/page/7C8FFD3F-9E0F-421B-8C06-77B2334A8BD3?ingress=0&visitId=721e8ff5-fa80-40bd-9e77-dd73a80dd3b4
-
-🎁 Visit our Official Store:
-Buy Pinkfong & Baby Shark Sound Books: https://fong.kr/10826/
-
-★ Download Pinkfong Baby Shark's Best Apps NOW!★
-🦈 Baby Shark Kids World App: https://link.cleve.re/11632/28
-💕 Pinkfong Plus : https://fong.kr/pinkfongplus.en/14
-
-Follow us on Social Media for new updates and free promotions.
-★ Website: https://www.pinkfong.com/en/
-★ Instagram: https://www.instagram.com/pinkfong.official/
-★ Facebook: https://www.facebook.com/pinkfong.official
-★ TikTok: https://www.tiktok.com/@pinkfong_official?lang=ko-KR
-★ Twitter: https://twitter.com/Pinkfong
-
-★ Many Thanks to all of our 100 Million Subscribers on Youtube Channels!🎈
-Please take a moment, and participate in a survey for better contents ✅
-We would love to hear anything from you!
-➡️  https://forms.gle/83JN6rvW11oWcB977
-
---
-Copyright © 2026 The Pinkfong Company, Inc.  All Rights Reserved.
-#pinkfong #babyshark #pinkfongsongs #pinkfongstories #pinkfongdance #rhymes #forkids23:T1084,Baby Shark and the Baby Cars 🦈 🚗
-What color are they? 
-
-You're watching "Colorful Baby Shark and Baby Cars 🌈", an educational and interactive series prepared to you by Pinkfong!
-
-Subscribe Pinkfong Baby Shark Official YouTube channel NOW: https://www.youtube.com/@Pinkfong?sub_confirmation=1
-
-🎥 NEW videos EVERY WEEK:
-https://www.youtube.com/playlist?list=PLQiKLJnked47CjZv_84RL77ebulATg9F7
-
-📺 Perfect for TV Time! | Watch 60+ Minutes of Kids' Favorite Compilations  :
-https://www.youtube.com/playlist?list=PLQiKLJnked46N8w7-Y2ns6zLDd7G9SzhN
-
-Trending🔥 All-Time Favorite Kids' Songs (Baby Shark Dance, Monkey Banana Dance & More)
-https://www.youtube.com/playlist?list=PLQiKLJnked46LZQMfJmHdzACgmoDnlAWj
-
-🏆 Watch #1 Baby Shark Dance in the WORLD – 16 BILLION+ Views :
-https://youtu.be/XqZsoesa55w?si=VTjTPAKWsgs-Ppmb
-
-★ Subscribe Pinkfong Plus FREE for 7 days - https://fong.kr/pinkfongplus.en/14 ➡️ Submit voucher code "PPYT7FTC"
-
-⭐️Time Stamp⭐️
-00:00:00 Colorful Baby Shark
-00:04:20 Colorful Baby Car
-
------ 🎵 Colorful Baby Shark Lyrics
-Hi!
-Do you know the Shark Family?
-Be careful, they bite!
-Doo doo doo doo doo.
-Doo doo doo doo doo.
-Doo doo doo doo doo doo doo doo doo doo doo.
-Baby Shark.
-Yellow shark.
-What color?
-Yellow.
-What color?
-Yellow.
-Baby Shark.
-What color is Baby Shark?
-Aha!
-Baby Shark is yellow.
-Oh, no!
-Hoi, hoi, hoi!
-Doo doo doo doo doo.
-Doo doo doo doo doo.
-Doo doo doo doo doo doo doo doo doo doo doo.
-Mommy Shark.
-Pink shark.
-What color?
-Pink.
-What color?
-Pink.
-Mommy Shark.
-What color is Mommy Shark?
-Aha!
-Mommy Shark is pink.
-Oh, no!
-Hoi, hoi, hoi!
-Doo doo doo doo doo.
-Doo doo doo doo doo.
-Doo doo doo doo doo doo doo doo doo doo doo.
-Daddy Shark.
-Blue shark.
-What color?
-Blue.
-What color?
-Blue.
-Daddy Shark.
-What color is Daddy Shark?
-Aha!
-Blue Daddy Shark!
-Oh, no!
-Hoi, hoi, hoi!
-Doo doo doo doo doo.
-Doo doo doo doo doo.
-Doo doo doo doo doo doo doo doo doo doo doo.
-Grandma Shark.
-Orange shark.
-What color?
-Orange.
-What color?
-Orange.
-Grandma Shark.
-What color is Grandma Shark?
-Aha!
-Grandma Shark is orange!
-Oh, no!
-Hoi, hoi, hoi!
-Doo doo doo doo doo.
-Doo doo doo doo doo.
-Doo doo doo doo doo doo doo doo doo doo doo.
-Grandpa Shark.
-Green shark.
-What color?
-Green.
-What color?
-Green.
-Grandpa Shark.
-What color is Grandpa Shark?
-Aha!
-Grandpa Shark is green.
-Oh, no!
-Hoi, hoi, hoi!
-Yellow Baby Shark.
-Pink Mommy Shark.
-Blue Daddy Shark.
-Orange Grandma Shark.
-Green Grandpa Shark.
-We are the Shark Family!
-Full of colors, Shark Family!
-
-***
-Designed to support early learning, this Pinkfong video combines English vocabulary with fun, movement-based play.
-***
-★ Subscribe 👶🏼 Bebefinn - Nursery Rhymes & Kids Songs ⭐️
-https://www.youtube.com/channel/UC-cY4X2sLECUhishGNiyofQ?sub_confirmation=1
-★ Watch 🦈Baby Shark from 👶🏼 Bebefinn: https://link.cleve.re/11982/01
-★ Watch the 10 billion viewed Baby Shark Dance 🦈 ➡️https://www.youtube.com/watch?v=XqZsoesa55w
-★ Watch Kids' Compilation: https://youtube.com/playlist?list=PLQiKLJnked47YtNDiZvjuyQZZNFpwHM0v
-
-⭐️ Get your Pinkfong Toys NOW at Amazon⭐️
-Link :https://www.amazon.com/stores/page/7C8FFD3F-9E0F-421B-8C06-77B2334A8BD3?ingress=0&visitId=721e8ff5-fa80-40bd-9e77-dd73a80dd3b4
-
-🎁 Visit our Official Store:
-Buy Pinkfong & Baby Shark Sound Books: https://fong.kr/10826/
-
-★ Download Pinkfong Baby Shark's Best Apps NOW!★
-🦈 Baby Shark Kids World App: https://link.cleve.re/11632/28
-💕 Pinkfong Plus : https://fong.kr/pinkfongplus.en/14
-
-Follow us on Social Media for new updates and free promotions.
-★ Website: https://www.pinkfong.com/en/
-★ Instagram: https://www.instagram.com/pinkfong.official/
-★ Facebook: https://www.facebook.com/pinkfong.official
-★ TikTok: https://www.tiktok.com/@pinkfong_official?lang=ko-KR
-★ Twitter: https://twitter.com/Pinkfong
-
-★ Many Thanks to all of our 100 Million Subscribers on Youtube Channels!🎈
-Please take a moment, and participate in a survey for better contents ✅
-We would love to hear anything from you!
-➡️  https://forms.gle/83JN6rvW11oWcB977
-
---
-Copyright © 2026 The Pinkfong Company, Inc.  All Rights Reserved.
-#pinkfong #babyshark #pinkfongsongs #pinkfongstories #pinkfongdance #rhymes #forkids24:T769,Oh no! 🦈 Giant sharks have suddenly appeared! 
-Quick, run away with Hoi and the baby shark family!
-
-You're watching "😱 Run Away from the Sharks with Hoi! | Animal Song", an educational and interactive  series prepared to you by Pinkfong!
-
-Listen to the ✨May playlist NOW: 
-https://www.youtube.com/playlist?list=PLQiKLJnked46wEDKReWiaLAABJtPGMb-f
-
-Subscribe Pinkfong Baby Shark Official YouTube channel NOW: https://www.youtube.com/@Pinkfong?sub_confirmation=1
-
-***
-★ Subscribe 👶🏼 Bebefinn - Nursery Rhymes & Kids Songs ⭐️ 
-https://www.youtube.com/channel/UC-cY4X2sLECUhishGNiyofQ?sub_confirmation=1
-★ Watch 🦈Baby Shark from 👶🏼 Bebefinn: https://link.cleve.re/11982/01
-★ Watch the 10 billion viewed Baby Shark Dance 🦈 ➡️https://www.youtube.com/watch?v=XqZsoesa55w
-★ Watch Kids' Compilation: https://youtube.com/playlist?list=PLQiKLJnked47YtNDiZvjuyQZZNFpwHM0v
-
-
-
-
-🎁 Visit our Official Store: 
-Buy Pinkfong & Baby Shark Sound Books: https://fong.kr/10826/
-
-★ Download Pinkfong Baby Shark's Best Apps NOW!★
-🦈 Baby Shark Kids World App: https://link.cleve.re/11632/28
-💕 Pinkfong Plus : https://fong.kr/pinkfongplus.en/14
-
-Follow us on Social Media for new updates and free promotions.
-★ Website: https://www.pinkfong.com/en/
-★ Instagram: https://www.instagram.com/pinkfong.official/
-★ Facebook: https://www.facebook.com/pinkfong.official
-★ TikTok: https://www.tiktok.com/@pinkfong_official?lang=ko-KR
-★ Twitter: https://twitter.com/Pinkfong
-
-★ Many Thanks to all of our 100 Million Subscribers on Youtube Channels!🎈
-Please take a moment, and participate in a survey for better contents ✅
-We would love to hear anything from you! 
-➡️  https://forms.gle/83JN6rvW11oWcB977
-
---
-Copyright © 2024 The Pinkfong Company, Inc.  All Rights Reserved.
-#pinkfong #babyshark #pinkfongsongs #pinkfongstories #pinkfongdance #rhymes #forkids25:T1232,Your favorite dance along series is here! 
+#pinkfong #babyshark #colors #kidsssongs #nurseryrhymes22:T1232,Your favorite dance along series is here! 
 Dance with Pinkfong! 🕺💃
 
 You're watching "I'm Not Scared! | + Best Dance Along Series", an educational and interactive  series prepared to you by Pinkfong!
@@ -1191,7 +809,7 @@ We would love to hear anything from you!
 
 --
 Copyright © 2024 The Pinkfong Company, Inc.  All Rights Reserved.
-#pinkfong #babyshark #pinkfongsongs #pinkfongstories #pinkfongdance #rhymes #forkids26:T773,You're watching "Baby Shark More and More", an educational and interactive  series prepared to you by Pinkfong!
+#pinkfong #babyshark #pinkfongsongs #pinkfongstories #pinkfongdance #rhymes #forkids23:T773,You're watching "Baby Shark More and More", an educational and interactive  series prepared to you by Pinkfong!
 
 Listen to the ✨February playlist NOW: 
 https://youtube.com/playlist?list=PLQiKLJnked4465E7JkaHnmVB7AecJVDjM&si=8ZN6MKtnALdxsC1Q
@@ -1237,4 +855,217 @@ We would love to hear anything from you!
 
 --
 Copyright © 2024 The Pinkfong Company, Inc.  All Rights Reserved.
-#pinkfong #babyshark #pinkfongsongs #pinkfongstories #pinkfongdance #rhymes #forkids2:["$","div",null,{"className":"max-w-[1280px] mx-auto w-full px-1 xs:px-2 sm:px-6 lg:px-8 py-4 sm:py-6 space-y-6 sm:space-y-8","children":[["$","$Lf",null,{"video":{"id":"XqZsoesa55w","title":"Baby Shark Dance | #babyshark Most Viewed Video | Animal Songs | PINKFONG Songs for Children","description":"$10","channelTitle":"Baby Shark - Pinkfong Kids’ Songs & Stories","channelId":"UCcdwLMPsaU2ezNSJU1nFoBQ","publishedAt":"2016-06-17T23:00:30Z","duration":"2:17","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/XqZsoesa55w/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/XqZsoesa55w/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/XqZsoesa55w/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/XqZsoesa55w/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/XqZsoesa55w/maxresdefault.jpg","width":1280,"height":720}}}}],["$","div",null,{"children":["$","$L11",null,{"href":"/","className":"inline-flex items-center gap-2 px-3.5 py-2 bg-white rounded-full text-slate-700 font-bold text-xs sm:text-sm border border-slate-200 hover:border-purple-300 hover:text-purple-700 hover:bg-purple-50 transition-all shadow-subtle active:scale-95 focus:outline-none focus:ring-2 focus:ring-purple-600","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-4 h-4","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"Back to Discover"}]]}]}],["$","section",null,{"className":"w-full max-w-full","children":["$","$L12",null,{"videoId":"XqZsoesa55w","title":"Baby Shark Dance | #babyshark Most Viewed Video | Animal Songs | PINKFONG Songs for Children"}]}],["$","section",null,{"className":"bg-white rounded-2xl sm:rounded-3xl p-4 xs:p-6 sm:p-8 border border-slate-200/80 shadow-subtle space-y-5 sm:space-y-6","children":[["$","h1",null,{"className":"text-xl sm:text-3xl lg:text-4xl font-black text-slate-900 leading-tight tracking-tight break-words","children":"Baby Shark Dance | #babyshark Most Viewed Video | Animal Songs | PINKFONG Songs for Children"}],["$","div",null,{"className":"flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-slate-100 pb-5 sm:pb-6","children":[["$","div",null,{"className":"space-y-2.5 sm:space-y-3","children":[["$","div",null,{"children":[["$","p",null,{"className":"text-base sm:text-lg font-black text-slate-900","children":"Baby Shark - Pinkfong Kids’ Songs & Stories"}],["$","p",null,{"className":"text-xs text-slate-500 font-semibold","children":"Kids songs & educational content"}]]}],["$","div",null,{"className":"flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"bg-purple-100 text-purple-900 text-xs font-black px-3 py-1 rounded-full","children":"Kids Pick"}],["$","span",null,{"className":"bg-amber-100 text-amber-950 text-xs font-black px-3 py-1 rounded-full","children":"Ages 2–6"}],["$","span",null,{"className":"bg-slate-100 text-slate-700 text-xs font-bold px-3 py-1 rounded-full flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-3.5 h-3.5 text-amber-500","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","polyline","68esgv",{"points":"12 6 12 12 16 14"}],"$undefined"]}],["$","span",null,{"children":"2:17"}]]}]]}]]}],["$","div",null,{"className":"shrink-0","children":["$","$L13",null,{"video":"$14"}]}]]}],["$","div",null,{"className":"space-y-3","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-purple-900 font-bold text-xs uppercase tracking-wider","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles w-3.5 h-3.5 text-amber-500","children":[["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}],["$","path","1olli1",{"d":"M20 3v4"}],["$","path","1gvqau",{"d":"M22 5h-4"}],["$","path","vumght",{"d":"M4 17v2"}],["$","path","zchphs",{"d":"M5 18H3"}],"$undefined"]}],["$","span",null,{"children":"About this video"}]]}],["$","p",null,{"className":"text-slate-700 font-medium text-xs sm:text-sm leading-relaxed whitespace-pre-line bg-slate-50 p-3.5 sm:p-4 rounded-xl border border-slate-100","children":"$1c"}],["$","div",null,{"className":"flex items-center gap-2 text-xs font-semibold text-slate-500 pt-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-shield-check w-4 h-4 text-emerald-600 shrink-0","children":[["$","path","oel41y",{"d":"M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"}],["$","path","dzmm74",{"d":"m9 12 2 2 4-4"}],"$undefined"]}],["$","span",null,{"children":"Embedded directly via official YouTube no-cookie player (COPPA Safe)."}]]}]]}]]}],["$","section",null,{"aria-label":"Advertisement","children":["$","$L1d",null,{"placement":"watch","context":"kids","ageTreatment":"child"}]}],["$","section",null,{"className":"space-y-4 sm:space-y-6","children":[["$","div",null,{"className":"flex items-center justify-between","children":["$","h2",null,{"className":"text-lg sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles w-5 h-5 sm:w-6 sm:h-6 text-purple-600","children":[["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}],["$","path","1olli1",{"d":"M20 3v4"}],["$","path","1gvqau",{"d":"M22 5h-4"}],["$","path","vumght",{"d":"M4 17v2"}],["$","path","zchphs",{"d":"M5 18H3"}],"$undefined"]}],["$","span",null,{"children":"More Like This"}]]}]}],["$","div",null,{"className":"grid grid-cols-1 xs:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3.5 sm:gap-6","children":[["$","$L1e","6x-sd-HHrpI",{"video":{"id":"6x-sd-HHrpI","title":"[TOP 10] Kids' Favorite Baby Shark Songs | Compilation | Pinkfong Official for Kids","description":"$1f","channelTitle":"Baby Shark - Pinkfong Kids’ Songs & Stories","channelId":"UCcdwLMPsaU2ezNSJU1nFoBQ","publishedAt":"2023-09-20T23:00:03Z","duration":"14:24","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/6x-sd-HHrpI/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/6x-sd-HHrpI/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/6x-sd-HHrpI/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/6x-sd-HHrpI/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/6x-sd-HHrpI/maxresdefault.jpg","width":1280,"height":720}}}}],["$","$L1e","rKVu84yl474",{"video":{"id":"rKVu84yl474","title":"Baby Shark with Sesame Street | Baby Shark Song Compilation | Pinkfong Kids Song","description":"$20","channelTitle":"Baby Shark - Pinkfong Kids’ Songs & Stories","channelId":"UCcdwLMPsaU2ezNSJU1nFoBQ","publishedAt":"2024-03-13T12:00:55Z","duration":"10:34","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/rKVu84yl474/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/rKVu84yl474/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/rKVu84yl474/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/rKVu84yl474/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/rKVu84yl474/maxresdefault.jpg","width":1280,"height":720}}}}],["$","$L1e","9Wi09NDvbQ4",{"video":{"id":"9Wi09NDvbQ4","title":"Colorful Baby Shark 🦈 | Hoi's Playground | Learn Colors | Dance Along | Pinkfong Songs for Kids","description":"$21","channelTitle":"Baby Shark - Pinkfong Kids’ Songs & Stories","channelId":"UCcdwLMPsaU2ezNSJU1nFoBQ","publishedAt":"2021-12-26T23:00:04Z","duration":"4:41","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/9Wi09NDvbQ4/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/9Wi09NDvbQ4/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/9Wi09NDvbQ4/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/9Wi09NDvbQ4/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/9Wi09NDvbQ4/maxresdefault.jpg","width":1280,"height":720}}}}],["$","$L1e","39DQ251XVc8",{"video":{"id":"39DQ251XVc8","title":"Eat Your Fruits and Veggies 🥦🍎 | Healthy Habit Song | Pinkfong Official","description":"$22","channelTitle":"Baby Shark - Pinkfong Kids’ Songs & Stories","channelId":"UCcdwLMPsaU2ezNSJU1nFoBQ","publishedAt":"2026-03-03T23:00:08Z","duration":"10:23","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/39DQ251XVc8/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/39DQ251XVc8/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/39DQ251XVc8/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/39DQ251XVc8/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/39DQ251XVc8/maxresdefault.jpg","width":1280,"height":720}}}}],["$","$L1e","qSsF92qMvQg",{"video":{"id":"qSsF92qMvQg","title":"Colorful Baby Shark and Baby Cars 🌈 | Yellow, Green, and Blue Colors | Pinkfong Official","description":"$23","channelTitle":"Baby Shark - Pinkfong Kids’ Songs & Stories","channelId":"UCcdwLMPsaU2ezNSJU1nFoBQ","publishedAt":"2026-02-24T23:01:07Z","duration":"6:11","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/qSsF92qMvQg/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/qSsF92qMvQg/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/qSsF92qMvQg/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/qSsF92qMvQg/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/qSsF92qMvQg/maxresdefault.jpg","width":1280,"height":720}}}}],["$","$L1e","2rPrVVDAacY",{"video":{"id":"2rPrVVDAacY","title":"😱 Run Away from the Sharks! | Animal Song | Hoi's Playground | Pinkfong Baby Shark Kids Song","description":"$24","channelTitle":"Baby Shark - Pinkfong Kids’ Songs & Stories","channelId":"UCcdwLMPsaU2ezNSJU1nFoBQ","publishedAt":"2024-08-30T00:00:06Z","duration":"4:39","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/2rPrVVDAacY/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/2rPrVVDAacY/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/2rPrVVDAacY/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/2rPrVVDAacY/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/2rPrVVDAacY/maxresdefault.jpg","width":1280,"height":720}}}}],["$","$L1e","efQ3aXSlY2E",{"video":{"id":"efQ3aXSlY2E","title":"I'm Not Scared! | + Best Dance Along Series | Pinkfong Songs for Kids","description":"$25","channelTitle":"Baby Shark - Pinkfong Kids’ Songs & Stories","channelId":"UCcdwLMPsaU2ezNSJU1nFoBQ","publishedAt":"2024-06-07T23:00:30Z","duration":"5:34","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/efQ3aXSlY2E/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/efQ3aXSlY2E/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/efQ3aXSlY2E/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/efQ3aXSlY2E/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/efQ3aXSlY2E/maxresdefault.jpg","width":1280,"height":720}}}}],["$","$L1e","Mzjd6e2XNdk",{"video":{"id":"Mzjd6e2XNdk","title":"Baby Shark More and More | Dance Along Compilation | Kids Rhymes | Pinkfong Songs","description":"$26","channelTitle":"Baby Shark - Pinkfong Kids’ Songs & Stories","channelId":"UCcdwLMPsaU2ezNSJU1nFoBQ","publishedAt":"2024-02-23T23:00:20Z","duration":"8:29","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/Mzjd6e2XNdk/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/Mzjd6e2XNdk/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/Mzjd6e2XNdk/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/Mzjd6e2XNdk/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/Mzjd6e2XNdk/maxresdefault.jpg","width":1280,"height":720}}}}]]}]]}]]}]
+#pinkfong #babyshark #pinkfongsongs #pinkfongstories #pinkfongdance #rhymes #forkids24:T4c5,Watch Baby Shark Dance 🦈➡️https://www.youtube.com/watch?v=XqZsoesa55w
+🎁 Visit our Official Store: https://link.cleve.re/10483/
+🎁Buy Pinkfong & Baby Shark Sound Books: https://fong.kr/10826/
+
+👻More fun Halloween videos here👻
+https://www.youtube.com/watch?v=wHumvJAIbVA&list=PLQiKLJnked46KKRpXE9xy7RqkSnWZ-sZy&index=1
+
+Let's go trick-or-treating with Baby Shark's Family! 🍭 🎃
+We can fight monsters👻, visit the Haunted House🪦, 
+help Skeleton Pirates🏴‍☠️, and celebrate with the Zombies🧟  
+
+00:00 Go Away, Monster!
+03:16 Baby Shark's Haunted House
+06:11 Chumbala Cachumbala Skeleton Pirates
+08:58  Baby Shark's Halloween Freeze Dance 
+
+-------
+   🦈  Pinkfong Baby Shark 💕 Download now ➡️ https://fong.kr/924/23
+
+Follow us on Facebook for new updates and free promotions.
+★ Facebook: https://www.facebook.com/pinkfong.official
+★ Instagram: https://www.instagram.com/pinkfong.official/
+★ Twitter: https://twitter.com/Pinkfong
+★ Website: https://www.pinkfong.com/en/
+★ Official Merch Store: https://link.cleve.re/10483/
+
+Copyright © 2021 SMARTSTUDY Co., Ltd. All Rights Reserved.
+#pinkfong #babyshark #halloweencompilation #halloweensong #kidsssongs #nurseryrhymes25:T1084,Baby Shark and the Baby Cars 🦈 🚗
+What color are they? 
+
+You're watching "Colorful Baby Shark and Baby Cars 🌈", an educational and interactive series prepared to you by Pinkfong!
+
+Subscribe Pinkfong Baby Shark Official YouTube channel NOW: https://www.youtube.com/@Pinkfong?sub_confirmation=1
+
+🎥 NEW videos EVERY WEEK:
+https://www.youtube.com/playlist?list=PLQiKLJnked47CjZv_84RL77ebulATg9F7
+
+📺 Perfect for TV Time! | Watch 60+ Minutes of Kids' Favorite Compilations  :
+https://www.youtube.com/playlist?list=PLQiKLJnked46N8w7-Y2ns6zLDd7G9SzhN
+
+Trending🔥 All-Time Favorite Kids' Songs (Baby Shark Dance, Monkey Banana Dance & More)
+https://www.youtube.com/playlist?list=PLQiKLJnked46LZQMfJmHdzACgmoDnlAWj
+
+🏆 Watch #1 Baby Shark Dance in the WORLD – 16 BILLION+ Views :
+https://youtu.be/XqZsoesa55w?si=VTjTPAKWsgs-Ppmb
+
+★ Subscribe Pinkfong Plus FREE for 7 days - https://fong.kr/pinkfongplus.en/14 ➡️ Submit voucher code "PPYT7FTC"
+
+⭐️Time Stamp⭐️
+00:00:00 Colorful Baby Shark
+00:04:20 Colorful Baby Car
+
+----- 🎵 Colorful Baby Shark Lyrics
+Hi!
+Do you know the Shark Family?
+Be careful, they bite!
+Doo doo doo doo doo.
+Doo doo doo doo doo.
+Doo doo doo doo doo doo doo doo doo doo doo.
+Baby Shark.
+Yellow shark.
+What color?
+Yellow.
+What color?
+Yellow.
+Baby Shark.
+What color is Baby Shark?
+Aha!
+Baby Shark is yellow.
+Oh, no!
+Hoi, hoi, hoi!
+Doo doo doo doo doo.
+Doo doo doo doo doo.
+Doo doo doo doo doo doo doo doo doo doo doo.
+Mommy Shark.
+Pink shark.
+What color?
+Pink.
+What color?
+Pink.
+Mommy Shark.
+What color is Mommy Shark?
+Aha!
+Mommy Shark is pink.
+Oh, no!
+Hoi, hoi, hoi!
+Doo doo doo doo doo.
+Doo doo doo doo doo.
+Doo doo doo doo doo doo doo doo doo doo doo.
+Daddy Shark.
+Blue shark.
+What color?
+Blue.
+What color?
+Blue.
+Daddy Shark.
+What color is Daddy Shark?
+Aha!
+Blue Daddy Shark!
+Oh, no!
+Hoi, hoi, hoi!
+Doo doo doo doo doo.
+Doo doo doo doo doo.
+Doo doo doo doo doo doo doo doo doo doo doo.
+Grandma Shark.
+Orange shark.
+What color?
+Orange.
+What color?
+Orange.
+Grandma Shark.
+What color is Grandma Shark?
+Aha!
+Grandma Shark is orange!
+Oh, no!
+Hoi, hoi, hoi!
+Doo doo doo doo doo.
+Doo doo doo doo doo.
+Doo doo doo doo doo doo doo doo doo doo doo.
+Grandpa Shark.
+Green shark.
+What color?
+Green.
+What color?
+Green.
+Grandpa Shark.
+What color is Grandpa Shark?
+Aha!
+Grandpa Shark is green.
+Oh, no!
+Hoi, hoi, hoi!
+Yellow Baby Shark.
+Pink Mommy Shark.
+Blue Daddy Shark.
+Orange Grandma Shark.
+Green Grandpa Shark.
+We are the Shark Family!
+Full of colors, Shark Family!
+
+***
+Designed to support early learning, this Pinkfong video combines English vocabulary with fun, movement-based play.
+***
+★ Subscribe 👶🏼 Bebefinn - Nursery Rhymes & Kids Songs ⭐️
+https://www.youtube.com/channel/UC-cY4X2sLECUhishGNiyofQ?sub_confirmation=1
+★ Watch 🦈Baby Shark from 👶🏼 Bebefinn: https://link.cleve.re/11982/01
+★ Watch the 10 billion viewed Baby Shark Dance 🦈 ➡️https://www.youtube.com/watch?v=XqZsoesa55w
+★ Watch Kids' Compilation: https://youtube.com/playlist?list=PLQiKLJnked47YtNDiZvjuyQZZNFpwHM0v
+
+⭐️ Get your Pinkfong Toys NOW at Amazon⭐️
+Link :https://www.amazon.com/stores/page/7C8FFD3F-9E0F-421B-8C06-77B2334A8BD3?ingress=0&visitId=721e8ff5-fa80-40bd-9e77-dd73a80dd3b4
+
+🎁 Visit our Official Store:
+Buy Pinkfong & Baby Shark Sound Books: https://fong.kr/10826/
+
+★ Download Pinkfong Baby Shark's Best Apps NOW!★
+🦈 Baby Shark Kids World App: https://link.cleve.re/11632/28
+💕 Pinkfong Plus : https://fong.kr/pinkfongplus.en/14
+
+Follow us on Social Media for new updates and free promotions.
+★ Website: https://www.pinkfong.com/en/
+★ Instagram: https://www.instagram.com/pinkfong.official/
+★ Facebook: https://www.facebook.com/pinkfong.official
+★ TikTok: https://www.tiktok.com/@pinkfong_official?lang=ko-KR
+★ Twitter: https://twitter.com/Pinkfong
+
+★ Many Thanks to all of our 100 Million Subscribers on Youtube Channels!🎈
+Please take a moment, and participate in a survey for better contents ✅
+We would love to hear anything from you!
+➡️  https://forms.gle/83JN6rvW11oWcB977
+
+--
+Copyright © 2026 The Pinkfong Company, Inc.  All Rights Reserved.
+#pinkfong #babyshark #pinkfongsongs #pinkfongstories #pinkfongdance #rhymes #forkids26:T769,Oh no! 🦈 Giant sharks have suddenly appeared! 
+Quick, run away with Hoi and the baby shark family!
+
+You're watching "😱 Run Away from the Sharks with Hoi! | Animal Song", an educational and interactive  series prepared to you by Pinkfong!
+
+Listen to the ✨May playlist NOW: 
+https://www.youtube.com/playlist?list=PLQiKLJnked46wEDKReWiaLAABJtPGMb-f
+
+Subscribe Pinkfong Baby Shark Official YouTube channel NOW: https://www.youtube.com/@Pinkfong?sub_confirmation=1
+
+***
+★ Subscribe 👶🏼 Bebefinn - Nursery Rhymes & Kids Songs ⭐️ 
+https://www.youtube.com/channel/UC-cY4X2sLECUhishGNiyofQ?sub_confirmation=1
+★ Watch 🦈Baby Shark from 👶🏼 Bebefinn: https://link.cleve.re/11982/01
+★ Watch the 10 billion viewed Baby Shark Dance 🦈 ➡️https://www.youtube.com/watch?v=XqZsoesa55w
+★ Watch Kids' Compilation: https://youtube.com/playlist?list=PLQiKLJnked47YtNDiZvjuyQZZNFpwHM0v
+
+
+
+
+🎁 Visit our Official Store: 
+Buy Pinkfong & Baby Shark Sound Books: https://fong.kr/10826/
+
+★ Download Pinkfong Baby Shark's Best Apps NOW!★
+🦈 Baby Shark Kids World App: https://link.cleve.re/11632/28
+💕 Pinkfong Plus : https://fong.kr/pinkfongplus.en/14
+
+Follow us on Social Media for new updates and free promotions.
+★ Website: https://www.pinkfong.com/en/
+★ Instagram: https://www.instagram.com/pinkfong.official/
+★ Facebook: https://www.facebook.com/pinkfong.official
+★ TikTok: https://www.tiktok.com/@pinkfong_official?lang=ko-KR
+★ Twitter: https://twitter.com/Pinkfong
+
+★ Many Thanks to all of our 100 Million Subscribers on Youtube Channels!🎈
+Please take a moment, and participate in a survey for better contents ✅
+We would love to hear anything from you! 
+➡️  https://forms.gle/83JN6rvW11oWcB977
+
+--
+Copyright © 2024 The Pinkfong Company, Inc.  All Rights Reserved.
+#pinkfong #babyshark #pinkfongsongs #pinkfongstories #pinkfongdance #rhymes #forkids2:["$","div",null,{"className":"max-w-[1280px] mx-auto w-full px-1 xs:px-2 sm:px-6 lg:px-8 py-4 sm:py-6 space-y-6 sm:space-y-8","children":[["$","$Lf",null,{"video":{"id":"XqZsoesa55w","title":"Baby Shark Dance | #babyshark Most Viewed Video | Animal Songs | PINKFONG Songs for Children","description":"$10","channelTitle":"Baby Shark - Pinkfong Kids’ Songs & Stories","channelId":"UCcdwLMPsaU2ezNSJU1nFoBQ","publishedAt":"2016-06-17T23:00:30Z","duration":"2:17","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/XqZsoesa55w/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/XqZsoesa55w/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/XqZsoesa55w/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/XqZsoesa55w/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/XqZsoesa55w/maxresdefault.jpg","width":1280,"height":720}}}}],["$","div",null,{"children":["$","$L11",null,{"href":"/","className":"inline-flex items-center gap-2 px-3.5 py-2 bg-white rounded-full text-slate-700 font-bold text-xs sm:text-sm border border-slate-200 hover:border-purple-300 hover:text-purple-700 hover:bg-purple-50 transition-all shadow-subtle active:scale-95 focus:outline-none focus:ring-2 focus:ring-purple-600","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-4 h-4","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"Back to Discover"}]]}]}],["$","section",null,{"className":"w-full max-w-full","children":["$","$L12",null,{"videoId":"XqZsoesa55w","title":"Baby Shark Dance | #babyshark Most Viewed Video | Animal Songs | PINKFONG Songs for Children"}]}],["$","section",null,{"className":"bg-white rounded-2xl sm:rounded-3xl p-4 xs:p-6 sm:p-8 border border-slate-200/80 shadow-subtle space-y-5 sm:space-y-6","children":[["$","h1",null,{"className":"text-xl sm:text-3xl lg:text-4xl font-black text-slate-900 leading-tight tracking-tight break-words","children":"Baby Shark Dance | #babyshark Most Viewed Video | Animal Songs | PINKFONG Songs for Children"}],["$","div",null,{"className":"flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-slate-100 pb-5 sm:pb-6","children":[["$","div",null,{"className":"space-y-2.5 sm:space-y-3","children":[["$","div",null,{"children":[["$","p",null,{"className":"text-base sm:text-lg font-black text-slate-900","children":"Baby Shark - Pinkfong Kids’ Songs & Stories"}],["$","p",null,{"className":"text-xs text-slate-500 font-semibold","children":"Kids songs & educational content"}]]}],["$","div",null,{"className":"flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"bg-purple-100 text-purple-900 text-xs font-black px-3 py-1 rounded-full","children":"Kids Pick"}],["$","span",null,{"className":"bg-amber-100 text-amber-950 text-xs font-black px-3 py-1 rounded-full","children":"Ages 2–6"}],["$","span",null,{"className":"bg-slate-100 text-slate-700 text-xs font-bold px-3 py-1 rounded-full flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-3.5 h-3.5 text-amber-500","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","polyline","68esgv",{"points":"12 6 12 12 16 14"}],"$undefined"]}],["$","span",null,{"children":"2:17"}]]}]]}]]}],["$","div",null,{"className":"shrink-0","children":["$","$L13",null,{"video":"$14"}]}]]}],["$","div",null,{"className":"space-y-3","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-purple-900 font-bold text-xs uppercase tracking-wider","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles w-3.5 h-3.5 text-amber-500","children":[["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}],["$","path","1olli1",{"d":"M20 3v4"}],["$","path","1gvqau",{"d":"M22 5h-4"}],["$","path","vumght",{"d":"M4 17v2"}],["$","path","zchphs",{"d":"M5 18H3"}],"$undefined"]}],["$","span",null,{"children":"About this video"}]]}],["$","p",null,{"className":"text-slate-700 font-medium text-xs sm:text-sm leading-relaxed whitespace-pre-line bg-slate-50 p-3.5 sm:p-4 rounded-xl border border-slate-100","children":"$1c"}],["$","div",null,{"className":"flex items-center gap-2 text-xs font-semibold text-slate-500 pt-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-shield-check w-4 h-4 text-emerald-600 shrink-0","children":[["$","path","oel41y",{"d":"M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"}],["$","path","dzmm74",{"d":"m9 12 2 2 4-4"}],"$undefined"]}],["$","span",null,{"children":"Embedded directly via official YouTube no-cookie player (COPPA Safe)."}]]}]]}]]}],["$","section",null,{"aria-label":"Advertisement","children":["$","$L1d",null,{"placement":"watch","context":"kids","ageTreatment":"child"}]}],["$","section",null,{"className":"space-y-4 sm:space-y-6","children":[["$","div",null,{"className":"flex items-center justify-between","children":["$","h2",null,{"className":"text-lg sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles w-5 h-5 sm:w-6 sm:h-6 text-purple-600","children":[["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}],["$","path","1olli1",{"d":"M20 3v4"}],["$","path","1gvqau",{"d":"M22 5h-4"}],["$","path","vumght",{"d":"M4 17v2"}],["$","path","zchphs",{"d":"M5 18H3"}],"$undefined"]}],["$","span",null,{"children":"More Like This"}]]}]}],["$","div",null,{"className":"grid grid-cols-1 xs:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3.5 sm:gap-6","children":[["$","$L1e","6x-sd-HHrpI",{"video":{"id":"6x-sd-HHrpI","title":"[TOP 10] Kids' Favorite Baby Shark Songs | Compilation | Pinkfong Official for Kids","description":"$1f","channelTitle":"Baby Shark - Pinkfong Kids’ Songs & Stories","channelId":"UCcdwLMPsaU2ezNSJU1nFoBQ","publishedAt":"2023-09-20T23:00:03Z","duration":"14:24","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/6x-sd-HHrpI/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/6x-sd-HHrpI/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/6x-sd-HHrpI/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/6x-sd-HHrpI/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/6x-sd-HHrpI/maxresdefault.jpg","width":1280,"height":720}}}}],["$","$L1e","rKVu84yl474",{"video":{"id":"rKVu84yl474","title":"Baby Shark with Sesame Street | Baby Shark Song Compilation | Pinkfong Kids Song","description":"$20","channelTitle":"Baby Shark - Pinkfong Kids’ Songs & Stories","channelId":"UCcdwLMPsaU2ezNSJU1nFoBQ","publishedAt":"2024-03-13T12:00:55Z","duration":"10:34","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/rKVu84yl474/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/rKVu84yl474/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/rKVu84yl474/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/rKVu84yl474/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/rKVu84yl474/maxresdefault.jpg","width":1280,"height":720}}}}],["$","$L1e","9Wi09NDvbQ4",{"video":{"id":"9Wi09NDvbQ4","title":"Colorful Baby Shark 🦈 | Hoi's Playground | Learn Colors | Dance Along | Pinkfong Songs for Kids","description":"$21","channelTitle":"Baby Shark - Pinkfong Kids’ Songs & Stories","channelId":"UCcdwLMPsaU2ezNSJU1nFoBQ","publishedAt":"2021-12-26T23:00:04Z","duration":"4:41","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/9Wi09NDvbQ4/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/9Wi09NDvbQ4/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/9Wi09NDvbQ4/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/9Wi09NDvbQ4/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/9Wi09NDvbQ4/maxresdefault.jpg","width":1280,"height":720}}}}],["$","$L1e","efQ3aXSlY2E",{"video":{"id":"efQ3aXSlY2E","title":"I'm Not Scared! | + Best Dance Along Series | Pinkfong Songs for Kids","description":"$22","channelTitle":"Baby Shark - Pinkfong Kids’ Songs & Stories","channelId":"UCcdwLMPsaU2ezNSJU1nFoBQ","publishedAt":"2024-06-07T23:00:30Z","duration":"5:34","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/efQ3aXSlY2E/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/efQ3aXSlY2E/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/efQ3aXSlY2E/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/efQ3aXSlY2E/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/efQ3aXSlY2E/maxresdefault.jpg","width":1280,"height":720}}}}],["$","$L1e","Mzjd6e2XNdk",{"video":{"id":"Mzjd6e2XNdk","title":"Baby Shark More and More | Dance Along Compilation | Kids Rhymes | Pinkfong Songs","description":"$23","channelTitle":"Baby Shark - Pinkfong Kids’ Songs & Stories","channelId":"UCcdwLMPsaU2ezNSJU1nFoBQ","publishedAt":"2024-02-23T23:00:20Z","duration":"8:29","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/Mzjd6e2XNdk/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/Mzjd6e2XNdk/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/Mzjd6e2XNdk/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/Mzjd6e2XNdk/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/Mzjd6e2XNdk/maxresdefault.jpg","width":1280,"height":720}}}}],["$","$L1e","9JELbXIA2BQ",{"video":{"id":"9JELbXIA2BQ","title":"Spooky Baby Shark Family 👻 | Go Away, Monster! and more | Halloween Songs | Pinkfong Songs for Kids","description":"$24","channelTitle":"Baby Shark - Pinkfong Kids’ Songs & Stories","channelId":"UCcdwLMPsaU2ezNSJU1nFoBQ","publishedAt":"2021-10-25T23:00:06Z","duration":"12:19","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/9JELbXIA2BQ/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/9JELbXIA2BQ/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/9JELbXIA2BQ/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/9JELbXIA2BQ/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/9JELbXIA2BQ/maxresdefault.jpg","width":1280,"height":720}}}}],["$","$L1e","qSsF92qMvQg",{"video":{"id":"qSsF92qMvQg","title":"Colorful Baby Shark and Baby Cars 🌈 | Yellow, Green, and Blue Colors | Pinkfong Official","description":"$25","channelTitle":"Baby Shark - Pinkfong Kids’ Songs & Stories","channelId":"UCcdwLMPsaU2ezNSJU1nFoBQ","publishedAt":"2026-02-24T23:01:07Z","duration":"6:11","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/qSsF92qMvQg/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/qSsF92qMvQg/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/qSsF92qMvQg/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/qSsF92qMvQg/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/qSsF92qMvQg/maxresdefault.jpg","width":1280,"height":720}}}}],["$","$L1e","2rPrVVDAacY",{"video":{"id":"2rPrVVDAacY","title":"😱 Run Away from the Sharks! | Animal Song | Hoi's Playground | Pinkfong Baby Shark Kids Song","description":"$26","channelTitle":"Baby Shark - Pinkfong Kids’ Songs & Stories","channelId":"UCcdwLMPsaU2ezNSJU1nFoBQ","publishedAt":"2024-08-30T00:00:06Z","duration":"4:39","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/2rPrVVDAacY/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/2rPrVVDAacY/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/2rPrVVDAacY/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/2rPrVVDAacY/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/2rPrVVDAacY/maxresdefault.jpg","width":1280,"height":720}}}}]]}]]}]]}]

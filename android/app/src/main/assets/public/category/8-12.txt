@@ -9,7 +9,7 @@ b:I[3633,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145
 c:I[833,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","106","static/chunks/106-47a5a1efa19d79a5.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-3af544ae5eabb728.js"],"default"]
 d:I[5050,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","106","static/chunks/106-47a5a1efa19d79a5.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-3af544ae5eabb728.js"],"default"]
 4:["category","8-12","d"]
-0:["y0cAsLvuXZ_zKYR9RIhIS",[[["",{"children":["category",{"children":[["category","8-12","d"],{"children":["__PAGE__?{\"category\":\"8-12\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["category",{"children":[["category","8-12","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","category","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","category","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/65022725ca4d158e.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_ed3508","children":["$","body",null,{"className":"bg-[#F8FAFC] text-slate-900 font-sans min-h-screen flex flex-col antialiased","children":["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","main",null,{"className":"flex-1 max-w-[1440px] w-full mx-auto px-4 xs:px-5 sm:px-8 lg:px-12 py-4 sm:py-8","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}]]}]}]}]}]],null],null],["$Le",null]]]]
+0:["9X7DZWmHw59YdfsGlB83W",[[["",{"children":["category",{"children":[["category","8-12","d"],{"children":["__PAGE__?{\"category\":\"8-12\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["category",{"children":[["category","8-12","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","category","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","category","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/65022725ca4d158e.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","className":"__variable_ed3508","children":["$","body",null,{"className":"bg-[#F8FAFC] text-slate-900 font-sans min-h-screen flex flex-col antialiased","children":["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","main",null,{"className":"flex-1 max-w-[1440px] w-full mx-auto px-4 xs:px-5 sm:px-8 lg:px-12 py-4 sm:py-8","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}]]}]}]}]}]],null],null],["$Le",null]]]]
 e:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"8–12 Videos — KiddoTube"}],["$","meta","3",{"name":"description","content":"Science experiments, space discovery, coding, and creative learning."}],["$","meta","4",{"name":"keywords","content":"Kids Videos,KiddoTube,Educational Videos,Nursery Rhymes,Safe Content Discovery"}],["$","link","5",{"rel":"shortcut icon","href":"/images/favicon.png"}],["$","link","6",{"rel":"icon","href":"/images/favicon.png"}],["$","link","7",{"rel":"apple-touch-icon","href":"/images/favicon.png"}]]
 1:null
 f:I[2972,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-a1caf9b00823b142.js","130","static/chunks/app/category/%5Bcategory%5D/page-526a8d841d796d9e.js"],""]
@@ -40,7 +40,33 @@ Whether you’re a student, teacher, or DIY lover, this project will inspire you
 #ModelRocket
 #SpaceMission
 #ISRO
-#SpaceDIY12:Tbea,Let's explore Space | Space Exploration | The best video for kids
+#SpaceDIY12:T5fc,For more than 50 years, art has helped capture and convey the excitement and wonder of human space exploration. But did you know that astronauts integrate artistic expression like music, painting, and photography into their own lives while on the International Space Station?
+
+In the latest STEMonstration episode, NASA astronaut Nicole Mann explores how space exploration both inspires and affects art. Learn about the creative solutions astronauts employ to overcome the challenges of doing art in microgravity. Be inspired by a digital gallery of space-themed artwork created by astronauts on station and students on Earth. In the corresponding classroom connection, students can tap into their own creativity to create personal masterpieces based on astronaut observations of Earth.
+ 
+For more videos like this, along with corresponding classroom connection lesson plans: https://www.nasa.gov/stem-content/stemonstrations-space-art/
+
+
+We’re launching STEM Engagement to new heights with learning resources that connect teachers, students, parents and caregivers to the inspiring work at NASA. Join us as we apply science, technology, engineering and mathematics to explore space, improve aeronautics, examine Earth and strive to land the first woman and first person of color on the Moon with the Artemis program. 
+
+NASA STEM resources: stem.nasa.gov 
+Follow us on social media. 
+Facebook: https://www.facebook.com/NASASTEMEngagement 
+Twitter: https://twitter.com/NASASTEM 
+Pinterest: https://www.pinterest.com/nasa/nasa-stem/13:T6cf,Amazing Space facts for Kids – All about the Planets, Sun and Solar System? Learn awesome space facts with this new Solar System Planet and Space Facts video for Kids. Watch as the cartoon planets bring the most amazing facts to you. Think you know all space facts – think again. Is there a moon that looks like a pizza? Is Space really silent? Toy Time Town bring you another Space video for Children in their unique, educational, funny and enjoyable way.
+
+Watch as Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune star in these videos for kids. Whichever your favourite Planet is, you will learn fun, cool facts here! Whether it is about Planets, Space, our Solar System, Galaxy or Universe! Watch as Planet Saturn tells you his favourite Space facts, all with the help from his amazing Planet friends.
+
+These videos are made to entertain and educate kids equally. Each planet in our Solar System is fascinating in its own way. See what makes them such interesting planets in The Solar System, Space and the Universe.
+
+Children, families and adults alike, will find these videos about the Solar System and planets interesting and fun! As always in Toy Time Town, as well as learning, have lots of fun!
+
+Subscribe for free and become a toy-timer: 
+https://www.youtube.com/channel/UCfNE0mi5DnyXkxGexOej9rQ?sub_confirmation=1 
+
+#spacefactsforkids #planetsforkids #spaceforkids #solarsystemforkids #toytimetown
+
+Image credit to BornCG - youtube.com/channel/UCdioEctcBLd2nw2aQkl8msw Credit solarsystemscope.com/textures/download Under Attribution 4.0 International creativecommons.org/licenses/by/4.0/ Additional footage used from Pixabay under pixabay.com/service/terms/license. Nasa Images used with permission and credited.14:Tbea,Let's explore Space | Space Exploration | The best video for kids
 This space exploration video is made specially for you. You will learn all about the exciting things that happen in outer space! You will learn about the planets in our solar system and how they work. You will also learn about stars, galaxies and black holes. There are amazing pictures and animations that will help you understand everything. Ready to blast off into the world of space? Let's go!
 
 With fun and engaging narration, this space video is perfect for young learners who are eager to explore and understand the mysteries of the universe.
@@ -104,7 +130,92 @@ Contagious curiosity engages kids in learning with fun that helps them both grow
 
 Cakewalk Learning - 
 https://www.youtube.com/channel/UCW5jvaoWqELiXBze84CUjTw
-#spaceexploration #solarsystem #educationalvideo #thebigbangtheory13:T150c,#KidsGames
+#spaceexploration #solarsystem #educationalvideo #thebigbangtheory15:T617,Hey guys! 👋
+
+In this video, I will show you how to make a telescope model at home using cardboard — super easy and budget-friendly! 😲
+
+This is a perfect school science project and also a fun DIY you can try at home. You don’t need expensive materials — just simple cardboard and a little creativity! ✨
+
+🏆 This design is strong, stylish, and can even help you win prizes in school projects!
+
+---
+
+📌 What you will learn:
+
+- How to make a telescope step by step
+- How to use cardboard creatively
+- Easy DIY science project idea
+- Budget-friendly telescope making
+
+---
+
+🛠️ Materials Used:
+
+- Cardboard
+- Glue gun / Fevicol
+- Tape
+- Paper
+- Basic tools
+
+---
+
+Lens 👉🏻 https://amzn.in/d/06RUKvKK
+
+---
+
+📲 Follow me on Instagram:
+👉 https://www.instagram.com/super_art_the_art_home
+(Here I share behind-the-scenes & upcoming projects 🔥)
+
+---
+
+💬 If you enjoyed this video, don’t forget to:
+👍 Like
+💬 Comment
+🔔 Subscribe for more amazing DIY projects!
+
+---
+
+🔥 Tags:
+telescope making at home, diy telescope, cardboard telescope, how to make telescope, science project telescope, telescope for kids, telescope from cardboard, budget telescope, homemade telescope, space project for school, nasa style telescope, cardboard science project, desi jugaad telescope, easy science project, telescope craft, how to make a working telescope, diy science experiment, cardboard telescope making, sasta nasa telescope, school project idea
+
+---
+
+#DIY #Telescope #ScienceProject #CardboardCraft #Homemade #DIYProjects #EasyScience16:T51a,Hey kids, in this video, Dr Binocs will explain, How Do Rockets Work? What is the science behind Rocket? How Rockets Work?
+
+Make sure you watch the whole video to know all the answers to your curious questions! 
+
+Leave your ideas, suggestions and questions for Dr. Binocs at this Email Id: peekabookidzfeedback@gmail.com
+
+For more fun learning videos SUBSCRIBE to Peekaboo Kidz: http://bit.ly/SubscribeTo-Peekabookidz
+
+Watch Guess The Shapes With Baby Binocs here - https://youtu.be/vNm422Ta44w
+
+Watch other fun learning episodes of Dr. Binocs here - http://bit.ly/2kfNS22
+
+Watch our NEW SERIES of Baby Binocs, stay tuned to this playlist - http://bit.ly/2kyC2jU
+
+Credits - 
+Copyrights and Publishing: Rajshri Entertainment Private Limited 
+All rights reserved.  
+
+#HowDoesARocketsFly #RocketScience #DrBinocsShow #Space #HowRocketWorks
+
+Catch Dr.Binocs At - https://goo.gl/SXhLmc
+
+To Watch More Popular Nursery Rhymes Go To - https://goo.gl/CV0Xoo
+
+To Watch Alphabet Rhymes Go To - https://goo.gl/qmIRLv
+
+To Watch Compilations Go To - https://goo.gl/nW3kw9
+
+Catch More Lyricals At - https://goo.gl/A7kEmO
+
+Subscribe to Peekaboo Kidz: http://bit.ly/peekabookidz
+
+Like our Facebook page: https://www.facebook.com/peekabootv ,
+
+For brand collaborations and inquiries, reach out to us at :  collab@rajshri.com17:T150c,#KidsGames
 #ChildrensGames
 #FamilyFriendlyGames
 #EducationalGames
@@ -260,77 +371,7 @@ https://www.youtube.com/channel/UCW5jvaoWqELiXBze84CUjTw
 #बच्चोंकाखाना (Children's Food)
 #संगठितविकास (Organized Development)
 #खेलकूदकीप्रेरणा (Sports Inspiration)
-#ScreenTimeForKids14:T6cf,Amazing Space facts for Kids – All about the Planets, Sun and Solar System? Learn awesome space facts with this new Solar System Planet and Space Facts video for Kids. Watch as the cartoon planets bring the most amazing facts to you. Think you know all space facts – think again. Is there a moon that looks like a pizza? Is Space really silent? Toy Time Town bring you another Space video for Children in their unique, educational, funny and enjoyable way.
-
-Watch as Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune star in these videos for kids. Whichever your favourite Planet is, you will learn fun, cool facts here! Whether it is about Planets, Space, our Solar System, Galaxy or Universe! Watch as Planet Saturn tells you his favourite Space facts, all with the help from his amazing Planet friends.
-
-These videos are made to entertain and educate kids equally. Each planet in our Solar System is fascinating in its own way. See what makes them such interesting planets in The Solar System, Space and the Universe.
-
-Children, families and adults alike, will find these videos about the Solar System and planets interesting and fun! As always in Toy Time Town, as well as learning, have lots of fun!
-
-Subscribe for free and become a toy-timer: 
-https://www.youtube.com/channel/UCfNE0mi5DnyXkxGexOej9rQ?sub_confirmation=1 
-
-#spacefactsforkids #planetsforkids #spaceforkids #solarsystemforkids #toytimetown
-
-Image credit to BornCG - youtube.com/channel/UCdioEctcBLd2nw2aQkl8msw Credit solarsystemscope.com/textures/download Under Attribution 4.0 International creativecommons.org/licenses/by/4.0/ Additional footage used from Pixabay under pixabay.com/service/terms/license. Nasa Images used with permission and credited.15:T411,solar system working model with LED Lights - box type - hanging - creative design - award winning project - craftpiller
-#SolarSystemModel #ScienceExhibition #LEDLightsModel #CraftPiller #InspireAwardProject #ScienceProject #DIYModel #BoxTypeModel #HangingSolarSystem #AwardWinningModel #PlanetsModel #CreativeScienceProject #workingmodel #workingproject #solarsystem 
-
-Solar system planets making video using thermocol balls  - https://youtu.be/hkPXUgjV_zs
-
-Materials Used : 
-Color Papers : https://amzn.to/3ir1uDo
-Threads :https://amzn.to/354qyrZ
-Glue Gun : https://amzn.to/356h7bt
-Glue Sticks : https://amzn.to/3pCAGlc
-Scissor : https://amzn.to/2SpBgGz
-Cutter : https://amzn.to/3vgTQyk
-Fevicol :https://amzn.to/3zfNYse
-Paint : https://amzn.to/3pIfBG6
-Paint Brushes : https://amzn.to/2SonJPF
-Robo DC Motor : https://amzn.to/3g7kN31
-DC Motor : https://amzn.to/3zhrcQD
-DC Water Pump - https://amzn.to/3izSE6e
-Switch  : https://amzn.to/3gmvNbM
-
-
-Tripod :https://amzn.to/3xd29fS
-Camera : https://amzn.to/3zgGFR3
-Laptop : https://amzn.to/3x5i1AS16:T51a,Hey kids, in this video, Dr Binocs will explain, How Do Rockets Work? What is the science behind Rocket? How Rockets Work?
-
-Make sure you watch the whole video to know all the answers to your curious questions! 
-
-Leave your ideas, suggestions and questions for Dr. Binocs at this Email Id: peekabookidzfeedback@gmail.com
-
-For more fun learning videos SUBSCRIBE to Peekaboo Kidz: http://bit.ly/SubscribeTo-Peekabookidz
-
-Watch Guess The Shapes With Baby Binocs here - https://youtu.be/vNm422Ta44w
-
-Watch other fun learning episodes of Dr. Binocs here - http://bit.ly/2kfNS22
-
-Watch our NEW SERIES of Baby Binocs, stay tuned to this playlist - http://bit.ly/2kyC2jU
-
-Credits - 
-Copyrights and Publishing: Rajshri Entertainment Private Limited 
-All rights reserved.  
-
-#HowDoesARocketsFly #RocketScience #DrBinocsShow #Space #HowRocketWorks
-
-Catch Dr.Binocs At - https://goo.gl/SXhLmc
-
-To Watch More Popular Nursery Rhymes Go To - https://goo.gl/CV0Xoo
-
-To Watch Alphabet Rhymes Go To - https://goo.gl/qmIRLv
-
-To Watch Compilations Go To - https://goo.gl/nW3kw9
-
-Catch More Lyricals At - https://goo.gl/A7kEmO
-
-Subscribe to Peekaboo Kidz: http://bit.ly/peekabookidz
-
-Like our Facebook page: https://www.facebook.com/peekabootv ,
-
-For brand collaborations and inquiries, reach out to us at :  collab@rajshri.com17:T49c,How to Make a Map?! watch this video to learn how !
+#ScreenTimeForKids18:T49c,How to Make a Map?! watch this video to learn how !
 ☀Fid more FREE books at https://www.redcatreading.com/?utm_source=youtube&utm_medium=video&utm_content=description&utm_campaign=map_read_along_youtube
 
 "How to Make a Map" is a Leveled reading ebook teaching kids about maps, discovery and basic geography terms, created by Red Cat Reading
@@ -347,49 +388,7 @@ Follow us on Facebook for new updates and free promotions.
 
 #redcatreading #levelreading #readalong #kidsvslife #kidsvsphonics #howtoread #funfacts #factsforkids #sciencefacts
 
-Copyright © 2018 Red Cat Reading™. All Rights Reserved.18:T7ee,Hi Friends, 
-In this video you will be learning how to make planets model that you can use for high school projects and exhibitions. This model will be good for Aerospace exhibitions also. You will learn how to mix colours and paint these models. You can use either home made thermocol/foam balls or buy it from the store.   Hope you will enjoy this video.
-Please let me know in the comments section if you have any doubts in the model.
-
-Items used in this video (Amazon affiliate links):
-Acrylic colors: https://amzn.to/3zvBmQ0
-Paint brush set: https://amzn.to/3zrqFh4
-Poster colour: https://amzn.to/3PzZZjW
-Colour Palate: https://amzn.to/3J55jt5
-Cutter: https://amzn.to/3vaL5Zj
-Tripod: https://amzn.to/3Pv7LeX
-Gorillapod tripod: https://amzn.to/3OyZuFo
-Ring light for camera: https://amzn.to/3PCZo16
-Photography lighting kit: https://amzn.to/3cweSoJ
-
-WhatsApp: 9148866320 (Use youtube comments section for quick responses)
-Amazon: https://www.amazon.in/shop/diyasfunplay
-Website: https://diyasfunplay.com/
-YouTube: https://www.youtube.com/c/DiyasFunplayandLearning
-E-mail: contact@diyasfunplay.com
-
-Amazon affiliate links (for items used in the video)
-Thermocol balls: https://amzn.to/3p3ih1H
-Acrylic colour set: https://amzn.to/3LJLhW1
-
-Topics covered:
-1. How to make Sun model?
-2. How to make Mercury planet model?
-3. How to make Venus planet model?
-4. How to make Earth planet model?
-5. How to make Mars planet model?
-6. How to make Jupiter planet model?
-7. How to make Saturn planet model?
-8. How to make Uranus planet model?
-9. How to make Neptune planet model?
-
-All contents here are child friendly. There are loads of information to learn and play in this channel. 
-Don't forget friends. If you like this video please "like" and "share" it with your friends to show your support. 
-If there's something you would like to inform us,
-please let us know in the comments section. Thanks.
-
-Please subscribe to our channel, like, share, this video if you had enjoyed this video.
-https://www.youtube.com/c/DiyasFunplayandLearning19:T1383,ABC song for kids, 123 learning for toddlers, fun math for kids, preschool learning songs, nursery rhymes, kids dance songs, phonics songs for kids, learning colors for kids, learning shapes for toddlers, sight words for preschool, educational videos for toddlers, counting songs for kids, science experiments for kids, reading for kids, alphabet games, storytime for kids, bedtime stories for children, kids learning videos, fun activities for toddlers, drawing for kids, easy crafts for kids, arts and crafts for toddlers, learning to read for kids, learn animals for toddlers, kids yoga, exercise for toddlers, physical activities for kids, kids educational shows, numbers and counting for toddlers, letter sounds for preschoolers, learn phonics, language learning for toddlers, cooking for kids, kids baking tutorials, easy recipes for kids, kids science projects, nature exploration for kids, educational cartoons for kids, kids learning English, learning letters for toddlers, fun challenges for kids, animal videos for toddlers, nature sounds for kids, kids animation, best cartoonsearning seasons for kids, teaching days of the week for kids, learning months for toddlers, holiday crafts for kids, seasonal crafts for toddlers, kids adventure stories, kids fantasy stories, famous fairy tales for kids, short stories for children, learning letters A to Z, vocabulary building for toddlers, kids storytelling, pretend play for toddlers, kids pretend play, learning through play, educational songs for kids, kids puzzle games, kids learning songs, kids brain games, teaching body parts for kids, learning animals sounds, easy science for kids, learning space for kids, kids art tutorials, kids drawing tutorials, step-by-step drawing for kids, kids toy unboxing, kids toy reviews, STEM learning for kids, building blocks for toddlers, learning tools for kids, learning vegetables for toddlers, learning fruits for kids, healthy eating for kids, kids storytime adventures, interactive books for kids, learning the alphabet for kids, kids video games, kids educational apps, kids book reviews, kids entertainment videos, fun outdoor activities for toddlers, best educational apps for kids, fun family activities for kids, learning numbers for kids, teaching shapes for toddlers, art and craft ideas for kids, DIY crafts for children, explore nature with kids, kids music lessons, learn to play piano for kids, fun songs for toddlers, kids travel adventures, kids camping tips, fun facts for kids, learning geography for toddlers, kids geography songs, learning through music for kids, kids world map videos, kids geography games, learn about planets for kids, animal planet for kids, kids nature documentary, fun science facts for kids, kids home science experiments, simple experiments for kids, kids dancing tutorials, learn to dance for kids, kids baking ideas, kids cooking lessons, parenting tips for toddlers, fun indoor activities for kids, easy science experiments for children, kids LEGO building, best games for kids, learning time for toddlers, kids telling time, learning days and months for kids, kids alphabet learning, counting in English for toddlers, learn colors in English for kids, children's bedtime stories, fun quizzes for kids, kids brain teasers, puzzles for children, fun mazes for kids, preschool crafts, handwriting practice for kids, learn writing for toddlers, kids flashcards, interactive flashcards for toddlers, learning to spell for kids, learn rhyming words for kids, kids memory games, kids coding for beginners, fun coding games for kids, kids building robots, robotics for kids, kids storytelling competitions, kids reading practice, kids comprehension games, learning animals in the jungle for kids, learn about dinosaurs for kids, kids space adventures, learning about the solar system for kids, kids astronaut stories, kids engineering games, kids construction activities, kids history stories, learning ancient civilizations for kids, kids art history, famous painters for kids, learn about famous scientists for kids, kids architecture lessons, kids creative writing, fun writing games for kids, kids treasure hunts, outdoor scavenger hunts for kids.vanifunkids2024AF, AL, DZ, AD, AO, AG, AR, AM, AU, AT, AZ, BS, BH, BD, BB, BY, BE, BZ, BJ, BT, BO, BA, BW, BR, BN, BG, BF, BI, CV, KH, CM, CA, CF, TD, CL, CN, CO, KM, CG, CR, HR, CU, CY, CZ, CD, DK, DJ, DM, DO, TL, EC, EG, SV, GQ, ER, EE, SZ, ET, FJ, FI, FR, GA, GM, GE, DE, GH, GR, GD, GT, GN, GW, GY, HT, HN, HU, IS, IN, ID, IR, IQ, IE, IL, IT, CI, JM, JP, JO, KZ, KE, KI, KP, KR, XK, KW, KG, LA, LV, LB, LS, LR, LY, LI, LT, LU, MG, MW, MY, MV, ML, MT, MH, MR, MU, MX, FM, MD, MC, MN, ME, MA, MZ, MM, NA, NR, NP, NL, NZ, NI, NE, NG, MK, NO, OM, PK, PW, PA, PG, PY, PE, PH, PL, PT, QA, RO, RU, RW, KN, LC, VC, WS, SM, ST, SA, SN, RS, SC, SL, SG, SK, SI, SB, SO, ZA, SS, ES, LK, SD, SR, SE, CH, SY, TW, TJ, TZ, TH, TG, TO, TT, TN, TR, TM, TV, UG, UA, AE, GB, US, UY, UZ, VU, VA, VE, VN, YE, ZM, ZW.1a:T10cf,3D Layers of Earth | Earth crust model | 3D earth crust model | Crust, Mantle, Core, Inner core
+Copyright © 2018 Red Cat Reading™. All Rights Reserved.19:T10cf,3D Layers of Earth | Earth crust model | 3D earth crust model | Crust, Mantle, Core, Inner core
 Interior of Earth
 Hello friends, here I show you How to Make Earth layer Model With Cardboard. Please see carefully and make it easily. It will help the students of the school/college to create their project. Thank you.
 
@@ -449,4 +448,193 @@ _______________________________________
 
 💢SUBSCRIBE THIS CHANNEL💢
 
-Friends Join us and make this channel successful by giving your invaluable support & Thanks for watching this video💕2:["$","div",null,{"className":"space-y-8 pb-8","children":[["$","div",null,{"children":["$","$Lf",null,{"href":"/","className":"inline-flex items-center gap-1.5 px-3 py-1.5 bg-white rounded-lg text-slate-600 font-semibold text-xs border border-slate-200 hover:border-purple-300 hover:text-purple-900 transition-colors shadow-subtle","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-3.5 h-3.5","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"Back to Discover"}]]}]}],["$","section",null,{"className":"bg-white rounded-2xl sm:rounded-3xl p-4 xs:p-6 sm:p-8 border border-slate-200/80 shadow-subtle space-y-3","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"px-2.5 py-0.5 bg-purple-100 text-purple-900 text-xs font-bold rounded-md uppercase tracking-wider","children":["Ages ","Big Kids"]}],["$","span",null,{"className":"text-xs text-slate-400 font-semibold","children":["• ",16," Videos"]}]]}],["$","h1",null,{"className":"text-xl xs:text-2xl sm:text-4xl font-black text-slate-900 tracking-tight","children":"8–12"}],["$","p",null,{"className":"text-slate-600 font-medium text-xs sm:text-base max-w-2xl leading-relaxed","children":"Science experiments, space discovery, coding, and creative learning."}],["$","div",null,{"className":"pt-2 flex items-center gap-2 text-xs font-medium text-slate-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-shield-check w-4 h-4 text-emerald-600 shrink-0","children":[["$","path","oel41y",{"d":"M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"}],["$","path","dzmm74",{"d":"m9 12 2 2 4-4"}],"$undefined"]}],["$","span",null,{"children":["Strict server-side safe query: \"","kids coding science experiments crafts space exploration geography","\""]}]]}]]}],["$","section",null,{"className":"space-y-4","children":[["$","h2",null,{"className":"text-lg sm:text-xl font-bold text-slate-900","children":"Watch & Learn"}],["$","div",null,{"className":"grid grid-cols-1 xs:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3.5 sm:gap-5","children":[["$","$L10","OyjyADsr9BE",{"video":{"id":"OyjyADsr9BE","title":"Chandrayaan-3 working model || Chandrayaan project for school || rocket launching 🚀 science project!","description":"$11","channelTitle":"MR ALVI BD","channelId":"UC6--fpJ0WggJgjsJ2mUmzbA","publishedAt":"2025-08-11T09:12:43Z","duration":"15:21","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/OyjyADsr9BE/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/OyjyADsr9BE/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/OyjyADsr9BE/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/OyjyADsr9BE/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/OyjyADsr9BE/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}],["$","$L10","A0LIihnf0z8",{"video":{"id":"A0LIihnf0z8","title":"Geostationary Satellite Working Model|| Science Exibition Working Project|| Science Project #solar ","description":"Geostationary Satellite Working Model|| Science Exibition Working Project|| Science Project #solar\n\nsatellite working model science project satellite working model project\nsatellite making project working model satellite working model for science exhibition satellite earth working model for science fair satellite around earth working school science model\nsatellite project work science\nsatellite working project\nsatellite science project\nsatellite working model\nsatellite communication working model for school project\ngeo satellite working model\nsatellite working model easy\n#satellite \n#sciencproject\n#science\n#project\n#solarsystem\n#eazytronic \n#eazytronicshorts","channelTitle":"EAZYTRONIC","channelId":"UCWxoBxETB3KJI_nySVqY_DQ","publishedAt":"2025-10-05T12:30:23Z","duration":"11:32","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/A0LIihnf0z8/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/A0LIihnf0z8/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/A0LIihnf0z8/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/A0LIihnf0z8/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/A0LIihnf0z8/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}],["$","$L10","Zd2Cm9xzVcM",{"video":{"id":"Zd2Cm9xzVcM","title":"Chandrayaan-3 Working Model || Chandrayaan Project For School|| Rocket Launching Science Project","description":"Chandrayaan-3 Working Model || Chandrayaan Project For School|| Rocket Launching Science Project\n\nchandrayaan 3 project school working model\nchandrayaan 3 model making for school project\nhow to make chandrayaan 3 model for school project\nscience project for class 7th students working model easy science exhibition projects class\nhow to make chandrayaan 3 model\nchandrayan 3 science project\nschool project\nchandrayaan 3 model\nchandrayaan 3 working model for school project\nchandrayaan 3\nscience project\nchandrayaan working model for school project\nrocket launch\nrocket science\nscience\nrocket\nvinegar rocket science project\nwater rocket science project\nscience for kids\nlaunch\nrockets\nbottle rocket\nrocket working\nscience project\nscience working model\ntop science project\nchandrayaan 3 science project\ncool science projects\nwhat is the smoke before rocket launch\nwhat is the white smoke before a rocket launch\nbest science fair projects\nwhy rockets smoke before launch\nscience exhibition projects","channelTitle":"EAZYTRONIC","channelId":"UCWxoBxETB3KJI_nySVqY_DQ","publishedAt":"2025-03-20T17:31:58Z","duration":"9:39","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/Zd2Cm9xzVcM/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/Zd2Cm9xzVcM/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/Zd2Cm9xzVcM/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/Zd2Cm9xzVcM/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/Zd2Cm9xzVcM/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}],["$","$L10","QyiAiuQOdcw",{"video":{"id":"QyiAiuQOdcw","title":"3D solar system school project | How to Make a Solar System with Cardboard. science projects","description":"In this video, I will show you how to easily make a beautiful solar system using cardboard and styrofoam. This project is great for kids, and it will help them learn about the planets and space.\nscience projects\n#school \n#scienceprojects\n\n\n\n\nMaterials:\n\nCardboard\nStyrofoam\nPaint\nBrushes\nPaper\nPen\nRuler\nGlue\nScissors\nInstructions:\n\nCut circles out of the cardboard for the planets.\nCreate spheres out of the styrofoam for the planets.\nPaint the planets.\nGlue the planets onto the cardboard.\nUse paper and paint to create the sun.\nGlue the sun onto the cardboard.\nTips:\n\nTo make the planets look more realistic, you can use different textures and colors.\nYou can use string or yarn to create orbits around the planets.\nYou can create labels with information about the planets\n\nSolar system\nPlanets\nSun\nCardboard\nStyrofoam\nDIY\nKids\nScience\nSpace","channelTitle":"my smart art","channelId":"UCgfbfguOgmwCTVwh4vOKFuw","publishedAt":"2024-03-14T04:30:08Z","duration":"5:31","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/QyiAiuQOdcw/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/QyiAiuQOdcw/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/QyiAiuQOdcw/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/QyiAiuQOdcw/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/QyiAiuQOdcw/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}],["$","$L10","F7JQk225fgA",{"video":{"id":"F7JQk225fgA","title":"Let's explore Space | Space Exploration | The best video for kids","description":"$12","channelTitle":"Cakewalk Learning","channelId":"UCW5jvaoWqELiXBze84CUjTw","publishedAt":"2023-06-23T03:15:07Z","duration":"8:36","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/F7JQk225fgA/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/F7JQk225fgA/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/F7JQk225fgA/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/F7JQk225fgA/sddefault.jpg","width":640,"height":480}}},"categoryLabel":"8–12"}],["$","$L10","_s9AwTo9C8s",{"video":{"id":"_s9AwTo9C8s","title":"River and shore game fun game children activity","description":"$13","channelTitle":"Kitabi masti ","channelId":"UC5LE4EgOcalk4U_yavTMEWg","publishedAt":"2024-03-28T05:14:07Z","duration":"4:29","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/_s9AwTo9C8s/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/_s9AwTo9C8s/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/_s9AwTo9C8s/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/_s9AwTo9C8s/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/_s9AwTo9C8s/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}],["$","$L10","_Qj5a2HtdyA",{"video":{"id":"_Qj5a2HtdyA","title":"Amazing Space Facts for Kids | Planets","description":"$14","channelTitle":"Toy Time Town","channelId":"UCfNE0mi5DnyXkxGexOej9rQ","publishedAt":"2021-02-26T11:15:01Z","duration":"8:34","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/_Qj5a2HtdyA/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/_Qj5a2HtdyA/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/_Qj5a2HtdyA/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/_Qj5a2HtdyA/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/_Qj5a2HtdyA/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}],["$","$L10","qDeMtSerB6g",{"video":{"id":"qDeMtSerB6g","title":"solar system working model with LED Lights - box type - hanging - creative design | craftpiller","description":"$15","channelTitle":"craftpiller","channelId":"UC7pAB2d9aWkyCYsMaqu1CIQ","publishedAt":"2025-06-18T02:55:24Z","duration":"7:16","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/qDeMtSerB6g/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/qDeMtSerB6g/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/qDeMtSerB6g/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/qDeMtSerB6g/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/qDeMtSerB6g/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}],["$","$L10","9g0FehS0H1E",{"video":{"id":"9g0FehS0H1E","title":"How Does A ROCKET FLY | How Do Rockets Work | ROCKET LAUNCH | The Dr Binocs Show | Peekaboo Kidz","description":"$16","channelTitle":"Peekaboo Kidz","channelId":"UCxlJ45KjG4XVcQ_hd8j227A","publishedAt":"2020-01-31T12:30:01Z","duration":"6:13","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/9g0FehS0H1E/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/9g0FehS0H1E/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/9g0FehS0H1E/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/9g0FehS0H1E/sddefault.jpg","width":640,"height":480}}},"categoryLabel":"8–12"}],["$","$L10","GWYhtksrmhE",{"video":{"id":"GWYhtksrmhE","title":"how NASA writes space-proof code","description":"wanna learn to hack? join my CTF platform: https://go.lowlevel.tv/GWYhtksrmhE\n\nI've been told the worst thing that can happen to a developer is their code crashes in production? Well.... what happens if that production environment is outer space? \n\nSafety critical systems require strict coding standards. In this video, I discuss how NASA's power of ten helps them write space-proof code.\n\n🔴 LIVE at http://twitch.tv/LowLevelTV\n🏫 COURSES 🏫 Learn to code in C at https://lowlevel.academy","channelTitle":"Low Level","channelId":"UC6biysICWOJ-C3P4Tyeggzg","publishedAt":"2023-06-03T18:00:05Z","duration":"6:03","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/GWYhtksrmhE/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/GWYhtksrmhE/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/GWYhtksrmhE/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/GWYhtksrmhE/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/GWYhtksrmhE/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}],["$","$L10","w36yxLgwUOc",{"video":{"id":"w36yxLgwUOc","title":"SOLAR SYSTEM - The Dr. Binocs Show | Best Learning Videos For Kids | Peekaboo Kidz","description":"Learn Solar System in detail with Dr. Binocs only on Peekaboo.\n\nWanna know what is there in Space? What is the Milky Way? What are the various planets in our Solar System? Keep calm and watch this video where Dr.Binocs explains the Solar System in an interesting and detailed way!\n\nShare on Facebook - https://goo.gl/EXSwdm\nTweet about this - https://goo.gl/CqzcDv\n\nCopyrights and Publishing: Rajshri Entertainment Private Limited\nAll rights reserved.\n\nSUBSCRIBE to Peekaboo Kidz:http://bit.ly/SubscribeTo-Peekabookidz \n\nCatch Dr.Binocs At - https://goo.gl/SXhLmc\n\nTo Watch More Popular Nursery Rhymes Go To - https://goo.gl/CV0Xoo\n\nTo Watch Alphabet Rhymes Go To - https://goo.gl/qmIRLv\n\nTo Watch Compilations Go To - https://goo.gl/nW3kw9\n\nCatch More Lyricals At - https://goo.gl/A7kEmO\n\nLike our Facebook page: https://www.facebook.com/peekabootv ,\n\nFor brand collaborations and inquiries, reach out to us at :  collab@rajshri.com","channelTitle":"Peekaboo Kidz","channelId":"UCxlJ45KjG4XVcQ_hd8j227A","publishedAt":"2015-06-24T10:57:35Z","duration":"4:22","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/w36yxLgwUOc/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/w36yxLgwUOc/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/w36yxLgwUOc/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/w36yxLgwUOc/sddefault.jpg","width":640,"height":480}}},"categoryLabel":"8–12"}],["$","$L10","DSnVCV4uGGQ",{"video":{"id":"DSnVCV4uGGQ","title":"How to Make a Map | Geography for Kids | Made by Red Cat Reading","description":"$17","channelTitle":"Kids vs Life","channelId":"UC1XbXsp48-VkYbNBJQ1YvOQ","publishedAt":"2018-03-09T13:30:00Z","duration":"5:10","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/DSnVCV4uGGQ/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/DSnVCV4uGGQ/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/DSnVCV4uGGQ/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/DSnVCV4uGGQ/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/DSnVCV4uGGQ/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}],["$","$L10","TnoHnyNeF6k",{"video":{"id":"TnoHnyNeF6k","title":"HOW TO MAKE PLANETS OF THE SOLAR SYSTEM FOR SCIENCE PROJECTS & AEROSPACE EXHIBITIONS - EASY WAY!!!","description":"$18","channelTitle":"Diya's Funplay","channelId":"UCpFygvlRTGTWkJLyXaAVUWw","publishedAt":"2020-01-03T15:49:25Z","duration":"16:50","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/TnoHnyNeF6k/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/TnoHnyNeF6k/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/TnoHnyNeF6k/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/TnoHnyNeF6k/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/TnoHnyNeF6k/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}],["$","$L10","DeU9xvY_ef8",{"video":{"id":"DeU9xvY_ef8","title":"ABC Song | Alphabet Song | ABC for Kids  Nursery Rhymes & Baby Songs#vanikidsfun2024#Fun #youtube","description":"$19","channelTitle":"VaniKidsFunLearning","channelId":"UCt90s9Zl_XvAWhx9o28WV0A","publishedAt":"2024-09-26T15:38:34Z","duration":"5:26","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/DeU9xvY_ef8/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/DeU9xvY_ef8/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/DeU9xvY_ef8/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/DeU9xvY_ef8/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/DeU9xvY_ef8/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}],["$","$L10","PQHinOJnWN0",{"video":{"id":"PQHinOJnWN0","title":"How to Make Earth Layer Model With Cardboard/ Make 3d Earth Layer Model for School project","description":"$1a","channelTitle":"Artgram_DIY - Uupvan dhawan","channelId":"UCuvSmf7S6ah7OFU7lYYdSrA","publishedAt":"2023-07-03T14:27:23Z","duration":"4:57","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/PQHinOJnWN0/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/PQHinOJnWN0/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/PQHinOJnWN0/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/PQHinOJnWN0/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/PQHinOJnWN0/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}],["$","$L10","EFmxPMdBqmU",{"video":{"id":"EFmxPMdBqmU","title":"Animation vs. Coding","description":"/(^∇^)╯  https://brilliant.org/alanbecker\n30-day free trial and 20% off 👍\n\n🖐 BECOME A MEMBER! ► https://www.youtube.com/noogai89/join \n\n👕 MERCH! ► https://alanbecker.shop\n\n💬DISCORD SERVER ► https://discord.gg/alanbecker \n\n🕹️ANIMATORS VS GAMES ►  @AnimatorsVSGames \n\n📷INSTAGRAM ► http://www.instagram.com/alanbecker \n\n✏️TWITTER ► http://twitter.com/alanthebecker \n\n🔹🔶WRITER🔶🔹\nTerkoiz\n🔹🔶PROJECT LEAD / PA🔶🔹\n Sammi Alea https://sammialea.com/ \n🔹🔶ANIMATION🔶🔹\nTerkoiz\n@doumaki4501 \n@effie2095 \n@SimpleFox1 \n@smoilysheep4670 \n@favfaris4714 \n@n8sterAnimates \n@Spacedoughnut \n@ARCpersona \n@ablerai \n@ichasedacrow \n@Keenlol \n@NotSoProishNoob \n@mekatokwa \n@oxob3000 \n@eds7236 \n@Nemo0501 \nExceld\n@Hexalhaxel \n🔹🔶SOUND DESIGN🔶🔹 \n@dan_loeb \nhttps://twitter.com/E_SoundWork \n🔹🔶CODE ASSISTANCE🔶🔹\n@Shuriken255 \n@RickardAbraham\n🔹🔶EDITORS🔶🔹 \n@dan_loeb \n@n8sterAnimates \n🔹🔶MUSIC🔶🔹 \n@avenzamusic \n🔹🔶LINE PRODUCER / PM🔶🔹\n @hatena360","channelTitle":"Alan Becker","channelId":"UCbKWv2x9t6u8yZoB3KcPtnw","publishedAt":"2025-03-01T13:00:06Z","duration":"9:27","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/EFmxPMdBqmU/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/EFmxPMdBqmU/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/EFmxPMdBqmU/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/EFmxPMdBqmU/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/EFmxPMdBqmU/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}]]}]]}]]}]
+Friends Join us and make this channel successful by giving your invaluable support & Thanks for watching this video💕1a:T1546,#KidsActivities
+#ChildrensCrafts
+#FamilyFun
+#DIYKids
+#EducationalPlay
+#KidFriendly
+#CreativePlay
+#LearningThroughPlay
+#ParentingTips
+#ToddlerActivities
+#PreschoolCrafts
+#FunWithKids
+#ChildDevelopment
+#KidsArtProjects
+#OutdoorPlaytime
+#IndoorActivities
+#StorytimeForKids
+#MusicAndMovement
+#SensoryPlay
+#GamesForKids#KidsLearning
+#CreativeKids
+#PlaytimeIdeas
+#FamilyBonding
+#CraftsForKids
+#DIYProjectsForKids
+#ChildhoodMemories
+#InteractivePlay
+#EducationalFun
+#KidsEntertainment
+#ParentingHacks
+#KidsArtAndCrafts
+#KidsGames
+#IndoorPlayIdeas
+#OutdoorAdventures
+#KidsImagination
+#PlayfulLearning
+#KidsExploring
+#ParentAndChildActivities
+#HealthyKids#KidsCraftIdeas
+#CreativeLearning#KidsFunTime
+#CraftyKids
+#Parenting101
+#CreativeParenting
+#HandsOnActivities
+#PlayfulParenting
+#LearningTogether
+#ChildhoodDevelopment
+#KidsArtFun
+#FamilyActivities
+#SensoryExploration
+#ChildhoodEducation
+#InnovativeLearning
+#KidsDiscovery
+#OutdoorPlayIdeas
+#ChildhoodCreativity
+#FunLearningActivities
+#EngagingKids
+#LearningThroughFun
+#PlayBasedLearning
+#ArtAndCraftForKids
+#FamilyTimeFun
+#STEMForKids
+#MessyPlay
+#ImaginativePlay
+#InteractiveLearning
+#KidsExploration
+#OutdoorFunForKids
+#ToddlerFun
+#HandsOnLearning
+#EducationalGames
+#DIYKidsToys
+#LearningIsFun
+#PreschoolLearning
+#KidsScienceExperiments
+#ArtisticExpression
+#ScreenFreeActivities"10 Fun and Easy Crafts for Kids""Fun Indoor Games for Kids: Beat Boredom!"
+"Mess-Free Crafts for Young Artists"
+"Interactive Learning Activities for Kids"
+"Virtual Field Trips for Curious Kids"
+"DIY Toys for Creative Playtime"
+"Kids' Yoga and Mindfulness Activities"
+"Exploring the World: Geography Games for Kids"
+"Outdoor Science Activities for Hands-On Learning"
+"Creative Recycling Projects for Eco-Friendly Kids"
+"Building Confidence: Drama and Acting Games for Kids"
+"Cooking Adventures for Junior Chefs"
+"Magic Tricks and Illusions for Kids to Learn"
+"Adventure Stories for Imaginative Kids"
+"Crafting with Recyclables: Upcycling Ideas for Kids"
+"DIY Musical Instruments: Jam Session for Kids"
+"Nature Crafts: Bringing the Outdoors Indoors"
+"Kids' Fitness Fun: Active Games and Exercises"
+"Exploring Cultures: Multicultural Crafts for Kids"
+"STEM Challenges for Future Scientists and Engineers"
+"Puzzle Games and Brain Teasers for Kids"
+"Creative Playtime Ideas for Children"
+"DIY Projects for Kids to Try at Home"
+"Family-Friendly Activities for Kids"
+"Educational and Entertaining Kids' Games"
+"Indoor Activities to Keep Kids Busy"
+"Outdoor Adventures for Children"
+"Crafting Fun: Simple Ideas for Kids"
+"Learning Through Play: Engaging Activities for Children"
+"Fun Science Experiments for Kids to Try"
+"Art and Craft Ideas for Creative Kids"
+"Interactive Storytelling for Children"
+"Musical Activities for Kids: Singing and Dancing Fun"
+"Sensory Play Ideas for Toddlers and Preschoolers"
+"Exploring Nature with Kids: Outdoor Learning Adventures"
+"Parent-Child Bonding Activities for Quality Time"
+"Messy Play Ideas for Creative Kids"
+"STEM Activities for Curious Young Minds"
+"Crafty Creations: DIY Projects for Kids"
+"Creative Cooking with Kids: Simple Recipes to Make Together""Creative Coding for Kids: #FunCraftsForKids
+#InteractiveEducation
+#KidsArtWorkshop
+#PlayfulLearningExperience
+#AdventurousKids
+#EntertainingActivities
+#DIYKidsCrafts
+#CreativeExploration
+#FamilyBondingTime
+#KidsImaginationStation
+#LearningThroughFun
+#InspiringKids
+#CraftingWithKids
+#Educ
+#HealthyKidsActivitiesIntroduction to Programming"
+"Art Exploration: Mixed Media Techniques for Young Artists"
+"Kids' Book Club: Reading Adventures for Little Readers"
+"Exploring the Universe: Space-themed Activities for Kids"
+"Healthy Habits for Kids: Fun Fitness Challenges"
+"DIY Science Experiments for Curious Minds"
+"Storybook Crafts: Bringing Characters to Life"
+"Adventure Seekers: Outdoor Treasure Hunts for Kids"
+"Building Blocks of Fun: LEGO® Challenges for Kids"
+"Musical Storytime: Sing-Along Songs and Tales"
+"Crafty Critters: Animal-themed Crafts for Kids"
+"Discovering History: Time-traveling Adventures for Kids"
+"Kids' Gardening: Growing Green Thumbs"
+"Dance Party Fun: Groovy Moves for Kids"
+"Exploring Oceans: Underwater Adventures for Kids"
+"DIY Home Decor: Kids' Crafts for Room Decoration"
+"Junior Detectives: Mystery-solving Games for Kids"
+"Eco Explorers: Nature Conservation Projects for Kids"
+"Building Bridges: Friendship Activities for Kids"
+"Rainy Day Activities: Indoor Fun for Kids"#बच्चोंकीसंगीतक्रिएटिविटी (Children's Music Creativity)
+#बच्चोंकाखेल (Children's Games)
+#शिक्षाप्रेरणा (Educational Inspiration)
+#खेलकूदकामोह (Sports Enthusiasm)
+#परिवारिकमनोरंजन (Family Entertainment)
+#बच्चोंकीकलाकारी (Children's Artistry)
+#बच्चोंकाविज्ञान (Children's Science)
+#शैक्षिकमस्तिष्ककार्यक्रम (Educational Brain Program)
+#सृजनात्मकखेल (Creative Games)
+#बच्चोंकीसिरफमस्तिष्क (Children's Pure Fun)
+#खेलकूदकासंगठन (Sports Organization)
+#पारिवारिकसमय (Family Time)
+#बच्चोंकाखाना (Children's Food)
+#संगठितविकास (Organized Development)
+#खेलकूदकीप्रेरणा (Sports Inspiration)1b:T531,DIY Automatic Water Dispenser From Cardboard | Easy & Cool Project 
+
+Hey guys.. welcome to Alone Creator YouTube Channel, 
+Dosto aaj ki is video pe maine banaya Water Dispenser Machine, yeh machine bohot hi crazy hai, aap dispenser ke upar glass rakhoge aur pani automatically niklega.To friends aap bhi ise try kariye bohot hi kamal ka project hai, aap ise school project ke liye bana sakte ho aur mujhe ummeed hai aapko ye project bohot pasand ayegi.
+
+Alone Creator, Science project for class 7th students, Working model, easy science exhibition projects, science fair project, science fair, science, science learning, science education, home school science, how to, how to make, water dispenser, diy projects, diy water dispenser machine, simple life hacks, DIY craft, experiment, educational, science project, school science project, cardboard, diy cardboard, experimenting, technology, tech, YouTube
+
+
+
+
+✍️ Components Name 
+      --------------------------------
+🔹 Water Pump
+🔹 Battery
+🔹 Plastic Jar
+🔹 Level Pipe
+🔹 RGB LED
+🔹 Register
+
+
+Your Queries :-
+
+science project
+science project ideas
+science projects for students
+diy simple water dispenser machine
+science project for class 8th students working model
+
+
+#scienceproject #waterdispenser #experiment #dcmotor #howtomake #workingmodel #alonecreator2:["$","div",null,{"className":"space-y-8 pb-8","children":[["$","div",null,{"children":["$","$Lf",null,{"href":"/","className":"inline-flex items-center gap-1.5 px-3 py-1.5 bg-white rounded-lg text-slate-600 font-semibold text-xs border border-slate-200 hover:border-purple-300 hover:text-purple-900 transition-colors shadow-subtle","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-3.5 h-3.5","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"Back to Discover"}]]}]}],["$","section",null,{"className":"bg-white rounded-2xl sm:rounded-3xl p-4 xs:p-6 sm:p-8 border border-slate-200/80 shadow-subtle space-y-3","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"px-2.5 py-0.5 bg-purple-100 text-purple-900 text-xs font-bold rounded-md uppercase tracking-wider","children":["Ages ","Big Kids"]}],["$","span",null,{"className":"text-xs text-slate-400 font-semibold","children":["• ",16," Videos"]}]]}],["$","h1",null,{"className":"text-xl xs:text-2xl sm:text-4xl font-black text-slate-900 tracking-tight","children":"8–12"}],["$","p",null,{"className":"text-slate-600 font-medium text-xs sm:text-base max-w-2xl leading-relaxed","children":"Science experiments, space discovery, coding, and creative learning."}],["$","div",null,{"className":"pt-2 flex items-center gap-2 text-xs font-medium text-slate-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-shield-check w-4 h-4 text-emerald-600 shrink-0","children":[["$","path","oel41y",{"d":"M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"}],["$","path","dzmm74",{"d":"m9 12 2 2 4-4"}],"$undefined"]}],["$","span",null,{"children":["Strict server-side safe query: \"","kids coding science experiments crafts space exploration geography","\""]}]]}]]}],["$","section",null,{"className":"space-y-4","children":[["$","h2",null,{"className":"text-lg sm:text-xl font-bold text-slate-900","children":"Watch & Learn"}],["$","div",null,{"className":"grid grid-cols-1 xs:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3.5 sm:gap-5","children":[["$","$L10","OyjyADsr9BE",{"video":{"id":"OyjyADsr9BE","title":"Chandrayaan-3 working model || Chandrayaan project for school || rocket launching 🚀 science project!","description":"$11","channelTitle":"MR ALVI BD","channelId":"UC6--fpJ0WggJgjsJ2mUmzbA","publishedAt":"2025-08-11T09:12:43Z","duration":"15:21","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/OyjyADsr9BE/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/OyjyADsr9BE/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/OyjyADsr9BE/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/OyjyADsr9BE/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/OyjyADsr9BE/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}],["$","$L10","Zd2Cm9xzVcM",{"video":{"id":"Zd2Cm9xzVcM","title":"Chandrayaan-3 Working Model || Chandrayaan Project For School|| Rocket Launching Science Project","description":"Chandrayaan-3 Working Model || Chandrayaan Project For School|| Rocket Launching Science Project\n\nchandrayaan 3 project school working model\nchandrayaan 3 model making for school project\nhow to make chandrayaan 3 model for school project\nscience project for class 7th students working model easy science exhibition projects class\nhow to make chandrayaan 3 model\nchandrayan 3 science project\nschool project\nchandrayaan 3 model\nchandrayaan 3 working model for school project\nchandrayaan 3\nscience project\nchandrayaan working model for school project\nrocket launch\nrocket science\nscience\nrocket\nvinegar rocket science project\nwater rocket science project\nscience for kids\nlaunch\nrockets\nbottle rocket\nrocket working\nscience project\nscience working model\ntop science project\nchandrayaan 3 science project\ncool science projects\nwhat is the smoke before rocket launch\nwhat is the white smoke before a rocket launch\nbest science fair projects\nwhy rockets smoke before launch\nscience exhibition projects","channelTitle":"EAZYTRONIC","channelId":"UCWxoBxETB3KJI_nySVqY_DQ","publishedAt":"2025-03-20T17:31:58Z","duration":"9:39","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/Zd2Cm9xzVcM/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/Zd2Cm9xzVcM/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/Zd2Cm9xzVcM/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/Zd2Cm9xzVcM/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/Zd2Cm9xzVcM/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}],["$","$L10","A0LIihnf0z8",{"video":{"id":"A0LIihnf0z8","title":"Geostationary Satellite Working Model|| Science Exibition Working Project|| Science Project #solar ","description":"Geostationary Satellite Working Model|| Science Exibition Working Project|| Science Project #solar\n\nsatellite working model science project satellite working model project\nsatellite making project working model satellite working model for science exhibition satellite earth working model for science fair satellite around earth working school science model\nsatellite project work science\nsatellite working project\nsatellite science project\nsatellite working model\nsatellite communication working model for school project\ngeo satellite working model\nsatellite working model easy\n#satellite \n#sciencproject\n#science\n#project\n#solarsystem\n#eazytronic \n#eazytronicshorts","channelTitle":"EAZYTRONIC","channelId":"UCWxoBxETB3KJI_nySVqY_DQ","publishedAt":"2025-10-05T12:30:23Z","duration":"11:32","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/A0LIihnf0z8/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/A0LIihnf0z8/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/A0LIihnf0z8/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/A0LIihnf0z8/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/A0LIihnf0z8/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}],["$","$L10","ZvsZRmKPIg0",{"video":{"id":"ZvsZRmKPIg0","title":"STEMonstrations: Space Art","description":"$12","channelTitle":"Learn With NASA","channelId":"UC9SM7V7J1pAhPabOUST01fw","publishedAt":"2023-08-02T16:00:22Z","duration":"6:11","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/ZvsZRmKPIg0/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/ZvsZRmKPIg0/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/ZvsZRmKPIg0/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/ZvsZRmKPIg0/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/ZvsZRmKPIg0/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}],["$","$L10","QyiAiuQOdcw",{"video":{"id":"QyiAiuQOdcw","title":"3D solar system school project | How to Make a Solar System with Cardboard. science projects","description":"In this video, I will show you how to easily make a beautiful solar system using cardboard and styrofoam. This project is great for kids, and it will help them learn about the planets and space.\nscience projects\n#school \n#scienceprojects\n\n\n\n\nMaterials:\n\nCardboard\nStyrofoam\nPaint\nBrushes\nPaper\nPen\nRuler\nGlue\nScissors\nInstructions:\n\nCut circles out of the cardboard for the planets.\nCreate spheres out of the styrofoam for the planets.\nPaint the planets.\nGlue the planets onto the cardboard.\nUse paper and paint to create the sun.\nGlue the sun onto the cardboard.\nTips:\n\nTo make the planets look more realistic, you can use different textures and colors.\nYou can use string or yarn to create orbits around the planets.\nYou can create labels with information about the planets\n\nSolar system\nPlanets\nSun\nCardboard\nStyrofoam\nDIY\nKids\nScience\nSpace","channelTitle":"my smart art","channelId":"UCgfbfguOgmwCTVwh4vOKFuw","publishedAt":"2024-03-14T04:30:08Z","duration":"5:31","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/QyiAiuQOdcw/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/QyiAiuQOdcw/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/QyiAiuQOdcw/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/QyiAiuQOdcw/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/QyiAiuQOdcw/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}],["$","$L10","_Qj5a2HtdyA",{"video":{"id":"_Qj5a2HtdyA","title":"Amazing Space Facts for Kids | Planets","description":"$13","channelTitle":"Toy Time Town","channelId":"UCfNE0mi5DnyXkxGexOej9rQ","publishedAt":"2021-02-26T11:15:01Z","duration":"8:34","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/_Qj5a2HtdyA/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/_Qj5a2HtdyA/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/_Qj5a2HtdyA/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/_Qj5a2HtdyA/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/_Qj5a2HtdyA/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}],["$","$L10","F7JQk225fgA",{"video":{"id":"F7JQk225fgA","title":"Let's explore Space | Space Exploration | The best video for kids","description":"$14","channelTitle":"Cakewalk Learning","channelId":"UCW5jvaoWqELiXBze84CUjTw","publishedAt":"2023-06-23T03:15:07Z","duration":"8:36","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/F7JQk225fgA/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/F7JQk225fgA/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/F7JQk225fgA/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/F7JQk225fgA/sddefault.jpg","width":640,"height":480}}},"categoryLabel":"8–12"}],["$","$L10","JiTeO5EAW7o",{"video":{"id":"JiTeO5EAW7o","title":"How to Make a Telescope from Cardboard 🔭 | Easy DIY Science Project","description":"$15","channelTitle":"super art the art home","channelId":"UCsKTzJZppsgMV0C923abhig","publishedAt":"2026-03-28T14:30:00Z","duration":"6:14","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/JiTeO5EAW7o/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/JiTeO5EAW7o/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/JiTeO5EAW7o/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/JiTeO5EAW7o/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/JiTeO5EAW7o/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}],["$","$L10","9g0FehS0H1E",{"video":{"id":"9g0FehS0H1E","title":"How Does A ROCKET FLY | How Do Rockets Work | ROCKET LAUNCH | The Dr Binocs Show | Peekaboo Kidz","description":"$16","channelTitle":"Peekaboo Kidz","channelId":"UCxlJ45KjG4XVcQ_hd8j227A","publishedAt":"2020-01-31T12:30:01Z","duration":"6:13","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/9g0FehS0H1E/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/9g0FehS0H1E/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/9g0FehS0H1E/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/9g0FehS0H1E/sddefault.jpg","width":640,"height":480}}},"categoryLabel":"8–12"}],["$","$L10","_s9AwTo9C8s",{"video":{"id":"_s9AwTo9C8s","title":"River and shore game fun game children activity","description":"$17","channelTitle":"Kitabi masti ","channelId":"UC5LE4EgOcalk4U_yavTMEWg","publishedAt":"2024-03-28T05:14:07Z","duration":"4:29","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/_s9AwTo9C8s/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/_s9AwTo9C8s/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/_s9AwTo9C8s/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/_s9AwTo9C8s/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/_s9AwTo9C8s/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}],["$","$L10","GWYhtksrmhE",{"video":{"id":"GWYhtksrmhE","title":"how NASA writes space-proof code","description":"wanna learn to hack? join my CTF platform: https://go.lowlevel.tv/GWYhtksrmhE\n\nI've been told the worst thing that can happen to a developer is their code crashes in production? Well.... what happens if that production environment is outer space? \n\nSafety critical systems require strict coding standards. In this video, I discuss how NASA's power of ten helps them write space-proof code.\n\n🔴 LIVE at http://twitch.tv/LowLevelTV\n🏫 COURSES 🏫 Learn to code in C at https://lowlevel.academy","channelTitle":"Low Level","channelId":"UC6biysICWOJ-C3P4Tyeggzg","publishedAt":"2023-06-03T18:00:05Z","duration":"6:03","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/GWYhtksrmhE/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/GWYhtksrmhE/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/GWYhtksrmhE/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/GWYhtksrmhE/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/GWYhtksrmhE/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}],["$","$L10","w36yxLgwUOc",{"video":{"id":"w36yxLgwUOc","title":"SOLAR SYSTEM - The Dr. Binocs Show | Best Learning Videos For Kids | Peekaboo Kidz","description":"Learn Solar System in detail with Dr. Binocs only on Peekaboo.\n\nWanna know what is there in Space? What is the Milky Way? What are the various planets in our Solar System? Keep calm and watch this video where Dr.Binocs explains the Solar System in an interesting and detailed way!\n\nShare on Facebook - https://goo.gl/EXSwdm\nTweet about this - https://goo.gl/CqzcDv\n\nCopyrights and Publishing: Rajshri Entertainment Private Limited\nAll rights reserved.\n\nSUBSCRIBE to Peekaboo Kidz:http://bit.ly/SubscribeTo-Peekabookidz \n\nCatch Dr.Binocs At - https://goo.gl/SXhLmc\n\nTo Watch More Popular Nursery Rhymes Go To - https://goo.gl/CV0Xoo\n\nTo Watch Alphabet Rhymes Go To - https://goo.gl/qmIRLv\n\nTo Watch Compilations Go To - https://goo.gl/nW3kw9\n\nCatch More Lyricals At - https://goo.gl/A7kEmO\n\nLike our Facebook page: https://www.facebook.com/peekabootv ,\n\nFor brand collaborations and inquiries, reach out to us at :  collab@rajshri.com","channelTitle":"Peekaboo Kidz","channelId":"UCxlJ45KjG4XVcQ_hd8j227A","publishedAt":"2015-06-24T10:57:35Z","duration":"4:22","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/w36yxLgwUOc/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/w36yxLgwUOc/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/w36yxLgwUOc/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/w36yxLgwUOc/sddefault.jpg","width":640,"height":480}}},"categoryLabel":"8–12"}],["$","$L10","DSnVCV4uGGQ",{"video":{"id":"DSnVCV4uGGQ","title":"How to Make a Map | Geography for Kids | Made by Red Cat Reading","description":"$18","channelTitle":"Kids vs Life","channelId":"UC1XbXsp48-VkYbNBJQ1YvOQ","publishedAt":"2018-03-09T13:30:00Z","duration":"5:10","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/DSnVCV4uGGQ/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/DSnVCV4uGGQ/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/DSnVCV4uGGQ/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/DSnVCV4uGGQ/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/DSnVCV4uGGQ/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}],["$","$L10","PQHinOJnWN0",{"video":{"id":"PQHinOJnWN0","title":"How to Make Earth Layer Model With Cardboard/ Make 3d Earth Layer Model for School project","description":"$19","channelTitle":"Artgram_DIY - Uupvan dhawan","channelId":"UCuvSmf7S6ah7OFU7lYYdSrA","publishedAt":"2023-07-03T14:27:23Z","duration":"4:57","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/PQHinOJnWN0/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/PQHinOJnWN0/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/PQHinOJnWN0/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/PQHinOJnWN0/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/PQHinOJnWN0/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}],["$","$L10","wLeT76CBglk",{"video":{"id":"wLeT76CBglk","title":"balance game children game funny game children activity","description":"$1a","channelTitle":"Kitabi masti ","channelId":"UC5LE4EgOcalk4U_yavTMEWg","publishedAt":"2024-03-30T07:01:05Z","duration":"5:40","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/wLeT76CBglk/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/wLeT76CBglk/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/wLeT76CBglk/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/wLeT76CBglk/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/wLeT76CBglk/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}],["$","$L10","jeVx7Aujj54",{"video":{"id":"jeVx7Aujj54","title":"DIY Automatic Water Dispenser From Cardboard | Easy & Cool Project","description":"$1b","channelTitle":"Alone Creator","channelId":"UCLjuXaRe15D88sIRgCZz4uw","publishedAt":"2025-05-11T13:29:36Z","duration":"4:45","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/jeVx7Aujj54/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/jeVx7Aujj54/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/jeVx7Aujj54/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/jeVx7Aujj54/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/jeVx7Aujj54/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}]]}]]}]]}]
