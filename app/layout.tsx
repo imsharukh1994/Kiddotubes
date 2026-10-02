@@ -1,5 +1,4 @@
 import type { Metadata } from 'next';
-import { Outfit } from 'next/font/google';
 import './globals.css';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
@@ -9,12 +8,6 @@ import PremiumUpgradeModal from '@/components/PremiumUpgradeModal';
 import CookieConsentBanner from '@/components/CookieConsentBanner';
 import { AuthProvider } from '@/context/AuthContext';
 import { TimerProvider } from '@/context/TimerContext';
-
-const outfit = Outfit({
-  subsets: ['latin'],
-  variable: '--font-outfit',
-  display: 'swap',
-});
 
 export const metadata: Metadata = {
   title: 'KiddoTube — Modern Video Discovery for Kids',
@@ -34,7 +27,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" className={outfit.variable}>
+    <html lang="en">
       <body className="bg-[#F8FAFC] text-slate-900 font-sans min-h-screen flex flex-col antialiased">
         <AuthProvider>
           <TimerProvider>
