@@ -21,8 +21,7 @@ var config = {
       tagCache: "dummy",
       queue: "dummy"
     }
-  },
-  dangerouslyUseUnsupportedNextVersion: true
+  }
 };
 var open_next_config_default = config;
 export {
