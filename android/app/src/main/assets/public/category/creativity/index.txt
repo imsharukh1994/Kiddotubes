@@ -1,21 +1,44 @@
 3:I[4707,[],""]
 5:I[6423,[],""]
-6:I[575,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"AuthProvider"]
-7:I[1196,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"TimerProvider"]
-8:I[842,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
-9:I[8349,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
-a:I[3313,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
-b:I[6733,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
-c:I[3633,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
-d:I[833,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
-e:I[5050,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+6:I[575,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-a9e402fd718f2a1c.js"],"AuthProvider"]
+7:I[1196,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-a9e402fd718f2a1c.js"],"TimerProvider"]
+8:I[842,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-a9e402fd718f2a1c.js"],"default"]
+9:I[8349,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-a9e402fd718f2a1c.js"],"default"]
+a:I[3313,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-a9e402fd718f2a1c.js"],"default"]
+b:I[6733,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-a9e402fd718f2a1c.js"],"default"]
+c:I[3633,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-a9e402fd718f2a1c.js"],"default"]
+d:I[833,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-a9e402fd718f2a1c.js"],"default"]
+e:I[5050,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-a9e402fd718f2a1c.js"],"default"]
 4:["category","creativity","d"]
-0:["rAMQWTTpVHN77KICyo0QE",[[["",{"children":["category",{"children":[["category","creativity","d"],{"children":["__PAGE__?{\"category\":\"creativity\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["category",{"children":[["category","creativity","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","category","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","category","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/fa2c964e9fff47bf.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"bg-[#F8FAFC] text-slate-900 font-sans min-h-screen flex flex-col antialiased pb-16 md:pb-0","children":["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","main",null,{"className":"flex-1 max-w-[1440px] w-full mx-auto px-4 xs:px-5 sm:px-8 lg:px-12 py-4 sm:py-8","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}],["$","$Le",null,{}]]}]}]}]}]],null],null],["$Lf",null]]]]
+0:["bVcMpICY46TJ5-6hwtEdG",[[["",{"children":["category",{"children":[["category","creativity","d"],{"children":["__PAGE__?{\"category\":\"creativity\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["category",{"children":[["category","creativity","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","category","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","category","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/fa2c964e9fff47bf.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"bg-[#F8FAFC] text-slate-900 font-sans min-h-screen flex flex-col antialiased pb-16 md:pb-0","children":["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","main",null,{"className":"flex-1 max-w-[1440px] w-full mx-auto px-4 xs:px-5 sm:px-8 lg:px-12 py-4 sm:py-8","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}],["$","$Le",null,{}]]}]}]}]}]],null],null],["$Lf",null]]]]
 f:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Creativity Videos — KiddoTube"}],["$","meta","3",{"name":"description","content":"Art, craft & DIY"}],["$","meta","4",{"name":"keywords","content":"Kids Videos,KiddoTube,Educational Videos,Nursery Rhymes,Safe Content Discovery"}],["$","link","5",{"rel":"shortcut icon","href":"/images/favicon.png"}],["$","link","6",{"rel":"icon","href":"/images/favicon.png"}],["$","link","7",{"rel":"apple-touch-icon","href":"/images/favicon.png"}]]
 1:null
 10:I[2972,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","130","static/chunks/app/category/%5Bcategory%5D/page-f5e524b6907ef51d.js"],""]
 11:I[265,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","130","static/chunks/app/category/%5Bcategory%5D/page-f5e524b6907ef51d.js"],"default"]
-12:T1343,How to Draw a Cute Rainbow Flower  - Easy Step-by-Step for Kids!
+12:T4e1,Hey art friends! Today, Teryn and I are learning How To Draw A Unicorn Popsicle! This is a fun and simple lesson, perfect for artists of all ages. We’ll start with a pencil and eraser to sketch the basic popsicle shape, then switch to markers to finish the lines and add bright, colorful details. 🌈✨
+
+This unicorn treat is super cute and magical—you can even customize your drawing by adding sprinkles, stars, or your favorite colors!
+
+✏️ Art Supplies Needed:
+Pencil
+Eraser
+Markers
+Marker paper
+(But feel free to use any supplies you have at home!)
+
+👩‍🎨 Share Your Art:
+We’d LOVE to see your unicorn popsicles! 🦄🍭 Share your drawings on Instagram and tag us @artforkidshub for a chance to be featured in our stories.
+
+📲 Visit Our Website & Books:
+🎨 Explore more fun art lessons at https://ArtForKidsHub.com
+🖌️ Our favorite art supplies: https://www.amazon.com/shop/artforkidshub
+📘 Get our drawing books: https://sites.prh.com/dk-draw-with-art-for-kids-hub
+
+🔔 Join Our AFKH Membership:
+Get access to even more creative lessons at https://www.artforkidshub.tv/
+
+👍 If you enjoyed this lesson, be sure to like this video and subscribe for more fun, magical art tutorials!
+#artforkidshub (2025) #howtodraw13:T1343,How to Draw a Cute Rainbow Flower  - Easy Step-by-Step for Kids!
 Let's get colorful!🎨🖌️ In this video, we'll walk you through drawing a super cute rainbow flower, step by easy step. It's perfect for kids and anyone who wants a fun and vibrant drawing. 😍
 
 This video will teach you:
@@ -236,83 +259,7 @@ como desenhar bem,
 Como Desenhar Bonito,
 Desenhe desenhos tão fofos,
 Desenhos muito fáceis,
-Desenhos Simples,13:T9f5,how to draw pictures using numbers 1 to 10 || number drawing || number drawing easy step by step 
-
-⭐Material used for NUMBER DRAWING :  👇👇👇👇
-Marker pen from cello
-Drawing paper
-
-🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷
-Don't forget to LIKE, COMMENT, SHARE & SUBSCRIBE ...
-🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷
-
-
-ABOUT :-
-Hi friends in this video I am going to share with you How to draw pictures using numbers (number drawing) very easy step with marker pen. Learn to draw a picture using numbers from 1 to 10 (turn numbers), easy drawing for everyone. Drawn simply and without unnecessary words, everything is clear even for beginners.
-
-=============================
-
-
-🔥Watch My Other Easy Drawing Videos : 👇👇👇
-
-How to draw a Lotus || Lotus drawing (easy) step by step ||
-https://www.youtube.com/watch?v=b_baEIweSxY
-
-How to Draw a Boat || Boat drawing
-https://www.youtube.com/watch?v=WIOGh-29Iy4
-
-How to draw pineapple step by step (very easy) || Pineapple Drawing
-https://www.youtube.com/watch?v=qKDxJpbeQyU
-
-How To Draw Orange || Orange Drawing ||
-https://www.youtube.com/watch?v=7l8NqWpv-VY
-
-
-🤳🏻 Follow us on Social Media : 👇😊🙏
-Facebook : https://www.facebook.com/artgalaxyofficial
-
-
-             🙏🙏Thanks for watching🙏🙏
-0:00 Number Drawing
-
-
-==================================
-
-
-#HowtoDraw #drawing #onlinedrawing #learningdrawing #numberdrawing #easydrawing #drawingvideo #drawingforbeginners #DrawingTutorial #drawcutethings #drawingvideos
-#Stepbystepdrawing #learning #ArtGalaxyDrawing
-
-
-Your Quarries :
-1)drawing from numbers
-2)how to draw with numbers
-3)fun with numbers
-4)how to turn numbers into drawing
-5)how to turn umbers into cartoons
-6)how to draw using numbers
-7)how to draw anything from numbers
-8)how to draw anything from numbers quick
-9) draw with numbers
-10)simple drawing using numbers
-11)9simple drawing tricks using numbers
-12) fun Drawing 
-13)easy drawing with numbers
-14)drawing, drawing from numbers and letters
-15)5 minutes crafts drawing animals from numbers
-16)drawing, simple drawing idea
-17)simple drawing
-18)drawing with numbers
-19)how to draw using numbers 1-10
-20)how to draw using numbers easy drawing, drawing tricks, turn number, drawing lessons
-21)simple drawing lesson drawing
-22)easy and simple drawing
-23)drawing from numbers
-24)how to draw with numbers
-25)fun with numbers
-26)how to turn numbers into drawing
-27)how to turn numbers into cartoons
-28)how to draw using numbers
-29)how to draw anything from numbers, art14:Tc0b,How to Draw a Cute  I LOVE YOU 'MOM' Greeting Card for Mother’s Day | Easy Drawing for Kids 
+Desenhos Simples,14:Tc0b,How to Draw a Cute  I LOVE YOU 'MOM' Greeting Card for Mother’s Day | Easy Drawing for Kids 
 How to Draw a Cute “I LOVE U MOM” Greeting Card for Mother’s Day
 In this easy step-by-step drawing tutorial, learn how to draw a sweet Mother’s Day card featuring an envelope and the heartfelt message “I LOVE U MOM.” Perfect for kids, beginners, and anyone who wants to surprise their mom with a simple, handmade card!
 
@@ -415,38 +362,78 @@ anneler günü sanatı
 anneler günü çizimi,
 Anneler Günü Kartı,
 çizim,
-sevimli çizim15:T11f6,How to Draw a Cute Watermelon Ice Cream 🍉 | Easy Step by Step Drawing for Kids  
+sevimli çizim15:T4bd,🐱🍦 Hey art friends! Today, Hadley and I are drawing a super cute Vanilla Ice Cream Kitten—a sweet and silly mashup to celebrate National Vanilla Ice Cream Day! 🎉🍨 This little kitty is covered in sprinkles and sitting in a waffle cone!
 
-Let’s draw something sweet and summery! 🍉💖
-In this fun and easy tutorial, you’ll learn how to draw a cute watermelon ice cream step by step. Perfect for kids, beginners, and anyone who loves cute kawaii art!
+We’re using markers and marker paper, but you can get creative with your colors and toppings. Try rainbow sprinkles, whipped cream, or even a cherry on top! 🍒✨
 
-🖍️ You’ll need:
-🩷 Paper
-💚 Pencil
-❤️ Eraser
-💛 Colors, crayons, or markers
+🖍️ Art Supplies Needed:
+Markers
+Marker paper
+(But feel free to use whatever you have!)
 
-Enjoy drawing and coloring with me! 🌈 Don’t forget to Like, Subscribe, and Share for more cute art every week 💕
+👩🎨 Share Your Art:
+We’d LOVE to see your sweet creations! 🍦🐱 Share your drawing on Instagram and tag us @artforkidshub for a chance to be featured in our stories!
 
-#cuteeasydrawings #howtodraw #kidsart #drawingforkids #watermelondrawing #icecreamdrawing #cutedrawings #kawaiiart #easydrawing #stepbystepdrawing #coloringforkids #artforkids #summerdrawing #drawingandcoloring #funart #cartoondrawing #cutedrawingforkids
+📲 Visit Our Website & Shop:
+🎨 Explore more fun art lessons at https://ArtForKidsHub.com
 
-**Important Notice** 📢
-This video is protected by copyright. Sharing or redistributing this video in its entirety, or in a modified form, is strictly prohibited without written permission from the creator. If you'd like to share it, kindly use the link instead of copying the video itself.
-❤️🤗Thank you for respecting the creator's work🤗❤️
+🖌️ AFKH Amazon Store: https://www.amazon.com/shop/artforkidshub
+📘 Drawing books for offline fun: https://amzn.to/48GUmLd
 
-Related Search: 
-How to Draw a Cute Watermelon Ice Cream 🍉
-Как нарисовать мороженое в виде арбуза 🍉
-Cómo dibujar un helado de sandía lindo 🍉
-Comment dessiner une glace pastèque mignonne 🍉
- كيفية رسم آيس كريم بطيخ لطيف 🍉
-Wie man ein süßes Wassermelonen-Eis zeichnet 🍉
-प्यारा तरबूज आइसक्रीम बनाना सीखें 🍉
-かわいいスイカアイスクリームの描き方 🍉
-귀여운 수박 아이스크림 그리기 🍉
-Come disegnare un gelato all’anguria carino 🍉
-Como desenhar um sorvete de melancia fofo 🍉
-Sevimli karpuz dondurması nasıl çizilir 🍉
+🔔 Join Our AFKH Membership:
+Want even more awesome drawing lessons? Become a member at https://www.artforkidshub.tv/!
+
+👍 Like & Subscribe:
+If you had fun drawing with us, give this video a big thumbs up and subscribe for more adorable and creative art lessons!
+#artforkidshub (2025) #howtodraw16:T5d8,Do your kids enjoy Blippi, Paw Patrol, or Daniel Tiger? Do they dance to catchy songs like Wheels On The Bus or Baby Shark? Then they'll love Danny Go! Sing fun kids dance songs, learn about colors, shapes & numbers, AND visit exciting places like fire truck stations, trampoline parks, beaches, race car workshops and more! 
+
+IN THIS VIDEO: 🐳🚀🦋🚂🌋🏎️🦕🌳😺/// What do all these things have in common? Danny Go shows you how to paint them all! Learn colors, counting, painting and more in this fun learning video for kids!
+
+Here's some of our other favorite Danny Go videos!
+The Fire Truck Song - https://www.youtube.com/watch?v=oQH-d2PGzas
+Danny Learns to Paint - https://www.youtube.com/watch?v=vjMHleB-Mlw
+5-in-1 Surprise Music Video Mix - https://www.youtube.com/watch?v=etM4E1NFUBA
+Danny Builds a Sandcastle - https://www.youtube.com/watch?v=YBdRq_L0xA0
+The Stomp Clap Dance Song - https://www.youtube.com/watch?v=nvDLe3FHcuY
+
+For more exclusive Danny Go! videos, visit Yippee.tv!
+
+Danny Go! on Instagram: https://bit.ly/dannygoIG
+Danny Go! on Facebook: https://bit.ly/dannygoFB
+
+Stream or purchase Danny Go! music:  
+Spotify - https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm
+Apple Music - https://music.apple.com/us/artist/danny-go/997447500
+iHeartRadio - https://www.iheart.com/artist/danny-go-33233028/
+Google Play - https://play.google.com/store/music/artist?id=Atxdqomwcejstw5jwhkkxwnem6m&hl=en
+
+© 2019 Giant Jungle Productions, LLC. All Rights Reserved.17:T135f,How to Draw a Cute Mobile  - Easy Step-by-Step for Kids!
+This step-by-step guide is perfect for beginners and kids of all ages.  Grab your pencils, crayons, or markers, and get ready to unleash your creativity!
+
+In this video you'll learn:
+
+How to draw a simple Mobile
+How to add a playful face
+Cute details to make your Mobile unique
+Tips for coloring and personalizing your masterpiece
+
+So, what are you waiting for? Let's get drawing!
+
+#howtodraw #kawaii #cute #easydrawing #arttutorial #kids #fun #adorable #drawingforkids
+
+Gather your supplies:
+
+Paper
+Pencil
+Eraser
+Crayons, markers, or paints (of course!)
+
+Subscribe, Like, and Share 🙏🙏
+
+#artforkids  #howtodraw #easydrawing #stepbystep #funart #creativity #drawingforbeginners  #kidsart #cuteeasydrawings #cedfansclub #easydrawings #cutedrawings #draw #drawing #drawingvideo  #howtodraw #drawingtutorial #drawingforkids #easydrawing #cutedrawing #cartoondrawing #toddlerdrawing #kidsactivities #mobile 
+
+Related Search:
+mobile drawing,
 Step by step drawing,
 cute drawing,
 drawing tutorial,
@@ -589,215 +576,65 @@ Que dessiner aujourd'hui,
 Quelque chose de facile à dessiner,
 الرسم خطوة بخطوة ،
 رسم لطيف
-رسم تعليمي16:T4e1,Hey art friends! Today, Teryn and I are learning How To Draw A Unicorn Popsicle! This is a fun and simple lesson, perfect for artists of all ages. We’ll start with a pencil and eraser to sketch the basic popsicle shape, then switch to markers to finish the lines and add bright, colorful details. 🌈✨
-
-This unicorn treat is super cute and magical—you can even customize your drawing by adding sprinkles, stars, or your favorite colors!
-
-✏️ Art Supplies Needed:
-Pencil
-Eraser
-Markers
-Marker paper
-(But feel free to use any supplies you have at home!)
-
-👩‍🎨 Share Your Art:
-We’d LOVE to see your unicorn popsicles! 🦄🍭 Share your drawings on Instagram and tag us @artforkidshub for a chance to be featured in our stories.
-
-📲 Visit Our Website & Books:
-🎨 Explore more fun art lessons at https://ArtForKidsHub.com
-🖌️ Our favorite art supplies: https://www.amazon.com/shop/artforkidshub
-📘 Get our drawing books: https://sites.prh.com/dk-draw-with-art-for-kids-hub
-
-🔔 Join Our AFKH Membership:
-Get access to even more creative lessons at https://www.artforkidshub.tv/
-
-👍 If you enjoyed this lesson, be sure to like this video and subscribe for more fun, magical art tutorials!
-#artforkidshub (2025) #howtodraw17:Tab9,Pencil Drawing in Circle Easy Step By Step | Panda Drawing in Circle | Easy Circle Scenery Drawing 
-drawing, 
-step by step drawing, 
-drawing for beginners, 
-how to draw, 
-drawing tutorial, 
-pencil sketch drawing, 
-easy drawing ideas, 
-beautiful drawing, 
-sketch drawing, 
-pencil drawing, 
-very easy drawing, 
-circle drawing, 
-easy drawing ideas for beginners, 
-drawing of nature, 
-pencil drawing easy, 
-pencil art, 
-drawing easy, 
-draw, 
-simple circle drawing, 
-pencil drawings, 
-pencil drawing in circle step by step, 
-pencil sketch scenery drawing, 
-circle drawing easy, 
-art video, 
-art, 
-easy drawing, 
-easy to draw, 
-scenery drawing, 
-drawing scenery, 
-easy circle scenery drawing, 
-circle scenery drawing, 
-easy circle drawing, 
-easy drawing tutorial, 
-how to draw pencil sketch, 
-easy pencil sketch drawing, 
-landscape drawing, 
-new pencil drawing, 
-drawing videos, 
-art videos, 
-drawing 2025
-simple scenery drawing, 
-scenery, 
-moonlight drawing, 
-#drawing, 
-sketch drawing easy, 
-pencil drawing shorts, 
-easy shorts drawing, 
-satisfying, 
-shorts viral, 
-mom dad love drawing, 
-mom dad short drawing, 
-easy waterfall drawing, 
-pencil sketch waterfall drawing, 
-natural waterfall drawing, 
-رسم, رسم سهل, 
-drawings, 
-simple drawing ideas, 
-drawing circle scenery, 
-easy drawing circle, 
-circle art, 
-circle scenery, 
-scenery drawing with pencil, 
-scenery scenery, 
-رسم رسم, 
-a beautiful scenery drawing, 
-#shortsvideo , 
-shorte feed, 
-girl drawing, 
-easy circle scenery drawing ideas, 
-easy circle scenery drawing with pencil, 
-drawing for kids easy step by step, 
-easy drawings for beginners, 
-easy drawing with pencil, 
-simple drawing for beginners, 
-simple drawing tutorial, 
-sunset drawing with pencil sketch, 
-tutorial, 
-cizim mektebi, 
-cizim zamani, 
-easy pencil drawing, 
-simple landscape drawing, 
-how to pencil sketch drawing, 
-drawing video, 
-sketch, 
-easy pencil art, 
-drawing in circle scenery, 
-circle drawing tutorial, 
-pencil sketch, 
-#howtodraw, 
-#circledrawing, 
-easy drawing circle scenery, 
-new drawing video, 
-easy window drawing, 
-nice drawing, 
-pencil sketch drawing scenery, 
-night scenery drawing, 
-landscape scenery drawing, 
-easy house drawing, 
-drawing school,
-
-
-In this art drawing tutorial i will show you Pencil drawing in circle step by step // Easy scenery drawing // Circle drawing easy // Art videos. If you like the video don't forget to like, comment and share! 
- 
-► Used things   
-▬▬▬▬▬▬▬ 
-1/ 4B Pencil [you can use any brand]
-2/ Blending stump
- 
-► Subscribe my channel: 
-https://www.youtube.com/channel/UC8MAzTXnaE38tylqGca6chw
-
-► Subscribe my Others channel: 
-https://www.youtube.com/c/ArtMitu999
-#drawing #circledrawing #howtodraw #art #sketch #easydrawing #easyart18:T4bd,🐱🍦 Hey art friends! Today, Hadley and I are drawing a super cute Vanilla Ice Cream Kitten—a sweet and silly mashup to celebrate National Vanilla Ice Cream Day! 🎉🍨 This little kitty is covered in sprinkles and sitting in a waffle cone!
-
-We’re using markers and marker paper, but you can get creative with your colors and toppings. Try rainbow sprinkles, whipped cream, or even a cherry on top! 🍒✨
-
-🖍️ Art Supplies Needed:
-Markers
-Marker paper
-(But feel free to use whatever you have!)
-
-👩🎨 Share Your Art:
-We’d LOVE to see your sweet creations! 🍦🐱 Share your drawing on Instagram and tag us @artforkidshub for a chance to be featured in our stories!
-
-📲 Visit Our Website & Shop:
-🎨 Explore more fun art lessons at https://ArtForKidsHub.com
-
-🖌️ AFKH Amazon Store: https://www.amazon.com/shop/artforkidshub
-📘 Drawing books for offline fun: https://amzn.to/48GUmLd
-
-🔔 Join Our AFKH Membership:
-Want even more awesome drawing lessons? Become a member at https://www.artforkidshub.tv/!
-
-👍 Like & Subscribe:
-If you had fun drawing with us, give this video a big thumbs up and subscribe for more adorable and creative art lessons!
-#artforkidshub (2025) #howtodraw19:T580,How to Draw a Cute Easy Boba Tea / Bubble Chocolate Tea for Kids Step by Step 🧋✨
-
-In this fun and easy drawing tutorial, I’ll show you how to draw a super cute boba tea step by step! This kawaii bubble tea drawing is perfect for kids, beginners, and toddlers who love adorable and easy drawings. Follow along and create your own cute chocolate boba tea with a happy face! 🎨💖
-
-🔹 What You’ll Learn in This Video:
-✅ Easy step-by-step boba tea drawing tutorial
-✅ How to draw a cute bubble tea with a kawaii face
-✅ Fun and simple drawing for kids and beginners
-✅ Perfect for boba lovers and cute food drawings!
-
-🎨 Materials Needed:
-✏️ Pencil / Black Marker
-🖍️ Colored Pencils / Crayons / Markers
-📄 Drawing Paper
-
-🌟 Free Coloring Pages!
-Download free printable coloring pages from my website:
-🔗 https://cuteeasydrawing.com/cute-easy-drawings-colouring-pages/
-
-📚 Get My Cute Coloring Books! 🎨
-📖 Buy My Coloring Books Here:
-🔗 https://store.cuteeasydrawing.com/
-
-📢 Stay Connected!
-Subscribe for More Cute Drawings:👉 https://www.youtube.com/@CuteEasyDrawings
-📸 Follow on Instagram for More Art: 🔗 https://www.instagram.com/cuteeasy.drawings/
-🌍 Visit My Website for More Fun: 🔗 https://cuteeasydrawing.com
-
-#CuteBobaTeaDrawing #BubbleTeaDrawing #EasyDrawingForKids #KawaiiBoba #StepByStepDrawing #ToddlerDrawing #CuteEasyDrawings #cedfansclub1a:T40b,How to Draw Shapes Step By Step. Hi kids, Learn How to draw easy step-by-step Different Shapes drawing for kids. Follow along with us and fill in your favorite colors. 
-
-Learn how to Draw Shapes with Names, Easy Drawing, Education drawing for Beginners. 
-
-★ Subscribe:- https://bit.ly/2Ub1IPm
-
-★ Watch More Drawing Videos- 
-Draw and Color Cute Animal Friends- Chiki Art- https://bit.ly/3gU3gL9
-
-Draw and Color Yummy Treats For Kids - Chiki Art- https://bit.ly/3JCOftG
-
-Learn Drawing and Coloring With Chiki Art- https://bit.ly/3BwPesv
-
-★ About the channel:-
-
-A simple drawing and coloring videos collection for kids. Learn how to draw well with Chiki Art Channel, the best of coloring and drawing videos for children to help them improve, enhance and even learn how to paint. This drawing channel is for kids of all ages. Whether you are a preschooler, teen, or an adult, any person can learn when watching these fun and entertaining colorful videos!
-
-Thank you for watching ★ 
-
-#ChikiArt
-#coloring #drawing #howtodraw #glitter1b:T142d,How to Draw a Cuteness Overload Chocolate Bar - Easy Step-by-Step for Kids!
+رسم تعليمي
+الرسم السهل ،
+فن الرسم
+رسم وتلوين،
+رسم،
+الرسومات،
+رسومات أساسية ،
+كيف ترسم،
+كيفية رسم جيد ،
+كيفية رسم لطيف ،
+ارسم رسومات لطيفة للغاية ،
+رسومات سهلة جدا
+رسومات بسيطة
+دروس الرسم
+رسومات الخط
+كيف تلون ،
+Adım adım çizim,
+sevimli çizim,
+çizim öğretici,
+çizim kolay,
+çizim sanatı,
+çizim ve boyama,
+Çizmek,
+Çizimler,
+Temel Çizimler,
+Nasıl çizilir,
+nasıl güzel çizilir,
+Sevimli Çizim Nasıl Yapılır,
+Çok Sevimli Çizimler Çizin,
+Çok Kolay Çizimler,
+Basit Çizimler,
+çizim dersleri,
+Çizgi çizimleri,
+Nasıl Renklendirilir,
+Nasıl Renklendirilir,
+Sevimli Çizimler
+Kolay Çizimler,
+Basit Çizimler,
+Çok Kolay Çizim,
+Yeni Başlayanlar İçin Çizimler,
+Kolay bir şeyler çizin,
+Ne Çizilir,
+Bugün Ne Çizelim,
+Çizimi kolay bir şey,
+Desenho passo a passo,
+desenho fofo,
+tutorial de desenho,
+desenho fácil,
+arte de desenho,
+desenhar e colorir,
+Desenhar,
+desenhos,
+Desenhos Básicos,
+Como desenhar,
+como desenhar bem,
+Como Desenhar Bonito,
+Desenhe desenhos tão fofos,
+Desenhos muito fáceis,
+Desenhos Simples,18:T142d,How to Draw a Cuteness Overload Chocolate Bar - Easy Step-by-Step for Kids!
 Get ready for a melty-good art adventure! In this fun & easy tutorial, kids of all ages will learn to draw the most adorable chocolate bar ever!
 
 This video will teach you:
@@ -1025,458 +862,88 @@ como desenhar bem,
 Como Desenhar Bonito,
 Desenhe desenhos tão fofos,
 Desenhos muito fáceis,
-Desenhos Simples,1c:T135f,How to Draw a Cute Mobile  - Easy Step-by-Step for Kids!
-This step-by-step guide is perfect for beginners and kids of all ages.  Grab your pencils, crayons, or markers, and get ready to unleash your creativity!
+Desenhos Simples,19:T1305,paper sword | Paper sword toy | Easy Paper Crafts | Simple Crafts For Kids | Nursery Craft Ideas / paper crafts for school / paper craft /  paper knife
 
-In this video you'll learn:
+#papersword #papertoy  #papercraft #kidscrafts
 
-How to draw a simple Mobile
-How to add a playful face
-Cute details to make your Mobile unique
-Tips for coloring and personalizing your masterpiece
+kids crafts, kids craft videos, kids crafts easy, kids craft ideas, kids craft with paper, kids craft work, kids craft activities, kids craft and art, kids craft 5 minutes craft, kids craft easy, kids craft drawing, kids craft ideas for boys, kids craft ideas easy, kids craft ideas with paper, kids craft ideas for girls, kids craft making, kids craft paper, paper craft for kids easy, paper craft for kids at home, nursery craft work easy, nursery craft ideas easy, nursery craft ideas, nursery craft work, nursery craft activity, nursery craft projects, nursery craft easy, nursery class craft activity, nursery baby craft, craft activity for nursery class, craft ideas for nursery class, craft for nursery class, craft work for nursery class, craft for pre nursery class, nursery class decoration craft, nursery class ka craft, nursery hand craft, nursery class craft ideas, nursery paper craft ideas, nursery rhymes craft ideas, nursery ka craft, nursery paper craft, craft for pre nursery, pre nursery craft work, nursery class paper craft, nursery crafts, diy nursery crafts, easy nursery crafts, baby nursery crafts, crafts for nursery class, craft for nursery students, craft work for nursery students, 
 
-So, what are you waiting for? Let's get drawing!
+kindergarten crafts, kindergarten crafts at home, kindergarten craft videos, kindergarten craft ideas, kindergarten crafts easy, kindergarten craft work, kindergarten craft activities, kindergarten craft projects, craft work for kindergarten students, craft for kindergarten students, craft for kindergarten class, craft ideas for kindergarten classroom, mother's day craft kindergarten, kindergarten easter craft, craft for kindergarten, craft activities for kindergarten, kindergarten crafts to do at home, kindergarten crafts with toilet paper rolls, kindergarten crafts with construction paper, kindergarten crafts with popsicle sticks, 5 minute crafts kindergarten, school crafts, school craft ideas, school crafts for kids, school crafts diy, school craft videos, school crafts with paper, school craft with paper, school crafts hacks, school crafts school, school craft in hindi, school craft activities, school craft and hacks, school craft banana, school craft banane ka tarika, school craft beautiful, school crafts back to school, school bag craft, paper craft school bag, pipe cleaner crafts b school supplies, pipe cleaner crafts b school, school craft craft, school craft competition, craft ideas for school competition, school craft decoration, school craft design, school craft drawing, diy school craft ideas, doll school crafts, d i y school crafts, 5 minute crafts school d i y, school craft easy, school craft exhibition, school craft easy  school craft ideas easy, paper craft school supplies easy, school craft for paper, school craft fair ideas, school craft flower, school craft funny, school craft flower pot, school crafts girl, craft ideas for school girl, craft with school glue, school craft hindi, school craft hindi mein, 5 minute crafts school hacks, back to school crafts hacks, 5 min craft school hacks, 5 minute crafts school h, school craft ideas easy paper, school craft in paper, school craft ideas with paper, school craft ideas in tamil, school craft in tamil, school craft kaise banaen, school ka craft, school ke liye craft, 
 
-#howtodraw #kawaii #cute #easydrawing #arttutorial #kids #fun #adorable #drawingforkids
+5 minute craft school ka, 5 minute craft school ke, 5 minute craft school ke liye, 5 minute craft school ke saman, school craft lamp, school life craft, school craft making, school craft model, school craft malayalam, school craft materials, 5 minute crafts for school, 5 min craft school, school craft new, school crafts new 2020, 5 minute craft school new, new school craft ideas, 5 min craft school hacks new, school notebook craft, 5 minute crafts school hacks new, craft of school, craft of school things, craft ideas of school, school craft project, school craft paper, school craft photo frame, school craft project ideas easy, school craft project ideas, school craft projects easy, school craft pen stand, school related craft, school ribbon craft, school se related craft, school crafts school crafts, school craft supplies, school craft simple, school craft suppliers, 5 minute craft school supplies, craft work for school students, s minute crafts school, school craft things, school craft tamil, school crafts to do at home, back to school craft, school use craft, 5 minute craft school video, very easy school craft, very simple school craft, school art and craft video, school craft work, school craft with waste material, school craft wall hanging, school craft with cardboard, school craft without glue, school craft with hindi language, school craft with white paper,1a:T9f5,how to draw pictures using numbers 1 to 10 || number drawing || number drawing easy step by step 
 
-Gather your supplies:
+⭐Material used for NUMBER DRAWING :  👇👇👇👇
+Marker pen from cello
+Drawing paper
 
-Paper
-Pencil
-Eraser
-Crayons, markers, or paints (of course!)
+🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷
+Don't forget to LIKE, COMMENT, SHARE & SUBSCRIBE ...
+🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷
 
-Subscribe, Like, and Share 🙏🙏
 
-#artforkids  #howtodraw #easydrawing #stepbystep #funart #creativity #drawingforbeginners  #kidsart #cuteeasydrawings #cedfansclub #easydrawings #cutedrawings #draw #drawing #drawingvideo  #howtodraw #drawingtutorial #drawingforkids #easydrawing #cutedrawing #cartoondrawing #toddlerdrawing #kidsactivities #mobile 
+ABOUT :-
+Hi friends in this video I am going to share with you How to draw pictures using numbers (number drawing) very easy step with marker pen. Learn to draw a picture using numbers from 1 to 10 (turn numbers), easy drawing for everyone. Drawn simply and without unnecessary words, everything is clear even for beginners.
 
-Related Search:
-mobile drawing,
-Step by step drawing,
-cute drawing,
-drawing tutorial,
-drawing easy,
-drawing art,
-drawing and coloring,
-Draw,  
-Drawings,
-Basic Drawings,
-How to Draw,
-How to Draw good,
-How to Draw Cute,
-Draw so Cute Drawings,
-Very Easy Drawings,
-Simple Drawings,
-Drawings Lessons,
-Line Drawings,
-How to Color,
-How to Colour,
-Cute Drawings.
-Easy Drawings,
-Simple Drawings,
-Very Easy Drawing,
-Drawings for Beginners,
-Draw something Easy,
-What to Draw,
-What to Draw Today,
-Something easy to Draw,
-Disegno passo dopo passo,
-simpatico disegno,
-tutorial di disegno,
-disegno facile,
-arte del disegno,
-disegnare e colorare,
-Disegnare,
-Disegni,
-Disegni di base,
-Come disegnare,
-Come disegnare bene,
-Come disegnare carino,
-Disegna disegni così carini,
-Disegni molto facili,
-Disegni semplici,
-Lezioni di disegno,
-Disegni al tratto,
-Come colorare,
-Come colorare,
-Disegni carini.
-Disegni facili,
-Disegni semplici,
-Disegno molto semplice,
-Disegni per principianti,
-Disegna qualcosa di facile,
-Cosa disegnare,
-Cosa disegnare oggi,
-Qualcosa di facile da disegnare,
-Schritt für Schritt zeichnen,
-süße Zeichnung,
-Zeichnungs-Tutorial,
-einfach zeichnen,
-Kunst zeichnen,
-Zeichnen und Ausmalen,
-Ziehen,
-Zeichnungen,
-Grundlegende Zeichnungen,
-Wie man zeichnet,
-Wie zeichnet man gut,
-Wie zeichnet man süß,
-Zeichne so süße Zeichnungen,
-Sehr einfache Zeichnungen,
-Einfache Zeichnungen,
-Zeichenunterricht,
-Strichzeichnungen,
-Wie man färbt,
-Wie man färbt,
-Nette Zeichnungen.
-Einfache Zeichnungen,
-Einfache Zeichnungen,
-Sehr einfaches Zeichnen,
-Zeichnungen für Anfänger,
-Zeichne etwas Einfaches,
-Was zu zeichnen,
-Was soll man heute zeichnen,
-Etwas einfach zu zeichnen,
-Dibujo paso a paso,
-lindo dibujo,
-tutorial de dibujo,
-dibujar facil,
-dibujo de arte,
-dibujar y colorear,
-Dibujar,
-Dibujos,
-dibujos basicos,
-Como dibujar,
-Cómo dibujar bien,
-Cómo dibujar lindo,
-Dibuja dibujos tan lindos,
-dibujos muy faciles,
-dibujos simples,
-Lecciones de dibujo,
-Dibujos de líneas,
-como colorear,
-como colorear,
-Dibujos lindos.
-dibujos faciles,
-dibujos simples,
-Dibujo muy fácil,
-Dibujos para principiantes,
-Dibuja algo fácil,
-que dibujar,
-Qué dibujar hoy,
-Algo fácil de dibujar,
-Dessin pas à pas,
-joli dessin,
-tutoriel de dessin,
-dessin facile,
-art du dessin,
-dessin et coloriage,
-Dessiner,
-Dessins,
-Dessins de base,
-Comment dessiner,
-Comment bien dessiner,
-Comment dessiner mignon,
-Dessinez des dessins si mignons,
-Dessins très faciles,
-Dessins simples,
-Cours de dessins,
-Des dessins au trait,
-Comment colorier,
-Comment colorier,
-Dessins mignons.
-Dessins faciles,
-Dessins simples,
-Dessin très facile,
-Dessins pour débutants,
-Dessine quelque chose de facile,
-Que dessiner,
-Que dessiner aujourd'hui,
-Quelque chose de facile à dessiner,
-الرسم خطوة بخطوة ،
-رسم لطيف
-رسم تعليمي
-الرسم السهل ،
-فن الرسم
-رسم وتلوين،
-رسم،
-الرسومات،
-رسومات أساسية ،
-كيف ترسم،
-كيفية رسم جيد ،
-كيفية رسم لطيف ،
-ارسم رسومات لطيفة للغاية ،
-رسومات سهلة جدا
-رسومات بسيطة
-دروس الرسم
-رسومات الخط
-كيف تلون ،
-Adım adım çizim,
-sevimli çizim,
-çizim öğretici,
-çizim kolay,
-çizim sanatı,
-çizim ve boyama,
-Çizmek,
-Çizimler,
-Temel Çizimler,
-Nasıl çizilir,
-nasıl güzel çizilir,
-Sevimli Çizim Nasıl Yapılır,
-Çok Sevimli Çizimler Çizin,
-Çok Kolay Çizimler,
-Basit Çizimler,
-çizim dersleri,
-Çizgi çizimleri,
-Nasıl Renklendirilir,
-Nasıl Renklendirilir,
-Sevimli Çizimler
-Kolay Çizimler,
-Basit Çizimler,
-Çok Kolay Çizim,
-Yeni Başlayanlar İçin Çizimler,
-Kolay bir şeyler çizin,
-Ne Çizilir,
-Bugün Ne Çizelim,
-Çizimi kolay bir şey,
-Desenho passo a passo,
-desenho fofo,
-tutorial de desenho,
-desenho fácil,
-arte de desenho,
-desenhar e colorir,
-Desenhar,
-desenhos,
-Desenhos Básicos,
-Como desenhar,
-como desenhar bem,
-Como Desenhar Bonito,
-Desenhe desenhos tão fofos,
-Desenhos muito fáceis,
-Desenhos Simples,1d:T1380,How to Draw a Cute Shopping Bag - Easy Step-by-Step for Kids!
-This step-by-step guide is perfect for beginners and kids of all ages.  Grab your pencils, crayons, or markers, and get ready to unleash your creativity!
+=============================
 
-In this video you'll learn:
 
-How to draw a simple Shopping Bag
-How to add a playful face
-Cute details to make your shopping bag unique
-Tips for coloring and personalizing your masterpiece
+🔥Watch My Other Easy Drawing Videos : 👇👇👇
 
-So, what are you waiting for? Let's get drawing!
+How to draw a Lotus || Lotus drawing (easy) step by step ||
+https://www.youtube.com/watch?v=b_baEIweSxY
 
-#howtodraw #kawaii #cute #easydrawing #arttutorial #kids #fun #adorable #drawingforkids
+How to Draw a Boat || Boat drawing
+https://www.youtube.com/watch?v=WIOGh-29Iy4
 
-Gather your supplies:
+How to draw pineapple step by step (very easy) || Pineapple Drawing
+https://www.youtube.com/watch?v=qKDxJpbeQyU
 
-Paper
-Pencil
-Eraser
-Crayons, markers, or paints (of course!)
+How To Draw Orange || Orange Drawing ||
+https://www.youtube.com/watch?v=7l8NqWpv-VY
 
-Subscribe, Like, and Share 🙏🙏
 
-#artforkids  #howtodraw #easydrawing #stepbystep #funart #creativity #drawingforbeginners  #kidsart #cuteeasydrawings #cedfansclub #easydrawings #cutedrawings #draw #drawing #drawingvideo  #howtodraw #drawingtutorial #drawingforkids #easydrawing #cutedrawing #cartoondrawing #toddlerdrawing #kidsactivities #bag #shoppingbag 
+🤳🏻 Follow us on Social Media : 👇😊🙏
+Facebook : https://www.facebook.com/artgalaxyofficial
 
-Related Search:
-shopping bag drawing,
-Step by step drawing,
-cute drawing,
-drawing tutorial,
-drawing easy,
-drawing art,
-drawing and coloring,
-Draw,  
-Drawings,
-Basic Drawings,
-How to Draw,
-How to Draw good,
-How to Draw Cute,
-Draw so Cute Drawings,
-Very Easy Drawings,
-Simple Drawings,
-Drawings Lessons,
-Line Drawings,
-How to Color,
-How to Colour,
-Cute Drawings.
-Easy Drawings,
-Simple Drawings,
-Very Easy Drawing,
-Drawings for Beginners,
-Draw something Easy,
-What to Draw,
-What to Draw Today,
-Something easy to Draw,
-Disegno passo dopo passo,
-simpatico disegno,
-tutorial di disegno,
-disegno facile,
-arte del disegno,
-disegnare e colorare,
-Disegnare,
-Disegni,
-Disegni di base,
-Come disegnare,
-Come disegnare bene,
-Come disegnare carino,
-Disegna disegni così carini,
-Disegni molto facili,
-Disegni semplici,
-Lezioni di disegno,
-Disegni al tratto,
-Come colorare,
-Come colorare,
-Disegni carini.
-Disegni facili,
-Disegni semplici,
-Disegno molto semplice,
-Disegni per principianti,
-Disegna qualcosa di facile,
-Cosa disegnare,
-Cosa disegnare oggi,
-Qualcosa di facile da disegnare,
-Schritt für Schritt zeichnen,
-süße Zeichnung,
-Zeichnungs-Tutorial,
-einfach zeichnen,
-Kunst zeichnen,
-Zeichnen und Ausmalen,
-Ziehen,
-Zeichnungen,
-Grundlegende Zeichnungen,
-Wie man zeichnet,
-Wie zeichnet man gut,
-Wie zeichnet man süß,
-Zeichne so süße Zeichnungen,
-Sehr einfache Zeichnungen,
-Einfache Zeichnungen,
-Zeichenunterricht,
-Strichzeichnungen,
-Wie man färbt,
-Wie man färbt,
-Nette Zeichnungen.
-Einfache Zeichnungen,
-Einfache Zeichnungen,
-Sehr einfaches Zeichnen,
-Zeichnungen für Anfänger,
-Zeichne etwas Einfaches,
-Was zu zeichnen,
-Was soll man heute zeichnen,
-Etwas einfach zu zeichnen,
-Dibujo paso a paso,
-lindo dibujo,
-tutorial de dibujo,
-dibujar facil,
-dibujo de arte,
-dibujar y colorear,
-Dibujar,
-Dibujos,
-dibujos basicos,
-Como dibujar,
-Cómo dibujar bien,
-Cómo dibujar lindo,
-Dibuja dibujos tan lindos,
-dibujos muy faciles,
-dibujos simples,
-Lecciones de dibujo,
-Dibujos de líneas,
-como colorear,
-como colorear,
-Dibujos lindos.
-dibujos faciles,
-dibujos simples,
-Dibujo muy fácil,
-Dibujos para principiantes,
-Dibuja algo fácil,
-que dibujar,
-Qué dibujar hoy,
-Algo fácil de dibujar,
-Dessin pas à pas,
-joli dessin,
-tutoriel de dessin,
-dessin facile,
-art du dessin,
-dessin et coloriage,
-Dessiner,
-Dessins,
-Dessins de base,
-Comment dessiner,
-Comment bien dessiner,
-Comment dessiner mignon,
-Dessinez des dessins si mignons,
-Dessins très faciles,
-Dessins simples,
-Cours de dessins,
-Des dessins au trait,
-Comment colorier,
-Comment colorier,
-Dessins mignons.
-Dessins faciles,
-Dessins simples,
-Dessin très facile,
-Dessins pour débutants,
-Dessine quelque chose de facile,
-Que dessiner,
-Que dessiner aujourd'hui,
-Quelque chose de facile à dessiner,
-الرسم خطوة بخطوة ،
-رسم لطيف
-رسم تعليمي
-الرسم السهل ،
-فن الرسم
-رسم وتلوين،
-رسم،
-الرسومات،
-رسومات أساسية ،
-كيف ترسم،
-كيفية رسم جيد ،
-كيفية رسم لطيف ،
-ارسم رسومات لطيفة للغاية ،
-رسومات سهلة جدا
-رسومات بسيطة
-دروس الرسم
-رسومات الخط
-كيف تلون ،
-Adım adım çizim,
-sevimli çizim,
-çizim öğretici,
-çizim kolay,
-çizim sanatı,
-çizim ve boyama,
-Çizmek,
-Çizimler,
-Temel Çizimler,
-Nasıl çizilir,
-nasıl güzel çizilir,
-Sevimli Çizim Nasıl Yapılır,
-Çok Sevimli Çizimler Çizin,
-Çok Kolay Çizimler,
-Basit Çizimler,
-çizim dersleri,
-Çizgi çizimleri,
-Nasıl Renklendirilir,
-Nasıl Renklendirilir,
-Sevimli Çizimler
-Kolay Çizimler,
-Basit Çizimler,
-Çok Kolay Çizim,
-Yeni Başlayanlar İçin Çizimler,
-Kolay bir şeyler çizin,
-Ne Çizilir,
-Bugün Ne Çizelim,
-Çizimi kolay bir şey,
-Desenho passo a passo,
-desenho fofo,
-tutorial de desenho,
-desenho fácil,
-arte de desenho,
-desenhar e colorir,
-Desenhar,
-desenhos,
-Desenhos Básicos,
-Como desenhar,
-como desenhar bem,
-Como Desenhar Bonito,
-Desenhe desenhos tão fofos,
-Desenhos muito fáceis,
-Desenhos Simples,2:["$","div",null,{"className":"space-y-8 pb-8","children":[["$","div",null,{"children":["$","$L10",null,{"href":"/","className":"inline-flex items-center gap-1.5 px-3 py-1.5 bg-white rounded-lg text-slate-600 font-semibold text-xs border border-slate-200 hover:border-purple-300 hover:text-purple-900 transition-colors shadow-subtle","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-3.5 h-3.5","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"Back to Discover"}]]}]}],["$","section",null,{"className":"bg-white rounded-2xl sm:rounded-3xl p-4 xs:p-6 sm:p-8 border border-slate-200/80 shadow-subtle space-y-3","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"px-2.5 py-0.5 bg-purple-100 text-purple-900 text-xs font-bold rounded-md uppercase tracking-wider","children":["Ages ","5–7"]}],["$","span",null,{"className":"text-xs text-slate-400 font-semibold","children":["• ",16," Videos"]}]]}],["$","h1",null,{"className":"text-xl xs:text-2xl sm:text-4xl font-black text-slate-900 tracking-tight","children":"Creativity"}],["$","p",null,{"className":"text-slate-600 font-medium text-xs sm:text-base max-w-2xl leading-relaxed","children":"Art, craft & DIY"}],["$","div",null,{"className":"pt-2 flex items-center gap-2 text-xs font-medium text-slate-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-shield-check w-4 h-4 text-emerald-600 shrink-0","children":[["$","path","oel41y",{"d":"M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"}],["$","path","dzmm74",{"d":"m9 12 2 2 4-4"}],"$undefined"]}],["$","span",null,{"children":["Strict server-side safe query: \"","kids art drawing tutorials crafts easy","\""]}]]}]]}],["$","section",null,{"className":"space-y-4","children":[["$","h2",null,{"className":"text-lg sm:text-xl font-bold text-slate-900","children":"Watch & Learn"}],["$","div",null,{"className":"grid grid-cols-1 xs:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3.5 sm:gap-5","children":[["$","$L11","12t0V7z0a04",{"video":{"id":"12t0V7z0a04","title":"How to Draw a Cute Rainbow Flower Simple & Easy for Kids","description":"$12","channelTitle":"Cute Easy Drawings","channelId":"UCNB0kOpUqpB7MUqW53zN8aA","publishedAt":"2024-06-22T14:10:00Z","duration":"8:17","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/12t0V7z0a04/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/12t0V7z0a04/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/12t0V7z0a04/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/12t0V7z0a04/sddefault.jpg","width":640,"height":480}}},"categoryLabel":"Creativity"}],["$","$L11","dH5dVbL8SzQ",{"video":{"id":"dH5dVbL8SzQ","title":"How to draw pictures using numbers 1 to 10 || Number Drawing easy step by step ||","description":"$13","channelTitle":"Art Galaxy","channelId":"UC0LJgjDAFDgw3ePdQKcTsjA","publishedAt":"2021-02-25T15:45:27Z","duration":"6:45","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/dH5dVbL8SzQ/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/dH5dVbL8SzQ/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/dH5dVbL8SzQ/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/dH5dVbL8SzQ/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/dH5dVbL8SzQ/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Creativity"}],["$","$L11","7q3Y6cyE0LI",{"video":{"id":"7q3Y6cyE0LI","title":"How To Draw A Teddy Bear - US National Teddy Bear Day","description":"Happy national teddy bear day! To celebrate, we thought it would be a lot of learning how to draw a teddy bear! We hope you have fun celebrating by following along with us. Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.\n~Sharpie (or something to draw with)\n~Paper (we use marker paper)\n~Markers to color with (we use Bianyo)\n~Colored pencils (sometimes we also use Prismacolor colored pencils)\nVisit our art supply page for more information about the supplies used in this lesson.\n🎨   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub\n👩🎨  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/\n📺   SUBSCRIBE to our channel here http://bit.ly/afksubscribe\n\n📷  POST your child's artwork to:\nFACEBOOK http://facebook.com/artforkidshub\nINSTAGRAM http://instagram.com/artforkidshub\n\n#howtodraw #artforkidshub","channelTitle":"Art for Kids Hub","channelId":"UC5XMF3Inoi8R9nSI8ChOsdQ","publishedAt":"2022-09-09T13:00:08Z","duration":"5:30","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/7q3Y6cyE0LI/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/7q3Y6cyE0LI/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/7q3Y6cyE0LI/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/7q3Y6cyE0LI/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/7q3Y6cyE0LI/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Creativity"}],["$","$L11","oM7SV9HEn_I",{"video":{"id":"oM7SV9HEn_I","title":"How to Draw a Cute I LOVE YOU 'MOM' Card for Mother’s Day | Cute Easy Drawing for Kids","description":"$14","channelTitle":"Cute Easy Drawings","channelId":"UCNB0kOpUqpB7MUqW53zN8aA","publishedAt":"2025-05-03T13:30:39Z","duration":"8:20","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/oM7SV9HEn_I/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/oM7SV9HEn_I/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/oM7SV9HEn_I/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/oM7SV9HEn_I/sddefault.jpg","width":640,"height":480}}},"categoryLabel":"Creativity"}],["$","$L11","X2lZcxR_syA",{"video":{"id":"X2lZcxR_syA","title":"How to Draw a Cute Watermelon Ice Cream - Easy Step by step for Kids and Toddlers","description":"$15","channelTitle":"Cute Easy Drawings","channelId":"UCNB0kOpUqpB7MUqW53zN8aA","publishedAt":"2025-10-08T13:30:36Z","duration":"8:24","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/X2lZcxR_syA/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/X2lZcxR_syA/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/X2lZcxR_syA/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/X2lZcxR_syA/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/X2lZcxR_syA/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Creativity"}],["$","$L11","WMDfEeksr14",{"video":{"id":"WMDfEeksr14","title":"How To Draw A Unicorn Popsicle","description":"$16","channelTitle":"Art for Kids Hub","channelId":"UC5XMF3Inoi8R9nSI8ChOsdQ","publishedAt":"2025-08-28T14:00:58Z","duration":"6:18","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/WMDfEeksr14/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/WMDfEeksr14/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/WMDfEeksr14/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/WMDfEeksr14/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/WMDfEeksr14/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Creativity"}],["$","$L11","XdM9WOWJUnE",{"video":{"id":"XdM9WOWJUnE","title":"Easy Circle Scenery Drawing | Pencil Drawing in Circle Easy Step By Step | Panda Drawing in Circle","description":"$17","channelTitle":"MH Drawing360","channelId":"UC8MAzTXnaE38tylqGca6chw","publishedAt":"2025-02-24T14:22:52Z","duration":"5:50","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/XdM9WOWJUnE/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/XdM9WOWJUnE/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/XdM9WOWJUnE/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/XdM9WOWJUnE/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/XdM9WOWJUnE/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Creativity"}],["$","$L11","EBO56RtTUbg",{"video":{"id":"EBO56RtTUbg","title":"How To Draw A Cute Vanilla Ice Cream Kitten","description":"$18","channelTitle":"Art for Kids Hub","channelId":"UC5XMF3Inoi8R9nSI8ChOsdQ","publishedAt":"2025-07-23T14:26:41Z","duration":"5:25","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/EBO56RtTUbg/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/EBO56RtTUbg/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/EBO56RtTUbg/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/EBO56RtTUbg/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/EBO56RtTUbg/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Creativity"}],["$","$L11","gcfy8QA76zA",{"video":{"id":"gcfy8QA76zA","title":"How to Draw a Cute Easy Boba Tea / Bubble Chocolate Tea for Kids Step by Step","description":"$19","channelTitle":"Cute Easy Drawings","channelId":"UCNB0kOpUqpB7MUqW53zN8aA","publishedAt":"2025-01-27T13:30:28Z","duration":"8:18","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/gcfy8QA76zA/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/gcfy8QA76zA/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/gcfy8QA76zA/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/gcfy8QA76zA/sddefault.jpg","width":640,"height":480}}},"categoryLabel":"Creativity"}],["$","$L11","wy2-3BxdtYY",{"video":{"id":"wy2-3BxdtYY","title":"How To Draw A Shark Folding Surprise Puppet","description":"Learn how to draw a shark folding surprise puppet! This is a super fun art project for any age. All you need is something to draw with, paper, and coloring supplies.\n\nJoin our monthly membership and download our app! You can watch our lessons in a safe distraction-free environment. In the app, you can also download lessons to watch without an internet connection. Visit https://www.artforkidshub.tv/ to learn more and join!\n\n🎨   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub\n\n📺   SUBSCRIBE to our channel here http://bit.ly/afksubscribe\n\n📷  POST your child's artwork to:\nFACEBOOK http://facebook.com/artforkidshub\nTWITTER http://twitter.com/artforkidshub\nINSTAGRAM http://instagram.com/artforkidshub\n\n👴🏻 👩🏻 👦🏻 👧🏻 👦🏻 👶🏻  Learn more about us https://www.artforkidshub.com/about/\n#howtodraw #artforkidshub","channelTitle":"Art for Kids Hub","channelId":"UC5XMF3Inoi8R9nSI8ChOsdQ","publishedAt":"2020-01-28T15:36:17Z","duration":"7:26","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/wy2-3BxdtYY/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/wy2-3BxdtYY/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/wy2-3BxdtYY/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/wy2-3BxdtYY/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/wy2-3BxdtYY/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Creativity"}],["$","$L11","bUS-NASiYCs",{"video":{"id":"bUS-NASiYCs","title":"How to Draw Shapes Step By Step | Easy Drawing for Kids | Chiki Art","description":"$1a","channelTitle":"Chiki Art","channelId":"UCPDRkndS18yNItTCIzIFtZQ","publishedAt":"2023-04-03T13:45:02Z","duration":"11:36","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/bUS-NASiYCs/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/bUS-NASiYCs/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/bUS-NASiYCs/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/bUS-NASiYCs/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/bUS-NASiYCs/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Creativity"}],["$","$L11","imKc7XrkWZk",{"video":{"id":"imKc7XrkWZk","title":"How to Draw a Cute Chocolate Bar Simple & Easy for Kids","description":"$1b","channelTitle":"Cute Easy Drawings","channelId":"UCNB0kOpUqpB7MUqW53zN8aA","publishedAt":"2024-05-16T14:10:26Z","duration":"8:13","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/imKc7XrkWZk/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/imKc7XrkWZk/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/imKc7XrkWZk/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/imKc7XrkWZk/sddefault.jpg","width":640,"height":480}}},"categoryLabel":"Creativity"}],["$","$L11","kCDcBm3wol4",{"video":{"id":"kCDcBm3wol4","title":"How to Draw a Cute Mobile Simple & Easy for Kids","description":"$1c","channelTitle":"Cute Easy Drawings","channelId":"UCNB0kOpUqpB7MUqW53zN8aA","publishedAt":"2024-10-24T13:30:35Z","duration":"8:18","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/kCDcBm3wol4/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/kCDcBm3wol4/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/kCDcBm3wol4/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/kCDcBm3wol4/sddefault.jpg","width":640,"height":480}}},"categoryLabel":"Creativity"}],["$","$L11","tMqZTzIFz3Q",{"video":{"id":"tMqZTzIFz3Q","title":"How To Draw Hello Kitty (New Lesson With Color)","description":"Follow along with us and learn how to draw Hello Kitty. Also be sure to visit the official Hello Kitty website and draw the other characters! https://www.sanrio.com\n\nTo purchase an Art For Kids Hub t-shirt https://artforkidshub.threadless.com\n\nSUBSCRIBE for regular drawing and art lessons:\nhttp://bit.ly/afksubscribe\n\nVisit AFK website for free printable steps:\nhttp://artforkidshub.com\n\nLIKE us on FACEBOOK!\nhttp://facebook.com/artforkidshub\n\nFOLLOW us on TWITTER!\nhttp://twitter.com/artforkidshub\n\nFOLLOW our INSTAGRAM:\nhttp://instagram.com/artforkidshub\n\nHi there! My name is Rob, and I have three super cool kids. We love doing art and sharing it with others. We upload new art videos weekly. Thanks for stoping by. If you'd like to know more about us:\nhttp://artforkidshub.com/about-the-author/","channelTitle":"Art for Kids Hub","channelId":"UC5XMF3Inoi8R9nSI8ChOsdQ","publishedAt":"2016-07-29T13:12:27Z","duration":"8:01","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/tMqZTzIFz3Q/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/tMqZTzIFz3Q/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/tMqZTzIFz3Q/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/tMqZTzIFz3Q/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/tMqZTzIFz3Q/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Creativity"}],["$","$L11","M5BHuMkJ_dU",{"video":{"id":"M5BHuMkJ_dU","title":"How to Draw a Cute Shopping Bag Simple & Easy for Kids","description":"$1d","channelTitle":"Cute Easy Drawings","channelId":"UCNB0kOpUqpB7MUqW53zN8aA","publishedAt":"2024-11-16T13:30:15Z","duration":"8:19","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/M5BHuMkJ_dU/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/M5BHuMkJ_dU/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/M5BHuMkJ_dU/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/M5BHuMkJ_dU/sddefault.jpg","width":640,"height":480}}},"categoryLabel":"Creativity"}],["$","$L11","-jOY59siWNE",{"video":{"id":"-jOY59siWNE","title":"Easy Lord Ganesha drawing from S letter step by step // Easy Lord Ganesh Chaturthi drawing","description":"Lord Ganesha drawing easy step by step\nGanesh God drawing very easy\nGanesh God drawing easy\nGanesh chaturthi drawing easy\nVinayak chaturthi drawing easy\nGanapathi drawing easy\nGanapathi bappa morya drawing easy\nVinayaka Swamy drawing easy\nLord Ganesha Rangoli\nNumber drawing \nLetter drawing \nDots drawing \nLord Ganesha drawing from S letter \n\n#MAMArts\nPlease like, share, comment my video and subscribe my channel.","channelTitle":"MAM Arts","channelId":"UCKATni_cPtV4ZO80MpTvXsg","publishedAt":"2025-08-21T12:30:01Z","duration":"4:46","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/-jOY59siWNE/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/-jOY59siWNE/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/-jOY59siWNE/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/-jOY59siWNE/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/-jOY59siWNE/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Creativity"}]]}]]}]]}]
+
+             🙏🙏Thanks for watching🙏🙏
+0:00 Number Drawing
+
+
+==================================
+
+
+#HowtoDraw #drawing #onlinedrawing #learningdrawing #numberdrawing #easydrawing #drawingvideo #drawingforbeginners #DrawingTutorial #drawcutethings #drawingvideos
+#Stepbystepdrawing #learning #ArtGalaxyDrawing
+
+
+Your Quarries :
+1)drawing from numbers
+2)how to draw with numbers
+3)fun with numbers
+4)how to turn numbers into drawing
+5)how to turn umbers into cartoons
+6)how to draw using numbers
+7)how to draw anything from numbers
+8)how to draw anything from numbers quick
+9) draw with numbers
+10)simple drawing using numbers
+11)9simple drawing tricks using numbers
+12) fun Drawing 
+13)easy drawing with numbers
+14)drawing, drawing from numbers and letters
+15)5 minutes crafts drawing animals from numbers
+16)drawing, simple drawing idea
+17)simple drawing
+18)drawing with numbers
+19)how to draw using numbers 1-10
+20)how to draw using numbers easy drawing, drawing tricks, turn number, drawing lessons
+21)simple drawing lesson drawing
+22)easy and simple drawing
+23)drawing from numbers
+24)how to draw with numbers
+25)fun with numbers
+26)how to turn numbers into drawing
+27)how to turn numbers into cartoons
+28)how to draw using numbers
+29)how to draw anything from numbers, art2:["$","div",null,{"className":"space-y-8 pb-8","children":[["$","div",null,{"children":["$","$L10",null,{"href":"/","className":"inline-flex items-center gap-1.5 px-3 py-1.5 bg-white rounded-lg text-slate-600 font-semibold text-xs border border-slate-200 hover:border-purple-300 hover:text-purple-900 transition-colors shadow-subtle","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-3.5 h-3.5","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"Back to Discover"}]]}]}],["$","section",null,{"className":"bg-white rounded-2xl sm:rounded-3xl p-4 xs:p-6 sm:p-8 border border-slate-200/80 shadow-subtle space-y-3","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"px-2.5 py-0.5 bg-purple-100 text-purple-900 text-xs font-bold rounded-md uppercase tracking-wider","children":["Ages ","5–7"]}],["$","span",null,{"className":"text-xs text-slate-400 font-semibold","children":["• ",16," Videos"]}]]}],["$","h1",null,{"className":"text-xl xs:text-2xl sm:text-4xl font-black text-slate-900 tracking-tight","children":"Creativity"}],["$","p",null,{"className":"text-slate-600 font-medium text-xs sm:text-base max-w-2xl leading-relaxed","children":"Art, craft & DIY"}],["$","div",null,{"className":"pt-2 flex items-center gap-2 text-xs font-medium text-slate-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-shield-check w-4 h-4 text-emerald-600 shrink-0","children":[["$","path","oel41y",{"d":"M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"}],["$","path","dzmm74",{"d":"m9 12 2 2 4-4"}],"$undefined"]}],["$","span",null,{"children":["Strict server-side safe query: \"","kids art drawing tutorials crafts easy","\""]}]]}]]}],["$","section",null,{"className":"space-y-4","children":[["$","h2",null,{"className":"text-lg sm:text-xl font-bold text-slate-900","children":"Watch & Learn"}],["$","div",null,{"className":"grid grid-cols-1 xs:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3.5 sm:gap-5","children":[["$","$L11","WMDfEeksr14",{"video":{"id":"WMDfEeksr14","title":"How To Draw A Unicorn Popsicle","description":"$12","channelTitle":"Art for Kids Hub","channelId":"UC5XMF3Inoi8R9nSI8ChOsdQ","publishedAt":"2025-08-28T14:00:58Z","duration":"6:18","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/WMDfEeksr14/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/WMDfEeksr14/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/WMDfEeksr14/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/WMDfEeksr14/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/WMDfEeksr14/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Creativity"}],["$","$L11","taWbmMBjW7Y",{"video":{"id":"taWbmMBjW7Y","title":"DIY MINI PAPER  DRAWERS / PAPER CRAFT/ SMALL ORIGAMI STORAGE BOX DIY / DESK ORGANIZER DRAWER","description":"back to school craft ideas / paper drawers / origami drawer / drawer making with paper / Mini Paper Storage Box / Storage Box Making Using Paper - Origami Box - Paper Crafts For kids - Box Paper Craft - Paper Box - How To Make Origami Box / Small Storage Box / Desk Organizer \n\n#origamidrawer  #paperdrawer #papercraft\n\npaper box,paper craft,origami box,paper crafts,box diy,easy paper crafts,easy origami,origami easy,paper crafts for school,origami box easy,how to make a paper box,how to make an origami box,box origami,origami box tutorial,how to fold a paper box,paper box craft,step by step origami,storage box,storage box organizer,paper storage box,paper storage box diy,desk organizer,chest of drawers,paper drawers diy,diy paper drawers,origami drawers","channelTitle":"World Of Art And Craft","channelId":"UCw3YzdQBHCSZiMkpClvNGig","publishedAt":"2023-01-24T09:30:20Z","duration":"5:18","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/taWbmMBjW7Y/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/taWbmMBjW7Y/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/taWbmMBjW7Y/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/taWbmMBjW7Y/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/taWbmMBjW7Y/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Creativity"}],["$","$L11","wy2-3BxdtYY",{"video":{"id":"wy2-3BxdtYY","title":"How To Draw A Shark Folding Surprise Puppet","description":"Learn how to draw a shark folding surprise puppet! This is a super fun art project for any age. All you need is something to draw with, paper, and coloring supplies.\n\nJoin our monthly membership and download our app! You can watch our lessons in a safe distraction-free environment. In the app, you can also download lessons to watch without an internet connection. Visit https://www.artforkidshub.tv/ to learn more and join!\n\n🎨   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub\n\n📺   SUBSCRIBE to our channel here http://bit.ly/afksubscribe\n\n📷  POST your child's artwork to:\nFACEBOOK http://facebook.com/artforkidshub\nTWITTER http://twitter.com/artforkidshub\nINSTAGRAM http://instagram.com/artforkidshub\n\n👴🏻 👩🏻 👦🏻 👧🏻 👦🏻 👶🏻  Learn more about us https://www.artforkidshub.com/about/\n#howtodraw #artforkidshub","channelTitle":"Art for Kids Hub","channelId":"UC5XMF3Inoi8R9nSI8ChOsdQ","publishedAt":"2020-01-28T15:36:17Z","duration":"7:26","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/wy2-3BxdtYY/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/wy2-3BxdtYY/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/wy2-3BxdtYY/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/wy2-3BxdtYY/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/wy2-3BxdtYY/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Creativity"}],["$","$L11","7q3Y6cyE0LI",{"video":{"id":"7q3Y6cyE0LI","title":"How To Draw A Teddy Bear - US National Teddy Bear Day","description":"Happy national teddy bear day! To celebrate, we thought it would be a lot of learning how to draw a teddy bear! We hope you have fun celebrating by following along with us. Art Supplies ~ This is a list of the supplies we used, but feel free to use whatever you have in your home or classroom.\n~Sharpie (or something to draw with)\n~Paper (we use marker paper)\n~Markers to color with (we use Bianyo)\n~Colored pencils (sometimes we also use Prismacolor colored pencils)\nVisit our art supply page for more information about the supplies used in this lesson.\n🎨   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub\n👩🎨  JOIN OUR ART HUB MEMBERSHIP! VISIT https://www.artforkidshub.tv/\n📺   SUBSCRIBE to our channel here http://bit.ly/afksubscribe\n\n📷  POST your child's artwork to:\nFACEBOOK http://facebook.com/artforkidshub\nINSTAGRAM http://instagram.com/artforkidshub\n\n#howtodraw #artforkidshub","channelTitle":"Art for Kids Hub","channelId":"UC5XMF3Inoi8R9nSI8ChOsdQ","publishedAt":"2022-09-09T13:00:08Z","duration":"5:30","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/7q3Y6cyE0LI/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/7q3Y6cyE0LI/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/7q3Y6cyE0LI/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/7q3Y6cyE0LI/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/7q3Y6cyE0LI/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Creativity"}],["$","$L11","12t0V7z0a04",{"video":{"id":"12t0V7z0a04","title":"How to Draw a Cute Rainbow Flower Simple & Easy for Kids","description":"$13","channelTitle":"Cute Easy Drawings","channelId":"UCNB0kOpUqpB7MUqW53zN8aA","publishedAt":"2024-06-22T14:10:00Z","duration":"8:17","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/12t0V7z0a04/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/12t0V7z0a04/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/12t0V7z0a04/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/12t0V7z0a04/sddefault.jpg","width":640,"height":480}}},"categoryLabel":"Creativity"}],["$","$L11","oM7SV9HEn_I",{"video":{"id":"oM7SV9HEn_I","title":"How to Draw a Cute I LOVE YOU 'MOM' Card for Mother’s Day | Cute Easy Drawing for Kids","description":"$14","channelTitle":"Cute Easy Drawings","channelId":"UCNB0kOpUqpB7MUqW53zN8aA","publishedAt":"2025-05-03T13:30:39Z","duration":"8:20","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/oM7SV9HEn_I/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/oM7SV9HEn_I/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/oM7SV9HEn_I/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/oM7SV9HEn_I/sddefault.jpg","width":640,"height":480}}},"categoryLabel":"Creativity"}],["$","$L11","EBO56RtTUbg",{"video":{"id":"EBO56RtTUbg","title":"How To Draw A Cute Vanilla Ice Cream Kitten","description":"$15","channelTitle":"Art for Kids Hub","channelId":"UC5XMF3Inoi8R9nSI8ChOsdQ","publishedAt":"2025-07-23T14:26:41Z","duration":"5:25","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/EBO56RtTUbg/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/EBO56RtTUbg/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/EBO56RtTUbg/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/EBO56RtTUbg/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/EBO56RtTUbg/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Creativity"}],["$","$L11","tMqZTzIFz3Q",{"video":{"id":"tMqZTzIFz3Q","title":"How To Draw Hello Kitty (New Lesson With Color)","description":"Follow along with us and learn how to draw Hello Kitty. Also be sure to visit the official Hello Kitty website and draw the other characters! https://www.sanrio.com\n\nTo purchase an Art For Kids Hub t-shirt https://artforkidshub.threadless.com\n\nSUBSCRIBE for regular drawing and art lessons:\nhttp://bit.ly/afksubscribe\n\nVisit AFK website for free printable steps:\nhttp://artforkidshub.com\n\nLIKE us on FACEBOOK!\nhttp://facebook.com/artforkidshub\n\nFOLLOW us on TWITTER!\nhttp://twitter.com/artforkidshub\n\nFOLLOW our INSTAGRAM:\nhttp://instagram.com/artforkidshub\n\nHi there! My name is Rob, and I have three super cool kids. We love doing art and sharing it with others. We upload new art videos weekly. Thanks for stoping by. If you'd like to know more about us:\nhttp://artforkidshub.com/about-the-author/","channelTitle":"Art for Kids Hub","channelId":"UC5XMF3Inoi8R9nSI8ChOsdQ","publishedAt":"2016-07-29T13:12:27Z","duration":"8:01","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/tMqZTzIFz3Q/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/tMqZTzIFz3Q/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/tMqZTzIFz3Q/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/tMqZTzIFz3Q/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/tMqZTzIFz3Q/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Creativity"}],["$","$L11","2iF-9DAqYu8",{"video":{"id":"2iF-9DAqYu8","title":"How To Draw A Baby Axolotl","description":"Join Olivia and me as we learn how to draw a baby axolotl! 🐟💕 We've drawn an axolotl before, but this time, we're making it extra cute by drawing a baby version. Grab your markers, marker paper, and a white colored pencil, and let's bring this little aquatic friend to life!\n\nMaterials:\nMarkers 🖍️\nMarker paper 📄\nWhite colored pencil ✏️\n\nLinks:\n\nAFKH Amazon store: https://www.amazon.com/shop/artforkidshub 🛒\nJoin our AFKH membership for more cute and creative drawing lessons: https://www.artforkidshub.tv/ 🌟\nSubscribe to our channel: http://bit.ly/afksubscribe 🔔\nFollow us on Facebook: http://facebook.com/artforkidshub 📘\nInstagram: http://instagram.com/artforkidshub 📸\n\n#artforkidshub #howtodraw #BabyAxolotl #CuteAnimals","channelTitle":"Art for Kids Hub","channelId":"UC5XMF3Inoi8R9nSI8ChOsdQ","publishedAt":"2024-05-20T14:00:04Z","duration":"4:54","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/2iF-9DAqYu8/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/2iF-9DAqYu8/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/2iF-9DAqYu8/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/2iF-9DAqYu8/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/2iF-9DAqYu8/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Creativity"}],["$","$L11","ou7NitF6gkU",{"video":{"id":"ou7NitF6gkU","title":"How To Draw A Cartoon Dolphin","description":"Follow along with us and learn how to draw a cute cartoon dolphin ever!\n\nBecome an Art Club member https://www.artforkidshub.com/join-art-club/ \nLearn more about the art supplies we love to use https://www.artforkidshub.com/art-supplies/\nLearn more about us https://www.artforkidshub.com/about/\n\nSubscribe to our channel here http://bit.ly/afksubscribe\n\nYou can also find us on:\nFACEBOOK http://facebook.com/artforkidshub\nTWITTER http://twitter.com/artforkidshub\nINSTAGRAM http://instagram.com/artforkidshub\n\nWould your kids like to have their art featured in our Monday video?","channelTitle":"Art for Kids Hub","channelId":"UC5XMF3Inoi8R9nSI8ChOsdQ","publishedAt":"2017-05-04T15:02:55Z","duration":"6:22","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/ou7NitF6gkU/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/ou7NitF6gkU/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/ou7NitF6gkU/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/ou7NitF6gkU/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/ou7NitF6gkU/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Creativity"}],["$","$L11","vjMHleB-Mlw",{"video":{"id":"vjMHleB-Mlw","title":"Kid's Painting Ideas w/ Danny Go! 🎨/// Colors, Shapes, Animals + Counting","description":"$16","channelTitle":"Danny Go!","channelId":"UC3wCAOfSB0W9iuKDDtNJeGw","publishedAt":"2019-10-05T10:30:02Z","duration":"10:12","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/vjMHleB-Mlw/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/vjMHleB-Mlw/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/vjMHleB-Mlw/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/vjMHleB-Mlw/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/vjMHleB-Mlw/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Creativity"}],["$","$L11","kCDcBm3wol4",{"video":{"id":"kCDcBm3wol4","title":"How to Draw a Cute Mobile Simple & Easy for Kids","description":"$17","channelTitle":"Cute Easy Drawings","channelId":"UCNB0kOpUqpB7MUqW53zN8aA","publishedAt":"2024-10-24T13:30:35Z","duration":"8:18","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/kCDcBm3wol4/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/kCDcBm3wol4/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/kCDcBm3wol4/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/kCDcBm3wol4/sddefault.jpg","width":640,"height":480}}},"categoryLabel":"Creativity"}],["$","$L11","imKc7XrkWZk",{"video":{"id":"imKc7XrkWZk","title":"How to Draw a Cute Chocolate Bar Simple & Easy for Kids","description":"$18","channelTitle":"Cute Easy Drawings","channelId":"UCNB0kOpUqpB7MUqW53zN8aA","publishedAt":"2024-05-16T14:10:26Z","duration":"8:13","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/imKc7XrkWZk/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/imKc7XrkWZk/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/imKc7XrkWZk/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/imKc7XrkWZk/sddefault.jpg","width":640,"height":480}}},"categoryLabel":"Creativity"}],["$","$L11","_g4vy7H8bdo",{"video":{"id":"_g4vy7H8bdo","title":"How To Draw Stitch From Lilo And Stitch","description":"Today, we're learning how to draw Stitch from Lilo and Stitch! We hope you follow along with us, all you need is something to draw with, paper, and coloring supplies.\n\nJoin our monthly membership and download our app! You can watch our lessons in a safe distraction-free environment. In the app, you can also download lessons to watch without an internet connection. Visit https://www.artforkidshub.tv/ to learn more and join!\n\n🎨   VISIT OUR AMAZON ART SUPPLY STORE https://www.amazon.com/shop/artforkidshub\n\n📺   SUBSCRIBE to our channel here http://bit.ly/afksubscribe\n\n📷  POST your child's artwork to:\nFACEBOOK http://facebook.com/artforkidshub\nTWITTER http://twitter.com/artforkidshub\nINSTAGRAM http://instagram.com/artforkidshub\n\n👴🏻 👩🏻 👦🏻 👧🏻 👦🏻 👶🏻  Learn more about us https://www.artforkidshub.com/about/\n#howtodraw #artforkidshub","channelTitle":"Art for Kids Hub","channelId":"UC5XMF3Inoi8R9nSI8ChOsdQ","publishedAt":"2020-02-06T16:14:46Z","duration":"8:24","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/_g4vy7H8bdo/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/_g4vy7H8bdo/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/_g4vy7H8bdo/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/_g4vy7H8bdo/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/_g4vy7H8bdo/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Creativity"}],["$","$L11","hBQRJGlOsGI",{"video":{"id":"hBQRJGlOsGI","title":"How To Make Easy Paper Sword Toy  For Kids / Nursery Craft Ideas / Paper Craft Easy / KIDS crafts","description":"$19","channelTitle":"KIDS crafts","channelId":"UCsVSyGpwtWA73uah4Wa8a7w","publishedAt":"2023-08-30T09:30:19Z","duration":"5:50","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/hBQRJGlOsGI/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/hBQRJGlOsGI/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/hBQRJGlOsGI/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/hBQRJGlOsGI/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/hBQRJGlOsGI/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Creativity"}],["$","$L11","dH5dVbL8SzQ",{"video":{"id":"dH5dVbL8SzQ","title":"How to draw pictures using numbers 1 to 10 || Number Drawing easy step by step ||","description":"$1a","channelTitle":"Art Galaxy","channelId":"UC0LJgjDAFDgw3ePdQKcTsjA","publishedAt":"2021-02-25T15:45:27Z","duration":"6:45","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/dH5dVbL8SzQ/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/dH5dVbL8SzQ/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/dH5dVbL8SzQ/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/dH5dVbL8SzQ/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/dH5dVbL8SzQ/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Creativity"}]]}]]}]]}]

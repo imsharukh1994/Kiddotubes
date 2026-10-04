@@ -9,15 +9,34 @@ export default function PremiumUpgradeModal() {
   const { premiumModalOpen, closePremiumModal, activatePremium, user } = useAuth();
   const [billingCycle, setBillingCycle] = useState<'monthly' | 'annual'>('annual');
   const [isSuccess, setIsSuccess] = useState(false);
+  const [errorMessage, setErrorMessage] = useState<string | null>(null);
 
   if (!premiumModalOpen) return null;
 
-  const handleSubscribe = () => {
-    setIsSuccess(true);
-    setTimeout(() => {
-      activatePremium();
-      setIsSuccess(false);
-    }, 1800);
+  const handleSubscribe = async () => {
+    setErrorMessage(null);
+    const capacitorPlugin = (typeof window !== 'undefined' && (window as any).Capacitor?.Plugins?.BillingPlugin);
+
+    if (capacitorPlugin) {
+      try {
+        await capacitorPlugin.launchPurchase({ basePlanId: billingCycle === 'annual' ? 'yearly' : 'monthly' });
+        setIsSuccess(true);
+        setTimeout(() => {
+          activatePremium();
+          setIsSuccess(false);
+        }, 1800);
+      } catch (err: any) {
+        console.error('Google Play Billing Error:', err);
+        setErrorMessage(err?.message || 'Google Play Billing product not found or unavailable.');
+      }
+    } else {
+      // Web fallback
+      setIsSuccess(true);
+      setTimeout(() => {
+        activatePremium();
+        setIsSuccess(false);
+      }, 1800);
+    }
   };
 
   return (
@@ -119,6 +138,13 @@ export default function PremiumUpgradeModal() {
                 </div>
               ))}
             </div>
+
+            {/* Error Banner */}
+            {errorMessage && (
+              <div className="p-3 bg-amber-50 border border-amber-200 rounded-xl text-amber-900 text-xs font-semibold">
+                ⚠️ {errorMessage}
+              </div>
+            )}
 
             {/* Subscribe Action Button */}
             <div className="space-y-2 pt-2">
