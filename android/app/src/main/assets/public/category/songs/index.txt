@@ -1,0 +1,802 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[575,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"AuthProvider"]
+7:I[1196,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"TimerProvider"]
+8:I[842,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+9:I[8349,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+a:I[3313,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+b:I[6733,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+c:I[3633,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+d:I[833,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+e:I[5050,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+4:["category","songs","d"]
+0:["NbHBbKWALoxX09RfsceYs",[[["",{"children":["category",{"children":[["category","songs","d"],{"children":["__PAGE__?{\"category\":\"songs\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["category",{"children":[["category","songs","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","category","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","category","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/cd7f3fa21f915505.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"bg-[#F8FAFC] text-slate-900 font-sans min-h-screen flex flex-col antialiased pb-16 md:pb-0","children":["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","main",null,{"className":"flex-1 max-w-[1440px] w-full mx-auto px-4 xs:px-5 sm:px-8 lg:px-12 py-4 sm:py-8","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}],["$","$Le",null,{}]]}]}]}]}]],null],null],["$Lf",null]]]]
+f:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Songs Videos — KiddoTube"}],["$","meta","3",{"name":"description","content":"Fun music & rhymes"}],["$","meta","4",{"name":"keywords","content":"Kids Videos,KiddoTube,Educational Videos,Nursery Rhymes,Safe Content Discovery"}],["$","link","5",{"rel":"shortcut icon","href":"/images/favicon.png"}],["$","link","6",{"rel":"icon","href":"/images/favicon.png"}],["$","link","7",{"rel":"apple-touch-icon","href":"/images/favicon.png"}]]
+1:null
+10:I[2972,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","130","static/chunks/app/category/%5Bcategory%5D/page-526a8d841d796d9e.js"],""]
+11:I[265,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","130","static/chunks/app/category/%5Bcategory%5D/page-526a8d841d796d9e.js"],"default"]
+12:Ta6a,Mom and J.J. are playing in the park! Join them and sing along for some fun!
+Subscribe for new videos every week: https://www.youtube.com/c/cocomelon?sub_confirmation=1
+
+Lyrics: 
+
+Shoes, shoes, it’s time to wear your shoes
+Yes, yes, yes, I want to wear my shoes
+Good, good, the shoes are good for you
+Yay, yay, yay, I like them, ooh!
+See, see, Teddy likes the shoes
+One, two, three, almost on, you see!
+Yes, yes, yes, I’ll put them on right now!
+Stomp, stomp, stomp, I like them, wow!
+
+Sunscreen, sunscreen, it’s time to put on sunscreen
+Yes, yes, yes, I want to wear the sunscreen
+Good, good, the sunscreen’s good for you
+Yay, yay, yay, I like it, ooh!
+See, see, Elephant likes the sunscreen
+One, two, three, almost on, you see!
+Yes, yes, yes, I’ll put it on right now!
+Rub, rub, rub, I like it, wow!
+
+
+Bars, bars, why don’t you climb the bars
+Yes, yes, yes, I want to climb the bars
+Good, good, the bars are fun for you
+Yay, yay, yay, I like them, ooh!
+See, see, Monkey likes the bars
+One, two, three, climbing’s fun, you see!
+Yes, yes, yes, you see I’m climbing now!
+Climb, climb, climb, I like it, wow!
+
+Slide, slide, why don’t you try the slide
+Yes, yes, yes I want to try the slide
+Good, good, sliding is fun for you
+Yay, yay, yay, I like it, ooh!
+See, see, Mousie likes to slide
+One, two, three, sliding’s fun, you see!
+Yes, yes, yes, you see I’m sliding  now!
+Slide, slide, slide, I like it, wow!
+
+Swings, swings, why don’t you push the swings
+Yes, yes, yes I want to push the swings
+Good, good, I want to swing with you
+Yay, yay, yay, I like it ooh!
+See, see, Teddy likes to push
+One, two, three, way up high, you see!
+Yes, yes, yes, come here, I’ll push you now!
+Swing, swing, swing, I like it, wow!
+
+About Cocomelon:
+
+Where kids can be happy and smart!
+
+At Cocomelon, our goal is to help make learning a fun and enjoyable experience for kids by creating beautiful 3D animation, educational lyrics, and toe-tapping music. 
+
+Kids will laugh, dance, sing, and play along with our videos, learning letters, numbers, animal sounds, colors, and much, much more while simply enjoying our friendly characters and fun stories.
+
+We also make life easier for parents who want to keep their kids happily entertained, giving you the peace of mind that your children are receiving quality educational content.  Our videos also give you an opportunity to teach and play with your children as you both watch!
+
+WEBSITE: http://www.Cocomelon.com
+FACEBOOK: https://www.facebook.com/Cocomelonkids
+INSTAGRAM: https://www.instagram.com/cocomelon/
+TWITTER: https://www.twitter.com/Cocomelonkids
+
+
+Copyright © Treasure Studio, Inc. All rights reserved.13:T4c7,Subscribe and watch full version of the songs uploaded every week.
+★ YouTube Channel: https://www.youtube.com/channel/UC-cY4X2sLECUhishGNiyofQ?sub_confirmation=1
+
+☀️Good Morning! Bebefinn Healthy Habit Songs Playlist
+https://www.youtube.com/watch?v=kuDzMR6k4R4&list=PLsNBVaY0LV8QBdt7tzKRp5J-UkYymcQYY&index=1
+
+----
+★List of Songs
+00:00:00 Wake Up Now!
+00:00:16 Good Morning Song
+00:03:19 Walking Walking
+00:06:30 This Is the Way We Get Ready
+00:09:18 Hide and Seek
+00:12:25 Yes, Yes, Potty Party!
+00:15:13 If You’re Happy
+----
+Follow us on Social Media for new updates and free promotions.
+★ App (Baby Shark Best Kids Songs & Stories) https://fong.kr/119/09
+🎁 Visit our Official Store : https://fong.kr/10826/
+★ Website:  https://www.pinkfong.com
+★ TikTok :https://www.tiktok.com/@bebefinn_official?
+★ Instagram: https://www.instagram.com/bebefinn.official/
+★ Twitter: https://twitter.com/pinkfong_usa
+
+Please take a moment, and participate in a survey for better contents ✅ We would love to hear anything from you!  💗
+https://forms.gle/83JN6rvW11oWcB977
+
+#Bebefinn #BebefinnNurseryrhymes #BebefinnBabyShark
+Copyright © 2023 The Pinkfong Company, Inc.  All Rights Reserved. All Rights Reserved.14:Tc08,JJ is acting just like Dad! 👞 Watch JJ brush his teeth, get dressed, and try to "read the news" in this catchy new song about growing up. He’s discovering that being just like the big kids is a lot of work, but a whole lot of fun!
+
+#cocomelon #cocomelonfamily #nurseryrhymes #kidsvideos #kidssongs 
+
+Subscribe for new videos every week!
+https://www.youtube.com/c/CoComelon?sub_confirmation=1
+
+I can be like you,
+Ready for something new.
+Anything that you can do,
+I want to do it too.
+I can be like you,
+Yes I will, it's true.
+Mommy, daddy, sister, brother, Mr.,
+I can be like you!
+
+I can brush my teeth!
+I can do what you do!
+I can get ready,
+Just as fast as you do!
+I can jump around,
+Like a kangaroo.
+Can you?
+Anything that you can do,
+I want to do it too!
+
+I can be like you,
+Ready for something new.
+Anything that you can do, 
+I want to do it too.
+I can be like you,
+Yes I will, it's true.
+Mommy, daddy, sister, brother, Mr.,
+I can be like you!
+
+Yes I can get dressed!
+I can do what you do!
+I can wear a shirt,
+Just the way that you do!
+Yes, I can read the news - just like you,
+And I can chew my food like you!
+Everything that you can do,
+I want to do it too!
+
+I can,
+Be like you.
+Yes, I wanna, wanna, wanna, 
+Be like you!
+
+I can,
+Be like you.
+Yes, I wanna, wanna, wanna, 
+Be like you!
+
+I can,
+Be like you.
+Yes, I wanna, wanna, wanna, 
+Be like you!
+
+I can,
+Be like you.
+Yes, I wanna, wanna, wanna, 
+Be like you!
+
+I can be like you,
+Ready for something new.
+Anything that you can do,
+I want to do it too!
+I can be like you,
+Yes I will, it's true!
+Mommy, daddy, sister, brother, Mr.,
+I can be like you!  
+Mommy, daddy, sister, brother, Mr.,
+I can be like you!  
+Mommy, daddy, sister, brother, Mr.,
+I can be like you
+
+Music available on all major streaming platforms now:
+🍉 https://cocomelon.lnk.to/TheCompleteCollectionYT!DSC
+
+Watch our playlists: 
+New Kids Songs by CoComelon
+https://www.youtube.com/playlist?list=PLT1rvk7Trkw6-eCetnOs60kLGdmcHhyj0
+
+ALL NEW CoComelon Animal Episodes! 🤩
+https://www.youtube.com/playlist?list=PLb8WrhcvGhOjFm2xrfaUZq3ytKuWQL5wE
+
+ALL NEW Melon Patch Episodes! 🍉
+https://www.youtube.com/playlist?list=PLG-JTGmBSVRl8-uwmN0GmKVDbMi97gP4O
+
+Website ► https://cocomelon.com/ 
+Facebook ►https://www.facebook.com/CoComelonKids 
+Instagram ►https://www.instagram.com/cocomelon/ 
+TikTok ► https://www.tiktok.com/@cocomelon?lang=en
+Music Services ►https://lnk.to/CoCoCCYTBYT
+iOS Learning App ► https://apps.apple.com/us/app/cocomelon-kids-learn-play/id6498924680
+Android Learning App ► https://play.google.com/store/apps/details?id=com.moonbug.ccml
+
+About CoComelon:
+
+Where kids can be happy and smart!
+
+CoComelon’s 3D animation and songs create a world that centers on the everyday experiences of young children. 
+In addition to helping preschoolers learn letters, numbers, animal sounds, colors, and more, the videos impart prosocial life lessons, providing parents with an opportunity to teach and play with their children as they watch together.
+
+© Moonbug Entertainment. All rights Reserved.15:T92b,It’s the perfect day for rainbow popsicles, but what ingredients do we need? Sing along and help TomTom, Yoyo, and JJ make some while learning colors!
+Subscribe for new videos every week: https://www.youtube.com/c/cocomelon?sub_confirmation=1
+
+Lyrics:
+
+It’s time for rainbow popsicles
+Yummy yummy colorful popsicles
+It’s time for rainbow popsicles
+What color do we need?
+
+We need to find a fruit that is red
+We need to find a fruit that is red
+We need to find a fruit that is red
+Look!  Some strawberries!
+
+We need to find a fruit that is orange
+We need to find a fruit that is orange
+We need to find a fruit that is orange
+Look!  Some oranges!
+
+We need to find a fruit that is yellow 
+We need to find a fruit that is yellow
+We need to find a fruit that is yellow
+Look!  A pineapple!
+
+We need to find a fruit that is green 
+We need to find a fruit that is green
+We need to find a fruit that is green
+Look!  Some Kiwis!
+
+We need to find a fruit that is blue 
+We need to find a fruit that is blue
+We need to find a fruit that is blue
+Look!  Some blueberries!
+
+
+We need to find a fruit that is purple 
+We need to find a fruit that is purple
+We need to find a fruit that is purple
+Look!  Some grapes!
+
+I love rainbow popsicles
+Yummy yummy colorful popsicles
+I love rainbow popsicles
+Yummy yummy popsicles!
+
+About Cocomelon:
+
+Where kids can be happy and smart!
+
+At Cocomelon, our goal is to help make learning a fun and enjoyable experience for kids by creating beautiful 3D animation, educational lyrics, and toe-tapping music. 
+
+Kids will laugh, dance, sing, and play along with our videos, learning letters, numbers, animal sounds, colors, and much, much more while simply enjoying our friendly characters and fun stories.
+
+We also make life easier for parents who want to keep their kids happily entertained, giving you the peace of mind that your children are receiving quality educational content.  Our videos also give you an opportunity to teach and play with your children as you both watch!
+
+ALL NEW Melon Patch Episodes! 🍉
+https://www.youtube.com/playlist?list=PLG-JTGmBSVRl8-uwmN0GmKVDbMi97gP4O
+
+WEBSITE: http://www.Cocomelon.com
+FACEBOOK: https://www.facebook.com/Cocomelonkids
+INSTAGRAM: https://www.instagram.com/cocomelon/
+TWITTER: https://www.twitter.com/Cocomelonkids
+
+
+Copyright © Treasure Studio, Inc. All rights reserved.16:T519,Numbers Song Global English Version - https://bit.ly/2O6z410
+
+Check out our popular playlists to keep your little ones engaged and learning non-stop!
+
+Click here for brand new songs with Baby Taku & Friends ► https://www.youtube.com/playlist?list=PLV-cxl3VSwWEYTEMUd3RSzrTZq2q1hVnW
+Click here for Baby songs compilations! ► https://www.youtube.com/playlist?list=PLV-cxl3VSwWEdz04xWv32x5G4XTBVOUfX
+Click here for Classic Nursery Rhymes! ► https://www.youtube.com/playlist?list=PLV-cxl3VSwWHa83pPHIealm1vg0Cdp3aZ
+
+ChuChu TV is now available on all major music streaming platforms. You can now listen to your favorite ChuChu TV songs anytime, anywhere.
+
+Listen on Spotify ► https://orcd.co/npnkjdp
+Listen on Apple Music ► https://music.lnk.to/NkiCKW
+Listen on Amazon Music ► https://music.amazon.com/albums/B0BZZJBFF7?ref=AM4APC_AL_P_en_US_B00LP2FTLC_L7KKQQr
+Listen on YouTube Music ► https://music.youtube.com/channel/UC7fk9tVVNRZAjhjps2O4Ygg?si=wAXe-rmmwVnILxyN
+
+ChuChu TV creates entertaining and educational videos for toddlers globally. Their lovable characters aid in developing cognitive skills, memory, recognition, and more. Click here to Subscribe to our channel - https://bit.ly/32NxN7y
+
+Copyright © ChuChu TV® Studios LLP. All Rights Reserved!
+
+#ChuChuTV #NurseryRhymes #BabySongs17:T8d2,Have fun singing along to this traditional nursery rhyme about three little kittens and their lost mittens!
+Subscribe for new videos every week: https://www.youtube.com/c/cocomelon?sub_confirmation=1
+
+Lyrics:
+
+The three little kittens, they lost their mittens,
+And they began to cry.
+“Oh Mother dear, we sadly fear,
+Our mittens we have lost.”
+“What?  Lost your mittens?  You naughty kittens,
+Then you shall have no pie.”
+“Meow, meow, meow, meow,
+Then we shall have no pie.”
+
+The three little kittens, they found their mittens,
+And they began to cry,
+“Oh Mother dear, see here, see here,
+Our mittens we have found!”
+“Put on your mittens, you silly kittens,
+And you shall have some pie.”
+“Meow, meow, meow, meow,
+Then we shall have some pie.”
+
+The three little kittens put on their mittens
+And soon ate up the pie.
+“Oh Mother dear, we greatly fear,
+Our mittens we have soiled.”
+“What?  Soiled your mittens?  You naughty kittens!”
+Then they began to sigh.
+“Meow, meow, meow, meow,
+Then they began to sigh.
+
+The three little kittens, they washed their mittens
+And hung them out to dry.
+“Oh Mother dear, see here, see here,
+Our mittens we have washed.”
+“What?  Washed your mittens?  Such good little kittens,
+I smell a wolf close by.”
+“Meow, meow, meow, meow,
+We smell a wolf close by.”
+
+About Cocomelon:
+
+Where kids can be happy and smart!
+
+At Cocomelon, our goal is to help make learning a fun and enjoyable experience for kids by creating beautiful 3D animation, educational lyrics, and toe-tapping music. 
+
+Kids will laugh, dance, sing, and play along with our videos, learning letters, numbers, animal sounds, colors, and much, much more while simply enjoying our friendly characters and fun stories.
+
+We also make life easier for parents who want to keep their kids happily entertained, giving you the peace of mind that your children are receiving quality educational content.  Our videos also give you an opportunity to teach and play with your children as you both watch!
+
+WEBSITE: http://www.Cocomelon.com
+FACEBOOK: https://www.facebook.com/Cocomelonkids
+INSTAGRAM: https://www.instagram.com/cocomelon/
+TWITTER: https://www.twitter.com/Cocomelonkids
+
+
+Copyright © Treasure Studio, Inc. All rights reserved.18:Tb6f,It's time to eat your yummy fruits! Sing along with JJ, Cody, Nina and Cody's dad and have fun eating your favorite fruits!
+
+Subscribe for new videos every week! https://www.youtube.com/c/CoComelon?sub_confirmation=1
+
+Lyrics: 
+Apples, apples, it’s time to eat your apples! 
+Yes, yes, yes. I want to eat the apples! 
+Good, good! Apples are good for you! 
+Yay, yay, yay. We love them, oooh! 
+See, see, Dino likes them too. One, two, three, he ate them up you see. 
+Ha, ha, ha. The apples are all gone now. Yum, yum, yum. We like them, wow. 
+
+Grapes, grapes, it’s time to eat your grapes! 
+Yes, yes, yes. I want to eat the grapes! 
+Good, good! Grapes are good for you! 
+Yay, yay, yay. We love them, oooh!
+See, see, Teddy likes them too. One, two, three, he ate them up you see. 
+Ha, ha, ha.The grapes are all gone now. Yum, yum, yum. We like them, wow.
+
+Bananas, bananas, it’s time to eat bananas! 
+Yes, yes, yes. I want to eat bananas! 
+Good, good! Bananas are good for you! 
+Yay, yay, yay. We love them, oooh! 
+See, see, Bunny likes them too. One, two, three, she ate them up you see. 
+Ha, ha, ha. The bananas are all gone now. Yum, yum, yum. We like them, wow. 
+
+Orange, orange, it’s time to eat  your orange! 
+Yes, yes, yes. I want to eat the orange! 
+Good, good! The orange is good for you! 
+Yay, yay, yay. I love it, oooh!
+See, see, Dino likes fruit too. One, two, three, he ate it up you see. 
+Ha, ha, ha. The orange is all gone now.Yum, yum, yum. I like it, wow! 
+
+Music available on all major streaming platforms now:
+🍉 https://cocomelon.lnk.to/TheCompleteCollectionYT!DSC
+🍉 Sign up for the CoCoClub newsletter to access exclusive content, giveaways, and more! https://lnk.to/CCMNews
+
+Watch our playlists: 
+New Kids Songs by CoComelon
+https://www.youtube.com/playlist?list=PLT1rvk7Trkw6-eCetnOs60kLGdmcHhyj0
+
+ALL NEW CoComelon Animal Episodes! 🤩
+https://www.youtube.com/playlist?list=PLb8WrhcvGhOjFm2xrfaUZq3ytKuWQL5wE
+
+ALL NEW CoComelon Classroom Episodes!
+https://www.youtube.com/playlist?list=PLG-JTGmBSVRljCOwbfEgPQlQoWIpvXWpG
+
+Website ► https://cocomelon.com/ 
+Facebook ►https://www.facebook.com/CoComelonKids 
+Instagram ►https://www.instagram.com/cocomelon/ 
+TikTok ► https://www.tiktok.com/@cocomelon?lang=en
+Music Services ►https://lnk.to/CoCoCCYTBYT
+iOS Learning App ► https://apps.apple.com/us/app/cocomelon-kids-learn-play/id6498924680
+Android Learning App ► https://play.google.com/store/apps/details?id=com.moonbug.ccml
+
+About CoComelon:
+
+Where kids can be happy and smart!
+
+CoComelon’s 3D animation and songs create a world that centers on the everyday experiences of young children. 
+In addition to helping preschoolers learn letters, numbers, animal sounds, colors, and more, the videos impart prosocial life lessons, providing parents with an opportunity to teach and play with their children as they watch together.
+
+Copyright Treasure Studio, Inc.  All Rights Reserved.19:T480,🎵 See You Later Alligator + 6 More Adorable Songs!
+
+This cute 3D animated kids song compilation features some of our most loved songs from LilLilKidsSongs! Perfect for babies, toddlers, and preschoolers to sing along, dance, and have fun.
+
+With colorful characters, playful music, and lovable animations, these songs are designed to make kids laugh, learn, and move while enjoying wholesome family-friendly entertainment.
+
+🎶 Included Songs
+
+0:08 – See You Later Alligator 🐊 (Extended)
+2:04 – How Do You Do Avocado 🥑 (Deluxe)
+4:01 – I Love You Mommy 🐵💕
+6:15 – Here Comes the Fire Truck 🚒
+8:46 – Come Back Quack Quack Quack 🦆
+13:08 – Sunshine Girl ☀️
+15:06 – Five Little Soccer Balls and Eggs ⚽🥚
+
+Bright Pixar-style 3D animation, cute characters, and sweet messages your child will want to watch again and again.
+
+Perfect for:
+• Babies
+• Toddlers
+• Preschoolers
+• Family sing-along time
+
+👉 Don’t forget to LIKE and SUBSCRIBE for more weekly kids songs!
+
+#LilLilKidsSongs
+#KidsSongs
+#NurseryRhymes
+#ToddlerSongs
+#BabySongs
+#KidsMusic
+#3DAnimation
+#SeeYouLaterAlligator
+#SingAlong
+#FamilyFriendly1a:T132a,►►Click link to Stream or Buy Super kids songs https://bit.ly/3xQ4Sg8
+
+Listen to Super kids Songs on
+Spotify: https://spoti.fi/2CTuz46
+Apple Music: https://apple.co/31BzUHz
+Amazon:  https://amzn.to/2N2xc8C
+
+
+Adaeze and the Superkids Bring one of the Best Sing Along Song. Get ready for Fun & Energy filled Song.
+
+Grow your channel Fast Like ours.
+Use Our Favorite YouTube Tool TubeBuddy
+Download TubeBuddy Free Today! ➜ https://www.tubebuddy.com/superkids use the coupon "SUPERKIDS" for 25% Discount.
+
+
+Enjoy new top Nursery Rhymes from Super kids
+Super kids Nursery rhymes.
+The Superkids - Goodbye Teacher | Daddy's Girl | Row your boat & other Nursery Rhymes.
+
+
+Super Kids - GOOD BYE TEACHER LYRICS
+
+CHORUS: Parents listen to your children – Children
+We are the future generation – Generation
+Keep your silver and gold, just give us sound education – Education (x2)
+Gold is good – Oh yes!
+Silver is good – Oh yes!
+They are not my pride… - They are not my pride
+My pride is education, Education is my pride – Educa educa (x2)
+
+Kekedi keke – Ewa (x3)
+Are we together? Yes sir
+Shake your body – Yes sir
+Stamp your feet – Yes sir
+Touch your neighbor – Yes sir
+
+The best book to read is the bible, the best book to read is the bible
+If you read it everyday, it will guide you on your way, the best book to read is the bible.
+So read your bible pray everyday, pray everyday, pray everyday.
+Read your bible pray everyday, if you want to grow.
+If you want to grow, if you want to grow ooo……
+Read your bible pray everyday, if you want to grow.
+
+Neglect your bible forget to pray, forget to pray, forget to pray.
+Neglect your bible forget to pray
+You will shrink shrink shrink
+You will shrink shrink shrink
+You will shrink shrink shrink…
+Neglect your bible forget to pray, you will shrink shrink shrink
+
+Kekedi keke – Ewa (x3)
+Are we together? Yes sir
+Shake your body – Yes sir
+Stamp your feet – Yes sir
+Touch your neighbor – Yes sir
+
+Holiday is coming – I am going home
+Mom and Dad are waiting – Oh! Am happy
+Holiday is coming – I am going home
+Goodbye good bye we shall meet again
+Goodbye goodbye we shall meet again.
+
+Goodbye teacher teacher, goodbye friends
+Goodbye everyone am going for holiday (x2)
+
+Next time we shall meet again 
+Meet again, meet again 
+Next time we shall meet again 
+Am going for holiday (x2)
+
+Kekedi keke – Ewa (x3)
+Are we together? Yes sir
+Shake your body – Yes sir
+Stamp your feet – Yes sir
+Touch your neighbor – Yes sir
+
+If I have a stick I’ll walk like an old woman – Walk like an old woman, walk like an old woman
+If I have a wing I’ll fly like a butterfly – Fly like a butterfly, fly like a butterfly
+If I have a boot I’ll match like a soldier man – Match like a soldierman, Match like a soldierman
+If I have a tail I’ll wag like a crocodile – Wag like a crocodile, wag like a crocodile
+If I have a long legs I’ll hop like a Kangaroo – Hop like a kangaroo, hoop like a kangaroo
+If I have a fin I’ll swim like a dolphin – Swim like a dolphin, swim like a dolphin
+If I have a gun I’ll shoot like a hunter (pua pua) – Shoot like a hunter, shoot like a hunter (pua pua)
+
+Kekedi keke – Ewa (x3)
+Are we together? Yes sir
+Shake your body – Yes sir
+Stamp your feet – Yes sir
+Touch your neighbor – Yes sir
+
+My head, my shoulders, my knees and toes
+Knees and toes, knees and toes
+My head my shoulder, my knees and toes 
+They all belong to Jesus (X4)
+
+Show me your eyes – These are my eyes
+Show me your nose – This is my nose
+Show me your lips – These are my lips
+Show me your tongue – This is my tongue
+Show me your wrist – This is my wrist
+Show me your ankle – This is my ankle
+Show me your waist – This is my waist
+Show me your buttock – This is my buttock
+
+Kekedi keke – Ewa (x3)
+Are we together? Yes sir
+Shake your body – Yes sir
+Stamp your feet – Yes sir
+Touch your neighbor – Yes sir
+
+I am happy am in Jesus army (x4)
+Hippi yaya hippi hippi yaya (x4)
+
+Row, row, row your boat
+Gently down the stream
+If you see a crocodile
+Don’t forget to shout – Ah!!! (x2)
+
+Kekedi keke – Ewa (x3)
+Are we together? Yes sir
+Shake your body – Yes sir
+Stamp your feet – Yes sir
+Touch your neighbor – Yes sir
+
+I have a sister – Sister
+Her name is Daddy girl – Daddy girl
+Anytime she wants to dance, she will shake, shake, shake and fall down
+I have a sister – Sister
+Her name is Daddy girl – Daddy, daddy girl
+Anytime she wants to dance, she will shake, shake, shake and fall down
+Let’s clap for daddy girl – clap….
+Let’s shake like daddy girl – shake, shake….
+Anytime she wants to dance, she will shake, shake, shake and fall down (x2)
+Let us shake, shake, shake and fall down
+We will shake, shake, shake and fall down.
+
+-~-~~-~~~-~~-~-
+Please watch: "Super kids - Rainbow Party  (Official Video)" 
+https://www.youtube.com/watch?v=lYwfm4mO32s
+-~-~~-~~~-~~-~-1b:Tc14,Look out!  Here comes the Big Bad Wolf!  The three little pigs each hide in their houses made of hay, sticks, and brick, but will they be strong enough to stand up to the wolf’s huffing and puffing?  
+Subscribe for new videos every week: https://www.youtube.com/c/cocomelon?sub_confirmation=1
+
+Lyrics:
+ 
+Three little pigs went out one day
+One built a house made out of hay
+The other pigs thought it would fall, fall, fall
+But the first didn’t care at all.
+ 
+Three little pigs went out one day
+The second used sticks to build away
+The third pig thought it would fall, fall, fall
+But the second didn’t care at all.
+ 
+Three little pigs went out one day
+For the third pig, bricks were the way
+He knew the house wouldn’t fall, fall, fall
+So the work didn’t bother him at all.
+ 
+Then came a wolf who was big and bad
+He was incredibly hungry and mad
+The three little pigs saw the wolf that day
+They slammed their doors and hid away
+ 
+“Little pig, little pig, let me in!”
+“Not by the hair on my chinny-chin chin!”
+“Then I’ll huff and I’ll puff, and I’ll blow, blow, blow!”
+And boy, did the hay house go!
+ 
+“Little pigs, little pigs, let me in!”
+“Not by the hair on our chinny-chin chins!”
+“Then I’ll huff and I’ll puff, and I’ll blow, blow, blow!”
+And boy, did the stick house go!
+ 
+“Little pigs, little pigs, let me in!”
+“Not by the hair on our chinny-chin chins !”
+“Then I’ll huff and I’ll puff, and I’ll blow, blow, blow!”
+But the bricks surely did not go!
+ 
+The wolf was at his wit’s end, you see
+He climbed on the roof, down the brick chimney!
+He came with his teeth all bared, bared, bared
+So the three little pigs got scared!
+ 
+The third little pig lit a log on fire
+The smoke started rising, higher and higher
+The wolf burned his hairy tail, OW! OW! OW!
+And the wolf ran out of town!
+ 
+The two little piggies of hay and sticks
+Learned a lesson all about work and bricks
+A hard-worked job won’t fall fall fall
+To a huff, or a puff, at all!
+ 
+The three little pigs went out that day
+Now they were free to laugh and play
+The Big Bad Wolf was gone gone gone
+And the little pigs danced ‘til dawn!
+
+About Cocomelon:
+
+Where kids can be happy and smart!
+
+At Cocomelon, our goal is to help make learning a fun and enjoyable experience for kids by creating beautiful 3D animation, educational lyrics, and toe-tapping music. 
+
+Kids will laugh, dance, sing, and play along with our videos, learning letters, numbers, animal sounds, colors, and much, much more while simply enjoying our friendly characters and fun stories.
+
+We also make life easier for parents who want to keep their kids happily entertained, giving you the peace of mind that your children are receiving quality educational content.  Our videos also give you an opportunity to teach and play with your children as you both watch!
+
+WEBSITE: http://www.Cocomelon.com
+FACEBOOK: https://www.facebook.com/Cocomelonkids
+INSTAGRAM: https://www.instagram.com/cocomelon/
+TWITTER: https://www.twitter.com/Cocomelonkids
+
+
+Copyright © Treasure Studio, Inc. All rights reserved.1c:T987,Ants go marching is a popular song loved by all kids. Here are the lyrics :
+
+The ants go marching One by one
+Hurrah.. hurrah..
+
+the ants go marching one by one
+the little one stops to suck his thumb
+
+and they all go marching down to the ground
+to get out of the rain
+
+boom.. boom.. boom.. boom..
+
+the ants go marching two by two
+hurrah.. hurrah..
+
+the ants go marching two by two
+the little one stops to tie his shoes
+
+and they all go marching down to the ground
+to get out of the rain
+
+boom.. boom.. boom.. boom..
+
+the ants go marching three by three
+hurrah.. hurrah..
+
+the ants go marching three by three
+the little one stops to climb a tree
+
+and they all go marching down to the ground
+to get out of the rain
+
+the ants go marching four by four
+hurrah.. hurrah..
+
+the ants go marching four by four
+the little one stops to shut the door
+
+and they all go marching down to the ground
+to get out of the rain
+
+boom.. boom.. boom.. boom..
+
+the ants go marching five by five
+hurrah.. hurrah..
+
+the ants go marching five by five
+the little one stops to take a dive
+
+and they all go marching down to the ground
+to get out of the rain
+
+boom.. boom.. boom.. boom..
+
+the ants go marching six by six
+hurrah.. hurrah..
+
+the ants go marching six by six
+the little one stops to pick up sticks
+
+and they all go marching down to the ground
+to get out of the rain
+
+the ants go marching seven by seven
+hurrah.. hurrah..
+
+the ants go marching seven by seven
+the little one stops to pray to heaven
+
+and they all go marching down to the ground
+to get out of the rain
+
+the ants go marching eight by eight
+hurrah.. hurrah..
+
+the ants go marching eight by eight
+the little one stops to roller-skate
+
+and they all go marching down to the ground
+to get out of the rain
+
+the ants go marching nine by nine
+hurrah.. hurrah..
+
+the ants go marching nine by nine
+the little one stops to check the time
+
+and they all go marching down to the ground
+to get out of the rain
+
+boom.. boom.. boom.. boom..
+
+the ants go marching ten by ten
+hurrah.. hurrah..
+
+the ants go marching ten by ten
+the little one stops to shout THE END
+
+and they all go marching down to the ground
+to get out of the rain
+
+boom.. boom.. boom.. boom..
+
+Enjoy our fun-filled rhyme - "The ants go marching one by one song" : http://youtu.be/Pjw2A3QU8Qg. 
+
+Hope you like our unique song. Subscribe to our channel to get our latest songs - http://www.youtube.com/subscription_center?add_user=turtleinteractive1d:T6c1,🌈 Help us hit 100M! Subscribe now - https://www.youtube.com/ChuChuTV?sub_confirmation=1
+
+Check out the new Vegetable Dance Party song! - https://youtu.be/seCqGIm4QUg
+
+Get ready for a super fun dance party! "The Fruit Friends" are putting on a show where different types of fruit will come on stage and dance their hearts out to entertain the kids. You won't want to miss this!
+
+You can listen to this song on your preferred music streaming platforms. - https://orcd.co/fruitfriends
+
+ChuChu TV is now available on all major music streaming platforms. You can now listen to your favorite ChuChu TV songs anytime, anywhere.
+
+Listen on Spotify ► https://orcd.co/npnkjdp
+Listen on Apple Music ► https://music.lnk.to/NkiCKW
+Listen on Amazon Music ► https://music.amazon.com/albums/B0BZZJBFF7?ref=AM4APC_AL_P_en_US_B00LP2FTLC_L7KKQQr
+Listen on YouTube Music ► https://music.youtube.com/channel/UC7fk9tVVNRZAjhjps2O4Ygg?si=wAXe-rmmwVnILxyN
+
+Check out our popular playlists to keep your little ones engaged and learning non-stop!
+
+Click here for brand new songs with Baby Taku & Friends ► https://www.youtube.com/playlist?list=PLV-cxl3VSwWEYTEMUd3RSzrTZq2q1hVnW
+Click here for Baby songs compilations! ► https://www.youtube.com/playlist?list=PLV-cxl3VSwWEdz04xWv32x5G4XTBVOUfX
+Click here for Classic Nursery Rhymes! ► https://www.youtube.com/playlist?list=PLV-cxl3VSwWHa83pPHIealm1vg0Cdp3aZ
+
+ChuChu TV creates entertaining and educational videos for toddlers globally. Their lovable characters aid in developing cognitive skills, memory, recognition, and more. Click here to Subscribe to our channel - https://bit.ly/32NxN7y
+
+Copyright © ChuChu TV® Studios LLP. All Rights Reserved!
+
+#ChuChuTV #NurseryRhymes #BabySongs2:["$","div",null,{"className":"space-y-8 pb-8","children":[["$","div",null,{"children":["$","$L10",null,{"href":"/","className":"inline-flex items-center gap-1.5 px-3 py-1.5 bg-white rounded-lg text-slate-600 font-semibold text-xs border border-slate-200 hover:border-purple-300 hover:text-purple-900 transition-colors shadow-subtle","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-3.5 h-3.5","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"Back to Discover"}]]}]}],["$","section",null,{"className":"bg-white rounded-2xl sm:rounded-3xl p-4 xs:p-6 sm:p-8 border border-slate-200/80 shadow-subtle space-y-3","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"px-2.5 py-0.5 bg-purple-100 text-purple-900 text-xs font-bold rounded-md uppercase tracking-wider","children":["Ages ","2–4"]}],["$","span",null,{"className":"text-xs text-slate-400 font-semibold","children":["• ",16," Videos"]}]]}],["$","h1",null,{"className":"text-xl xs:text-2xl sm:text-4xl font-black text-slate-900 tracking-tight","children":"Songs"}],["$","p",null,{"className":"text-slate-600 font-medium text-xs sm:text-base max-w-2xl leading-relaxed","children":"Fun music & rhymes"}],["$","div",null,{"className":"pt-2 flex items-center gap-2 text-xs font-medium text-slate-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-shield-check w-4 h-4 text-emerald-600 shrink-0","children":[["$","path","oel41y",{"d":"M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"}],["$","path","dzmm74",{"d":"m9 12 2 2 4-4"}],"$undefined"]}],["$","span",null,{"children":["Strict server-side safe query: \"","kids songs sing along nursery rhymes music","\""]}]]}]]}],["$","section",null,{"className":"space-y-4","children":[["$","h2",null,{"className":"text-lg sm:text-xl font-bold text-slate-900","children":"Watch & Learn"}],["$","div",null,{"className":"grid grid-cols-1 xs:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3.5 sm:gap-5","children":[["$","$L11","lI2wHDsnk0Q",{"video":{"id":"lI2wHDsnk0Q","title":"Top 10 - Ten Most Popular Nursery Rhymes Collection Vol. 1 with Lyrics | Kids Videos For Kids","description":"Top 10 - Ten Most Popular Nursery Rhymes Collection Vol. 1 with Lyrics | Kids Videos For Kids\n\nWatch 10 of the Most Popular Nursery Rhymes for babies and kids with interactive menu and english subtitles\n\n#kidsvideo #kidssong #nurseryrhymes #rhymes \n\nBaa Baa Black Sheep\nOld Mc Donald\nWheels on The Bus\nItsy Bitsy Spider\nMary Had A Little\nRain Rain Go Away\nI Am Little Tea Pot\nAnts Go Marching\nHot Cross Buns\nBits Of Paper\n\nDont Forget To Subscribe Us !\n\n\"kids songs for kids\"\n\"kids songs\"\n\nTop 10 - Ten Most Popular Nursery Rhymes Collection Vol. 1 with Lyrics | Kids Videos For Kids\nTop 10 - Ten Most Popular Nursery Rhymes Collection Vol. 1 with Lyrics | Kids Videos For Kids\nTop 10 - Ten Most Popular Nursery Rhymes Collection Vol. 1 with Lyrics | Kids Videos For Kids","channelTitle":"Kids Carnival","channelId":"UCVfVZs2SSaMSrW7ZsNqBXiA","publishedAt":"2014-04-22T18:30:01Z","duration":"16:22","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/lI2wHDsnk0Q/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/lI2wHDsnk0Q/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/lI2wHDsnk0Q/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/lI2wHDsnk0Q/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/lI2wHDsnk0Q/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Songs"}],["$","$L11","KTOwPz-zMWY",{"video":{"id":"KTOwPz-zMWY","title":"Yes Yes Playground Song | @CoComelon Nursery Rhymes & Kids Songs","description":"$12","channelTitle":"Cocomelon - Nursery Rhymes","channelId":"UCbCmjCuTUZos6Inko4u57UQ","publishedAt":"2018-10-23T07:00:02Z","duration":"4:07","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/KTOwPz-zMWY/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/KTOwPz-zMWY/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/KTOwPz-zMWY/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/KTOwPz-zMWY/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/KTOwPz-zMWY/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Songs"}],["$","$L11","F437eCwurA0",{"video":{"id":"F437eCwurA0","title":"☀️Good Morning! Wake Up | #goodmorning_bebefinn | Nursery Rhymes Compilation for Kids | Family Song","description":"$13","channelTitle":"Bebefinn - Nursery Rhymes & Kids Songs","channelId":"UC-cY4X2sLECUhishGNiyofQ","publishedAt":"2023-04-19T22:00:08Z","duration":"18:31","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/F437eCwurA0/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/F437eCwurA0/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/F437eCwurA0/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/F437eCwurA0/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/F437eCwurA0/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Songs"}],["$","$L11","msVOgYCdJuQ",{"video":{"id":"msVOgYCdJuQ","title":"10 Minutes To Sing and Dance - Kids Songs & Nursery Rhymes | Boogie Bugs","description":"►TRACKLIST\n\n- If You Are Happy And You Know It \n- Itsy-Bitsy Spider \n- With The A A A\n- Hello My Friend, Let’s Play Together\n- Bug Little Bug \n\nKeep listening to the best nursery rhymes with the cutest little bugs in Boogie Bugs channel! \r\n\r\n\r\nSubscribe in our channel and find more videos! ►https://rebrand.ly/SubscribeBoogieBugsInEnglish","channelTitle":"Boogie Bugs","channelId":"UCV7zcTAJFaMXN7HKLN_gj9w","publishedAt":"2020-01-29T18:00:07Z","duration":"11:08","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/msVOgYCdJuQ/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/msVOgYCdJuQ/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/msVOgYCdJuQ/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/msVOgYCdJuQ/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/msVOgYCdJuQ/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Songs"}],["$","$L11","HACCFmy1vCI",{"video":{"id":"HACCFmy1vCI","title":"Father's Day Special Sing-Along | I Can Be Like You | CoComelon Nursery Rhymes & Kids Songs","description":"$14","channelTitle":"Cocomelon - Nursery Rhymes","channelId":"UCbCmjCuTUZos6Inko4u57UQ","publishedAt":"2026-06-13T07:00:37Z","duration":"5:52","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/HACCFmy1vCI/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/HACCFmy1vCI/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/HACCFmy1vCI/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/HACCFmy1vCI/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/HACCFmy1vCI/maxresdefault.jpg","width":1280,"height":720},"fhd":{"url":"https://i.ytimg.com/vi/HACCFmy1vCI/fhddefault.jpg","width":1920,"height":1080}}},"categoryLabel":"Songs"}],["$","$L11","RvgnuPL9x-s",{"video":{"id":"RvgnuPL9x-s","title":"The Colors Song (with Popsicles) | @CoComelon Nursery Rhymes & Kids Songs","description":"$15","channelTitle":"Cocomelon - Nursery Rhymes","channelId":"UCbCmjCuTUZos6Inko4u57UQ","publishedAt":"2018-09-25T07:00:02Z","duration":"4:52","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/RvgnuPL9x-s/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/RvgnuPL9x-s/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/RvgnuPL9x-s/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/RvgnuPL9x-s/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/RvgnuPL9x-s/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Songs"}],["$","$L11","fHqjNHxmB7c",{"video":{"id":"fHqjNHxmB7c","title":"ChuChu TV Numbers Song - NEW Short Version - Number Rhymes For Children","description":"$16","channelTitle":"ChuChu TV Nursery Rhymes & Kids Songs","channelId":"UCBnZ16ahKA2DZ_T5W0FPUXg","publishedAt":"2014-08-21T02:57:16Z","duration":"4:12","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/fHqjNHxmB7c/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/fHqjNHxmB7c/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/fHqjNHxmB7c/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/fHqjNHxmB7c/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/fHqjNHxmB7c/maxresdefault.jpg","width":1280,"height":720},"uhd":{"url":"https://i.ytimg.com/vi/fHqjNHxmB7c/uhddefault.jpg","width":3840,"height":2160}}},"categoryLabel":"Songs"}],["$","$L11","YDFuXIKYRbQ",{"video":{"id":"YDFuXIKYRbQ","title":"Yes Yes Play Safe Song - Sing Along | Children's Song | Earth Stories for Kids @CoComelon","description":"🌿Subscribe for Weekly Green Videos🌿: https://www.youtube.com/channel/UCigYcNw9ifa2y0FS3frR4Vw?sub_confirmation=1\n\nOur Green Earth is an education channel dedicated to educating children about Nature & Science by showcasing different green locations like beaches, forests, gardens, farms and more. It also highlights experiments and songs that stimulate knowledge about the outside world. \n\nHere you will find videos featuring Cocomelon, Blippi, Morphle, Go Buster and more! \n\nOur Mission: The aim of our content is to nurture children’s curiosity and understanding of the Earth by teaching them how to respect and take care of their planet.\n\nEvery Day is Earth Day. 🌍\n\n#Earth #Earthday #kids #cartoon","channelTitle":"Toddler Learning Songs & Cartoons","channelId":"UChp8olUFEI7K_4f5qEuL94A","publishedAt":"2023-01-15T13:00:19Z","duration":"4:02","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/YDFuXIKYRbQ/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/YDFuXIKYRbQ/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/YDFuXIKYRbQ/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/YDFuXIKYRbQ/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/YDFuXIKYRbQ/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Songs"}],["$","$L11","m0VW5f8iezs",{"video":{"id":"m0VW5f8iezs","title":"Three Little Kittens | CoComelon Nursery Rhymes & Kids Songs","description":"$17","channelTitle":"Cocomelon - Nursery Rhymes","channelId":"UCbCmjCuTUZos6Inko4u57UQ","publishedAt":"2017-08-30T07:00:02Z","duration":"5:25","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/m0VW5f8iezs/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/m0VW5f8iezs/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/m0VW5f8iezs/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/m0VW5f8iezs/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/m0VW5f8iezs/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Songs"}],["$","$L11","j86yN2bOiBQ",{"video":{"id":"j86yN2bOiBQ","title":"Fruits and Vegetables Song | CoComelon Nursery Rhymes & Kids Songs","description":"$18","channelTitle":"Cocomelon - Nursery Rhymes","channelId":"UCbCmjCuTUZos6Inko4u57UQ","publishedAt":"2025-01-07T08:00:37Z","duration":"7:12","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/j86yN2bOiBQ/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/j86yN2bOiBQ/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/j86yN2bOiBQ/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/j86yN2bOiBQ/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/j86yN2bOiBQ/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Songs"}],["$","$L11","M01dnDK8mL0",{"video":{"id":"M01dnDK8mL0","title":"See You Later Alligator 🐊 + 6 More Adorable Kids Songs | Cute 3D Animated Nursery Rhymes Compilation","description":"$19","channelTitle":"Lil' Lil Kid's Songs","channelId":"UCJ2ktFFF8s4XCtChqmoNkLg","publishedAt":"2026-03-12T02:00:28Z","duration":"18:11","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/M01dnDK8mL0/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/M01dnDK8mL0/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/M01dnDK8mL0/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/M01dnDK8mL0/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/M01dnDK8mL0/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Songs"}],["$","$L11","LgKHQoPHh_s",{"video":{"id":"LgKHQoPHh_s","title":"The Superkids - Goodbye Teacher | Daddy's Girl | Row your boat & other Nursery Rhymes","description":"$1a","channelTitle":"The Superkids.","channelId":"UCzvJMUdiq83refanctkG9IA","publishedAt":"2015-09-18T23:43:49Z","duration":"9:16","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/LgKHQoPHh_s/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/LgKHQoPHh_s/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/LgKHQoPHh_s/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/LgKHQoPHh_s/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/LgKHQoPHh_s/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Songs"}],["$","$L11","2s7cz6p7jew",{"video":{"id":"2s7cz6p7jew","title":"Three Little Pigs | CoComelon Nursery Rhymes & Kids Songs","description":"$1b","channelTitle":"Cocomelon - Nursery Rhymes","channelId":"UCbCmjCuTUZos6Inko4u57UQ","publishedAt":"2017-06-23T07:00:01Z","duration":"6:36","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/2s7cz6p7jew/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/2s7cz6p7jew/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/2s7cz6p7jew/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/2s7cz6p7jew/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/2s7cz6p7jew/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Songs"}],["$","$L11","Pjw2A3QU8Qg",{"video":{"id":"Pjw2A3QU8Qg","title":"The ants go marching one by one song | Ants at war","description":"$1c","channelTitle":"Turtle Interactive","channelId":"UCe2lzwsff4Jr-CrMxDVVF5A","publishedAt":"2014-01-29T16:43:13Z","duration":"4:11","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/Pjw2A3QU8Qg/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/Pjw2A3QU8Qg/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/Pjw2A3QU8Qg/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/Pjw2A3QU8Qg/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/Pjw2A3QU8Qg/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Songs"}],["$","$L11","DiV48J0uB_Y",{"video":{"id":"DiV48J0uB_Y","title":"The Fruit Friends Song - ChuChu TV Baby Nursery Rhymes and Kids Songs","description":"$1d","channelTitle":"ChuChu TV Nursery Rhymes & Kids Songs","channelId":"UCBnZ16ahKA2DZ_T5W0FPUXg","publishedAt":"2021-08-07T11:30:01Z","duration":"5:42","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/DiV48J0uB_Y/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/DiV48J0uB_Y/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/DiV48J0uB_Y/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/DiV48J0uB_Y/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/DiV48J0uB_Y/maxresdefault.jpg","width":1280,"height":720},"uhd":{"url":"https://i.ytimg.com/vi/DiV48J0uB_Y/uhddefault.jpg","width":3840,"height":2160}}},"categoryLabel":"Songs"}],["$","$L11","2RwZ0_ey89I",{"video":{"id":"2RwZ0_ey89I","title":"Ice Cream Song - Humpty Dumpty Song | Funny and Sing Along Nursery Rhymes","description":"Join the fun and learn how to make homemade ice cream while singing your favorite nursery rhymes with Handmade Ice Cream + Nursery Rhymes & Kids Songs - Sing-Along for Toddlers.\n\nYummy yummy lollipop \nFor you and me.\nMake it even fancy\nOne, two, three.\nFlip-flop, flip flop \nSweet lollypop.\n\nStick your tongue out.\nSay the colors loud.\nBlue, yellow, colorful\nIt's so cool.\n\nYummy Yummy ice cream\nFor you and me.\nMake it even fancy\nOne, two, three.\nFlip-flop, flip flop \nIce cream’s top.\n\nStick your tongue out.\nSay the colors loud.\nPurple Brown colorful\nIt’s so cool.\n\nYummy yummy Donut\nFor you and me.\nMake it even fancy\nOne, two, three.\nFlip-flop, flip flop \nDonut-pop\n\nStick your tongue out.\nSay the colors loud.\nGreen, Pink, Colorful\nIt’s so cool.\n\nYummy yummy big cake\nFor you and me.\nMake it even fancy\nOne, two, three.\nFlip-flop, flip flop \nYummy Cake-Pop.\n\nDaddy come join please\nAnd look at this.\nRainbow, rainbow\nAnd Yummy so.\n\nSubscribe for new videos every week!","channelTitle":"Popular Nursery Rhymes Compilation","channelId":"UC90Ml2n3YtQqgLGQaiQyeHA","publishedAt":"2023-07-17T05:00:00Z","duration":"14:47","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/2RwZ0_ey89I/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/2RwZ0_ey89I/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/2RwZ0_ey89I/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/2RwZ0_ey89I/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/2RwZ0_ey89I/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Songs"}]]}]]}]]}]

@@ -1,0 +1,443 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[575,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"AuthProvider"]
+7:I[1196,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"TimerProvider"]
+8:I[842,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+9:I[8349,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+a:I[3313,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+b:I[6733,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+c:I[3633,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+d:I[833,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+e:I[5050,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+4:["category","movement","d"]
+0:["NbHBbKWALoxX09RfsceYs",[[["",{"children":["category",{"children":[["category","movement","d"],{"children":["__PAGE__?{\"category\":\"movement\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["category",{"children":[["category","movement","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","category","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","category","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/cd7f3fa21f915505.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"bg-[#F8FAFC] text-slate-900 font-sans min-h-screen flex flex-col antialiased pb-16 md:pb-0","children":["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","main",null,{"className":"flex-1 max-w-[1440px] w-full mx-auto px-4 xs:px-5 sm:px-8 lg:px-12 py-4 sm:py-8","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}],["$","$Le",null,{}]]}]}]}]}]],null],null],["$Lf",null]]]]
+f:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Movement Videos — KiddoTube"}],["$","meta","3",{"name":"description","content":"Dance & active play"}],["$","meta","4",{"name":"keywords","content":"Kids Videos,KiddoTube,Educational Videos,Nursery Rhymes,Safe Content Discovery"}],["$","link","5",{"rel":"shortcut icon","href":"/images/favicon.png"}],["$","link","6",{"rel":"icon","href":"/images/favicon.png"}],["$","link","7",{"rel":"apple-touch-icon","href":"/images/favicon.png"}]]
+1:null
+10:I[2972,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","130","static/chunks/app/category/%5Bcategory%5D/page-526a8d841d796d9e.js"],""]
+11:I[265,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","130","static/chunks/app/category/%5Bcategory%5D/page-526a8d841d796d9e.js"],"default"]
+12:T771,Watch Our New Kids Yoga Video Here:  https://youtu.be/TBBBoszPbLI                                             #kidsyoga  #YogaForKids #YogaForFlexibility
+
+Welcome to Koko Joyland! 🌟
+
+In this fun kids yoga class, we’ll explore 9 easy yoga poses to build strength, balance, and flexibility. Perfect for beginners and children of all ages, this yoga adventure makes exercise fun, calming, and healthy.
+
+✨ Yoga Poses in this video:
+
+Cobra Pose 🐍 (Bhujangasana)
+
+Tree Pose 🌳 (Vrksasana)
+
+Seated Side Stretch (Parsva Sukhasana)
+
+Side Split (Hanumanasana)
+
+Low Lunge (Anjaneyasana)
+
+Triangle Pose (Trikonasana)
+
+Warrior Pose I, II & III (Virabhadrasana)
+
+💪 Kids will learn to stretch, relax, and focus while having fun.
+🎯 Great for home practice, classroom breaks, or family fitness time.
+
+👉 Don’t forget to LIKE 👍, SHARE ❤️, and SUBSCRIBE 🔔 for more yoga adventures from Koko Joyland!
+
+🔗 Follow Us:
+📘 Facebook: https://www.facebook.com/kokojoyland
+
+📸 Instagram: https://www.instagram.com/koko95962/reels/?hl=en
+
+▶️ Subscribe: https://www.youtube.com/@kokojoyland?sub_confirmation=1
+
+Watch Our New Kids Yoga Video Here:  https://youtu.be/TBBBoszPbLI
+
+
+
+
+ kids yoga, yoga for kids, yoga for flexibility, kids yoga strength, yoga for balance, yoga adventure, yoga for beginners kids, easy yoga for kids, fun yoga poses for kids, kids exercise, yoga for children, kids fitness routine, yoga for focus, yoga for relaxation, kids stretching, long kids yoga video
+
+🎶 This video was created with love using smart AI tools for fun & learning.
+The music, melody, and narration are original and safe for monetization under YouTube’s policies.
+Let’s keep it kind, creative, and joyful! 💛✨
+
+#KidsYoga #YogaForKids #YogaAdventure #YogaForFlexibility #YogaForStrength #KidsExercise #FamilyYoga #YogaRoutine #YogaForBalance #KokoJoyland #fun learning yoga #family yoga13:T10e1,Buy Now:
+The Yoga Guppy Flashcards on Amazon: https://amzn.in/d/aWNaoyi
+Our Yoga Courses And Classes: https://yogaguppy.com/online-courses/
+
+Title: Yoga Dance Party for Kids | Jungle Freeze Dance & Action Songs
+
+Welcome to Yoga Guppy! 
+About this video;
+Let’s move, dance and stretch in the jungle! 
+Join Yoga Guppy for a super-fun Jungle Yoga Freeze Dance, where kids combine action songs, yoga poses and music for an exciting full-body warm-up! Perfect for classrooms, home play, or preschool activity time.
+
+✨ What’s Inside:
+Fun jungle-themed action songs 
+Freeze-dance games that make kids move mindfully
+Simple yoga poses for balance and flexibility
+A cheerful warm-up that builds focus and fitness
+
+🌟 Why Kids & Parents Love It:
+ This energetic class helps children release energy, improve coordination, and learn yoga through rhythm and fun movement. Ideal for ages 3–10, teachers, and families looking for active playtime with a mindful twist.
+
+🎯 Benefits of Jungle Yoga & Action Songs:
+ ✔️ Boosts energy and focus
+ ✔️ Builds strength and balance
+ ✔️ Encourages listening and coordination
+ ✔️ Introduces yoga through music and play
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🔔 Join the Yoga Guppy Family!  
+👉 Subscribe: https://www.youtube.com/@yogaguppy
+👍 If your child enjoyed this video, hit LIKE and share with friends or teachers!  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+🌐 Follow & Explore More:
+Website: https://yogaguppy.com/ 
+Instagram: https://www.instagram.com/yogaguppy/  
+Facebook: https://www.facebook.com/TheYogaGuppy/  
+Check out our Yoga Channel for adults :  https://www.youtube.com/@YogalateswithRashmi
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+📌 Hashtags:  
+#ActionSongsForKids #JungleYoga #YogaFreezeDance #KidsYoga #YogaGuppy 
+#FunYogaForKids #MindfulKids #YogaForChildren #PreschoolYoga #KidsFitness 
+#YogaDance #FamilyYoga #ChildrenYoga #AnimalYoga #MusicAndMovement 
+#YogaPlaytime #YogaWarmUp #CreativeMovement #YogaFun #MindfulMovement
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Queries Solved;
+What are the best jungle yoga action songs for kids?
+How to do a yoga freeze dance for children?
+What is a musical warm-up activity for preschoolers?
+How to make yoga fun with music for kids?
+What are some fun movement songs for yoga class?
+How can kids learn yoga through dance and play?
+What is Jungle Yoga for children?
+Best action songs with yoga poses for kids?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+CREDITS 
+Production & Animation by Caliac Studios
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Tags:
+yoga for kids, kids yoga poses, lying down yoga, beginner yoga for children,flexibility for kids, easy yoga poses for kids, fun yoga for kids, children yoga class, yoga for school kids, mindful kids yoga, relaxing yoga for kids, bedtime yoga for children, yoga guppy, simple yoga stretches, yoga poses for flexibility, yoga for toddlers, floor yoga for kids, calming yoga for kids, gentle yoga for children, home yoga for kids, stretching exercises for kids, kids mindfulness yoga, yoga for young children, easy lying down yoga, kids relaxation yoga
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Note - If you are interested in this channel, make sure to subscribe and click the notification button, so you never miss my videos!❤️
+-------------------------------------------------------------------------
+❤️Thank You For Watching❤️
+-------------------------------------------------------------------------14:T497,🥶🕺🏽 A BRAND NEW Freeze Dance is here! https://youtu.be/L1o6SabKfC4 🕺🏽🥶
+
+The Dance Freeze Song by Scratch Garden is the best party freeze song to get kids up and moving!
+
+Watch ALL the Dance Freeze Videos here: https://youtube.com/playlist?list=PL_ym6QHjS1syjzqEx_yKHjQsuYccFZ1mU
+
+This freeze dance song is the perfect brain break for kids in the classroom. Move and freeze, slow motion freeze, robot dance freeze, hop and stop dance freeze with this freeze dance song for children! 
+
+We love to teach with music! Watch Scratch Garden Educational Song Videos here: https://www.youtube.com/playlist?list=PL_ym6QHjS1szUhzH9URPbDflLczfPHF6P  
+
+Scratch Garden makes entertaining educational videos for people that like to laugh and learn! Please Subscribe to see more great fun learning videos from Scratch Garden! https://goo.gl/1biPjA
+
+Website: https://www.scratchgarden.com
+Instagram: https://www.instagram.com/scratchgarden
+Facebook: https://www.facebook.com/scratchgarden
+
+00:00 Introduction
+00:20 Dance
+00:50 Hop
+01:20 Hop on One Foot
+01:50 Twirl and Slide
+02:20 Swim
+02:50 Robot
+03:17 Slow Motion Dance
+
+#dancefreezesong#scratchgardensongs #brainbreaksong15:T948,🌈 YOGA GUPPY – Kids Yoga, Stories, Songs & Mindful Movement
+
+Welcome to Yoga Guppy — a magical world where kids learn yoga, breathing, movement, music, and mindfulness through fun stories, characters, and play-based activities! Perfect for ages 2–8, parents, teachers, classrooms, homeschoolers, and early childhood educators.
+
+🛍️ Explore Yoga Guppy Products & Courses
+
+ 🧩 Digital & Physical Products for Kids
+Flashcards, posters, worksheets & more:
+👉 https://yogaguppy.com/shop/
+
+ 🎓 Online Yoga Courses for Kids
+Self-paced movement courses for ages 3–8:
+👉 https://yogaguppy.com/online-courses/
+
+🧘‍♀️ Join Our Live Online & Offline Classes
+Weekly kids yoga sessions led by certified instructors:
+👉 https://yogaguppy.com/online-classes/
+
+Through Yoga Guppy videos, your child will explore:
+🧘‍♀️ Kid-friendly yoga poses
+🎵 Music, rhythm & movement
+🌬️ Breathing exercises for calm
+📚 Story-based mindfulness
+❤️ Emotional awareness & body confidence
+
+⭐ WHO YOGA GUPPY IS FOR
+✔ Kids aged 2–8
+✔ Parents & families
+✔ Preschool & kindergarten teachers
+✔ Montessori, Waldorf & Homeschool educators
+✔ Special needs & inclusive classrooms
+✔ PE instructors, music teachers, counselors
+
+
+❤️ BENEFITS OF KIDS YOGA
+• Improves focus & attention
+• Reduces stress & anxiety
+• Boosts emotional regulation
+• Enhances flexibility & motor skills
+• Encourages creativity & imagination
+• Helps build routines & self-confidence
+
+
+Weekly kids yoga videos, music & mindful stories:
+👉 Subscribe & click the bell!
+
+📌 SAFE PRACTICE DISCLAIMER
+
+All exercises are designed to be safe for children.
+Please ensure adult supervision during all activities.
+Consult a doctor if your child has medical conditions.
+
+🎵 ABOUT YOGA GUPPY
+Yoga Guppy creates fun, high-energy, story-based yoga adventures for little ones.
+Our mission: Bring movement, music & mindfulness to every child—at home, in school, or anywhere they play.
+
+kids yoga, yoga for kids, preschool yoga, kindergarten yoga, classroom yoga, kids exercise, movement songs for kids, yoga poses for kids, breathing exercises for kids, mindfulness for children, yoga stories for kids, kids fitness, yoga guppy
+
+#YogaGuppy #KidsYoga #YogaForKids #PreschoolYoga #KidsWorkout #KidsFitness #MovementSongs #MindfulnessForKids #BreathingExercises #KidsStories16:Tb0d,🌈 YOGA GUPPY – Kids Yoga, Stories, Songs & Mindful Movement
+
+Welcome to Yoga Guppy — a magical world where kids learn yoga, breathing, movement, music, and mindfulness through fun stories, characters, and play-based activities! Perfect for ages 2–8, parents, teachers, classrooms, homeschoolers, and early childhood educators.
+
+🛍️ Explore Yoga Guppy Products & Courses
+
+ 🧩 Digital & Physical Products for Kids
+Flashcards, posters, worksheets & more:
+👉 https://yogaguppy.com/shop/
+
+ 🎓 Online Yoga Courses for Kids
+Self-paced movement courses for ages 3–8:
+👉 https://yogaguppy.com/online-courses/
+
+🧘‍♀️ Join Our Live Online & Offline Classes
+Weekly kids yoga sessions led by certified instructors:
+👉 https://yogaguppy.com/online-classes/
+
+Through Yoga Guppy videos, your child will explore:
+🧘‍♀️ Kid-friendly yoga poses
+🎵 Music, rhythm & movement
+🌬️ Breathing exercises for calm
+📚 Story-based mindfulness
+❤️ Emotional awareness & body confidence
+
+⭐ WHO YOGA GUPPY IS FOR
+✔ Kids aged 2–8
+✔ Parents & families
+✔ Preschool & kindergarten teachers
+✔ Montessori, Waldorf & Homeschool educators
+✔ Special needs & inclusive classrooms
+✔ PE instructors, music teachers, counselors
+
+
+❤️ BENEFITS OF KIDS YOGA
+• Improves focus & attention
+• Reduces stress & anxiety
+• Boosts emotional regulation
+• Enhances flexibility & motor skills
+• Encourages creativity & imagination
+• Helps build routines & self-confidence
+
+
+Weekly kids yoga videos, music & mindful stories:
+👉 Subscribe & click the bell!
+
+📌 SAFE PRACTICE DISCLAIMER
+
+All exercises are designed to be safe for children.
+Please ensure adult supervision during all activities.
+Consult a doctor if your child has medical conditions.
+
+🎵 ABOUT YOGA GUPPY
+Yoga Guppy creates fun, high-energy, story-based yoga adventures for little ones.
+Our mission: Bring movement, music & mindfulness to every child—at home, in school, or anywhere they play.
+
+kids yoga, yoga for kids, preschool yoga, kindergarten yoga, classroom yoga, kids exercise, movement songs for kids, yoga poses for kids, breathing exercises for kids, mindfulness for children, yoga stories for kids, kids fitness, yoga guppy
+
+#YogaGuppy #KidsYoga #YogaForKids #PreschoolYoga #KidsWorkout #KidsFitness #MovementSongs #MindfulnessForKids #BreathingExercises #KidsStories Buy the Yoga Guppy Flashcards on Amazon: https://amzn.in/d/aWNaoyi
+
+Follow us on Social Media
+
+Instagram : https://www.instagram.com/yogaguppy
+
+Facebook: https://www.facebook.com/theyogaguppy
+
+Website: https://www.yogaguppy.com
+
+Check out our Yoga Channel for adults   @YogalatesWithRashmi  
+
+CREDITS 
+Production & Animation by Caliac Studios
+
+#yogaforkids #easyyoga #yogaforflexibility #yoga #yogaguppy #kidsyoga #yogainschools #yogamusic #yogastories17:T8b6,Get ready to dance, move, and FREEZE! 🛑🎶 Welcome to Yoga Guppy’s Yoga Freeze Dance, a high-energy, stop-and-go action song designed specially for toddlers, kids, and playful learners.
+
+#yogaguppy #yogaforkids #freezedance #kidsactivities #brainbreaks #movementsongs #actionsongs #kidssong #kidsdance
+
+In this exciting video, we combine the classic fun of a freeze dance game with mindful yoga poses! When the music plays, we jump, spin, and groove to the beat—but when the music stops, we FREEZE into fun and balancing yoga poses like Tree Pose, Star Pose, Frog Pose, and Airplane! This is a fantastic way for children to practice listening skills, improve body control, and release extra energy. Whether you are a parent looking for a joyful indoor activity or a teacher seeking a fun classroom brain break, this active yoga game will get kids smiling, sweating, and stretching.
+
+Join the Yoga Guppy family for more mindful movement and peaceful learning! 🐠✨
+
+🛍️ Explore Yoga Guppy Products & Courses
+Make mindful play a part of your daily routine with our exclusive resources for parents and educators!
+
+🧩 Digital & Physical Products for Kids (Flashcards, posters, worksheets & more):
+👉 https://yogaguppy.com/shop/
+
+🎓 Online Yoga Courses for Kids (Self-paced movement courses for ages 3–8):
+👉 https://yogaguppy.com/online-courses/
+
+🧘‍♀️ Join Our Live Online & Offline Classes (Weekly sessions led by certified instructors):
+👉 https://yogaguppy.com/online-classes/
+
+Website: https://yogaguppy.com/
+Instagram: https://www.instagram.com/yogaguppy/
+Facebook: https://www.facebook.com/TheYogaGuppy/
+
+🔔 Don't forget to SUBSCRIBE and click the bell for weekly kids' yoga videos, music, and mindful stories!
+
+📌 SAFE PRACTICE DISCLAIMER
+All exercises in this video are designed to be safe for children. Please ensure adult supervision during all activities and ensure the play area is clear. Consult a doctor if your child has any medical conditions prior to starting.
+
+🎵 ABOUT YOGA GUPPY
+Yoga Guppy creates high-energy, story-based yoga adventures for little ones. Our mission is to bring movement, music, and mindfulness to every child—at home, in school, or anywhere they play!18:T13be,It's Elsa’s Frozen Yoga! A fun Yoga brain break and kids yoga activity.  If you're looking for more yoga brain breaks for kids, fun kids yoga, interactive brain breaks for kids, yoga for kids, calming kids yoga activities, calming yoga for kids, Cosmic Kids Yoga inspired activities, along with brain breaks for kindergarten, movement activities or fun just dance/ freeze dance games for kids, then you came to the right spot! Elsa’s frozen yoga is a relaxing brain break in a fun and calming yoga session.  Based on the hit Disney Movie Frozen.  Be on the lookout for your favorite Frozen characters! In this Danny Go Noodle / Cosmic Kids inspired activity, you will watch and hold the same yoga poses that the characters do on the screen. Elsa’s Frozen Yoga is the perfect yoga activity for kids.  It also works as a brain break, calming kids activity, or PE cool down activity, or kids workout.  Frozen Yoga is a fun kids yoga activity that everyone will enjoy! If you're looking for more brain breaks for kids, and just dance / freeze dance activities, then be sure to check out. Coach Corey Martin's Frozen Brain Break Party. Matthew Wood's Grinch Freeze Dance. Be Well Played Andy’s Coming Freeze Dance, and Mister Alonso's Yoga! Elsa’s Frozen Yoga makes the perfect brain break for kindergarten, movement activity, and a fun game for kids.   If you're looking for more yoga for kids, fun games for kids or freeze dance / just dance activities, then be sure to check out my latest movement breaks  - Disney Yoga, Moana Yoga, Olaf Winter Run, Moana Freeze Dance, Minions Yoga, Mario Run, Minions Freeze Dance, Disney Freeze Dance, and my entire brain break playlist. 😄
+
+New to my channel? - PE With Mr G  👋
+Thanks for stopping by! I create games for kids and interactive brain break activities that help teachers and kids stay active.  Some of the most popular categories of games are just dance / freeze dance games, would you rather / this or that? Who Will Win Races, Find The Gnome, and On The Run / Chase / Rush games.  These videos make great brain break activities, classroom games, fun fitness activities for kids, family workout games, fitness games, PE games, physed games, and perfect games for home!
+
+******************
+💪 Don't miss out on my previous brain breaks and classroom games:
+
+☀️ Moana Yoga
+https://youtu.be/s04hcx-68zA
+☀️ Disney Yoga
+https://youtu.be/tNjCGEkSMvI
+🥶️ Disney Freeze Dance
+https://youtu.be/CHa0dFVFPA0
+☀️ Minions Yoga
+https://youtu.be/cB2wBWdMCMA
+🥶️ Minions Freeze Dance
+https://youtu.be/adhAn9FF9v0
+🍄 Mario Run
+https://youtu.be/n-cgxmSFET8
+🥶️ Animal Freeze Dance
+https://youtu.be/_pMd616OnuA
+
+******************
+✨ PE With Mr G
+Looking for more written PE games and Physical Education activities? Be sure to check out my website:  pewithmrg.com.  The link can be found above!  My goal for this channel is to provide new games and ideas for elementary PE.  PE With Mr G focuses on providing  fun PE games and physed game ideas such as warm ups, instant activities, cooperative games, throwing games, rolling games, kicking games, football games, basketball, hockey, baseball, tag, soccer, jump roping, big team games, classroom management, PE at home, and cooperation and teamwork games/ideas.  If you ever have a question, please feel free to ask, as I would love to help any way that I can.  Thank you so much for watching! 
+
+✅ Don't forget to like and subscribe to stay up to date on the latest brain breaks, classroom games, Physical Education - PE Games, and fun fitness activities! New games get released almost every Monday!
+
+******************
+
+If you enjoyed, Elsa’s Frozen Yoga, then also be sure to check out:
+🔥 Entire Brain Break Playlist:
+https://www.youtube.com/playlist?list=PLvUPL7-yxmzOpXKmA--1q_sYoG2Y4cw9l
+✨This Month's Mix Of Games:
+https://www.youtube.com/playlist?list=PLvUPL7-yxmzMIgQQtBEeeUt_9u0augMlt
+
+******************
+Chapters
+⭐️  0:00 How To Play
+⭐️  0:20 Frozen Yoga Pose 1
+⭐️  0:51 Frozen Yoga Pose 2
+⭐️  1:23 Frozen Yoga Pose 3
+⭐️  1:55 Frozen Yoga Pose 4
+⭐️  2:27 Frozen Yoga Pose 5
+⭐️  2:58 Frozen Yoga Pose 6
+⭐️  3:29 Frozen Yoga Pose 7
+⭐️  4:01 Frozen Yoga Pose 8
+⭐️  4:32 Frozen Yoga Pose 9
+⭐️  5:02 Frozen Yoga Pose 10
+
+******************
+If you enjoy PE With Mr G then also be sure to check out these other great channels for brain breaks and interactive games for kids:
+  @CoachCoreyMartin  
+ @BeWellPlayed  
+ @MatthewWoodPE  
+ @TeacherMisterAlonso  
+
+******************
+Elsa’s Frozen Yoga - makes the brain break and family game for kids! It's a great workout game.  It helps provide a great kids workout / exercise for kids.  If you enjoy freeze dance or just dance game, then you will definitely love this interactive activity! Get your students up in active with this fun workout game.  Energizers and interactive activities make for fun classroom games for kindergarten, first grade, 2nd grade, or as a stay at home fitness game!
+
+#brainbreak #youtubekids #frozen19:T5e7,⚡️ My name's Joah Moore, I'm 8 years old, and love to work out. Welcome to my channel and my very first TABATA workout for kids video.
+
+On this channel, you'll find Fitness videos, Dance workouts, TikTok dance tutorials and more. 
+
+Do you like to dance? Here's my Charli D'Amelio duet video: https://youtu.be/EMKEafip1gg
+
+If you're ready to get fit and have some fun, please 🛑 "Subscribe" and Ring the "Notifications" 🔔
+
+Subscribe Here  ➔  https://bit.ly/youtubejoah
+
+Kids helping kids...
+
+♡  Joah
+
+
+⩶⩶⩶  TODAYS WORKOUT  ⩶⩶⩶
+
+20 seconds of work | 10 seconds of rest 
+
+1.  Jumping jacks
+2.  Push ups 
+3.  Sit ups
+4.  High knees
+5.  Lunges
+6.  Plank
+7.  Squats
+8.  Mountain climber
+
+
+⩶⩶⩶⩶  FOLLOW ME  ⩶⩶⩶⩶
+
+
+▶︎ INSTAGRAM: https://www.instagram.com/joah_moore/
+
+
+⩶⩶⩶⩶  FUN FACTS  ⩶⩶⩶⩶
+
+
+Name: Joah Moore
+Birthday: 12 / 16 / 2011
+From: Orange County, CA
+Like: Beach, Soccer, Golf
+Love: Family, Friends, Dance, Gymnastics
+
+
+⩶⩶⩶⩶⩶⩶⩶⩶⩶⩶⩶⩶⩶
+
+
+Music: "Dance Monkey (Tabata)" by Tabata Songs
+https://tabatasongs.com/
+
+
+⩶⩶⩶⩶⩶⩶⩶⩶⩶⩶⩶⩶⩶
+
+
+🛑 Disclaimer: 
+Please check with your parents or doctor prior to exercising. As with any exercise related activity, there is risk of injury. By participating, you agree to hold Joah Moore and anyone related with this channel harmless for any injury you may sustain.  
+
+
+⩶⩶⩶⩶⩶⩶⩶⩶⩶⩶⩶⩶⩶
+
+
+#TabataWorkout
+#TabataForKids
+#JoahMoore
+#KidsHelpingKids2:["$","div",null,{"className":"space-y-8 pb-8","children":[["$","div",null,{"children":["$","$L10",null,{"href":"/","className":"inline-flex items-center gap-1.5 px-3 py-1.5 bg-white rounded-lg text-slate-600 font-semibold text-xs border border-slate-200 hover:border-purple-300 hover:text-purple-900 transition-colors shadow-subtle","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-3.5 h-3.5","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"Back to Discover"}]]}]}],["$","section",null,{"className":"bg-white rounded-2xl sm:rounded-3xl p-4 xs:p-6 sm:p-8 border border-slate-200/80 shadow-subtle space-y-3","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"px-2.5 py-0.5 bg-purple-100 text-purple-900 text-xs font-bold rounded-md uppercase tracking-wider","children":["Ages ","2–4"]}],["$","span",null,{"className":"text-xs text-slate-400 font-semibold","children":["• ",16," Videos"]}]]}],["$","h1",null,{"className":"text-xl xs:text-2xl sm:text-4xl font-black text-slate-900 tracking-tight","children":"Movement"}],["$","p",null,{"className":"text-slate-600 font-medium text-xs sm:text-base max-w-2xl leading-relaxed","children":"Dance & active play"}],["$","div",null,{"className":"pt-2 flex items-center gap-2 text-xs font-medium text-slate-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-shield-check w-4 h-4 text-emerald-600 shrink-0","children":[["$","path","oel41y",{"d":"M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"}],["$","path","dzmm74",{"d":"m9 12 2 2 4-4"}],"$undefined"]}],["$","span",null,{"children":["Strict server-side safe query: \"","kids yoga action songs dance workout for kids","\""]}]]}]]}],["$","section",null,{"className":"space-y-4","children":[["$","h2",null,{"className":"text-lg sm:text-xl font-bold text-slate-900","children":"Watch & Learn"}],["$","div",null,{"className":"grid grid-cols-1 xs:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3.5 sm:gap-5","children":[["$","$L11","B_1_3hDeI7o",{"video":{"id":"B_1_3hDeI7o","title":"Fun Kids Yoga! 🧘 Easy Poses for Strength & Flexibility | Koko Joyland","description":"$12","channelTitle":"Koko Joyland","channelId":"UC8RFa00jq_hcgZEWttKnWAQ","publishedAt":"2025-08-23T13:00:17Z","duration":"6:19","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/B_1_3hDeI7o/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/B_1_3hDeI7o/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/B_1_3hDeI7o/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/B_1_3hDeI7o/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/B_1_3hDeI7o/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Movement"}],["$","$L11","2EVzgNBfkjc",{"video":{"id":"2EVzgNBfkjc","title":"Yoga Dance Party for Kids | Jungle Freeze Dance & Action Songs #yoga #kids #kidsvideo #kidssongs","description":"$13","channelTitle":"Yoga Guppy","channelId":"UC02UfeIO6g1BrAC0nHgRGRw","publishedAt":"2025-11-03T12:30:04Z","duration":"11:19","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/2EVzgNBfkjc/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/2EVzgNBfkjc/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/2EVzgNBfkjc/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/2EVzgNBfkjc/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/2EVzgNBfkjc/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Movement"}],["$","$L11","A1vdKfXlB_g",{"video":{"id":"A1vdKfXlB_g","title":"The Dance Freeze Song | Freeze Dance | Scratch Garden","description":"$14","channelTitle":"Scratch Garden","channelId":"UC8NFs-VWUsyuq4zaYVVMgCQ","publishedAt":"2020-02-10T13:30:00Z","duration":"4:33","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/A1vdKfXlB_g/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/A1vdKfXlB_g/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/A1vdKfXlB_g/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/A1vdKfXlB_g/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/A1vdKfXlB_g/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Movement"}],["$","$L11","fNLgG9BYWZo",{"video":{"id":"fNLgG9BYWZo","title":"Yoga Freeze Dance | Action Song for Kids | Farm Animals Warm Up | Yoga Guppy by Rashmi Ramesh","description":"$15","channelTitle":"Yoga Guppy","channelId":"UC02UfeIO6g1BrAC0nHgRGRw","publishedAt":"2025-06-18T12:30:06Z","duration":"4:00","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/fNLgG9BYWZo/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/fNLgG9BYWZo/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/fNLgG9BYWZo/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/fNLgG9BYWZo/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/fNLgG9BYWZo/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Movement"}],["$","$L11","0ssemDxonzQ",{"video":{"id":"0ssemDxonzQ","title":"Yoga Freeze Dance | Action Songs for Kids | Yoga Musical Warm up for Children | Yoga Guppy","description":"$16","channelTitle":"Yoga Guppy","channelId":"UC02UfeIO6g1BrAC0nHgRGRw","publishedAt":"2025-10-20T12:30:01Z","duration":"8:11","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/0ssemDxonzQ/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/0ssemDxonzQ/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/0ssemDxonzQ/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/0ssemDxonzQ/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/0ssemDxonzQ/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Movement"}],["$","$L11","W5UMYvISt8o",{"video":{"id":"W5UMYvISt8o","title":"5-Minute Kids Music Yoga | Stretch to the Beat for Fun & Energy","description":"Let’s move to the music! 🎵\nThis 5-Minute Music Yoga for Kids combines fun stretches, balance poses, and dance moves to help your child feel energized, happy, and focused after a long day.\nPerfect for home, classroom, or family time — just hit play and follow the beat!\n\n✨ Don’t forget to LIKE, SUBSCRIBE, and SHARE this video to join our joyful kids yoga community!\n\n\n#YogaForKids #KidsYoga #MusicYoga #DanceYoga #FunYogaForChildren #KidsFitness #GrowthYoga #EnergyRoutine #HealthyGrowth #StretchToTheBeat #YogaRoutineForKids #5MinuteYoga #DailyKidsYoga #YogaPractice","channelTitle":"Yoga For Everyone","channelId":"UCUUU_PkdtdWM4_Xm-RBAZvQ","publishedAt":"2025-10-10T13:43:42Z","duration":"5:17","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/W5UMYvISt8o/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/W5UMYvISt8o/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/W5UMYvISt8o/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/W5UMYvISt8o/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/W5UMYvISt8o/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Movement"}],["$","$L11","_7BGpSTKRKs",{"video":{"id":"_7BGpSTKRKs","title":"Yoga for Children | Yoga for Health | Yoga for Overthinking | Kids Yoga","description":"Welcome to our fun kids yoga session! 🧘‍♀️\nIn this video, children can enjoy simple and fun yoga exercises that help improve flexibility, balance, posture, and relaxation.\n\nThese easy yoga movements are perfect for kids who want to stay active and healthy while having fun.\n\nIf you enjoyed the video, please like, subscribe, and turn on notifications so you never miss our next yoga adventure!\n\nMusic track: Coconut Kind of Love by Aetheric\nSource: https://freetouse.com/music\nNo Copyright Background Music","channelTitle":"Daily Easy Yoga","channelId":"UCEde90XVbxgNZvpMdGVDgNw","publishedAt":"2026-03-31T06:20:41Z","duration":"8:46","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/_7BGpSTKRKs/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/_7BGpSTKRKs/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/_7BGpSTKRKs/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/_7BGpSTKRKs/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/_7BGpSTKRKs/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Movement"}],["$","$L11","EENhSo4GXRQ",{"video":{"id":"EENhSo4GXRQ","title":"Yoga Freeze Dance | Action Songs for Kids | Yoga Musical Warm up for Children | Yoga Guppy","description":"$17","channelTitle":"Yoga Guppy","channelId":"UC02UfeIO6g1BrAC0nHgRGRw","publishedAt":"2026-07-15T12:30:16Z","duration":"14:09","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/EENhSo4GXRQ/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/EENhSo4GXRQ/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/EENhSo4GXRQ/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/EENhSo4GXRQ/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/EENhSo4GXRQ/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Movement"}],["$","$L11","AtWGf2a2lMA",{"video":{"id":"AtWGf2a2lMA","title":"Yoga for Children | Yoga for Health | Yoga for Overthinking | Kids Yoga","description":"Welcome to our fun kids yoga session! 🧘‍♀️\nIn this video, children can enjoy simple and fun yoga exercises that help improve flexibility, balance, posture, and relaxation.\n\nThese easy yoga movements are perfect for kids who want to stay active and healthy while having fun.\n\nIf you enjoyed the video, please like, subscribe, and turn on notifications so you never miss our next yoga adventure!","channelTitle":"Move & Play Kids","channelId":"UCq1LnYikP4AyJ8Y1G-FIkEg","publishedAt":"2026-03-24T01:46:53Z","duration":"5:08","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/AtWGf2a2lMA/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/AtWGf2a2lMA/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/AtWGf2a2lMA/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/AtWGf2a2lMA/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/AtWGf2a2lMA/maxresdefault.jpg","width":1280,"height":720},"fhd":{"url":"https://i.ytimg.com/vi/AtWGf2a2lMA/fhddefault.jpg","width":1920,"height":1080}}},"categoryLabel":"Movement"}],["$","$L11","sivEYnI36BU",{"video":{"id":"sivEYnI36BU","title":"Elsa's Frozen Yoga | Yoga Brain Breaks | Yoga For Kids | Cosmic Kids Yoga | Frozen Kids Yoga","description":"$18","channelTitle":"P.E. with Mr. G","channelId":"UC1uISIOKNnnGALw17v9naPg","publishedAt":"2025-02-24T15:00:06Z","duration":"5:49","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/sivEYnI36BU/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/sivEYnI36BU/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/sivEYnI36BU/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/sivEYnI36BU/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/sivEYnI36BU/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Movement"}],["$","$L11","txOf0uC6AYk",{"video":{"id":"txOf0uC6AYk","title":"Yoga for Flexibility | Yoga for Kids | Improve Posture | Kid Yoga","description":"#kidsyoga  #yogaforchildren  #kpophunters  \n Fun Yoga for Kids | Gentle Stretching, Flexibility & Calm\n\nHello little yogis! Join us for a fun session featuring various yoga poses designed specifically as yoga for kids. This video is packed with creative yoga poses and stretching for kids, helping them feel strong, brave, and happy. It's a fantastic exercise for kids that promotes both physical health and mindfulness, making it perfect for your little ones.\n\n#kidsyoga\n#yogaforchildren \n#FunYogaForKids\n#kidsfitness \n#mindfulnessforkids \n#KidsStretching\n#familyyoga \n#kpopdemonhunters \n#kpopinspired \n#KpopYoga\n#kpopvibes \n#AnimeInspiredYoga\n#FantasyInspired\n#HeroEnergy\n#neonvibes","channelTitle":"Yoga Girl","channelId":"UCbPWU3C5Ky9bPHU7AHMuJqg","publishedAt":"2026-01-20T17:01:39Z","duration":"8:38","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/txOf0uC6AYk/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/txOf0uC6AYk/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/txOf0uC6AYk/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/txOf0uC6AYk/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/txOf0uC6AYk/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Movement"}],["$","$L11","FB5-7tIiX-I",{"video":{"id":"FB5-7tIiX-I","title":"12 Easy Exercises For Kids At Home","description":"These 12 exercises for kids are easy enough to be done at home everyday. They will help children burn calories, lose fat, get in shape and get stronger - which in turn will help with sleeping better and just being in a better mood.\n\nThese daily physical activities can be done in your room without any equipment at all - just remember to do them regularly everyday if you want to see results.\n\nGood luck and let's begin!\n\nDon't forget to subscribe to the channel to receive new workouts for kids every week! 💪","channelTitle":"Little Sports","channelId":"UCTIwFB4ciFi5ZCIu-VlwaOg","publishedAt":"2020-02-17T14:13:25Z","duration":"15:18","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/FB5-7tIiX-I/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/FB5-7tIiX-I/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/FB5-7tIiX-I/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/FB5-7tIiX-I/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/FB5-7tIiX-I/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Movement"}],["$","$L11","-1-s8GBpFeQ",{"video":{"id":"-1-s8GBpFeQ","title":"Tabata Workout for KIDS | The Animal Workout (ages 3-8) w/@TabataKidsWorkouts","description":"Go to ➡ @TabataKidsWorkouts  for more videos like this!\n\nWe are happy to announce the official release of TABATA KIDS, where you can get a great workout from anywhere! It's easy just follow along and do what I'm doing :)\n\nActing like an animal is hard work! Join my animal friends and I as we exercise like animals!\n\nYou can listen to Tabata Kids Music! Just tell Alexa to \"Play Tabata Kids!\" \nOr follow the link: https://tabata-songs.lnk.to/Tabata-Kids\n\nSarah Mailloux:\n@coach_fitmomma\nhttps://www.instagram.com/coach_fitmomma","channelTitle":"Tabata Songs","channelId":"UCrom-lPe2Ekby1kWLOAnL1A","publishedAt":"2023-10-12T16:00:07Z","duration":"4:42","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/-1-s8GBpFeQ/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/-1-s8GBpFeQ/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/-1-s8GBpFeQ/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/-1-s8GBpFeQ/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/-1-s8GBpFeQ/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Movement"}],["$","$L11","-TJcZRrOenA",{"video":{"id":"-TJcZRrOenA","title":"Simple Stretches and Relaxation | Flexibility and Calmness | Yoga for Children - JOJO","description":"Simple Stretches and Relaxation | Flexibility and Calmness | Yoga for Children - JOJO\n\nEncourage your child to flow through gentle yoga poses with this video, supporting both flexibility and mindfulness.\n\nIdeal for ages 6 to 12.","channelTitle":"Move with Jojo for Kids","channelId":"UCYbSFah-ewLxIvstE09UpUQ","publishedAt":"2025-07-14T13:00:02Z","duration":"4:59","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/-TJcZRrOenA/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/-TJcZRrOenA/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/-TJcZRrOenA/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/-TJcZRrOenA/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/-TJcZRrOenA/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Movement"}],["$","$L11","2--WiAB_DEs",{"video":{"id":"2--WiAB_DEs","title":"8 Year Old Leads TABATA Workout For Kids 💥","description":"$19","channelTitle":"Joah Moore","channelId":"UCgmk_UaFpbN8cGDO3l2slSg","publishedAt":"2020-12-05T16:06:53Z","duration":"4:44","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/2--WiAB_DEs/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/2--WiAB_DEs/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/2--WiAB_DEs/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/2--WiAB_DEs/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/2--WiAB_DEs/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Movement"}],["$","$L11","FT8kfPvCgd0",{"video":{"id":"FT8kfPvCgd0","title":"Spider-Man Freeze Dance for Kids | Just Dance | Brain Break | GoNoodle Inspired","description":"It's a Spider-Man Freeze Dance!  Just dance along with spiderman and all of his avenger friends while completing the mini games to help you defeat venom.  This GoNoodle inspired brain break is perfect for kids of all ages and serves as a great way to start the school year.  Exercise while having a blast!  \n\nPlay the entire \"Chase\" playlist here: https://youtube.com/playlist?list=PLq...\n\nIntroduction\nInstructions:  00:08\nGame Start:  00:23\n\nCoach Corey Martin here, creator of The Chase series.  My brain break activities are perfect for any classroom teacher or PE teacher looking to get their students moving.\n\nThese videos are perfect for anyone who enjoys the Kidz Bop series or GoNoodle style videos!\n\nBecome a Patreon and support my channel: https://www.patreon.com/CoachCoreyMar...\n\nMy other inspirations include:\n@PE Bowman \n@P.E. with Mr. G \n@RSD Online \n@Matthew Wood \n@Coach Meger Fitness Games \n@Be Well Played \nJust Dance Activities\nand many more!\n\nThanks for playing!\n\n#spiderman #justdance #brainbreak","channelTitle":"Coach Corey Martin","channelId":"UC6mp1dGFmDN96FPWPIbsqeQ","publishedAt":"2022-08-08T13:30:12Z","duration":"5:00","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/FT8kfPvCgd0/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/FT8kfPvCgd0/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/FT8kfPvCgd0/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/FT8kfPvCgd0/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/FT8kfPvCgd0/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Movement"}]]}]]}]]}]

@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
+import BottomNav from '@/components/BottomNav';
 import AuthModal from '@/components/AuthModal';
 import BedtimeLockModal from '@/components/BedtimeLockModal';
 import PremiumUpgradeModal from '@/components/PremiumUpgradeModal';
@@ -28,7 +29,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className="bg-[#F8FAFC] text-slate-900 font-sans min-h-screen flex flex-col antialiased">
+      <body className="bg-[#F8FAFC] text-slate-900 font-sans min-h-screen flex flex-col antialiased pb-16 md:pb-0">
         <AuthProvider>
           <TimerProvider>
             <Header />
@@ -36,6 +37,7 @@ export default function RootLayout({
               {children}
             </main>
             <Footer />
+            <BottomNav />
             <AuthModal />
             <BedtimeLockModal />
             <PremiumUpgradeModal />

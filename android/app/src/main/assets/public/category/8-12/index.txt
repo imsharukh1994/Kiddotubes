@@ -1,0 +1,348 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[575,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"AuthProvider"]
+7:I[1196,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"TimerProvider"]
+8:I[842,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+9:I[8349,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+a:I[3313,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+b:I[6733,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+c:I[3633,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+d:I[833,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+e:I[5050,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+4:["category","8-12","d"]
+0:["NbHBbKWALoxX09RfsceYs",[[["",{"children":["category",{"children":[["category","8-12","d"],{"children":["__PAGE__?{\"category\":\"8-12\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["category",{"children":[["category","8-12","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","category","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","category","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/cd7f3fa21f915505.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"bg-[#F8FAFC] text-slate-900 font-sans min-h-screen flex flex-col antialiased pb-16 md:pb-0","children":["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","main",null,{"className":"flex-1 max-w-[1440px] w-full mx-auto px-4 xs:px-5 sm:px-8 lg:px-12 py-4 sm:py-8","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}],["$","$Le",null,{}]]}]}]}]}]],null],null],["$Lf",null]]]]
+f:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"8–12 Videos — KiddoTube"}],["$","meta","3",{"name":"description","content":"Science experiments, space discovery, coding, and creative learning."}],["$","meta","4",{"name":"keywords","content":"Kids Videos,KiddoTube,Educational Videos,Nursery Rhymes,Safe Content Discovery"}],["$","link","5",{"rel":"shortcut icon","href":"/images/favicon.png"}],["$","link","6",{"rel":"icon","href":"/images/favicon.png"}],["$","link","7",{"rel":"apple-touch-icon","href":"/images/favicon.png"}]]
+1:null
+10:I[2972,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","130","static/chunks/app/category/%5Bcategory%5D/page-526a8d841d796d9e.js"],""]
+11:I[265,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","130","static/chunks/app/category/%5Bcategory%5D/page-526a8d841d796d9e.js"],"default"]
+12:T51a,Hey kids, in this video, Dr Binocs will explain, How Do Rockets Work? What is the science behind Rocket? How Rockets Work?
+
+Make sure you watch the whole video to know all the answers to your curious questions! 
+
+Leave your ideas, suggestions and questions for Dr. Binocs at this Email Id: peekabookidzfeedback@gmail.com
+
+For more fun learning videos SUBSCRIBE to Peekaboo Kidz: http://bit.ly/SubscribeTo-Peekabookidz
+
+Watch Guess The Shapes With Baby Binocs here - https://youtu.be/vNm422Ta44w
+
+Watch other fun learning episodes of Dr. Binocs here - http://bit.ly/2kfNS22
+
+Watch our NEW SERIES of Baby Binocs, stay tuned to this playlist - http://bit.ly/2kyC2jU
+
+Credits - 
+Copyrights and Publishing: Rajshri Entertainment Private Limited 
+All rights reserved.  
+
+#HowDoesARocketsFly #RocketScience #DrBinocsShow #Space #HowRocketWorks
+
+Catch Dr.Binocs At - https://goo.gl/SXhLmc
+
+To Watch More Popular Nursery Rhymes Go To - https://goo.gl/CV0Xoo
+
+To Watch Alphabet Rhymes Go To - https://goo.gl/qmIRLv
+
+To Watch Compilations Go To - https://goo.gl/nW3kw9
+
+Catch More Lyricals At - https://goo.gl/A7kEmO
+
+Subscribe to Peekaboo Kidz: http://bit.ly/peekabookidz
+
+Like our Facebook page: https://www.facebook.com/peekabootv ,
+
+For brand collaborations and inquiries, reach out to us at :  collab@rajshri.com13:T10cf,3D Layers of Earth | Earth crust model | 3D earth crust model | Crust, Mantle, Core, Inner core
+Interior of Earth
+Hello friends, here I show you How to Make Earth layer Model With Cardboard. Please see carefully and make it easily. It will help the students of the school/college to create their project. Thank you.
+
+ Materials Required: Cardboard, Tissue Paper, white cement,Acrylic Color, Glue, Knife, etc.
+
+THE FOUR LAYERS
+The Earth is composed of four different layers. Many geologists believe that as the Earth cooled the heavier, denser materials sank to the center and the lighter materials rose to the top. Because of this, the crust is made of the lightest materials (rock- basalts and granites) and the core consists of heavy metals (nickel and iron).
+
+#Earthmodel  #3dearthmodel #Innerlayers
+ THE CRUST
+The Earth's Crust is like the skin of an apple. It is very thin in comparison to the other three layers. The crust is only about 3-5 miles (8 kilometers) thick under the oceans(oceanic crust) and about 25 miles (32 kilometers) thick under the continents (continental crust). The temperatures of the crust vary from air temperature on top to about 1600 degrees Fahrenheit (870 degrees Celsius) in the deepest parts of the crust. You can bake a loaf of bread in your oven at 350 degrees Fahrenheit , at 1600 degrees F. rocks begin to melt.
+
+ THE MANTLE
+ The mantle is the layer located directly under the SIMA. It is the largest layer of the Earth, 1800 miles thick. The mantle is composed of very hot, dense rock. This layer of rock even flows like asphalt under a heavy weight. This flow is due to great temperature differences from the bottom to the top of the mantle. The movement of the mantle is the reason that the plates of the Earth move! The temperature of the mantle varies from 1600 degrees Fahrenheit at the top to about 4000 degrees Fahrenheit near the bottom!
+
+OUTER CORE
+ The core of the Earth is like a ball of very hot metals. (4000 degrees F. to 9000 degrees F.) The outer core is so hot that the metals in it are all in the liquid state. The outer core is located about 1800 miles beneath the crust and is about 1400 miles thick. The outer core is composed of the melted metals nickel and iron.
+
+ INNER CORE
+ The inner core of the Earth has temperatures and pressures so great that the metals are squeezed together and are not able to move about like a liquid, but are forced to vibrate in place as a solid. The inner core begins about 4000 miles beneath the crust and is about 800 miles thick. The temperatures may reach 9000 degree F. and the pressures are 45,000,000 pounds per square inch. This is 3,000,000 times the air pressure on you at sea level!!!
+
+Think Creative make Creative
+how to make earth layers model project
+How do you make a model of the Earth's layers?
+What is a good model of the earth?
+What is one example of a scientific model?
+How To Make Layers of Earth on Globe 3D real DIY School Science Project
+Model of layers of the Earth/crust mantle core/Model earth layers/globe
+How to Make Layers of Earth Model | DIY Earth Layers | Earth Science Earth Structure and Components
+how to make earth layer model at home
+
+
+________________________________________
+
+Contact Us for Copyright Related issues, Credit addition and deletion: 
+________________________________________
+
+Disclaimer :- 
+                          Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, commenting, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use. 
+_______________________________________
+_______________________________________
+
+अब जुड़े  ArtaGram Family  के साथ हर जगह 
+LINKS 👇🏻👇🏻👇🏻👇🏻
+
+👉🏻 INSTAGRAM :-
+https://instagram.com/artagram_07?igs...
+👉🏻 FACEBOOK :-
+https://www.facebook.com/Artagram5
+👉🏻 YOUTUBE :-
+  
+
+ / @ucuvsmf7s6ah7ofu...   
+_______________________________________
+
+_______________________________________
+
+💢SUBSCRIBE THIS CHANNEL💢
+
+Friends Join us and make this channel successful by giving your invaluable support & Thanks for watching this video💕14:T5fc,For more than 50 years, art has helped capture and convey the excitement and wonder of human space exploration. But did you know that astronauts integrate artistic expression like music, painting, and photography into their own lives while on the International Space Station?
+
+In the latest STEMonstration episode, NASA astronaut Nicole Mann explores how space exploration both inspires and affects art. Learn about the creative solutions astronauts employ to overcome the challenges of doing art in microgravity. Be inspired by a digital gallery of space-themed artwork created by astronauts on station and students on Earth. In the corresponding classroom connection, students can tap into their own creativity to create personal masterpieces based on astronaut observations of Earth.
+ 
+For more videos like this, along with corresponding classroom connection lesson plans: https://www.nasa.gov/stem-content/stemonstrations-space-art/
+
+
+We’re launching STEM Engagement to new heights with learning resources that connect teachers, students, parents and caregivers to the inspiring work at NASA. Join us as we apply science, technology, engineering and mathematics to explore space, improve aeronautics, examine Earth and strive to land the first woman and first person of color on the Moon with the Artemis program. 
+
+NASA STEM resources: stem.nasa.gov 
+Follow us on social media. 
+Facebook: https://www.facebook.com/NASASTEMEngagement 
+Twitter: https://twitter.com/NASASTEM 
+Pinterest: https://www.pinterest.com/nasa/nasa-stem/15:T6cf,Amazing Space facts for Kids – All about the Planets, Sun and Solar System? Learn awesome space facts with this new Solar System Planet and Space Facts video for Kids. Watch as the cartoon planets bring the most amazing facts to you. Think you know all space facts – think again. Is there a moon that looks like a pizza? Is Space really silent? Toy Time Town bring you another Space video for Children in their unique, educational, funny and enjoyable way.
+
+Watch as Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune star in these videos for kids. Whichever your favourite Planet is, you will learn fun, cool facts here! Whether it is about Planets, Space, our Solar System, Galaxy or Universe! Watch as Planet Saturn tells you his favourite Space facts, all with the help from his amazing Planet friends.
+
+These videos are made to entertain and educate kids equally. Each planet in our Solar System is fascinating in its own way. See what makes them such interesting planets in The Solar System, Space and the Universe.
+
+Children, families and adults alike, will find these videos about the Solar System and planets interesting and fun! As always in Toy Time Town, as well as learning, have lots of fun!
+
+Subscribe for free and become a toy-timer: 
+https://www.youtube.com/channel/UCfNE0mi5DnyXkxGexOej9rQ?sub_confirmation=1 
+
+#spacefactsforkids #planetsforkids #spaceforkids #solarsystemforkids #toytimetown
+
+Image credit to BornCG - youtube.com/channel/UCdioEctcBLd2nw2aQkl8msw Credit solarsystemscope.com/textures/download Under Attribution 4.0 International creativecommons.org/licenses/by/4.0/ Additional footage used from Pixabay under pixabay.com/service/terms/license. Nasa Images used with permission and credited.16:T6de,What If Earth Was Flat? | Flat Earth | Shape Of Earth | What If Earth's Shape Was Flat? | What If? | Is Earth Flat Or Round? | Lunar Eclipse | Gravitational Force | Gravity | What If Earth Lost Its Atmosphere? | Effects Of Flat Earth On Life | Objects Falling Sideways | Magnetic Field Of The Earth | Solar Wind | Real Shape Of Earth | Earth Video | Earth For Kids | Science For Kids | Video For Kids | Science Videos For Kids | Dr Binocs Show | Peekaboo Kidz 
+
+Hey kids, in this video, Dr Binocs will explain What If Earth Was Flat? | The Dr Binocs Show | Peekaboo Kidz
+
+Make sure you watch the whole video to know all the answers to your curious questions! 
+
+Leave your ideas, suggestions and questions for Dr. Binocs at this Email Id: peekabookidzfeedback@gmail.com
+
+For more fun learning videos SUBSCRIBE to Peekaboo Kidz: http://bit.ly/SubscribeTo-Peekabookidz
+
+Watch All About Earth, here- https://www.youtube.com/watch?v=eXiVGEEPQ6c&list=PLmJ33rwb1zZbvCBpDpH05qX1GXSDnJd1b
+
+Watch What If Earth Lost Its Atmosphere?, here- https://youtu.be/dszckdhmpFg
+
+Watch other fun learning episodes of Dr. Binocs here - http://bit.ly/2kfNS22
+
+Credits - 
+Copyrights and Publishing: Rajshri Entertainment Private Limited 
+All rights reserved.    
+
+#WhatIfEarthWasFlat? #DrBinocsShow #PeekabooKidz
+
+Catch Dr.Binocs At - https://goo.gl/SXhLmc
+
+To Watch More Popular Nursery Rhymes Go To - https://goo.gl/CV0Xoo
+
+To Watch Alphabet Rhymes Go To - https://goo.gl/qmIRLv
+
+To Watch Compilations Go To - https://goo.gl/nW3kw9
+
+Catch More Lyricals At - https://goo.gl/A7kEmO
+
+Subscribe to Peekaboo Kidz: http://bit.ly/peekabookidz
+
+Like our Facebook page: https://www.facebook.com/peekabootv ,
+
+For brand collaborations and inquiries, reach out to us at :  collab@rajshri.com17:T41e,Experience the excitement of space exploration with our Chandrayaan-3 working model! 🚀 In this video, we build a miniature Chandrayaan project perfect for school science fairs and space enthusiasts. Watch as we design, assemble, and launch a model rocket inspired by India’s Chandrayaan-3 mission to the Moon. 🌙
+
+Whether you’re a student, teacher, or DIY lover, this project will inspire your curiosity about space, rockets, and science experiments.
+
+🔹 Project Type: School Science Project
+🔹 Category: Rocket Launching / Space Model
+🔹 Difficulty Level: Easy to Intermediate
+🔹 Suitable For: Students, Hobbyists, Science Lovers
+
+✨ Don’t forget to LIKE 👍, SHARE 📤, and SUBSCRIBE 🔔 for more amazing science projects!
+
+#Chandrayaan3 #ScienceProject #RocketLaunch #SchoolProject #SpaceExploration #DIYRocket #MoonMission
+#Chandrayaan3
+#Chandrayaan
+#MoonMission
+#RocketLaunch
+#ScienceProject
+#SchoolProject
+#SpaceExploration
+#DIYRocket
+#RocketScience
+#STEMProjects
+#ScienceExperiment
+#ModelRocket
+#SpaceMission
+#ISRO
+#SpaceDIY18:T45b,Learn how to make a simple and easy-to-follow DIY globe model for your school project. This is a great way to learn about geography and the Earth's continents and oceans.
+
+Materials:
+
+Ball : https://amzn.to/3sL94QJ
+Newspaper or paper strips : https://amzn.to/3ut5Z8v
+Glue : https://amzn.to/3QN4PMr
+Scissors : https://amzn.to/3MVEkmZ
+Acrylic paints : https://amzn.to/46qoYh6
+Paintbrush : https://amzn.to/47FXuFt
+Cardboard : https://amzn.to/47FEsPq
+Toothpick : https://amzn.to/3QR6AIu
+
+
+Tips:
+
+For a more realistic globe, you can use a map of the world as a reference.
+You can also add a stand to your globe so that it can be displayed.
+Have fun and be creative with your globe!
+
+
+Additional Tips:
+
+This is a great project for students of all ages.
+It is a fun and educational way to learn about geography.
+You can also use this project to teach students about different cultures around the world.
+This is a great way to get students interested in science and exploration.
+This project is a great way to recycle and reuse old materials.
+This project is a great way to spend time with your students and learn together.19:T8ce,Gravity is what keeps your feet firmly planted on the ground. That’s why the average person can only jump as high as 1.5 feet straight up. But what if we had to live on another planet — say, Venus or Saturn? Let’s find out what difficulties we’d have to endure there. How high could you jump on other planets? The gravity on Mercury, for example, is less than half that on Earth, so you’ll be able to jump about 4 ft high. But if you were to jump being on Venus, you’d make it just shy of 1.7 ft high because the mass and size of Earth and Venus are almost similar with Venus being a little smaller. 
+
+Bu the way, guys, did you know that Venus is a really inhospitable place? You’d be able to see Earth from here if not for the whirling mass of clouds above. They create a monstrous greenhouse effect, as well as immense atmospheric pressure. And despite the constant temperature of a blazing furnace, rain here wouldn’t bring relief: the clouds up there are made of sulfuric acid! Let's learn more about these amazing objects that orbit the same sun as Earth! Here are some surprising facts about the planets of the Solar System.
+
+CHECK OUT OUR LATEST HITS:
+7 Creepy Caves You Can Explore (But You Shouldn't) https://youtu.be/pCNWnTPuoBA 
+This Baboon Operated a Railway and Never Made Mistakes https://youtu.be/8SklZsFt5ME 
+Mars Is Planning to Destroy Its Own Moon https://youtu.be/Z2XajaUaNC8
+
+#brightside
+
+TIMESTAMPS:
+Mercury 0:17
+Venus 0:52
+Luna 1:26
+Mars 1:54
+Phobos 2:24
+Ceres 2:55
+Jupiter 3:26
+Ganymede 3:57
+Saturn 4:24
+Titan 5:01
+Uranus 5:33
+Neptune 6:03
+Triton 6:34
+Pluto 6:59
+Eris 7:34
+
+Music by Epidemic Sound  https://www.epidemicsound.com/
+
+Subscribe to Bright Side : https://goo.gl/rQTJZz
+----------------------------------------------------------------------------------------
+Our Social Media:
+Facebook: https://www.facebook.com/brightside/
+Instagram: https://www.instagram.com/brightgram/
+5-Minute Crafts Youtube: https://www.goo.gl/8JVmuC
+
+Stock materials (photos, footages and other):
+https://www.depositphotos.com
+https://www.shutterstock.com
+https://www.eastnews.ru
+
+----------------------------------------------------------------------------------------
+For more videos and articles visit:
+http://www.brightside.me/1a:T49c,How to Make a Map?! watch this video to learn how !
+☀Fid more FREE books at https://www.redcatreading.com/?utm_source=youtube&utm_medium=video&utm_content=description&utm_campaign=map_read_along_youtube
+
+"How to Make a Map" is a Leveled reading ebook teaching kids about maps, discovery and basic geography terms, created by Red Cat Reading
+
+Subscribe to KidsVsLife's YouTube channel for more videos to help your curious kids learn to read! Kids love learning to read using our phonics and read aloud videos!! don't miss out!
+
+New videos are uploaded every week.
+☀YouTube Channel: https://www.youtube.com/user/kidsvslife
+Enjoy educational songs, learn to read videos and stories for preschool kids created by the experts in children's education.
+
+Follow us on Facebook for new updates and free promotions.
+☀ Facebook: https://www.facebook.com/RedCatReading/
+☀ Website: https://www.redcatreading.com/?utm_source=youtube&utm_medium=video&utm_content=description&utm_campaign=map_read_along_youtube
+
+#redcatreading #levelreading #readalong #kidsvslife #kidsvsphonics #howtoread #funfacts #factsforkids #sciencefacts
+
+Copyright © 2018 Red Cat Reading™. All Rights Reserved.1b:Td8e,What do you know about the inside of our planet? In our Layers of the Earth for Kids video, you and your students will discover some facts about the four main layers that make up our beautiful earth! The first thing you'll learn is that the earth is not simply a giant ball of dirt, rocks, and minerals. On the contrary, our planet is much more than meets the eye.
+
+The crust is the outer layer of the earth and is actually between 5 and 25 miles thick depending on where you are. Under the oceans, it is only about 3 to 5 miles thick, and we refer to these areas as oceanic crust. The crust beneath the land reaches up to 25 miles thick. We refer to these parts as continental crust. The temperatures of the earth's crust can range anywhere between air temperature and 1600°F, which is hot enough to melt rocks!
+
+This thin layer consists of broken pieces called plates, which float on top of the soft mantle layer below. (The movement of these plates is what often causes earthquakes.) The mantle layer is the largest at about 1800 miles thick. It comprises extremely hot, dense rock that flows like asphalt. The temperature at the top is about 1600°F, but it's about 4000°F at the bottom! This layer is basically made up of melted rock that allow the plates of the earth's crust to float on top. The melted rock that escapes to the earth's surface lead to the creation of volcanoes.
+
+Then comes the outer core of the earth. The outer core consists mostly of melted nickel and iron. This layer lies around 1800 miles below the earth's surface and is around 1400 miles thick. The temperature ranges from 4000°F to 9000°F! The inner core is about 800 miles thick with 9000°F temperatures. There is so much pressure in the core that the metals squeeze very tightly, forcing them to vibrate as solids do. This pressure comes from the weight of the other layers that press down on it.
+
+We hope you and your student(s) enjoyed learning about the crust, mantle, and inner and outer cores of our planet! If you want to learn even more, head over to our website and download one of our many free lesson plans about Earth, full of activities, worksheets, and more!
+
+https://learnbright.org/lessons/science/layers-of-the-earth/
+
+What you will learn in Layers of the Earth for Kids:
+0:00 Introduction to the earth
+0:25 What the earth is made of
+1:17 The crust—outermost layer of Earth
+2:09 Plate tectonics
+2:40 Lithosphere and asthenosphere
+3:33 The mantle layer
+4:35 The outer and inner core layers
+5:34 Review of the facts
+
+Thank you for watching and learning with us! We’re constantly releasing new content and videos, so click that “Subscribe” button and you’ll get notified.
+
+Find and Follow Us Online:
+Facebook: https://www.facebook.com/LearnBright/
+Instagram: https://instagram.com/LearnBrightEducation
+Pinterest: https://pinterest.com/LearnBrightEducation
+YouTube: @LearnBright
+Website: https://learnbright.org/
+
+*Teachers and Parents! Did you know? In addition to these great videos, we have also created a library of high-quality and engaging lessons for your elementary aged student(s). Visit us, sign up for a free account, and instantly you'll have access to thousands of lesson plans, learning materials, teaching instructions, activities, and assignments that your kids will really enjoy! We hope to see you soon!
+
+Browse our entire collection of Science lesson plans: https://learnbright.org/lessons/?filter_subject=science
+
+#Earth
+#LayersOfTheEarth1c:T4a8,Solar system and planets. Are you ready to meet the planets in the Solar system, including the our Earth? Let's explore the solar system and planets. Subscribe to Kiddopedia channel for more educational videos → https://kiddopedia.page.link/sub
+
+The Solar System is the gravitational system of the Sun and the objects orbiting it. Planets and their satellite, meteorites, comets, and asteroids are all part of this group. The source of heat and light in the solar system is the Sun.
+
+In this Kiddopedia short documentary video, you will see the solar system and the planets in the solar system. You will learn about Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, and later Pluto, which was de-planetary.
+
+Our video is prepared in 4K format to give the best learning experience. High-quality can be watched on a mobile device, as well as on television
+
+Let's learn about the 8 planets in the solar system and their facts.
+
+SUBSCRIBE → https://kiddopedia.page.link/sub
+Check out our website → http://kiddopedia.net
+
+List of planets in this video:
+00:09 SUN
+00:52 MERCURY
+01:20 VENUS
+01:49 EARTH
+02:34 MARS 
+03:06 JUPITER
+03:40 SATURN
+04:11 URANUS
+04:44 NEPTUNE
+05:11 PLUTO2:["$","div",null,{"className":"space-y-8 pb-8","children":[["$","div",null,{"children":["$","$L10",null,{"href":"/","className":"inline-flex items-center gap-1.5 px-3 py-1.5 bg-white rounded-lg text-slate-600 font-semibold text-xs border border-slate-200 hover:border-purple-300 hover:text-purple-900 transition-colors shadow-subtle","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-3.5 h-3.5","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"Back to Discover"}]]}]}],["$","section",null,{"className":"bg-white rounded-2xl sm:rounded-3xl p-4 xs:p-6 sm:p-8 border border-slate-200/80 shadow-subtle space-y-3","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"px-2.5 py-0.5 bg-purple-100 text-purple-900 text-xs font-bold rounded-md uppercase tracking-wider","children":["Ages ","Big Kids"]}],["$","span",null,{"className":"text-xs text-slate-400 font-semibold","children":["• ",16," Videos"]}]]}],["$","h1",null,{"className":"text-xl xs:text-2xl sm:text-4xl font-black text-slate-900 tracking-tight","children":"8–12"}],["$","p",null,{"className":"text-slate-600 font-medium text-xs sm:text-base max-w-2xl leading-relaxed","children":"Science experiments, space discovery, coding, and creative learning."}],["$","div",null,{"className":"pt-2 flex items-center gap-2 text-xs font-medium text-slate-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-shield-check w-4 h-4 text-emerald-600 shrink-0","children":[["$","path","oel41y",{"d":"M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"}],["$","path","dzmm74",{"d":"m9 12 2 2 4-4"}],"$undefined"]}],["$","span",null,{"children":["Strict server-side safe query: \"","kids coding science experiments crafts space exploration geography","\""]}]]}]]}],["$","section",null,{"className":"space-y-4","children":[["$","h2",null,{"className":"text-lg sm:text-xl font-bold text-slate-900","children":"Watch & Learn"}],["$","div",null,{"className":"grid grid-cols-1 xs:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3.5 sm:gap-5","children":[["$","$L11","f5OzHbz_p7k",{"video":{"id":"f5OzHbz_p7k","title":"Simple Solar System in 3D","description":"This tutorial describes how to create a simple 3D solar system using Cabri3D.  Cycloidal nature of the moon's motions around the earth is also explored.\n\nCredit: My sincere thanks to my student Anders Rasmussen for the advanced solar system model shown here.","channelTitle":"Selim Tezel's Project Based Learning Initiative in Mathematics","channelId":"UCx3uUPcn5EPQ48nFxvmQbHw","publishedAt":"2014-05-07T20:01:47Z","duration":"10:44","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/f5OzHbz_p7k/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/f5OzHbz_p7k/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/f5OzHbz_p7k/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/f5OzHbz_p7k/sddefault.jpg","width":640,"height":480}}},"categoryLabel":"8–12"}],["$","$L11","A0LIihnf0z8",{"video":{"id":"A0LIihnf0z8","title":"Geostationary Satellite Working Model|| Science Exibition Working Project|| Science Project #solar ","description":"Geostationary Satellite Working Model|| Science Exibition Working Project|| Science Project #solar\n\nsatellite working model science project satellite working model project\nsatellite making project working model satellite working model for science exhibition satellite earth working model for science fair satellite around earth working school science model\nsatellite project work science\nsatellite working project\nsatellite science project\nsatellite working model\nsatellite communication working model for school project\ngeo satellite working model\nsatellite working model easy\n#satellite \n#sciencproject\n#science\n#project\n#solarsystem\n#eazytronic \n#eazytronicshorts","channelTitle":"EAZYTRONIC","channelId":"UCWxoBxETB3KJI_nySVqY_DQ","publishedAt":"2025-10-05T12:30:23Z","duration":"11:32","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/A0LIihnf0z8/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/A0LIihnf0z8/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/A0LIihnf0z8/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/A0LIihnf0z8/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/A0LIihnf0z8/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}],["$","$L11","9g0FehS0H1E",{"video":{"id":"9g0FehS0H1E","title":"How Does A ROCKET FLY | How Do Rockets Work | ROCKET LAUNCH | The Dr Binocs Show | Peekaboo Kidz","description":"$12","channelTitle":"Peekaboo Kidz","channelId":"UCxlJ45KjG4XVcQ_hd8j227A","publishedAt":"2020-01-31T12:30:01Z","duration":"6:13","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/9g0FehS0H1E/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/9g0FehS0H1E/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/9g0FehS0H1E/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/9g0FehS0H1E/sddefault.jpg","width":640,"height":480}}},"categoryLabel":"8–12"}],["$","$L11","Zd2Cm9xzVcM",{"video":{"id":"Zd2Cm9xzVcM","title":"Chandrayaan-3 Working Model || Chandrayaan Project For School|| Rocket Launching Science Project","description":"Chandrayaan-3 Working Model || Chandrayaan Project For School|| Rocket Launching Science Project\n\nchandrayaan 3 project school working model\nchandrayaan 3 model making for school project\nhow to make chandrayaan 3 model for school project\nscience project for class 7th students working model easy science exhibition projects class\nhow to make chandrayaan 3 model\nchandrayan 3 science project\nschool project\nchandrayaan 3 model\nchandrayaan 3 working model for school project\nchandrayaan 3\nscience project\nchandrayaan working model for school project\nrocket launch\nrocket science\nscience\nrocket\nvinegar rocket science project\nwater rocket science project\nscience for kids\nlaunch\nrockets\nbottle rocket\nrocket working\nscience project\nscience working model\ntop science project\nchandrayaan 3 science project\ncool science projects\nwhat is the smoke before rocket launch\nwhat is the white smoke before a rocket launch\nbest science fair projects\nwhy rockets smoke before launch\nscience exhibition projects","channelTitle":"EAZYTRONIC","channelId":"UCWxoBxETB3KJI_nySVqY_DQ","publishedAt":"2025-03-20T17:31:58Z","duration":"9:39","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/Zd2Cm9xzVcM/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/Zd2Cm9xzVcM/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/Zd2Cm9xzVcM/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/Zd2Cm9xzVcM/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/Zd2Cm9xzVcM/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}],["$","$L11","PQHinOJnWN0",{"video":{"id":"PQHinOJnWN0","title":"How to Make Earth Layer Model With Cardboard/ Make 3d Earth Layer Model for School project","description":"$13","channelTitle":"Artgram_DIY - Uupvan dhawan","channelId":"UCuvSmf7S6ah7OFU7lYYdSrA","publishedAt":"2023-07-03T14:27:23Z","duration":"4:57","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/PQHinOJnWN0/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/PQHinOJnWN0/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/PQHinOJnWN0/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/PQHinOJnWN0/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/PQHinOJnWN0/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}],["$","$L11","ZvsZRmKPIg0",{"video":{"id":"ZvsZRmKPIg0","title":"STEMonstrations: Space Art","description":"$14","channelTitle":"Learn With NASA","channelId":"UC9SM7V7J1pAhPabOUST01fw","publishedAt":"2023-08-02T16:00:22Z","duration":"6:11","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/ZvsZRmKPIg0/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/ZvsZRmKPIg0/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/ZvsZRmKPIg0/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/ZvsZRmKPIg0/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/ZvsZRmKPIg0/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}],["$","$L11","_Qj5a2HtdyA",{"video":{"id":"_Qj5a2HtdyA","title":"Amazing Space Facts for Kids | Planets","description":"$15","channelTitle":"Toy Time Town","channelId":"UCfNE0mi5DnyXkxGexOej9rQ","publishedAt":"2021-02-26T11:15:01Z","duration":"8:34","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/_Qj5a2HtdyA/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/_Qj5a2HtdyA/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/_Qj5a2HtdyA/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/_Qj5a2HtdyA/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/_Qj5a2HtdyA/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}],["$","$L11","6ZfbaPZYiAM",{"video":{"id":"6ZfbaPZYiAM","title":"What If Earth Was Flat? | Flat Earth | The Dr Binocs Show | Peekaboo Kidz","description":"$16","channelTitle":"Peekaboo Kidz","channelId":"UCxlJ45KjG4XVcQ_hd8j227A","publishedAt":"2022-10-11T12:31:30Z","duration":"5:34","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/6ZfbaPZYiAM/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/6ZfbaPZYiAM/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/6ZfbaPZYiAM/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/6ZfbaPZYiAM/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/6ZfbaPZYiAM/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}],["$","$L11","OyjyADsr9BE",{"video":{"id":"OyjyADsr9BE","title":"Chandrayaan-3 working model || Chandrayaan project for school || rocket launching 🚀 science project!","description":"$17","channelTitle":"MR ALVI BD","channelId":"UC6--fpJ0WggJgjsJ2mUmzbA","publishedAt":"2025-08-11T09:12:43Z","duration":"15:21","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/OyjyADsr9BE/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/OyjyADsr9BE/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/OyjyADsr9BE/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/OyjyADsr9BE/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/OyjyADsr9BE/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}],["$","$L11","vEQkEls3db0",{"video":{"id":"vEQkEls3db0","title":"How To Make A Globe Model For School Project / DIY Globe Model For School Exhibition","description":"$18","channelTitle":"School Projects","channelId":"UCHlQh4k5d4ui2HhfPygpAYg","publishedAt":"2023-11-20T02:28:07Z","duration":"6:39","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/vEQkEls3db0/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/vEQkEls3db0/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/vEQkEls3db0/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/vEQkEls3db0/sddefault.jpg","width":640,"height":480}}},"categoryLabel":"8–12"}],["$","$L11","QyiAiuQOdcw",{"video":{"id":"QyiAiuQOdcw","title":"3D solar system school project | How to Make a Solar System with Cardboard. science projects","description":"In this video, I will show you how to easily make a beautiful solar system using cardboard and styrofoam. This project is great for kids, and it will help them learn about the planets and space.\nscience projects\n#school \n#scienceprojects\n\n\n\n\nMaterials:\n\nCardboard\nStyrofoam\nPaint\nBrushes\nPaper\nPen\nRuler\nGlue\nScissors\nInstructions:\n\nCut circles out of the cardboard for the planets.\nCreate spheres out of the styrofoam for the planets.\nPaint the planets.\nGlue the planets onto the cardboard.\nUse paper and paint to create the sun.\nGlue the sun onto the cardboard.\nTips:\n\nTo make the planets look more realistic, you can use different textures and colors.\nYou can use string or yarn to create orbits around the planets.\nYou can create labels with information about the planets\n\nSolar system\nPlanets\nSun\nCardboard\nStyrofoam\nDIY\nKids\nScience\nSpace","channelTitle":"my smart art","channelId":"UCgfbfguOgmwCTVwh4vOKFuw","publishedAt":"2024-03-14T04:30:08Z","duration":"5:31","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/QyiAiuQOdcw/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/QyiAiuQOdcw/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/QyiAiuQOdcw/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/QyiAiuQOdcw/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/QyiAiuQOdcw/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}],["$","$L11","XRCIzZHpFtY",{"video":{"id":"XRCIzZHpFtY","title":"★ How to Get to Mars. Very Cool!","description":"🏪 Set up your dream business with Shopify today! Start here: 👉 https://nettmakeriet.no/shopify\n🌍 Protect your privacy and browse securely with NordVPN. Get started here: 👉https://nettmakeriet.no/nordvpn\n🚀 Get your copy of Roving Mars: Spirit, Opportunity, and the Exploration of the Red Planet on DVD here: 👉 https://nettmakeriet.no/roving-mars\n\nDisclosure:\nThis description contains affiliate links. If you purchase through these links, I may earn a small commission at no additional cost to you.\n\nRoving Mars is an IMAX documentary that follows NASA's groundbreaking mission with the Mars rovers, Spirit and Opportunity. The film takes viewers on a captivating journey from the planning and launch stages to the thrilling landing and exploration of the Red Planet. Through stunning visuals and insightful interviews with scientists and engineers, the documentary provides a unique look at the technological challenges and scientific discoveries that have shaped our understanding of Mars.","channelTitle":"Anders Heli Hansen","channelId":"UCdAQDpfVqVm_rsp2sbqdTKg","publishedAt":"2011-03-01T01:35:23Z","duration":"6:33","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/XRCIzZHpFtY/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/XRCIzZHpFtY/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/XRCIzZHpFtY/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/XRCIzZHpFtY/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/XRCIzZHpFtY/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}],["$","$L11","D8H1RNtka6s",{"video":{"id":"D8H1RNtka6s","title":"How High You Could Jump on Different Planets in 3D","description":"$19","channelTitle":"BRIGHT SIDE","channelId":"UC4rlAVgAK0SGk-yTfe48Qpw","publishedAt":"2020-09-10T11:00:06Z","duration":"8:13","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/D8H1RNtka6s/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/D8H1RNtka6s/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/D8H1RNtka6s/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/D8H1RNtka6s/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/D8H1RNtka6s/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}],["$","$L11","DSnVCV4uGGQ",{"video":{"id":"DSnVCV4uGGQ","title":"How to Make a Map | Geography for Kids | Made by Red Cat Reading","description":"$1a","channelTitle":"Kids vs Life","channelId":"UC1XbXsp48-VkYbNBJQ1YvOQ","publishedAt":"2018-03-09T13:30:00Z","duration":"5:10","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/DSnVCV4uGGQ/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/DSnVCV4uGGQ/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/DSnVCV4uGGQ/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/DSnVCV4uGGQ/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/DSnVCV4uGGQ/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}],["$","$L11","N1DIn_xwvdo",{"video":{"id":"N1DIn_xwvdo","title":"Layers of the Earth for Kids | Learn facts about the different layers of Earth","description":"$1b","channelTitle":"Learn Bright","channelId":"UCKCsVSA5THlkHbnkZTPm6-g","publishedAt":"2022-09-29T15:48:32Z","duration":"7:23","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/N1DIn_xwvdo/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/N1DIn_xwvdo/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/N1DIn_xwvdo/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/N1DIn_xwvdo/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/N1DIn_xwvdo/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}],["$","$L11","ya6Ko9bF5v8",{"video":{"id":"ya6Ko9bF5v8","title":"SOLAR SYSTEM AND PLANETS |  Learn the Planets for Kids, Preschool, Kindergarten","description":"$1c","channelTitle":"Kiddopedia","channelId":"UCFU1IubzLAHnoPA8uRt-SMA","publishedAt":"2022-12-22T13:00:37Z","duration":"5:43","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/ya6Ko9bF5v8/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/ya6Ko9bF5v8/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/ya6Ko9bF5v8/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/ya6Ko9bF5v8/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/ya6Ko9bF5v8/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"8–12"}]]}]]}]]}]

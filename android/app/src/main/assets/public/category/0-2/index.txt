@@ -1,0 +1,415 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[575,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"AuthProvider"]
+7:I[1196,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"TimerProvider"]
+8:I[842,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+9:I[8349,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+a:I[3313,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+b:I[6733,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+c:I[3633,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+d:I[833,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+e:I[5050,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+4:["category","0-2","d"]
+0:["NbHBbKWALoxX09RfsceYs",[[["",{"children":["category",{"children":[["category","0-2","d"],{"children":["__PAGE__?{\"category\":\"0-2\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["category",{"children":[["category","0-2","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","category","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","category","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/cd7f3fa21f915505.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"bg-[#F8FAFC] text-slate-900 font-sans min-h-screen flex flex-col antialiased pb-16 md:pb-0","children":["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","main",null,{"className":"flex-1 max-w-[1440px] w-full mx-auto px-4 xs:px-5 sm:px-8 lg:px-12 py-4 sm:py-8","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}],["$","$Le",null,{}]]}]}]}]}]],null],null],["$Lf",null]]]]
+f:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"0–2 Videos — KiddoTube"}],["$","meta","3",{"name":"description","content":"Gentle songs, lullabies and simple sensory stories for infants & tiny tots."}],["$","meta","4",{"name":"keywords","content":"Kids Videos,KiddoTube,Educational Videos,Nursery Rhymes,Safe Content Discovery"}],["$","link","5",{"rel":"shortcut icon","href":"/images/favicon.png"}],["$","link","6",{"rel":"icon","href":"/images/favicon.png"}],["$","link","7",{"rel":"apple-touch-icon","href":"/images/favicon.png"}]]
+1:null
+10:I[2972,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","130","static/chunks/app/category/%5Bcategory%5D/page-526a8d841d796d9e.js"],""]
+11:I[265,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","130","static/chunks/app/category/%5Bcategory%5D/page-526a8d841d796d9e.js"],"default"]
+12:T4eb,Lyrics: Choo-choo, here comes the sleepy train,
+Rolling through the night, like a soft refrain.
+Through the meadows, under moonlit skies,
+We’ll take a gentle ride, where dreams arise.
+
+All aboard the sleepy train,
+To Dreamland, where we’ll stay.
+Pick up friends along the way,
+And drift to sleep today.
+
+First we see a yawning bunny,
+Fluffy tail, so soft and sunny.
+“Hop aboard,” the train conductor calls,
+As stars shine bright on Dreamland’s walls.
+
+All aboard the sleepy train,
+To Dreamland, where we’ll stay.
+Pick up friends along the way,
+And drift to sleep today.
+
+Next we find a dozing bear,
+Snuggled in his rocking chair.
+“Come with us,” the train whispers low,
+Through the river’s gentle flow.
+
+All aboard the sleepy train,
+To Dreamland, where we’ll stay.
+Pick up friends along the way,
+And drift to sleep today.
+
+Through a tunnel, soft and deep,
+Where the stars and moonlight creep.
+Every friend is tucked in tight,
+As the train rolls through the night.
+
+All aboard the sleepy train,
+To Dreamland, where we’ll stay.
+Pick up friends along the way,
+And drift to sleep today.
+
+Choo-choo, the sleepy train slows down,
+In Dreamland’s town, where dreams are found.
+
+Copyright BabyTV Nursery Rhymes & Kids Songs. All Rights Reserved13:T43f,"Rockabye Baby Lullaby" by Leigha Marina is a soft and relaxing lullaby song that is perfect for putting babies to sleep. This song has a soothing melody that is easy to listen to, and the lyrics are calming and gentle on the newborn's ears. This video is perfect for bedtime or when you want your baby to relax. The delicate and soft music and the slow animation will help your little one drift off to dreamland faster.
+
+The lullaby has gentle animation and a lulling melody, making it ideal for a child's bedtime or naptime. The tranquil lullaby is suitable for young children, newborns, infants, toddlers, preschoolers, or anyone looking for calm music to help them fall asleep faster and remain asleep longer. The soft and restful lullaby will lull you or your child into a serene sleep so you can wake refreshed and ready to take on the day and another adventure.
+
+Find us on: 
+https://LeighaMarina.com
+
+Copyright © all rights reserved MENICANIN DESIGN LLC and LEIGHA MARINA brand. 
+
+#rockabyebaby #rockabye #sleepmusic #lullaby #nurseryrhymes #leighamarina 
+
+http://vevo.ly/n3WDKM14:T85f,Get the Super Simple App! ► http://bit.ly/TheSuperSimpleApp
+“Twinkle Twinkle Little Star” was released on YouTube fourteen years ago and has since become the quintessential version of the classic lullaby. We celebrate the legacy of Twinkle Twinkle Little Star with this beautiful 18-minute movie starring two of your favorite Super Simple characters, Owl and Star. Featuring remastered audio, a brand new song, and stunning animation, sit back and relax in the Lullaby Forest with Owl, Star, Baby Bear, and Bunny.
+
+PARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. Here are some other places to find great Super Simple content:
+
+► SUPER SIMPLE APP -- http://bit.ly/TheSuperSimpleApp Be the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.
+► YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids Designed to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.
+► AMAZON VIDEO Are you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”
+
+FREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources
+SOCIAL MEDIA:
+Super Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp
+Facebook: http://bit.ly/SuperSimpleFacebook
+Instagram: http://bit.ly/SuperSimpleInsta
+Twitter: http://bit.ly/SuperSimpleTwitter
+Pinterest: http://bit.ly/SuperSimplePinterest 
+********* 
+0:00 - Intro 
+0:07 - Twinkle Twinkle Little Star
+2:35 - Are You Sleeping? 
+4:37 - Raindrops Falling 
+7:13 - The Rainbow Song
+9:46 - Until We Meet Again 
+12:12 - Goodnight Sleep Tight 
+14:40 - Beddy-Bye Butterfly
+*********
+© Skyship Entertainment Company. All rights reserved. Super Simple, Super Simple Songs, Noodle & Pals, Finny the Shark, Caitie’s Classroom, Rhymington Square, the Bumble Nums, Carl’s Car Wash and associated logos are trademarks of Skyship Entertainment Company.
+#supersimple #nurseryrhymes #kidssongs #childrensmusic #funlearningactivities15:Tae9,Three stars come to life at night and invite the little ones to play. But the noise wakes up the parents, and everyone quickly hides back in their beds.
+                                         🌟Twinkle Twinkle Little Star Lyrics:🌟
+Verse 1
+Twinkle, twinkle Yellow star
+How I wonder what you are.
+Up above the world so high,
+Like a diamond in the sky.
+Twinkle, twinkle Yellow star
+How I wonder what you are!
+Verse 2
+Twinkle, twinkle Blue star
+How I wonder what you are.
+Up above the world so high,
+Like a diamond in the sky.
+Twinkle, twinkle Blue star
+How I wonder what you are!
+Verse 3
+Twinkle, twinkle Red star,
+How I wonder what you are.
+Up above the world so high,
+Like a diamond in the sky.
+Twinkle, twinkle Red star,
+How I wonder what you are!
+Verse 4
+Twinkle, twinkle Funny stars,
+How I wonder what you are.
+Up above the world so high,
+Like a diamond in the sky.
+Twinkle, twinkle Funny stars,
+How I wonder what you are!
+🎶 Almama Nursery Rhymes – The Best Way to Learn and Play! 🌟
+Looking for fun, educational, and engaging content for your little one? Almama Nursery Rhymes brings the joy of learning to life with vibrant 3D animations and catchy tunes. Our nursery rhymes teach your child important concepts such as counting, animal names, colors, and so much more—all while they sing, dance, and play along! 🐻🎵
+
+👶 Perfect for children aged 1-4, Almama Nursery Rhymes is designed to keep toddlers entertained and educated through music, colorful characters, and interactive songs. From learning numbers to exploring animals, each video offers something new and exciting!
+
+✨ What makes Almama unique?
+
+3D animation that’s engaging and visually stimulating.
+Educational songs that focus on key learning concepts.
+Fresh new videos are uploaded every week for endless fun!
+Jump into our magical song adventures:
+Baa Baa Black Sheep 🐑  https://www.youtube.com/watch?v=A88nV0eL6vg
+Finger Family Farm Song   https://www.youtube.com/watch?v=bwHSmOU2VQo
+Johny Johny Yes Papa!      https://www.youtube.com/watch?v=ssAFYbrzelw
+Rain Rain Go Away Song     https://www.youtube.com/watch?v=Ned3XRrfY88
+Good Manners Song (Farm Version)   https://www.youtube.com/watch?v=swVRu_XQALo
+Finger Family Baby  https://www.youtube.com/watch?v=sH8eRJ9Rofk
+Hickory Dickory Dock Hamster Puzzle Game! 🐹  https://www.youtube.com/watch?v=tcEkGN386Ho
+
+🔔 Subscribe now to stay updated with new releases every week and give your child the gift of fun learning with Almama Nursery Rhymes. Don't forget to hit the bell so you never miss a new adventure!
+https://www.youtube.com/@almama-nursery-rhymes/videos
+
+#Almama #nurseryrhymes #babysongs #kidssongs #forkids #forbaby #baby #babysong #kidsong #AlmamaKidsSongs #AlmamaNurseryRhymes #almamanurseryrhymes #goodmanners #wheelsonthebus16:T4cd,🦆🐥🐥🐥🐥🐥🎶 Let's quack and sing along with joy! 😊🌟
+
+5 Little Ducks song | Newborn Baby Songs & Nursery Rhymes
+
+Five little ducks went out one day 
+Over the hill and far away
+Mother duck said, "Quack, quack, quack, quack"
+But only four little ducks came back
+Red, green, blue, yellow
+
+Four little ducks went out one day
+Over the hill and far away
+Mother duck said, "Quack, quack, quack, quack"
+But only three little ducks came back
+Red, green, blue
+
+Three little ducks went out one day
+Over the hill and far away
+Mother duck said, "Quack, quack, quack, quack"
+But only two little ducks came back
+Red, green
+
+Two little ducks went out one day
+Over the hill and far away
+Mother duck said, "Quack, quack, quack, quack"
+But only one little duck came back
+Red
+
+One little duck went out one day
+Over the hill and far away
+Mother duck said, "Quack, quack, quack, quack"
+But none of the five little ducks came back
+
+Sad mother duck went out one day
+Over the hill and far away
+Mother duck said, "Quack, quack, quack, quack"
+And all five little ducks came back
+
+Five little ducks went out one day
+Over the hill and far away
+Mother duck said, “Quack, quack, quack, quack"
+And all of the five little ducks came back!17:T6a9,आजा निंदिया रानी आजा | Aaja Nindiya Rani Aaja | Baby Sleep Song | Nursery Rhymes | Kids Lullabies
+
+A sweet rhyme to put your baby to sleep... Aaja Nindiya Rani Aaja
+
+#aayurhymes  #rhymes #humptytrain 
+__________________________________________________________
+For Subscribe - https://bit.ly/3AsLYiD
+__________________________________________________________
+
+🌈 If you enjoyed this collection, you may also like these Hindi compilations:
+https://www.youtube.com/watch?v=1hOBaVt5lS8&t=12s
+https://www.youtube.com/watch?v=CNrRoElWey0
+https://www.youtube.com/watch?v=sRZR2AEKxsc
+https://www.youtube.com/watch?v=DR6b9YzS5O4&t=3s
+https://www.youtube.com/watch?v=oYQ3DMEmyfg
+https://www.youtube.com/watch?v=8c4E9J8vB9U
+https://youtu.be/sZgZVSEhSBY
+https://youtu.be/A8EhrGNhVvM
+https://youtu.be/a18P_l0t4LE
+https://youtu.be/P0ijrNKsQ7w
+https://youtu.be/3-RyJbOQyOo
+https://youtu.be/LfhDfNl9d5Q
+https://youtu.be/bkNkdDjfFck
+https://youtu.be/02YLTpDn3uA
+https://youtu.be/62p3Ip1GHWc
+https://youtu.be/tryh5Z9A7io
+https://youtu.be/TEDuq4eDTLA
+https://youtu.be/HmP3L-P_1qI
+https://youtu.be/CiaCycDew60
+https://youtu.be/fVDX27UtkOM
+https://youtu.be/GfhzrJ0Fw8U
+https://youtu.be/SSUDe7uAvUI
+https://youtu.be/1oBhvtC8_B8
+https://youtu.be/jbKSlMMwvwA
+https://youtu.be/kJQzaTSuDbk
+https://youtu.be/29rqbSfpcsc
+https://youtu.be/9l6eUAH3Il0
+https://youtu.be/jErcEnxPY1Q
+https://youtu.be/BditpTMfRbk
+https://youtu.be/YU1MlQfEJfc
+https://youtu.be/-qD45kaCSKg
+https://youtu.be/LlKKxfbFx1E
+https://youtu.be/3OD58qKO4K8
+https://youtu.be/Ryn9N7iUxRI
+https://youtu.be/COJEVbntNGM
+https://youtu.be/UVJIeBtXKzk
+https://youtu.be/XaJwu5orK58
+https://youtu.be/WQ43u50bRzk
+https://youtu.be/mqv4VYPSqTE18:T9d7,Children can enjoy this compilation of classic nursery rhymes from The Good and the Beautiful without interruption. After listening to this collection of favorite nursery rhymes, visit our blog for printable lyrics and fun activities for kids and read about the story behind each song.
+
+Visit the Good and Beautiful Blog: https://www.goodandbeautiful.com/blogs/inspiration/good-and-beautiful-songs/#nursery-rhymns
+
+Baa, Baa, Black Sheep: https://www.youtube.com/watch?v=BS_3U_tr_Hw&pp=0gcJCa0JAYcqIYzv
+Mary Had a Little Lamb: https://www.youtube.com/watch?v=pyT5HnMt4Kg
+Old MacDonald Had a Farm: https://www.youtube.com/watch?v=B4HT-epc7yo
+Itsy Bitsy Spider: https://www.youtube.com/watch?v=qpVyL4Y_lUE
+Little Bo-Peep: https://www.youtube.com/watch?v=vNFCFmPSVVY
+The Farmer in the Dell: https://www.youtube.com/watch?v=JojgVRaJ91A
+Row, Row, Row Your Boat: https://www.youtube.com/watch?v=N4jJ9UsAv5c
+
+________________________________________________
+🎬 OTHER POPULAR VIDEOS:
+The Story of Mary Had a Little Lamb: https://www.youtube.com/watch?v=-AiG45S16Qk&t=3s
+Happy Birthday: https://www.youtube.com/watch?v=HwTg7KHuRQQ
+Take Me Out to the Ball Game: https://www.youtube.com/watch?v=OHJa8i_T0Sw
+
+✨ HELPFUL RESOURCES:
+The Good and the Beautiful Book List: https://goodandbeautifulbooklist.com
+The Good and the Beautiful Bookshop: https://www.goodandbeautiful.com/pages/bookshop
+The Good and the Beautiful Blog: https://www.goodandbeautiful.com/pages/blogs
+
+🔔 VISIT AND SUBSCRIBE FOR MORE VIDEOS:
+The Good and the Beautiful Channel: https://www.youtube.com/@TheGoodandtheBeautiful
+The Good and the Beautiful Kids Channel: https://www.youtube.com/@TheGoodandtheBeautifulKids  
+The Good and the Beautiful Science Channel: https://www.youtube.com/@TheGoodandtheBeautifulScience    
+
+📚 THE GOOD AND THE BEAUTIFUL CURRICULUM:
+Science: https://www.goodandbeautiful.com/collections/science-health
+Language Arts: https://www.goodandbeautiful.com/collections/language-arts
+Math: https://www.goodandbeautiful.com/collections/math
+Handwriting: https://www.goodandbeautiful.com/collections/handwriting
+History: https://www.goodandbeautiful.com/collections/history
+High School: https://www.goodandbeautiful.com/pages/choose-high-school
+Electives: https://www.goodandbeautiful.com/collections/electives
+
+#thegoodandthebeautiful #tgtb #goodandbeautiful #homeschool #homeschoolcurriculum #christianhomeschool #NurseryRhymes #NurseryRhymesForKids #NurseryRhymesSongs #NurseryRhymesCompilation #NurseryRhymesCompilationWithLyrics19:T97f,⭐ Never miss the newest LittleBabyBum Songs for toddlers!►https://www.youtube.com/user/LittleBabyBum?sub_confirmation=1
+
+⭐LittleBabyBum videos weekly! ► https://www.youtube.com/playlist?list=PL0VE_cI7-AYQFhRgzn_slFoCvD7wefqkh
+
+⭐About LittleBabyBum⭐
+Little Baby Bum follows the musical adventures of Mia, Twinkle the Star, and Baby Max. Everyday moments like bath time, getting dressed, or playing peekaboo become even more fun with new and classic nursery rhymes. 
+
+⭐Baby song compilations of four hours and longer! ► https://www.youtube.com/playlist?list=PL0VE_cI7-AYQCV1Py2droMJhs9-pv8q_f
+
+⭐Music is available on all major streaming platforms now: https://lnk.to/LBBYTB
+⭐Little Baby Bum Lullabies: https://lnk.to/LBBLULLYTB
+
+⭐Visit:
+Website ►https://lnk.to/LBBBIO
+Instagram ► https://lnk.to/LBBIG
+Facebook ► https://lnk.to/LBBFB
+_______________________________________________
+⭐ Lyrics⭐
+See the bunnies sleeping till it’s nearly noon
+Shall we wake them with a merry tune?
+They`re so still, are they ill? 
+No! Wake up bunnies!
+Hop little bunnies, hop, hop, hop
+Hop little bunnies, hop, hop, hop
+Hop little bunnies, hop, hop, hop
+Hop little bunnies, hop and stop!
+
+See the bunnies sleeping till it’s nearly noon
+Shall we wake them with a merry tune?
+They`re so still, are they ill? 
+No! Wake up bunnies!
+Hop little bunnies, hop, hop, hop
+Hop little bunnies, hop, hop, hop
+Hop little bunnies, hop, hop, hop
+Hop little bunnies, hop and stop!
+
+See the bunnies sleeping till it’s nearly noon
+Shall we wake them with a merry tune?
+They`re so still, are they ill? 
+No! Wake up bunnies!
+Hop little bunnies, hop, hop, hop
+Hop little bunnies, hop, hop, hop
+Hop little bunnies, hop, hop, hop
+Hop little bunnies, hop and stop!
+
+
+_______________________________________________
+Little Baby Bum is an animated musical show that celebrates early childhood experiences and supports cognitive development through loveable characters, relatable stories, and the magic of song, repetition, rhythm, and rhyme.
+
+#baby #LittleBabyBum #babysong
+_______________________________________________
+
+Little Baby Bum friends:
+►Lellobee City Farm! https://www.youtube.com/channel/UCqbLFYZfANp88Rn-dIN_Dsg
+_______________________________________________
+© El Bebe Productions Limited - part of LittleBabyBum
+
+⭐Playlist⭐
+
+00:00 Sleeping Bunnies
+02:10 Bugs, Bugs, Bugs, Bugs1a:T653,Get the Super Simple App! ► http://bit.ly/TheSuperSimpleApp 
+Fall asleep to this sweet and soothing lullaby song collection from Super Simple Songs. Twinkle Twinkle Little Star, Sweet Dreams, and Little Snowflake.
+
+PARENTS AND TEACHERS: Thank you so much for watching Super Simple Songs with your families and/or students. Here are some other places to find great Super Simple content:
+
+► SUPER SIMPLE APP -- http://bit.ly/TheSuperSimpleApp Be the first to watch new Super Simple videos in the Super Simple App! Ad-free and designed for young learners.
+► YOUTUBE KIDS -- http://bit.ly/You-Tube-Kids Designed to make it safer and simpler for young ones to watch online video, YouTube Kids includes a suite of parental controls so you can tailor the experience to suit your family’s needs.
+► AMAZON VIDEO Are you an Amazon Prime member? Watch Super Simple videos ad-free on Amazon Prime Video. Just search for “Super Simple.”
+
+FREE SUPER SIMPLE TEACHING RESOURCES: http://bit.ly/SSFree-Resources
+
+SOCIAL MEDIA: 
+Super Simple Newsletter Sign Up: http://bit.ly/SuperSimpleSignUp
+Facebook: http://bit.ly/SuperSimpleFacebook
+Instagram: http://bit.ly/SuperSimpleInsta
+Twitter: http://bit.ly/SuperSimpleTwitter
+Pinterest: http://bit.ly/SuperSimplePinterest 
+********* 
+© Skyship Entertainment Company. All rights reserved. Super Simple, Super Simple Songs, Noodle & Pals, Finny the Shark, Caitie’s Classroom, Rhymington Square, the Bumble Nums, Carl’s Car Wash and associated logos are trademarks of Skyship Entertainment Company.
+#supersimple #nurseryrhymes #kidssongs #childrensmusic #funlearningactivities1b:T4ca,#galaxy_rhymes 
+आजा निंदिया रानी आजा | Aaja Nindiya Rani Aaja | Hindi Lullaby for Babies |  ⁨@galaxyrhymes1⁩  
+
+
+Video Name :-Aaja Nidiya Rani Aaja  
+Singer/Vocal :- Palak Gujela
+Lyrics :- 
+Music :- 
+FD/TR :-FD24113017670/OTR4970
+
+
+Aaja Nindiya Rani Aaja is a soothing and beautiful Hindi lullaby that helps babies and kids fall asleep peacefully 🌙😴.
+This gentle bedtime song shows a loving mother calling Nindiya Rani to bring sweet dreams to her little one.
+
+With soft music, calm vocals, and relaxing animation, this lullaby is perfect for babies, toddlers, and young kids. It creates a peaceful bedtime environment and helps children relax and sleep comfortably.
+
+✨ Perfect for Bedtime & Sleep Time
+👶 Ideal for Babies, Toddlers & Kids
+🎵 Soft & Calm Hindi Lullaby
+🌙 Peaceful Bedtime Song
+😴 Helps Kids Sleep Better
+
+👉 Like 👍 | Share 📤 | Subscribe 🔔 for more lullabies and nursery 
+
+rhymes for kids
+#AajaNindiyaRaniAaja
+#HindiLullaby
+#BabySleepSong
+#BedtimeSong
+#NindiyaRani
+#HindiLori
+#KidsLullaby
+#BabySongs
+#SleepMusicForBabies
+#CalmKidsMusic
+#nurseryrhymeshindi 
+_________________________
+Subscribe Now -    / @sonyrhymestv  
+_________________________1c:T645,Best Bedtime Lullabies for Kids 🌙✨ | Baby Sleep Songs | Peaceful Nursery Rhymes
+🌙✨ Welcome to a peaceful and magical bedtime journey!
+
+These sweet and soothing bedtime lullabies for kids are perfect for helping babies and toddlers relax, feel safe, and drift peacefully into dreamland. 😴💫
+
+With gentle music, dreamy nursery visuals, and a warm bedtime atmosphere, these beautiful baby sleep songs are perfect for bedtime routines, quiet time, relaxation, and peaceful sleep.
+
+🌙 Perfect for:
+✨ Bedtime routines
+😴 Baby sleep time
+🧸 Toddler relaxation
+💤 Peaceful quiet time
+🌟 Sweet dreams
+
+Cuddle up, close your eyes, and enjoy a magical journey to dreamland with calming bedtime music and beautiful nursery rhymes.
+
+Subscribe to @MoonuToonu  for more original kids songs, nursery rhymes, bedtime lullabies, educational songs, and magical adventures! 🌈✨
+
+#BedtimeLullaby #LullabiesForKids #BabySleepSongs #KidsSongs #NurseryRhymes
+
+bedtime lullabies for kids, bedtime songs for kids, baby sleep songs, lullaby for babies, kids sleep music, relaxing kids songs, nursery rhymes bedtime, baby bedtime music, sleep songs for toddlers, lullabies for toddlers, soothing bedtime songs, peaceful sleep music for kids, kids lullaby songs, bedtime nursery rhymes, baby sleep lullaby, sweet dreams songs for kids, calming music for babies, toddler bedtime songs, bedtime music for kids, original kids songs, English nursery rhymes, MoonuToonu
+#BedtimeLullaby #LullabiesForKids #BabySleepSongs #KidsSongs #NurseryRhymes #BedtimeSongs #ToddlerSongs #BabySongs #SleepMusic #MoonuToonu2:["$","div",null,{"className":"space-y-8 pb-8","children":[["$","div",null,{"children":["$","$L10",null,{"href":"/","className":"inline-flex items-center gap-1.5 px-3 py-1.5 bg-white rounded-lg text-slate-600 font-semibold text-xs border border-slate-200 hover:border-purple-300 hover:text-purple-900 transition-colors shadow-subtle","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-3.5 h-3.5","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"Back to Discover"}]]}]}],["$","section",null,{"className":"bg-white rounded-2xl sm:rounded-3xl p-4 xs:p-6 sm:p-8 border border-slate-200/80 shadow-subtle space-y-3","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"px-2.5 py-0.5 bg-purple-100 text-purple-900 text-xs font-bold rounded-md uppercase tracking-wider","children":["Ages ","Baby"]}],["$","span",null,{"className":"text-xs text-slate-400 font-semibold","children":["• ",16," Videos"]}]]}],["$","h1",null,{"className":"text-xl xs:text-2xl sm:text-4xl font-black text-slate-900 tracking-tight","children":"0–2"}],["$","p",null,{"className":"text-slate-600 font-medium text-xs sm:text-base max-w-2xl leading-relaxed","children":"Gentle songs, lullabies and simple sensory stories for infants & tiny tots."}],["$","div",null,{"className":"pt-2 flex items-center gap-2 text-xs font-medium text-slate-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-shield-check w-4 h-4 text-emerald-600 shrink-0","children":[["$","path","oel41y",{"d":"M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"}],["$","path","dzmm74",{"d":"m9 12 2 2 4-4"}],"$undefined"]}],["$","span",null,{"children":["Strict server-side safe query: \"","baby lullabies nursery rhymes gentle songs for babies toddlers","\""]}]]}]]}],["$","section",null,{"className":"space-y-4","children":[["$","h2",null,{"className":"text-lg sm:text-xl font-bold text-slate-900","children":"Watch & Learn"}],["$","div",null,{"className":"grid grid-cols-1 xs:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3.5 sm:gap-5","children":[["$","$L11","zmUzTZhbNh4",{"video":{"id":"zmUzTZhbNh4","title":"The Sleepy Train | Sleep Music For Babies & Kids | Bedtime Music For Toddlers To Sleep | BabyTV","description":"$12","channelTitle":"BabyTV | Nursery Rhymes & Kids Songs","channelId":"UCR5j2M9GBkLx5Ox7fr1i6Sg","publishedAt":"2025-02-13T20:42:02Z","duration":"4:00","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/zmUzTZhbNh4/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/zmUzTZhbNh4/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/zmUzTZhbNh4/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/zmUzTZhbNh4/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/zmUzTZhbNh4/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"0–2"}],["$","$L11","NjMw6180BPE",{"video":{"id":"NjMw6180BPE","title":"Twinkle, Twinkle, Little Star | Lullaby Songs + MORE Sleepy Newborn Nursery Rhymes & Kids Songs","description":"Twinkle, Twinkle, Little Star | Lullaby Songs + MORE Sleepy Newborn Nursery Rhymes & Kids Songs\n\nWheels on the Bus | New Kids Songs & Nursery Rhymes https://youtu.be/66IKO8jx89w\nBoo Boo Nursery Rhymes https://youtu.be/TlgmbSv69lc\nBaby Sick Song | New Nursery Rhymes https://youtu.be/IE8cbNqn1RI\nSwimming Pool Song | New Nursery Rhymes & Kids Songs https://youtu.be/9vd3FGyqEz4\nTooth Song Nursery Rhymes Compilation https://youtu.be/C3koFeAaE-4\nYes Yes Playground Song - No No Nursery Rhymes & NEW Kids Songs https://youtu.be/vLSFw2Rg6tI\n\nnew nursery rhymes and baby shark song with wheel on the bus goes #nurseryrhymes #kidssongs #Playground\n\n#abcsong\n#rhymes\n#alphabet\n#nurseryrhymes\n#kidssongs\nSong origin: Nursery Rhyme \nSong Rerecord and mix: lalafun\nCopyright © 2022. All rights reserved","channelTitle":"Lalafun - Kinderlieder & Kinderreime","channelId":"UCwRfWpQ6NFX6cBiZA--OMuA","publishedAt":"2024-08-07T10:00:17Z","duration":"7:32","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/NjMw6180BPE/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/NjMw6180BPE/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/NjMw6180BPE/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/NjMw6180BPE/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/NjMw6180BPE/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"0–2"}],["$","$L11","5BYOVTkZ9hs",{"video":{"id":"5BYOVTkZ9hs","title":"Leigha Marina - Rockabye Baby Lullaby","description":"$13","channelTitle":"LeighaMarinaVEVO","channelId":"UC_N4iqvLAxhFWIKe_ZKZVlA","publishedAt":"2022-11-23T18:39:17Z","duration":"5:33","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/5BYOVTkZ9hs/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/5BYOVTkZ9hs/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/5BYOVTkZ9hs/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/5BYOVTkZ9hs/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/5BYOVTkZ9hs/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"0–2"}],["$","$L11","GbDiJcYYO28",{"video":{"id":"GbDiJcYYO28","title":"Lullaby Forest | A Twinkle Twinkle Bedtime Movie | Super Simple Songs","description":"$14","channelTitle":"Super Simple Songs - Kids Songs","channelId":"UCLsooMJoIpl_7ux2jvdPB-Q","publishedAt":"2024-04-11T14:00:17Z","duration":"18:19","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/GbDiJcYYO28/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/GbDiJcYYO28/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/GbDiJcYYO28/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/GbDiJcYYO28/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/GbDiJcYYO28/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"0–2"}],["$","$L11","VayfO7AT3sg",{"video":{"id":"VayfO7AT3sg","title":"Twinkle Twinkle Little Toy Stars | Almama Nursery Rhymes & Kids Songs","description":"$15","channelTitle":"Almama - Nursery Rhymes ","channelId":"UC_RTZtuv9bXBZOAe88-Qu6g","publishedAt":"2025-05-02T08:31:43Z","duration":"6:01","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/VayfO7AT3sg/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/VayfO7AT3sg/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/VayfO7AT3sg/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/VayfO7AT3sg/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/VayfO7AT3sg/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"0–2"}],["$","$L11","j77aJS1gGjc",{"video":{"id":"j77aJS1gGjc","title":"Goodnight, Little Strawberry 🍓 | Gentle Bedtime Song for Kids | Soothing Sleep Music","description":"Say goodnight with this gentle bedtime story and lullaby — Goodnight, Little Strawberry. 🍓✨\nFollow the journey of a sweet little strawberry as it plays through a spring day and gently drifts into dreamland.\n\nWith soft visuals, calming music, and a magical bedtime mood, this video is perfect for helping children ages 3–8 relax, wind down, and fall asleep peacefully.\n\n🌙 This video includes:\n– A sweet original lullaby\n– Dreamy 3D fairytale illustrations\n– A soft and cozy bedtime atmosphere\n– Ideal for naps, nighttime, or storytime routines\n\n💤 Created by Everdream Stories — helping little hearts sleep soundly every night.","channelTitle":"Everdream Stories","channelId":"UC9TaEUI_7CdKrPy1IYIn9DA","publishedAt":"2025-06-17T07:00:45Z","duration":"5:32","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/j77aJS1gGjc/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/j77aJS1gGjc/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/j77aJS1gGjc/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/j77aJS1gGjc/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/j77aJS1gGjc/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"0–2"}],["$","$L11","izfUsHZw9bs",{"video":{"id":"izfUsHZw9bs","title":"5 Little Ducks song | Newborn Baby Songs & Nursery Rhymes","description":"$16","channelTitle":"Little LaLa's Nursery Rhymes","channelId":"UC78OOtyYVNnqScK-bYzbcXw","publishedAt":"2024-03-29T11:00:47Z","duration":"15:13","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/izfUsHZw9bs/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/izfUsHZw9bs/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/izfUsHZw9bs/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/izfUsHZw9bs/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/izfUsHZw9bs/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"0–2"}],["$","$L11","VNbdkDIBhV8",{"video":{"id":"VNbdkDIBhV8","title":"Twinkle Twinkle Little Star Song + more Baby Songs & Nursery Rhymes","description":"Twinkle Twinkle Little Star Song + more Baby Songs & Nursery Rhymes\n\nWheels on the Bus | New Kids Songs & Nursery Rhymes https://youtu.be/66IKO8jx89w\nBoo Boo Nursery Rhymes https://youtu.be/TlgmbSv69lc\nBaby Sick Song | New Nursery Rhymes https://youtu.be/IE8cbNqn1RI\nSwimming Pool Song | New Nursery Rhymes & Kids Songs https://youtu.be/9vd3FGyqEz4\nTooth Song Nursery Rhymes Compilation https://youtu.be/C3koFeAaE-4\nYes Yes Playground Song - No No Nursery Rhymes & NEW Kids Songs https://youtu.be/vLSFw2Rg6tI\n\n@Lalafun - Songs for Kids new nursery rhymes and baby shark song with wheel on the bus goes #nurseryrhymes #kidssongs #Playground\n\n#abcsong\n#rhymes\n#alphabet\n#nurseryrhymes\n#kidssongs\nSong origin: Nursery Rhyme \nSong Rerecord and mix: lalafun\nCopyright   @Lalafun - Songs for Kids   © 2022. All rights reserved","channelTitle":"Lalafun - Kids Songs US","channelId":"UCXhBp0I6IyjTdUCV9xOj_SQ","publishedAt":"2024-08-14T10:00:34Z","duration":"7:32","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/VNbdkDIBhV8/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/VNbdkDIBhV8/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/VNbdkDIBhV8/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/VNbdkDIBhV8/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/VNbdkDIBhV8/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"0–2"}],["$","$L11","mqv4VYPSqTE",{"video":{"id":"mqv4VYPSqTE","title":"आजा निंदिया रानी आजा | Aaja Nindiya Rani Aaja | Baby Sleep Song | Nursery Rhymes | Kids Lullabies","description":"$17","channelTitle":"Aayu Rhymes","channelId":"UCMf9h-8uCDQCPvackomN9QA","publishedAt":"2023-06-14T04:30:12Z","duration":"6:34","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/mqv4VYPSqTE/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/mqv4VYPSqTE/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/mqv4VYPSqTE/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/mqv4VYPSqTE/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/mqv4VYPSqTE/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"0–2"}],["$","$L11","sp7fH6wrE6k",{"video":{"id":"sp7fH6wrE6k","title":"LULLABIES FOR BABIES | Beautiful music for sleep | Beadies Nursery Rhymes & Songs","description":"Best baby lullabies for a good night's sleep!\n\nBeadies is a developmental musical cartoon series for kids up to four years of age. Created by a team of animators, child psychologists, teachers and parents. Beadies uses play to provide comprehensive child development while accounting for a child’s perception. Most importantly, we put our hearts into making Beadies. \n\nCoco the Hen, Cheep, Wolfy, Foxtail, Meowser, and Hoppy all live in the magical Beadies album. Each one of them uses interaction with children to develop social, intellectual, physical, sensorial, musical, and artistic skills, while giving parents hints on how to play with their child.","channelTitle":"Beadies – Educational Kids Cartoons","channelId":"UCfUylCvLJrnOY0VEzD4o89g","publishedAt":"2023-07-05T14:00:41Z","duration":"14:48","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/sp7fH6wrE6k/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/sp7fH6wrE6k/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/sp7fH6wrE6k/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/sp7fH6wrE6k/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/sp7fH6wrE6k/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"0–2"}],["$","$L11","k76XelYleyU",{"video":{"id":"k76XelYleyU","title":"Classic Nursery Rhymes Compilation for Kids (12 Minutes) | The Good and the Beautiful Kids","description":"$18","channelTitle":"The Good and the Beautiful Kids","channelId":"UCYatIHPmAyKHtRrr4PquMrg","publishedAt":"2025-08-19T14:30:34Z","duration":"12:42","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/k76XelYleyU/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/k76XelYleyU/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/k76XelYleyU/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/k76XelYleyU/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/k76XelYleyU/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"0–2"}],["$","$L11","HBxB0QkyiGU",{"video":{"id":"HBxB0QkyiGU","title":"Sleeping Bunnies & Little Bugs Songs⭐Little Baby Bum - Nursery Rhymes for Kids | Baby Song 123","description":"$19","channelTitle":"Little Baby Bum - Nursery Rhymes & Kids Songs","channelId":"UCKAqou7V9FAWXpZd9xtOg3Q","publishedAt":"2023-04-07T07:45:00Z","duration":"4:37","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/HBxB0QkyiGU/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/HBxB0QkyiGU/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/HBxB0QkyiGU/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/HBxB0QkyiGU/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/HBxB0QkyiGU/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"0–2"}],["$","$L11","9vtgvCyo8jY",{"video":{"id":"9vtgvCyo8jY","title":"Goodnight Friends 🌙 | Soothing Animation for Babies and Toddlers | BabyTV","description":"Time to dream peaceful dreams. Relaxing and soothing music for kids, toddlers and babies.\nSUBSCRIBE for more videos every week! https://www.youtube.com/c/BabyTV?sub_confirmation=1&feature=iv&src_vid=KxzHO17LbCg&annotation_id=annotation_1999752671\n\nMore from BabyTV:\nhttps://www.youtube.com/watch?v=OOHfp4MT-Mk&list=PLakLrQJOovvlSv8zXxj4akY_yT9lFUYI2&index=6https://www.youtube.com/watch?v=mLQRVSTZglc&list=PLakLrQJOovvnaIFYcmtDGf5zTngEmy2Ss&index=9\nhttps://www.youtube.com/watch?v=Dlz72-Ui8Zs&list=PLakLrQJOovvlSv8zXxj4akY_yT9lFUYI2&index=6\nhttps://www.youtube.com/watch?v=xnXOgpPPkRc&list=PLakLrQJOovvnaIFYcmtDGf5zTngEmy2Ss&index=11\n\nHere whenever you need us.\nThe world’s leading TV channel made for toddlers (4 & under) and their parents.\nPlus, our content is created with experts, so you can trust little ones are in safe hands.","channelTitle":"BabyTV - Nursery Rhymes & Cartoons","channelId":"UCGxnmQJquvQwlV_ICDfAKNA","publishedAt":"2019-02-14T08:00:02Z","duration":"13:09","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/9vtgvCyo8jY/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/9vtgvCyo8jY/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/9vtgvCyo8jY/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/9vtgvCyo8jY/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/9vtgvCyo8jY/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"0–2"}],["$","$L11","VNzRAjbs204",{"video":{"id":"VNzRAjbs204","title":"Our Favorite Bedtime Songs | Twinkle Twinkle Little Star, Sweet Dreams, & Little Snowflake","description":"$1a","channelTitle":"Super Simple Songs - Kids Songs","channelId":"UCLsooMJoIpl_7ux2jvdPB-Q","publishedAt":"2017-09-29T14:30:00Z","duration":"7:45","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/VNzRAjbs204/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/VNzRAjbs204/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/VNzRAjbs204/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/VNzRAjbs204/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/VNzRAjbs204/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"0–2"}],["$","$L11","5HRTxLuNojg",{"video":{"id":"5HRTxLuNojg","title":"आजा निंदिया रानी आजा | Aaja Nindiya Rani Aaja | Hindi Lullaby for Babies |    @galaxyrhymes1 ​","description":"$1b","channelTitle":"Galaxy Rhymes","channelId":"UCd-3CKELnWdHA-wt8q4klVA","publishedAt":"2026-09-25T02:30:33Z","duration":"6:31","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/5HRTxLuNojg/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/5HRTxLuNojg/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/5HRTxLuNojg/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/5HRTxLuNojg/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/5HRTxLuNojg/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"0–2"}],["$","$L11","KaofT3p9KB4",{"video":{"id":"KaofT3p9KB4","title":"Best Bedtime Lullabies for Kids 🌙✨ | Baby Sleep Songs | Peaceful Nursery Rhymes","description":"$1c","channelTitle":"Moonu Toonu ","channelId":"UC6PZBgvD08vfvDvY_x2ySMw","publishedAt":"2026-09-01T03:45:25Z","duration":"10:20","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/KaofT3p9KB4/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/KaofT3p9KB4/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/KaofT3p9KB4/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/KaofT3p9KB4/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/KaofT3p9KB4/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"0–2"}]]}]]}]]}]
