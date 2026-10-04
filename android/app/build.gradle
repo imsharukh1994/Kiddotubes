@@ -27,10 +27,10 @@ android {
         }
     }
     androidResources {
-        ignoreAssetsPattern '!.svn:!.git:!.ds_store:!*.scc:.*:!_next'
+        ignoreAssetsPattern ''
     }
     aaptOptions {
-        ignoreAssetsPattern '!.svn:!.git:!.ds_store:!*.scc:.*:!_next'
+        ignoreAssetsPattern ''
     }
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_17
