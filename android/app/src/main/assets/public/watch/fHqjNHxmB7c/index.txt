@@ -1,0 +1,556 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[575,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"AuthProvider"]
+7:I[1196,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"TimerProvider"]
+8:I[842,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+9:I[8349,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+a:I[3313,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+b:I[6733,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+c:I[3633,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+d:I[833,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+e:I[5050,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+4:["videoId","fHqjNHxmB7c","d"]
+0:["rAMQWTTpVHN77KICyo0QE",[[["",{"children":["watch",{"children":[["videoId","fHqjNHxmB7c","d"],{"children":["__PAGE__?{\"videoId\":\"fHqjNHxmB7c\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["watch",{"children":[["videoId","fHqjNHxmB7c","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","watch","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","watch","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/fa2c964e9fff47bf.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"bg-[#F8FAFC] text-slate-900 font-sans min-h-screen flex flex-col antialiased pb-16 md:pb-0","children":["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","main",null,{"className":"flex-1 max-w-[1440px] w-full mx-auto px-4 xs:px-5 sm:px-8 lg:px-12 py-4 sm:py-8","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}],["$","$Le",null,{}]]}]}]}]}]],null],null],["$Lf",null]]]]
+f:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"ChuChu TV Numbers Song - NEW Short Version - Number Rhymes For Children — KiddoTube"}],["$","meta","3",{"name":"description","content":"Numbers Song Global English Version - https://bit.ly/2O6z410\n\nCheck out our popular playlists to keep your little ones engaged and learning non-stop!\n\nClick her"}],["$","meta","4",{"name":"keywords","content":"Kids Videos,KiddoTube,Educational Videos,Nursery Rhymes,Safe Content Discovery"}],["$","link","5",{"rel":"shortcut icon","href":"/images/favicon.png"}],["$","link","6",{"rel":"icon","href":"/images/favicon.png"}],["$","link","7",{"rel":"apple-touch-icon","href":"/images/favicon.png"}]]
+1:null
+10:I[9374,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","359","static/chunks/359-71e1a687d9d4dce4.js","688","static/chunks/app/watch/%5BvideoId%5D/page-b03a147664fc495d.js"],"default"]
+12:I[2972,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","359","static/chunks/359-71e1a687d9d4dce4.js","688","static/chunks/app/watch/%5BvideoId%5D/page-b03a147664fc495d.js"],""]
+13:I[2271,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","359","static/chunks/359-71e1a687d9d4dce4.js","688","static/chunks/app/watch/%5BvideoId%5D/page-b03a147664fc495d.js"],"default"]
+14:I[2697,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","359","static/chunks/359-71e1a687d9d4dce4.js","688","static/chunks/app/watch/%5BvideoId%5D/page-b03a147664fc495d.js"],"default"]
+1f:I[6532,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","359","static/chunks/359-71e1a687d9d4dce4.js","688","static/chunks/app/watch/%5BvideoId%5D/page-b03a147664fc495d.js"],"default"]
+20:I[265,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","359","static/chunks/359-71e1a687d9d4dce4.js","688","static/chunks/app/watch/%5BvideoId%5D/page-b03a147664fc495d.js"],"default"]
+11:T519,Numbers Song Global English Version - https://bit.ly/2O6z410
+
+Check out our popular playlists to keep your little ones engaged and learning non-stop!
+
+Click here for brand new songs with Baby Taku & Friends ► https://www.youtube.com/playlist?list=PLV-cxl3VSwWEYTEMUd3RSzrTZq2q1hVnW
+Click here for Baby songs compilations! ► https://www.youtube.com/playlist?list=PLV-cxl3VSwWEdz04xWv32x5G4XTBVOUfX
+Click here for Classic Nursery Rhymes! ► https://www.youtube.com/playlist?list=PLV-cxl3VSwWHa83pPHIealm1vg0Cdp3aZ
+
+ChuChu TV is now available on all major music streaming platforms. You can now listen to your favorite ChuChu TV songs anytime, anywhere.
+
+Listen on Spotify ► https://orcd.co/npnkjdp
+Listen on Apple Music ► https://music.lnk.to/NkiCKW
+Listen on Amazon Music ► https://music.amazon.com/albums/B0BZZJBFF7?ref=AM4APC_AL_P_en_US_B00LP2FTLC_L7KKQQr
+Listen on YouTube Music ► https://music.youtube.com/channel/UC7fk9tVVNRZAjhjps2O4Ygg?si=wAXe-rmmwVnILxyN
+
+ChuChu TV creates entertaining and educational videos for toddlers globally. Their lovable characters aid in developing cognitive skills, memory, recognition, and more. Click here to Subscribe to our channel - https://bit.ly/32NxN7y
+
+Copyright © ChuChu TV® Studios LLP. All Rights Reserved!
+
+#ChuChuTV #NurseryRhymes #BabySongs16:T519,Numbers Song Global English Version - https://bit.ly/2O6z410
+
+Check out our popular playlists to keep your little ones engaged and learning non-stop!
+
+Click here for brand new songs with Baby Taku & Friends ► https://www.youtube.com/playlist?list=PLV-cxl3VSwWEYTEMUd3RSzrTZq2q1hVnW
+Click here for Baby songs compilations! ► https://www.youtube.com/playlist?list=PLV-cxl3VSwWEdz04xWv32x5G4XTBVOUfX
+Click here for Classic Nursery Rhymes! ► https://www.youtube.com/playlist?list=PLV-cxl3VSwWHa83pPHIealm1vg0Cdp3aZ
+
+ChuChu TV is now available on all major music streaming platforms. You can now listen to your favorite ChuChu TV songs anytime, anywhere.
+
+Listen on Spotify ► https://orcd.co/npnkjdp
+Listen on Apple Music ► https://music.lnk.to/NkiCKW
+Listen on Amazon Music ► https://music.amazon.com/albums/B0BZZJBFF7?ref=AM4APC_AL_P_en_US_B00LP2FTLC_L7KKQQr
+Listen on YouTube Music ► https://music.youtube.com/channel/UC7fk9tVVNRZAjhjps2O4Ygg?si=wAXe-rmmwVnILxyN
+
+ChuChu TV creates entertaining and educational videos for toddlers globally. Their lovable characters aid in developing cognitive skills, memory, recognition, and more. Click here to Subscribe to our channel - https://bit.ly/32NxN7y
+
+Copyright © ChuChu TV® Studios LLP. All Rights Reserved!
+
+#ChuChuTV #NurseryRhymes #BabySongs18:{"url":"https://i.ytimg.com/vi/fHqjNHxmB7c/default.jpg","width":120,"height":90}
+19:{"url":"https://i.ytimg.com/vi/fHqjNHxmB7c/mqdefault.jpg","width":320,"height":180}
+1a:{"url":"https://i.ytimg.com/vi/fHqjNHxmB7c/hqdefault.jpg","width":480,"height":360}
+1b:{"url":"https://i.ytimg.com/vi/fHqjNHxmB7c/sddefault.jpg","width":640,"height":480}
+1c:{"url":"https://i.ytimg.com/vi/fHqjNHxmB7c/maxresdefault.jpg","width":1280,"height":720}
+1d:{"url":"https://i.ytimg.com/vi/fHqjNHxmB7c/uhddefault.jpg","width":3840,"height":2160}
+17:{"default":"$18","medium":"$19","high":"$1a","standard":"$1b","maxres":"$1c","uhd":"$1d"}
+15:{"id":"fHqjNHxmB7c","title":"ChuChu TV Numbers Song - NEW Short Version - Number Rhymes For Children","description":"$16","channelTitle":"ChuChu TV Nursery Rhymes & Kids Songs","channelId":"UCBnZ16ahKA2DZ_T5W0FPUXg","publishedAt":"2014-08-21T02:57:16Z","duration":"4:12","thumbnails":"$17"}
+1e:T519,Numbers Song Global English Version - https://bit.ly/2O6z410
+
+Check out our popular playlists to keep your little ones engaged and learning non-stop!
+
+Click here for brand new songs with Baby Taku & Friends ► https://www.youtube.com/playlist?list=PLV-cxl3VSwWEYTEMUd3RSzrTZq2q1hVnW
+Click here for Baby songs compilations! ► https://www.youtube.com/playlist?list=PLV-cxl3VSwWEdz04xWv32x5G4XTBVOUfX
+Click here for Classic Nursery Rhymes! ► https://www.youtube.com/playlist?list=PLV-cxl3VSwWHa83pPHIealm1vg0Cdp3aZ
+
+ChuChu TV is now available on all major music streaming platforms. You can now listen to your favorite ChuChu TV songs anytime, anywhere.
+
+Listen on Spotify ► https://orcd.co/npnkjdp
+Listen on Apple Music ► https://music.lnk.to/NkiCKW
+Listen on Amazon Music ► https://music.amazon.com/albums/B0BZZJBFF7?ref=AM4APC_AL_P_en_US_B00LP2FTLC_L7KKQQr
+Listen on YouTube Music ► https://music.youtube.com/channel/UC7fk9tVVNRZAjhjps2O4Ygg?si=wAXe-rmmwVnILxyN
+
+ChuChu TV creates entertaining and educational videos for toddlers globally. Their lovable characters aid in developing cognitive skills, memory, recognition, and more. Click here to Subscribe to our channel - https://bit.ly/32NxN7y
+
+Copyright © ChuChu TV® Studios LLP. All Rights Reserved!
+
+#ChuChuTV #NurseryRhymes #BabySongs21:Td45,🌈 Help us hit 100M! Subscribe now - https://www.youtube.com/ChuChuTV?sub_confirmation=1
+
+You can listen to this song on your preferred music streaming platforms.- https://orcd.co/b82job9
+
+To download and watch this video anywhere and at any time, get the ChuChu TV Pro app now by clicking the below link!
+For Android Phones and Tablets - https://chuchu.me/ChuChuTVAndroid
+For Apple iPhones and iPads - https://chuchu.me/ChuChuTViOS
+.
+.
+ChuChu TV Classics - Phonics Song with Two Words | Nursery Rhymes and Kids Songs
+Click here to Subscribe to our channel - https://bit.ly/32NxN7y
+
+View other NEW 3D Animated Nursery Rhymes with Baby Taku from ChuChu TV:
+
+Baby goes to Old MacDonald’s Farm - https://www.youtube.com/watch?v=mBgOlyGpKrw
+Baby Loves Stargazing - Twinkle Twinkle Little Star - https://www.youtube.com/watch?v=s1DtPUYby94
+Baby is Sick Song - https://www.youtube.com/watch?v=NjIEhuRG0Ks
+Pat A Cake Song - https://www.youtube.com/watch?v=XuLy-llv3sU
+ChuChu's Baa Baa Black Sheep - https://www.youtube.com/watch?v=0FxhksvgHcw
+The Boo Boo Song - https://www.youtube.com/watch?v=Tmqbbt-yyUQ
+Baby's Humpty Dumpty Song - https://www.youtube.com/watch?v=x8oinWzA0Fs
+Baby's First Steps Song - https://www.youtube.com/watch?v=sWkiwlFQ7cQ
+Bath Song 2 - https://www.youtube.com/watch?v=Qs_ll8GwhIE
+Baby Care and Share Song - https://www.youtube.com/watch?v=UYMm_zgAGaQ
+No No Brush My Teeth Song - https://www.youtube.com/watch?v=fyI_eCTPT_A
+The Muffin Man - https://www.youtube.com/watch?v=ZjbvlfxTgQw
+No No Milk Song - https://www.youtube.com/watch?v=kgRF3qhXlqI
+Color Song - The Wheels On The Bus - https://www.youtube.com/watch?v=C4hvMJOvXWo
+Hello Song - https://www.youtube.com/watch?v=El9VkQCh4sg
+ABC Song with ChuChu Toy Train - https://www.youtube.com/watch?v=Nkmarl4ynRM
+Doctor Checkup Song - https://www.youtube.com/watch?v=R3XAfpxqfqQ
+Yes Yes Fruits Song - https://www.youtube.com/watch?v=nKm0g1boEhE
+Wheels on the Bus Song - Baby Starts Crying - https://www.youtube.com/watch?v=0FwA-1hMAb4
+Baa Baa Black Sheep Song - Colors of the Rainbow - https://www.youtube.com/watch?v=_OuH7Ihbf-c
+Baby Goes Swimming Song - https://www.youtube.com/watch?v=YvKHNShAaa4
+Hickory Dickory Dock - https://www.youtube.com/watch?v=Z2jRSAOdwx0
+Johny Johny Yes Papa - Grandparents Version - https://www.youtube.com/watch?v=GAtj5v27heE
+No No Yes Yes Go to School Song - https://www.youtube.com/watch?v=4GcLWywzQXY
+Yes Yes Wake Up Song - https://www.youtube.com/watch?v=V7si2KRHLls
+
+Nursery rhymes in English,Piosenki dla dzieci po angielsku, canciones en inglés para niños,เพลงภาษาอังกฤษสำหรับเด็ก, Comptines en anglais,Kinderlieder in Englisch, Lagu-lagu anak berbahasa Inggeris, Musik Untuk Anak,Engelse kinderliedjes, Músicas em inglês para crianças, Gyerekzene, barnvisorna på engelska, 英文兒歌, Písničky v angličtině, أناشيد أطفال باللغة الإنجليزية, अंग्रेजी में नर्सरी कविताएं, Barnerim på engelsk, Canzoni per bambini in inglese 
+
+===============================================
+Video: Copyright 2020 ChuChu TV® Studios
+Music and Lyrics: Copyright 2020 ChuChu TV® Studios
+ChuChu TV ®, Cutians ®, all the characters and logos 
+used are the registered trademarks of ChuChu TV Studios
+===============================================
+
+#ChuChuTV #NurseryRhymes22:T6c1,🌈 Help us hit 100M! Subscribe now - https://www.youtube.com/ChuChuTV?sub_confirmation=1
+
+Check out the new Vegetable Dance Party song! - https://youtu.be/seCqGIm4QUg
+
+Get ready for a super fun dance party! "The Fruit Friends" are putting on a show where different types of fruit will come on stage and dance their hearts out to entertain the kids. You won't want to miss this!
+
+You can listen to this song on your preferred music streaming platforms. - https://orcd.co/fruitfriends
+
+ChuChu TV is now available on all major music streaming platforms. You can now listen to your favorite ChuChu TV songs anytime, anywhere.
+
+Listen on Spotify ► https://orcd.co/npnkjdp
+Listen on Apple Music ► https://music.lnk.to/NkiCKW
+Listen on Amazon Music ► https://music.amazon.com/albums/B0BZZJBFF7?ref=AM4APC_AL_P_en_US_B00LP2FTLC_L7KKQQr
+Listen on YouTube Music ► https://music.youtube.com/channel/UC7fk9tVVNRZAjhjps2O4Ygg?si=wAXe-rmmwVnILxyN
+
+Check out our popular playlists to keep your little ones engaged and learning non-stop!
+
+Click here for brand new songs with Baby Taku & Friends ► https://www.youtube.com/playlist?list=PLV-cxl3VSwWEYTEMUd3RSzrTZq2q1hVnW
+Click here for Baby songs compilations! ► https://www.youtube.com/playlist?list=PLV-cxl3VSwWEdz04xWv32x5G4XTBVOUfX
+Click here for Classic Nursery Rhymes! ► https://www.youtube.com/playlist?list=PLV-cxl3VSwWHa83pPHIealm1vg0Cdp3aZ
+
+ChuChu TV creates entertaining and educational videos for toddlers globally. Their lovable characters aid in developing cognitive skills, memory, recognition, and more. Click here to Subscribe to our channel - https://bit.ly/32NxN7y
+
+Copyright © ChuChu TV® Studios LLP. All Rights Reserved!
+
+#ChuChuTV #NurseryRhymes #BabySongs23:T120e,🌈 Help us hit 100M! Subscribe now - https://www.youtube.com/ChuChuTV?sub_confirmation=1
+
+Have fun listening to ChuChu TV's songs on Spotify: https://chuchu.me/Spotify
+
+Baby Taku and his friends are curious about what their mothers have packed for lunch. Without hesitation, the mothers unveil their meals, bringing joy to the children who happily exchange and savor their favorite dishes.
+
+The Lunch Box Song Lyrics :
+
+What’s in my lunch box, mommy? 
+I hope it’s something yummy! 
+Show me oh show me, mommy! 
+Let’s open my lunch box please! 
+
+Let’s open my lunch box please! 
+You’ve got pasta shaped like butterflies. 
+Broccoli, tomato and potato fries. 
+Yogurt, nuts and cherries. 
+And lots of strawberries. 
+
+What’s in my lunch box, mommy? 
+I hope it’s something yummy! 
+Show me, oh, show me, mommy! 
+Let’s open my lunch box please! 
+Let’s open my lunch box please! 
+
+You’ve got scrambled eggs and cheese. 
+Sweet corn, carrots and peas. 
+A slice of buttery bread. 
+An apple nice and red. 
+
+What’s in my lunch box, mommy? 
+I hope it’s something yummy! 
+Show me, oh, show me, mommy! 
+Let’s open my lunch box please! 
+Let’s open my lunch box please! 
+
+ You’ve got tacos with beans. 
+Salad with peppers and greens. 
+Chicken nuggets to share. 
+Milkshake and a pear. 
+ 
+ What’s in my lunch box, mommy? 
+I hope it’s something yummy! 
+Show me, oh, show me, mommy! 
+Let’s open my lunch box please! 
+Let’s open my lunch box please! 
+
+You’ve got triangle-shaped samosas. 
+Pancakes known as dosas. 
+Ladoos round and sweet. 
+Yummy mango slices to eat! 
+
+What’s in my lunch box, mommy? 
+I hope it’s something yummy! 
+Show me, oh, show me, mommy! 
+Let’s open my lunch box please! 
+Let’s open my lunch box please! 
+
+You’ve got meatballs and pizza. 
+Mashed potatoes and a banana. 
+Fresh pineapple and some grapes. 
+A slice of chocolate cake! 
+
+Try my lunch made by my mommy! 
+She always makes something yummy! 
+You’ll find my lunch yummy! 
+My lunch made by …. mommy! 
+My lunch made by …. mommy! 
+My lunch made by …. mommy!
+
+To download and watch this video anywhere and at any time, get the ChuChu TV Pro app now by clicking the below link!
+For Android Phones and Tablets - https://chuchu.me/ChuChuTVAndroid
+For Apple iPhones and iPads - https://chuchu.me/ChuChuTViOS
+Click here to Subscribe to our channel - https://bit.ly/32NxN7y
+
+View other NEW 3D Animated Nursery Rhymes with Baby Taku from ChuChu TV:
+
+Baby goes to Old MacDonald’s Farm - https://www.youtube.com/watch?v=mBgOlyGpKrw
+Baby Loves Stargazing - Twinkle Twinkle Little Star - https://www.youtube.com/watch?v=s1DtPUYby94
+Baby is Sick Song - https://www.youtube.com/watch?v=NjIEhuRG0Ks
+Pat A Cake Song - https://www.youtube.com/watch?v=XuLy-llv3sU
+ChuChu's Baa Baa Black Sheep - https://www.youtube.com/watch?v=0FxhksvgHcw
+The Boo Boo Song - https://www.youtube.com/watch?v=Tmqbbt-yyUQ
+Baby's Humpty Dumpty Song - https://www.youtube.com/watch?v=x8oinWzA0Fs
+Baby's First Steps Song - https://www.youtube.com/watch?v=sWkiwlFQ7cQ
+Bath Song 2 - https://www.youtube.com/watch?v=Qs_ll8GwhIE
+Baby Care and Share Song - https://www.youtube.com/watch?v=UYMm_zgAGaQ
+No No Brush My Teeth Song - https://www.youtube.com/watch?v=fyI_eCTPT_A
+The Muffin Man - https://www.youtube.com/watch?v=ZjbvlfxTgQw
+No No Milk Song - https://www.youtube.com/watch?v=kgRF3qhXlqI
+Color Song - The Wheels On The Bus - https://www.youtube.com/watch?v=C4hvMJOvXWo
+Hello Song - https://www.youtube.com/watch?v=El9VkQCh4sg
+ABC Song with ChuChu Toy Train - https://www.youtube.com/watch?v=Nkmarl4ynRM
+Doctor Checkup Song - https://www.youtube.com/watch?v=R3XAfpxqfqQ
+Yes Yes Fruits Song - https://www.youtube.com/watch?v=nKm0g1boEhE
+Wheels on the Bus Song - Baby Starts Crying - https://www.youtube.com/watch?v=0FwA-1hMAb4
+Baa Baa Black Sheep Song - Colors of the Rainbow - https://www.youtube.com/watch?v=_OuH7Ihbf-c
+Baby Goes Swimming Song - https://www.youtube.com/watch?v=YvKHNShAaa4
+Hickory Dickory Dock - https://www.youtube.com/watch?v=Z2jRSAOdwx0
+Johny Johny Yes Papa - Grandparents Version - https://www.youtube.com/watch?v=GAtj5v27heE
+No No Yes Yes Go to School Song - https://www.youtube.com/watch?v=4GcLWywzQXY
+Yes Yes Wake Up Song - https://www.youtube.com/watch?v=V7si2KRHLls
+
+Nursery rhymes in English
+===============================================
+Video: Copyright 2022 ChuChu TV® Studios
+Music and Lyrics: Copyright 2022 ChuChu TV® Studios
+ChuChu TV ®, Cutians ®, all the characters and logos 
+used are the registered trademarks of ChuChu TV Studios
+===============================================
+
+#ChuChuTV #NurseryRhymes24:Tafd,🌈 Help us hit 100M! Subscribe now - https://www.youtube.com/ChuChuTV?sub_confirmation=1
+
+Have fun listening to ChuChu TV's songs on Spotify: https://chuchu.me/Spotify
+. To download and watch this video anywhere and at any time, get the ChuChu TV Pro app now by clicking the below link!
+For Android Phones and Tablets - https://chuchu.me/ChuChuTVAndroid
+For Apple iPhones and iPads - https://chuchu.me/ChuChuTViOS
+.
+.
+. Wheels on the Bus Go Round and Round Lyrics:
+
+The wheels on the bus go round and round
+Round and round, round and round
+The wheels on the bus go round and round
+Round and round and round
+
+The door on the bus goes open and shut
+Open and shut, open and shut
+Which goes open and shut?
+The wheel? No
+The horn? No
+The door? Yes the door!
+C'mon sing along
+The door on the bus goes open and shut
+Open and shut, open and shut
+The door on the bus goes open and shut
+Open and shut
+
+Oh it’s raining!!!
+Let’s switch on the wipers!
+
+The wipers on the bus go swish swish swish
+Swish swish swish. Swish swish swish
+What makes the sound swish?
+Is that the wheel? No
+Is that the door? No
+Is that the wiper? Yes, the wiper!
+C'mon sing along
+The wipers on the bus go swish swish swish
+Swish swish swish, swish swish swish
+The wipers on the bus go swish swish swish 
+Swish swish swish
+
+The horn on the bus goes beep beep beep
+Beep beep beep, beep beep beep
+What makes the sound beep?
+Wait!!! Is that the wiper? No
+Is that the wheel? No
+Is that the horn? Yes the horn!
+C'mon sing along
+The horn on the bus goes beep beep beep
+Beep beep beep, beep beep beep
+The horn on the bus goes beep beep beep
+Beep beep beep beep beep
+
+The people on the bus go up and down
+ up and down, up and down
+What goes up and down?
+The driver? No
+The wiper? No
+The people? Yes the people!
+C’mon sing along
+The people on the bus go up and down
+Up and down. Up and down
+The people on the bus go up and down
+Up and down
+
+The baby on the bus goes wah wah wah
+Wah wah wah. Wah wah wah
+Who goes wah wah wah?
+The people? No
+The driver? No
+The baby? Yes the baby!
+C'mon sing along
+The baby on the bus goes wah wah wah
+Wah wah wah, wah wah wah
+The baby on the bus goes wah wah wah
+Wah wah wah wah wah
+
+The mommy on the bus goes, shhh shhh shhh
+Shhh shhh shhh. Shhh shhh shhh
+Who goes shhh shhh shhh?
+The people? No
+The baby? No
+The mommy? Yes the mommy
+C'mon sing along
+The mommy on the bus goes, shhh shhh shhh
+Shhh shhh shhh.shhh shhh shhh
+The mommy on the bus goes shhh shhh shhh 
+Shhh shhh shhh shhh shh 
+
+The wheels on the bus go round and round
+Round and round, round and round
+The wheels on the bus go round and round
+Round and round and round
+
+============================================
+Music and Lyrics: Copyright 2016 ChuChu TV™ Studios
+Video: Copyright 2016 ChuChu TV™ Studios
+============================================25:T12f7,🌈 Help us hit 100M! Subscribe now - https://www.youtube.com/ChuChuTV?sub_confirmation=1
+
+The Finger Family Song Lyrics :
+
+Daddy finger, daddy finger, where are you?
+Here I am, here I am, how do you do?
+Daddy finger, daddy finger, what’s your name?
+I’m the thumb, I’m the thumb, call me the thumb
+
+Mommy finger, mommy finger, where are you?
+Here I am, here I am, how do you do?
+Mommy finger, mommy finger, what’s your name?
+I am the index finger, so call me the same
+
+Brother finger, brother finger, where are you?
+Here I am, here I am, how do you do?
+Brother finger, brother finger, what’s your name?
+Middle finger, middle finger, call me the same
+
+Sister finger, sister finger, where are you?
+Here I am, here I am, how do you do?
+Sister finger, sister finger, what’s your name?
+Ring finger, ring finger, I wear the ring
+
+Baby finger, baby finger, where are you?
+Here I am, here I am, how do you do?
+Baby finger, baby finger, what’s your name?
+Pinky, pinky, that is my name
+
+Thumb finger, index finger, middle finger
+Ring finger, pinky finger are the five fingers
+Five fingers with the palm makes our hand
+Five fingers and the palm makes our hand
+Five fingers with the palm makes our hand
+Five fingers and the palm makes our hand
+Five fingers on the left, five fingers on the right
+Five fingers on this hand, five fingers on this hand
+
+Now show your thumb
+Thumb, thumb, thumb
+Now point your index finger
+Here, here, here
+Now bend your middle finger
+Bend, bend, bend
+Now shake your ring finger
+Shake, shake, shake
+Now show your pinky
+Now come on, sing along to the tune
+
+Now show your thumb
+Thumb, thumb, thumb
+Now point your index finger
+Here, here, here
+Now bend your middle finger
+Bend, bend, bend
+Now shake your ring finger
+Shake, shake, shake
+Now show your pinky
+The little pinky is so cute
+
+Show the fingers on your left hand
+Thumb here
+Index here
+Middle here
+Ring here
+Pinky here
+
+Now show the fingers on your right hand
+Thumb here
+Index here
+Middle here
+Ring here
+Pinky here
+
+Clap your hands, clap your hands, clap your hands
+We know the names of the fingers on our hands
+
+Clap your hands, clap your hands, clap your hands
+We know the names of the fingers on our hands
+Clap your hands, clap your hands, clap your hands
+We know the names of the fingers on our hands
+Clap your hands, clap your hands, clap your hands
+We know the names of the fingers on our hands
+
+To download and watch this video anywhere and at any time, get the ChuChu TV Pro app now by clicking the below link!
+For Android Phones and Tablets - https://chuchu.me/ChuChuTVAndroid
+For Apple iPhones and iPads - https://chuchu.me/ChuChuTViOS
+Click here to Subscribe to our channel - https://bit.ly/32NxN7y
+
+View other NEW 3D Animated Nursery Rhymes with Baby Taku from ChuChu TV:
+
+Baby goes to Old MacDonald’s Farm - https://www.youtube.com/watch?v=mBgOlyGpKrw
+Baby Loves Stargazing - Twinkle Twinkle Little Star - https://www.youtube.com/watch?v=s1DtPUYby94
+Baby is Sick Song - https://www.youtube.com/watch?v=NjIEhuRG0Ks
+Pat A Cake Song - https://www.youtube.com/watch?v=XuLy-llv3sU
+ChuChu's Baa Baa Black Sheep - https://www.youtube.com/watch?v=0FxhksvgHcw
+The Boo Boo Song - https://www.youtube.com/watch?v=Tmqbbt-yyUQ
+Baby's Humpty Dumpty Song - https://www.youtube.com/watch?v=x8oinWzA0Fs
+Baby's First Steps Song - https://www.youtube.com/watch?v=sWkiwlFQ7cQ
+Bath Song 2 - https://www.youtube.com/watch?v=Qs_ll8GwhIE
+Baby Care and Share Song - https://www.youtube.com/watch?v=UYMm_zgAGaQ
+No No Brush My Teeth Song - https://www.youtube.com/watch?v=fyI_eCTPT_A
+The Muffin Man - https://www.youtube.com/watch?v=ZjbvlfxTgQw
+No No Milk Song - https://www.youtube.com/watch?v=kgRF3qhXlqI
+Color Song - The Wheels On The Bus - https://www.youtube.com/watch?v=C4hvMJOvXWo
+Hello Song - https://www.youtube.com/watch?v=El9VkQCh4sg
+ABC Song with ChuChu Toy Train - https://www.youtube.com/watch?v=Nkmarl4ynRM
+Doctor Checkup Song - https://www.youtube.com/watch?v=R3XAfpxqfqQ
+Yes Yes Fruits Song - https://www.youtube.com/watch?v=nKm0g1boEhE
+Wheels on the Bus Song - Baby Starts Crying - https://www.youtube.com/watch?v=0FwA-1hMAb4
+Baa Baa Black Sheep Song - Colors of the Rainbow - https://www.youtube.com/watch?v=_OuH7Ihbf-c
+Baby Goes Swimming Song - https://www.youtube.com/watch?v=YvKHNShAaa4
+Hickory Dickory Dock - https://www.youtube.com/watch?v=Z2jRSAOdwx0
+Johny Johny Yes Papa - Grandparents Version - https://www.youtube.com/watch?v=GAtj5v27heE
+No No Yes Yes Go to School Song - https://www.youtube.com/watch?v=4GcLWywzQXY
+
+===============================================
+Video: Copyright 2023 ChuChu TV® Studios
+Music and Lyrics: Copyright 2023 ChuChu TV® Studios
+ChuChu TV ®, Cutians ®, all the characters and logos 
+used are the registered trademarks of ChuChu TV Studios
+===============================================
+#ChuChuTV #NurseryRhymes #kidssongs26:Tbf7,🌈 Help us hit 100M! Subscribe now - https://www.youtube.com/ChuChuTV?sub_confirmation=1
+
+This song is available to listen on all music streaming platforms.- https://orcd.co/chuchutvhits
+
+Please Subscribe to our channel - https://bit.ly/32NxN7y
+
+NEW 3D Animated Nursery Rhymes with Baby Taku from ChuChu TV:
+
+Baby goes to Old MacDonald’s Farm - https://www.youtube.com/watch?v=mBgOlyGpKrw
+Baby Loves Stargazing - Twinkle Twinkle Little Star - https://www.youtube.com/watch?v=s1DtPUYby94
+Baby is Sick Song - https://www.youtube.com/watch?v=NjIEhuRG0Ks
+Pat A Cake Song - https://www.youtube.com/watch?v=XuLy-llv3sU
+ChuChu's Baa Baa Black Sheep - https://www.youtube.com/watch?v=0FxhksvgHcw
+The Boo Boo Song - https://www.youtube.com/watch?v=Tmqbbt-yyUQ
+Baby's Humpty Dumpty Song - https://www.youtube.com/watch?v=x8oinWzA0Fs
+Baby's First Steps Song - https://www.youtube.com/watch?v=sWkiwlFQ7cQ
+Bath Song 2 - https://www.youtube.com/watch?v=Qs_ll8GwhIE
+Baby Care and Share Song - https://www.youtube.com/watch?v=UYMm_zgAGaQ
+No No Brush My Teeth Song - https://www.youtube.com/watch?v=fyI_eCTPT_A
+The Muffin Man - https://www.youtube.com/watch?v=ZjbvlfxTgQw
+No No Milk Song - https://www.youtube.com/watch?v=kgRF3qhXlqI
+Color Song - The Wheels On The Bus - https://www.youtube.com/watch?v=C4hvMJOvXWo
+Hello Song - https://www.youtube.com/watch?v=El9VkQCh4sg
+ABC Song with ChuChu Toy Train - https://www.youtube.com/watch?v=Nkmarl4ynRM
+Doctor Checkup Song - https://www.youtube.com/watch?v=R3XAfpxqfqQ
+Yes Yes Fruits Song - https://www.youtube.com/watch?v=nKm0g1boEhE
+Wheels on the Bus Song - Baby Starts Crying - https://www.youtube.com/watch?v=0FwA-1hMAb4
+Baa Baa Black Sheep Song - Colors of the Rainbow - https://www.youtube.com/watch?v=_OuH7Ihbf-c
+Baby Goes Swimming Song - https://www.youtube.com/watch?v=YvKHNShAaa4
+Hickory Dickory Dock - https://www.youtube.com/watch?v=Z2jRSAOdwx0
+Johny Johny Yes Papa - Grandparents Version - https://www.youtube.com/watch?v=GAtj5v27heE
+No No Yes Yes Go to School Song - https://www.youtube.com/watch?v=4GcLWywzQXY
+Yes Yes Wake Up Song - https://www.youtube.com/watch?v=V7si2KRHLls
+
+Nursery rhymes in English,Piosenki dla dzieci po angielsku, canciones en inglés para niños,เพลงภาษาอังกฤษสำหรับเด็ก, Comptines en anglais,Kinderlieder in Englisch, Lagu-lagu anak berbahasa Inggeris, Musik Untuk Anak,Engelse kinderliedjes, Músicas em inglês para crianças, Gyerekzene, barnvisorna på engelska, 英文兒歌, Písničky v angličtině, أناشيد أطفال باللغة الإنجليزية, अंग्रेजी में नर्सरी कविताएं, Barnerim på engelsk, Canzoni per bambini in inglese 
+
+===============================================
+Video: Copyright 2020 ChuChu TV® Studios
+Music and Lyrics: Copyright 2020 ChuChu TV® Studios
+ChuChu TV ®, Cutians ®, all the characters and logos 
+used are the registered trademarks of ChuChu TV Studios
+===============================================
+
+#ChuChuTV #NurseryRhymes #kidslearning27:T5b4,🌈 Help us hit 100M! Subscribe now - https://www.youtube.com/ChuChuTV?sub_confirmation=1
+
+Here's the link to the global English version of "The Finger Family" song. - https://www.youtube.com/watch?v=xIPImto6ZzU
+
+Check out our popular playlists to keep your little ones engaged and learning non-stop!
+
+Click here for brand new songs with Baby Taku & Friends ► https://www.youtube.com/playlist?list=PLV-cxl3VSwWEYTEMUd3RSzrTZq2q1hVnW
+Click here for Baby songs compilations! ► https://www.youtube.com/playlist?list=PLV-cxl3VSwWEdz04xWv32x5G4XTBVOUfX
+Click here for Classic Nursery Rhymes! ► https://www.youtube.com/playlist?list=PLV-cxl3VSwWHa83pPHIealm1vg0Cdp3aZ
+
+ChuChu TV is now available on all major music streaming platforms. You can now listen to your favorite ChuChu TV songs anytime, anywhere.
+
+Listen on Spotify ► https://orcd.co/npnkjdp
+Listen on Apple Music ► https://music.lnk.to/NkiCKW
+Listen on Amazon Music ► https://music.amazon.com/albums/B0BZZJBFF7?ref=AM4APC_AL_P_en_US_B00LP2FTLC_L7KKQQr
+Listen on YouTube Music ► https://music.youtube.com/channel/UC7fk9tVVNRZAjhjps2O4Ygg?si=wAXe-rmmwVnILxyN
+
+ChuChu TV creates entertaining and educational videos for toddlers globally. Their lovable characters aid in developing cognitive skills, memory, recognition, and more. Click here to Subscribe to our channel - https://bit.ly/32NxN7y
+
+Copyright © ChuChu TV® Studios LLP. All Rights Reserved!
+
+#ChuChuTV #NurseryRhymes #FingerFamily2:["$","div",null,{"className":"max-w-[1280px] mx-auto w-full px-1 xs:px-2 sm:px-6 lg:px-8 py-4 sm:py-6 space-y-6 sm:space-y-8","children":[["$","$L10",null,{"video":{"id":"fHqjNHxmB7c","title":"ChuChu TV Numbers Song - NEW Short Version - Number Rhymes For Children","description":"$11","channelTitle":"ChuChu TV Nursery Rhymes & Kids Songs","channelId":"UCBnZ16ahKA2DZ_T5W0FPUXg","publishedAt":"2014-08-21T02:57:16Z","duration":"4:12","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/fHqjNHxmB7c/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/fHqjNHxmB7c/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/fHqjNHxmB7c/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/fHqjNHxmB7c/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/fHqjNHxmB7c/maxresdefault.jpg","width":1280,"height":720},"uhd":{"url":"https://i.ytimg.com/vi/fHqjNHxmB7c/uhddefault.jpg","width":3840,"height":2160}}}}],["$","div",null,{"children":["$","$L12",null,{"href":"/","className":"inline-flex items-center gap-2 px-3.5 py-2 bg-white rounded-full text-slate-700 font-bold text-xs sm:text-sm border border-slate-200 hover:border-purple-300 hover:text-purple-700 hover:bg-purple-50 transition-all shadow-subtle active:scale-95 focus:outline-none focus:ring-2 focus:ring-purple-600","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-4 h-4","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"Back to Discover"}]]}]}],["$","section",null,{"className":"w-full max-w-full","children":["$","$L13",null,{"videoId":"fHqjNHxmB7c","title":"ChuChu TV Numbers Song - NEW Short Version - Number Rhymes For Children"}]}],["$","section",null,{"className":"bg-white rounded-2xl sm:rounded-3xl p-4 xs:p-6 sm:p-8 border border-slate-200/80 shadow-subtle space-y-5 sm:space-y-6","children":[["$","h1",null,{"className":"text-xl sm:text-3xl lg:text-4xl font-black text-slate-900 leading-tight tracking-tight break-words","children":"ChuChu TV Numbers Song - NEW Short Version - Number Rhymes For Children"}],["$","div",null,{"className":"flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-slate-100 pb-5 sm:pb-6","children":[["$","div",null,{"className":"space-y-2.5 sm:space-y-3","children":[["$","div",null,{"children":[["$","p",null,{"className":"text-base sm:text-lg font-black text-slate-900","children":"ChuChu TV Nursery Rhymes & Kids Songs"}],["$","p",null,{"className":"text-xs text-slate-500 font-semibold","children":"Kids songs & educational content"}]]}],["$","div",null,{"className":"flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"bg-purple-100 text-purple-900 text-xs font-black px-3 py-1 rounded-full","children":"Kids Pick"}],["$","span",null,{"className":"bg-amber-100 text-amber-950 text-xs font-black px-3 py-1 rounded-full","children":"Ages 2–6"}],["$","span",null,{"className":"bg-slate-100 text-slate-700 text-xs font-bold px-3 py-1 rounded-full flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-3.5 h-3.5 text-amber-500","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","polyline","68esgv",{"points":"12 6 12 12 16 14"}],"$undefined"]}],["$","span",null,{"children":"4:12"}]]}]]}]]}],["$","div",null,{"className":"shrink-0","children":["$","$L14",null,{"video":"$15"}]}]]}],["$","div",null,{"className":"space-y-3","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-purple-900 font-bold text-xs uppercase tracking-wider","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles w-3.5 h-3.5 text-amber-500","children":[["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}],["$","path","1olli1",{"d":"M20 3v4"}],["$","path","1gvqau",{"d":"M22 5h-4"}],["$","path","vumght",{"d":"M4 17v2"}],["$","path","zchphs",{"d":"M5 18H3"}],"$undefined"]}],["$","span",null,{"children":"About this video"}]]}],["$","p",null,{"className":"text-slate-700 font-medium text-xs sm:text-sm leading-relaxed whitespace-pre-line bg-slate-50 p-3.5 sm:p-4 rounded-xl border border-slate-100","children":"$1e"}],["$","div",null,{"className":"flex items-center gap-2 text-xs font-semibold text-slate-500 pt-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-shield-check w-4 h-4 text-emerald-600 shrink-0","children":[["$","path","oel41y",{"d":"M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"}],["$","path","dzmm74",{"d":"m9 12 2 2 4-4"}],"$undefined"]}],["$","span",null,{"children":"Embedded directly via official YouTube no-cookie player (COPPA Safe)."}]]}]]}]]}],["$","section",null,{"aria-label":"Advertisement","children":["$","$L1f",null,{"placement":"watch","context":"kids","ageTreatment":"child"}]}],["$","section",null,{"className":"space-y-4 sm:space-y-6","children":[["$","div",null,{"className":"flex items-center justify-between","children":["$","h2",null,{"className":"text-lg sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles w-5 h-5 sm:w-6 sm:h-6 text-purple-600","children":[["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}],["$","path","1olli1",{"d":"M20 3v4"}],["$","path","1gvqau",{"d":"M22 5h-4"}],["$","path","vumght",{"d":"M4 17v2"}],["$","path","zchphs",{"d":"M5 18H3"}],"$undefined"]}],["$","span",null,{"children":"More Like This"}]]}]}],["$","div",null,{"className":"grid grid-cols-1 xs:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3.5 sm:gap-6","children":[["$","$L20","2n4enj6YMnw",{"video":{"id":"2n4enj6YMnw","title":"ChuChu TV Classics - Phonics Song with Two Words | Nursery Rhymes and Kids Songs","description":"$21","channelTitle":"ChuChu TV Nursery Rhymes & Kids Songs","channelId":"UCBnZ16ahKA2DZ_T5W0FPUXg","publishedAt":"2020-07-24T12:00:02Z","duration":"4:57","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/2n4enj6YMnw/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/2n4enj6YMnw/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/2n4enj6YMnw/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/2n4enj6YMnw/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/2n4enj6YMnw/maxresdefault.jpg","width":1280,"height":720},"uhd":{"url":"https://i.ytimg.com/vi/2n4enj6YMnw/uhddefault.jpg","width":3840,"height":2160}}}}],["$","$L20","DiV48J0uB_Y",{"video":{"id":"DiV48J0uB_Y","title":"The Fruit Friends Song - ChuChu TV Baby Nursery Rhymes and Kids Songs","description":"$22","channelTitle":"ChuChu TV Nursery Rhymes & Kids Songs","channelId":"UCBnZ16ahKA2DZ_T5W0FPUXg","publishedAt":"2021-08-07T11:30:01Z","duration":"5:42","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/DiV48J0uB_Y/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/DiV48J0uB_Y/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/DiV48J0uB_Y/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/DiV48J0uB_Y/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/DiV48J0uB_Y/maxresdefault.jpg","width":1280,"height":720},"uhd":{"url":"https://i.ytimg.com/vi/DiV48J0uB_Y/uhddefault.jpg","width":3840,"height":2160}}}}],["$","$L20","I1bAJ4tx0cI",{"video":{"id":"I1bAJ4tx0cI","title":"The Lunch Box Song with Baby Taku & Friends – ChuChu TV Nursery Rhymes - Toddler Videos for Babies","description":"$23","channelTitle":"ChuChu TV Nursery Rhymes & Kids Songs","channelId":"UCBnZ16ahKA2DZ_T5W0FPUXg","publishedAt":"2022-08-06T11:30:06Z","duration":"4:24","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/I1bAJ4tx0cI/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/I1bAJ4tx0cI/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/I1bAJ4tx0cI/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/I1bAJ4tx0cI/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/I1bAJ4tx0cI/maxresdefault.jpg","width":1280,"height":720},"uhd":{"url":"https://i.ytimg.com/vi/I1bAJ4tx0cI/uhddefault.jpg","width":3840,"height":2160}}}}],["$","$L20","zbiFZKt5irI",{"video":{"id":"zbiFZKt5irI","title":"Wheels On The Bus | New York City | Popular Nursery Rhyme by ChuChu TV","description":"$24","channelTitle":"ChuChu TV Nursery Rhymes & Kids Songs","channelId":"UCBnZ16ahKA2DZ_T5W0FPUXg","publishedAt":"2014-12-19T17:45:42Z","duration":"4:40","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/zbiFZKt5irI/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/zbiFZKt5irI/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/zbiFZKt5irI/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/zbiFZKt5irI/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/zbiFZKt5irI/maxresdefault.jpg","width":1280,"height":720},"uhd":{"url":"https://i.ytimg.com/vi/zbiFZKt5irI/uhddefault.jpg","width":3840,"height":2160}}}}],["$","$L20","xIPImto6ZzU",{"video":{"id":"xIPImto6ZzU","title":"The Finger Family Song - Kids Songs and Learning Videos - ChuChu TV Classics #kidssongs","description":"$25","channelTitle":"ChuChu TV Nursery Rhymes & Kids Songs","channelId":"UCBnZ16ahKA2DZ_T5W0FPUXg","publishedAt":"2023-09-27T11:30:34Z","duration":"5:39","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/xIPImto6ZzU/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/xIPImto6ZzU/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/xIPImto6ZzU/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/xIPImto6ZzU/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/xIPImto6ZzU/maxresdefault.jpg","width":1280,"height":720},"uhd":{"url":"https://i.ytimg.com/vi/xIPImto6ZzU/uhddefault.jpg","width":3840,"height":2160}}}}],["$","$L20","JT0MmZcJ2Vw",{"video":{"id":"JT0MmZcJ2Vw","title":"ChuChu TV Classics - Numbers Song - Learn to Count from 1 to 10 | Nursery Rhymes and Kids Songs","description":"$26","channelTitle":"ChuChu TV Nursery Rhymes & Kids Songs","channelId":"UCBnZ16ahKA2DZ_T5W0FPUXg","publishedAt":"2020-01-03T11:00:06Z","duration":"4:38","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/JT0MmZcJ2Vw/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/JT0MmZcJ2Vw/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/JT0MmZcJ2Vw/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/JT0MmZcJ2Vw/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/JT0MmZcJ2Vw/maxresdefault.jpg","width":1280,"height":720},"uhd":{"url":"https://i.ytimg.com/vi/JT0MmZcJ2Vw/uhddefault.jpg","width":3840,"height":2160}}}}],["$","$L20","3xqqj9o7TgA",{"video":{"id":"3xqqj9o7TgA","title":"The Finger Family Song | ChuChu TV Nursery Rhymes & Songs For Children","description":"$27","channelTitle":"ChuChu TV Nursery Rhymes & Kids Songs","channelId":"UCBnZ16ahKA2DZ_T5W0FPUXg","publishedAt":"2015-03-20T19:27:05Z","duration":"5:52","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/3xqqj9o7TgA/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/3xqqj9o7TgA/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/3xqqj9o7TgA/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/3xqqj9o7TgA/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/3xqqj9o7TgA/maxresdefault.jpg","width":1280,"height":720},"uhd":{"url":"https://i.ytimg.com/vi/3xqqj9o7TgA/uhddefault.jpg","width":3840,"height":2160}}}}]]}]]}]]}]

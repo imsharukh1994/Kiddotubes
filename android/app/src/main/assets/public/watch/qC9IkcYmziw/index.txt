@@ -1,0 +1,795 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[575,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"AuthProvider"]
+7:I[1196,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"TimerProvider"]
+8:I[842,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+9:I[8349,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+a:I[3313,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+b:I[6733,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+c:I[3633,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+d:I[833,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+e:I[5050,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+4:["videoId","qC9IkcYmziw","d"]
+0:["rAMQWTTpVHN77KICyo0QE",[[["",{"children":["watch",{"children":[["videoId","qC9IkcYmziw","d"],{"children":["__PAGE__?{\"videoId\":\"qC9IkcYmziw\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["watch",{"children":[["videoId","qC9IkcYmziw","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","watch","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","watch","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/fa2c964e9fff47bf.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"bg-[#F8FAFC] text-slate-900 font-sans min-h-screen flex flex-col antialiased pb-16 md:pb-0","children":["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","main",null,{"className":"flex-1 max-w-[1440px] w-full mx-auto px-4 xs:px-5 sm:px-8 lg:px-12 py-4 sm:py-8","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}],["$","$Le",null,{}]]}]}]}]}]],null],null],["$Lf",null]]]]
+f:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Kalu Madari Aaya | कालू मदारी आया | Nursery Rhyme | poem for kids | Hindi Rhyme | Poem | Riya Rhymes — KiddoTube"}],["$","meta","3",{"name":"description","content":"Kalu Madari Aaya | कालू मदारी आया | Nursery Rhyme | poem for kids | Hindi Rhyme | Poem | Riya Rhymes\n\nKalu Madari Aaya | कालू मदारी आया | Nursery Rhyme | poem f"}],["$","meta","4",{"name":"keywords","content":"Kids Videos,KiddoTube,Educational Videos,Nursery Rhymes,Safe Content Discovery"}],["$","link","5",{"rel":"shortcut icon","href":"/images/favicon.png"}],["$","link","6",{"rel":"icon","href":"/images/favicon.png"}],["$","link","7",{"rel":"apple-touch-icon","href":"/images/favicon.png"}]]
+1:null
+10:I[9374,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","359","static/chunks/359-71e1a687d9d4dce4.js","688","static/chunks/app/watch/%5BvideoId%5D/page-b03a147664fc495d.js"],"default"]
+12:I[2972,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","359","static/chunks/359-71e1a687d9d4dce4.js","688","static/chunks/app/watch/%5BvideoId%5D/page-b03a147664fc495d.js"],""]
+13:I[2271,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","359","static/chunks/359-71e1a687d9d4dce4.js","688","static/chunks/app/watch/%5BvideoId%5D/page-b03a147664fc495d.js"],"default"]
+14:I[2697,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","359","static/chunks/359-71e1a687d9d4dce4.js","688","static/chunks/app/watch/%5BvideoId%5D/page-b03a147664fc495d.js"],"default"]
+1e:I[6532,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","359","static/chunks/359-71e1a687d9d4dce4.js","688","static/chunks/app/watch/%5BvideoId%5D/page-b03a147664fc495d.js"],"default"]
+1f:I[265,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","359","static/chunks/359-71e1a687d9d4dce4.js","688","static/chunks/app/watch/%5BvideoId%5D/page-b03a147664fc495d.js"],"default"]
+11:T10c0,Kalu Madari Aaya | कालू मदारी आया | Nursery Rhyme | poem for kids | Hindi Rhyme | Poem | Riya Rhymes
+
+Kalu Madari Aaya | कालू मदारी आया | Nursery Rhyme | poem for kids | Hindi Rhyme | Poem | Riya Rhymes
+
+Song: Kalu Madari Aaya 
+Singer: Shikha Rana 
+Lyrics:
+Music/Composer:
+Produced By: Fatafat Digital Pvt. Ltd.
+
+━━━━━━━━━━━━━━━━━━━━━━
+*Track No.:* FD25103022099/OTR5462
+━━━━━━━━━━━━━━━━━━━━━━
+
+kalu madari aaya 
+kalu madari aaya rhymes 
+kalu madari poem
+songs for 1 year old,
+songs for 2 year old,
+songs for 3 year old,
+best rhymes for toddlers,
+preschool music videos,
+rhymes for kindergarten,
+kids learning videos 2025,
+early childhood education songs,
+new rhymes 2025,
+hindi rhymes for kids,
+hindi nursery rhymes,
+बच्चों की कविताएँ,
+हिंदी कविताएँ,
+हिंदी बाल गीत,
+बच्चों के लिए हिंदी गीत,
+hindi kids songs,
+toddlers hindi rhymes,
+hindi educational rhymes,
+preschool rhymes in hindi,
+baby cartoon songs,
+viral nursery rhymes,
+best baby rhymes,
+kids favorite songs,
+funny kids songs,
+top kids music,
+children dance rhymes,
+hindi abc song,
+अ आ इ ई कविता,
+गिनती की कविता,
+रंगों के नाम कविता,
+जानवरों की आवाज़ कविता,
+पक्षियों के नाम कविता,
+शरीर के अंग कविता,
+मौसम कविता,
+दिन और महीनों की कविता,
+फल और सब्जियों की कविता,
+अच्छा व्यवहार कविता,
+2 साल के बच्चों के लिए कविता,
+3 साल के बच्चों की हिंदी कविता,
+4 साल के बच्चों के लिए गीत,
+नर्सरी के बच्चों के लिए कविता,
+प्ले स्कूल कविता हिंदी में,
+LKG UKG हिंदी राइम्स,
+new hindi rhymes 2025,
+latest kids rhymes in hindi,
+viral hindi baby songs,
+popular hindi kids poems,
+jojo hindi rhymes,
+hindi kids animation songs,
+kalu madari,
+कालू मदारी,**#KaluMadariAya #NurseryRhymes #HindiRhymes**
+#KidsSong #ChildrenSongs #EkMotaHaathiGhumneChala
+
+🎵 Kalu Madari Aaya – One of the most loved Hindi rhymes, now in a fun and colorful animated format! Watch as Kalu the Madari brings his dancing bear to entertain little ones. This engaging rhyme is a perfect mix of fun, learning, and rhythm for toddlers and preschoolers.
+
+✨ Keywords for Search:
+🔸 kalu madari aaya
+🔸 kalu madari aaya bhalu ke saath
+🔸 kalu madari rhyme for kids
+🔸 kalu madari aaya video song
+🔸 kalu madari aaya gana in Hindi
+🔸 kalu madari aaya animated cartoon
+🔸 hindi rhymes for kids kalu madari
+
+#kalumadari #kalumadariaaya #hindirhymes #nurseryrhymes #kidsrhymes #riyarhymes 
+
+━━━━━━━━━━━━━━━━━━━━━━
+► *Digital Management: Fatafat Digital Pvt. Ltd.
+━━━━━━━━━━━━━━━━━━━━━━
+
+FOR BUSINESS ENQUIRIES
+
+► Digital: Fatafat Digital Pvt. Ltd.
+📞 Trade Enquiry: +91 9599087181
+📧 Email: [info@fatafatdigital.com](mailto:info@fatafatdigital.com)
+🌐 Website: [www.fatafatdigital.com](http://www.fatafatdigital.com)
+📸 Instagram: https://www.instagram.com/fatafatdigital_official?igsh=Y2k0ZjBpNXJ2eHlp
+📘 Facebook: https://www.facebook.com/people/Fatafat-Digital/100077571273736/
+💼 LinkedIn: https://www.linkedin.com/company/fatafat-digital-private-limited/
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+COPYRIGHT NOTICE
+
+This content is exclusively managed and distributed by Fatafat Digital Pvt. Ltd. Unauthorized downloading, reproduction, duplication, re-uploading, or distribution of this content on YouTube or any other platform is strictly prohibited.
+
+Any unauthorized use of this content may result in copyright claims, strikes, content removal, or other appropriate legal action.
+
+© & ℗ Fatafat Digital. All Rights Reserved.16:T10c0,Kalu Madari Aaya | कालू मदारी आया | Nursery Rhyme | poem for kids | Hindi Rhyme | Poem | Riya Rhymes
+
+Kalu Madari Aaya | कालू मदारी आया | Nursery Rhyme | poem for kids | Hindi Rhyme | Poem | Riya Rhymes
+
+Song: Kalu Madari Aaya 
+Singer: Shikha Rana 
+Lyrics:
+Music/Composer:
+Produced By: Fatafat Digital Pvt. Ltd.
+
+━━━━━━━━━━━━━━━━━━━━━━
+*Track No.:* FD25103022099/OTR5462
+━━━━━━━━━━━━━━━━━━━━━━
+
+kalu madari aaya 
+kalu madari aaya rhymes 
+kalu madari poem
+songs for 1 year old,
+songs for 2 year old,
+songs for 3 year old,
+best rhymes for toddlers,
+preschool music videos,
+rhymes for kindergarten,
+kids learning videos 2025,
+early childhood education songs,
+new rhymes 2025,
+hindi rhymes for kids,
+hindi nursery rhymes,
+बच्चों की कविताएँ,
+हिंदी कविताएँ,
+हिंदी बाल गीत,
+बच्चों के लिए हिंदी गीत,
+hindi kids songs,
+toddlers hindi rhymes,
+hindi educational rhymes,
+preschool rhymes in hindi,
+baby cartoon songs,
+viral nursery rhymes,
+best baby rhymes,
+kids favorite songs,
+funny kids songs,
+top kids music,
+children dance rhymes,
+hindi abc song,
+अ आ इ ई कविता,
+गिनती की कविता,
+रंगों के नाम कविता,
+जानवरों की आवाज़ कविता,
+पक्षियों के नाम कविता,
+शरीर के अंग कविता,
+मौसम कविता,
+दिन और महीनों की कविता,
+फल और सब्जियों की कविता,
+अच्छा व्यवहार कविता,
+2 साल के बच्चों के लिए कविता,
+3 साल के बच्चों की हिंदी कविता,
+4 साल के बच्चों के लिए गीत,
+नर्सरी के बच्चों के लिए कविता,
+प्ले स्कूल कविता हिंदी में,
+LKG UKG हिंदी राइम्स,
+new hindi rhymes 2025,
+latest kids rhymes in hindi,
+viral hindi baby songs,
+popular hindi kids poems,
+jojo hindi rhymes,
+hindi kids animation songs,
+kalu madari,
+कालू मदारी,**#KaluMadariAya #NurseryRhymes #HindiRhymes**
+#KidsSong #ChildrenSongs #EkMotaHaathiGhumneChala
+
+🎵 Kalu Madari Aaya – One of the most loved Hindi rhymes, now in a fun and colorful animated format! Watch as Kalu the Madari brings his dancing bear to entertain little ones. This engaging rhyme is a perfect mix of fun, learning, and rhythm for toddlers and preschoolers.
+
+✨ Keywords for Search:
+🔸 kalu madari aaya
+🔸 kalu madari aaya bhalu ke saath
+🔸 kalu madari rhyme for kids
+🔸 kalu madari aaya video song
+🔸 kalu madari aaya gana in Hindi
+🔸 kalu madari aaya animated cartoon
+🔸 hindi rhymes for kids kalu madari
+
+#kalumadari #kalumadariaaya #hindirhymes #nurseryrhymes #kidsrhymes #riyarhymes 
+
+━━━━━━━━━━━━━━━━━━━━━━
+► *Digital Management: Fatafat Digital Pvt. Ltd.
+━━━━━━━━━━━━━━━━━━━━━━
+
+FOR BUSINESS ENQUIRIES
+
+► Digital: Fatafat Digital Pvt. Ltd.
+📞 Trade Enquiry: +91 9599087181
+📧 Email: [info@fatafatdigital.com](mailto:info@fatafatdigital.com)
+🌐 Website: [www.fatafatdigital.com](http://www.fatafatdigital.com)
+📸 Instagram: https://www.instagram.com/fatafatdigital_official?igsh=Y2k0ZjBpNXJ2eHlp
+📘 Facebook: https://www.facebook.com/people/Fatafat-Digital/100077571273736/
+💼 LinkedIn: https://www.linkedin.com/company/fatafat-digital-private-limited/
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+COPYRIGHT NOTICE
+
+This content is exclusively managed and distributed by Fatafat Digital Pvt. Ltd. Unauthorized downloading, reproduction, duplication, re-uploading, or distribution of this content on YouTube or any other platform is strictly prohibited.
+
+Any unauthorized use of this content may result in copyright claims, strikes, content removal, or other appropriate legal action.
+
+© & ℗ Fatafat Digital. All Rights Reserved.18:{"url":"https://i.ytimg.com/vi/qC9IkcYmziw/default.jpg","width":120,"height":90}
+19:{"url":"https://i.ytimg.com/vi/qC9IkcYmziw/mqdefault.jpg","width":320,"height":180}
+1a:{"url":"https://i.ytimg.com/vi/qC9IkcYmziw/hqdefault.jpg","width":480,"height":360}
+1b:{"url":"https://i.ytimg.com/vi/qC9IkcYmziw/sddefault.jpg","width":640,"height":480}
+1c:{"url":"https://i.ytimg.com/vi/qC9IkcYmziw/maxresdefault.jpg","width":1280,"height":720}
+17:{"default":"$18","medium":"$19","high":"$1a","standard":"$1b","maxres":"$1c"}
+15:{"id":"qC9IkcYmziw","title":"Kalu Madari Aaya | कालू मदारी आया | Nursery Rhyme | poem for kids | Hindi Rhyme | Poem | Riya Rhymes","description":"$16","channelTitle":"Riya Rhymes","channelId":"UC7G7sF9ExNFfYpRg1b6byiQ","publishedAt":"2026-10-01T05:30:18Z","duration":"15:31","thumbnails":"$17"}
+1d:T10c0,Kalu Madari Aaya | कालू मदारी आया | Nursery Rhyme | poem for kids | Hindi Rhyme | Poem | Riya Rhymes
+
+Kalu Madari Aaya | कालू मदारी आया | Nursery Rhyme | poem for kids | Hindi Rhyme | Poem | Riya Rhymes
+
+Song: Kalu Madari Aaya 
+Singer: Shikha Rana 
+Lyrics:
+Music/Composer:
+Produced By: Fatafat Digital Pvt. Ltd.
+
+━━━━━━━━━━━━━━━━━━━━━━
+*Track No.:* FD25103022099/OTR5462
+━━━━━━━━━━━━━━━━━━━━━━
+
+kalu madari aaya 
+kalu madari aaya rhymes 
+kalu madari poem
+songs for 1 year old,
+songs for 2 year old,
+songs for 3 year old,
+best rhymes for toddlers,
+preschool music videos,
+rhymes for kindergarten,
+kids learning videos 2025,
+early childhood education songs,
+new rhymes 2025,
+hindi rhymes for kids,
+hindi nursery rhymes,
+बच्चों की कविताएँ,
+हिंदी कविताएँ,
+हिंदी बाल गीत,
+बच्चों के लिए हिंदी गीत,
+hindi kids songs,
+toddlers hindi rhymes,
+hindi educational rhymes,
+preschool rhymes in hindi,
+baby cartoon songs,
+viral nursery rhymes,
+best baby rhymes,
+kids favorite songs,
+funny kids songs,
+top kids music,
+children dance rhymes,
+hindi abc song,
+अ आ इ ई कविता,
+गिनती की कविता,
+रंगों के नाम कविता,
+जानवरों की आवाज़ कविता,
+पक्षियों के नाम कविता,
+शरीर के अंग कविता,
+मौसम कविता,
+दिन और महीनों की कविता,
+फल और सब्जियों की कविता,
+अच्छा व्यवहार कविता,
+2 साल के बच्चों के लिए कविता,
+3 साल के बच्चों की हिंदी कविता,
+4 साल के बच्चों के लिए गीत,
+नर्सरी के बच्चों के लिए कविता,
+प्ले स्कूल कविता हिंदी में,
+LKG UKG हिंदी राइम्स,
+new hindi rhymes 2025,
+latest kids rhymes in hindi,
+viral hindi baby songs,
+popular hindi kids poems,
+jojo hindi rhymes,
+hindi kids animation songs,
+kalu madari,
+कालू मदारी,**#KaluMadariAya #NurseryRhymes #HindiRhymes**
+#KidsSong #ChildrenSongs #EkMotaHaathiGhumneChala
+
+🎵 Kalu Madari Aaya – One of the most loved Hindi rhymes, now in a fun and colorful animated format! Watch as Kalu the Madari brings his dancing bear to entertain little ones. This engaging rhyme is a perfect mix of fun, learning, and rhythm for toddlers and preschoolers.
+
+✨ Keywords for Search:
+🔸 kalu madari aaya
+🔸 kalu madari aaya bhalu ke saath
+🔸 kalu madari rhyme for kids
+🔸 kalu madari aaya video song
+🔸 kalu madari aaya gana in Hindi
+🔸 kalu madari aaya animated cartoon
+🔸 hindi rhymes for kids kalu madari
+
+#kalumadari #kalumadariaaya #hindirhymes #nurseryrhymes #kidsrhymes #riyarhymes 
+
+━━━━━━━━━━━━━━━━━━━━━━
+► *Digital Management: Fatafat Digital Pvt. Ltd.
+━━━━━━━━━━━━━━━━━━━━━━
+
+FOR BUSINESS ENQUIRIES
+
+► Digital: Fatafat Digital Pvt. Ltd.
+📞 Trade Enquiry: +91 9599087181
+📧 Email: [info@fatafatdigital.com](mailto:info@fatafatdigital.com)
+🌐 Website: [www.fatafatdigital.com](http://www.fatafatdigital.com)
+📸 Instagram: https://www.instagram.com/fatafatdigital_official?igsh=Y2k0ZjBpNXJ2eHlp
+📘 Facebook: https://www.facebook.com/people/Fatafat-Digital/100077571273736/
+💼 LinkedIn: https://www.linkedin.com/company/fatafat-digital-private-limited/
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+COPYRIGHT NOTICE
+
+This content is exclusively managed and distributed by Fatafat Digital Pvt. Ltd. Unauthorized downloading, reproduction, duplication, re-uploading, or distribution of this content on YouTube or any other platform is strictly prohibited.
+
+Any unauthorized use of this content may result in copyright claims, strikes, content removal, or other appropriate legal action.
+
+© & ℗ Fatafat Digital. All Rights Reserved.20:T6c9,"Machli Jal ki Rani Hai" is a Hindi Rhyme animation song by Riya Rhymes. It's part of Riya Rhymes. Watch the fun of Machli Jal ki Rani Hai Jiwan Uska Pani Hai.
+
+Watch the animated version of this song published on "Riya Ryhmes"
+
+FD2111235209_OTR4172
+
+
+*********************************************
+😊 For Subscription - https://bit.ly/31XM6Z0
+*********************************************
+
+🎵 Credits 🎵
+
+Singer: Palak Gujela
+Music: Vinit Suneja (RVP)
+Producer: Fatafat Digital Pvt. Ltd.
+Lyrics: Traditional
+
+
+Lyrics:
+मछ्ली जल की रानी है 
+जीवन उसका पानी है 
+हाथ लगाओ तो डर जाएगी
+बाहर निकालो तो मर जाएगी
+पानी मे डालो तो तैर जाएगी |
+
+Lyrics in English:
+Machili jal ki rani he,
+Jeevan uska paani he,
+Haath Lagao toh dar jayegi,
+Bahar nikalo toh mar jayegi,
+Paani me daalo toh tair jayegi.
+
+#HindiRhymes
+#riyarhymes
+#मछली_जल_की_रानी_है
+#मछली_जल_की_रानी
+#Machli_Jal_ki_Rani_Hai
+#Machli_Jal_ki_Rani
+#machhali_jal_ki_rani_hai
+
+must-watch Songs by Riya Rhymes
+
+😊 नानी तेरी मोरनी को मोर ले गए
+       https://bit.ly/2YNEeIl
+
+😊लकड़ी की काठी काठी पे घोड़ा
+      https://bit.ly/3kUSdnw
+
+😊आलू कचालू बेटा कहाँ गए थे
+      https://bit.ly/3FIWfqX
+
+😊 बन्दर मामा पहन पजामा
+      https://bit.ly/3DvD9D7
+
+😊अ से अनार, आ से आम
+     https://bit.ly/3DBjvWg
+
+😊मैं तोता मैं तोता
+     https://bit.ly/3duryKb21:T6ce,#RiyaRhymes
+
+Main Tota Hare Rang Ka | मैं तोता मैं तोता | Hindi Nursery Rhymes For Kids | Riya Rhymes 
+
+Main Tota Hare Rang Ka | मैं तोता मैं तोता | Hindi Nursery Rhymes For Kids | Riya Rhymes 
+
+Video Name :-The Best Of Main Tota
+Singer/Vocal :- Shikha Rana
+Lyrics :- Traditional
+Music :- Vinit Suneja (RVP)
+FD/TR :- FD2111235210_OTR4
+
+🦜🎶 Enjoy the fun and colorful Hindi nursery rhyme Main Tota Hare Rang Ka with cute parrot animation, catchy music, and entertaining cartoon characters for kids, toddlers, and preschool children.
+
+This popular Hindi kids rhyme is perfect for learning colors, animal sounds, and enjoying fun sing-along music with beautiful animation and playful storytelling.
+
+🌈 Video Features:
+
+Cute Parrot Cartoon Animation
+Hindi Nursery Rhymes for Kids
+Fun Baby Songs & Balgeet
+Educational Learning Video
+Colorful Kids Cartoon Songs
+
+👶 Watch More Popular Kids Rhymes:
+
+Lakdi Ki Kathi
+Nani Teri Morni
+Machli Jal Ki Rani Hai
+Ek Mota Hathi
+Titli Udi Bus Me Chadi
+Aaha Tamatar Bade Mazedar
+
+⭐ Perfect For:
+Toddlers • Preschool Kids • Kindergarten Learning • Baby Entertainment
+
+#maintota #maintotaharerangka #maintotamaintota #hindirhymes #kidsrhymes #balgeet #nurseryrhyme #riyakidstv #nonstoprhymes 
+
+#MainTota #HindiRhymes #KidsRhymes #BabySongs #NurseryRhymes #ParrotSong #HindiKidsSong #CartoonRhymes #Balgeet #KidsLearning
+
+For Business enquiry:-
+Phone:
+Website: www.fatafatdigital.com
+Instagram:   https://www.instagram.com/fatafatdigital_official/profilecard/?igsh=MXM2bjhqdTh5dncyag==
+Facebook:    https://www.facebook.com/fatafatdigitalofficial?mibextid=ZbWKwL
+LinkedIn:    https://www.linkedin.com/company/fatafat-digital-private-limited/22:T9ed,आहा टमाटर - Aaha Tamatar Bade Mazedar | Hindi Nursery Rhymes And Kids Song | Riya Kids Tv 
+
+***********************************
+For Subscribe : https://bit.ly/3ghcip1
+*******************************
+
+FD25061621069/OTR5077
+
+cartoon
+tamatar bade majedar
+aaha tamatar bade majedar
+aha tamatar bade mazedaar
+cartoon cartoon
+lal tamatar bade majedar
+aaha tamatar
+mitthu mitthu
+lal tamatar
+aaha tamatar bada majedar
+tamatar
+poems
+cartoon video
+kartun
+main tota main tota
+ek mota hathi
+कार्टून
+aha tamatar bade majedar
+rhymes
+tamatar tamatar
+bacchon ke cartoon
+aahat tamatar bade majedar
+vah tamatar bade majedar
+cartoon song
+aaj tamatar bade majedar
+mithu mithu
+aaha tamatar bada mazedar
+tota tota
+tamatar bade majedar tamatar bade majedar
+baby cartoon
+katun कार्टून
+kids videos for kids
+आहा टमाटर बड़े मजेदार
+aaha tamatar bade majedar tamatar bade majedar
+wah tamatar bada mazedar
+kalu madari aaya
+bacchon ka cartoon
+kids songs
+tamatar bade majedar tamatar
+टमाटर बड़े मजेदार
+katun
+tamatar bada majedar
+poem poem
+tomato
+poems for kids
+kids song
+tamatar song
+aa tamatar bada majedar
+nursery rhymes
+
+#aahatamatarbademazedar
+#aahatamatarsong
+#AahaTamatar
+#aahatamatarbadamajedar
+#AhaTamatarBadeMazedar
+#AahaTamatarBadeMazedar
+#tamatarbademajedar
+#aahatamatarbademajedar
+#ahatamatarbademazedaar
+#laltamatarbademajedar
+#aahatamatar
+#mitthumitthu
+#laltamatar
+#aahatamatarbadamajedar
+#tamatar
+#poems
+
+आहा टमाटर,Aaha Tamatar Bade Mazedar,आहा टमाटर बड़े मजेदार,aaha tamatar bade mazedar,aaha tamatar song,Aaha Tamatar,aaha tamatar bada majedar,Aha Tamatar Bade Mazedar,अहा टमाटर बड़े मज़ेदार,आहा टमाटर बड़े मज़ेदार,aaha tamatar bada mazedar,aha tamatar bada majedar,aaha tamatar,लाल टमाटर,Lal Tamatar,Hindi Rhymes,Nursery Rhymes,Hindi Rhyme For Children,Aaha Tamatar Bada Mazedar,Aaha Tamatar Bade Majedar,आहा टमाटर बड़ा मजेदार,Nursery Rhyme,Hindi Poem For Kids,Hindi Rhymes for Children,tamatar bade majedar,aaha tamatar bade majedar,aha tamatar bade mazedaar,cartoon cartoon,cartoon,lal tamatar bade majedar,mitthu mitthu,lal tamatar,tamatar,poems,cartoon video
+#riyakidstv
+#riya 
+#nurseryrhymes 
+
+Come back to check out our latest uploads on Kids Learning Videos ,Kids Moral Stories ,Fun Rhymes ,Rhymes for Children ,Children Songs ,children stories ,Hindi Nursery Rhymes.23:T8e2,#RiyaRhymes
+
+Main Tota Hare Rang Ka | Hindi Rhymes | मैं तोता मैं तोता | Hindi Rhymes For Kids | Riya Rhymes 
+
+Main Tota Hare Rang Ka | Hindi Rhymes | मैं तोता मैं तोता | Hindi Rhymes For Kids | Riya Rhymes 
+
+“Main Tota Hindi Rhyme (मैं तोता, Main Tota Hare Rang Ka | मैं तोता मैं तोता)” – a fun and educational rhyme for children. This beautiful rhyme is specially made in a joyful 3D animation style to keep kids entertained and engaged while learning.
+
+🐦 Main Tota is a story about a cute green parrot who sings, dances, and entertains kids with his playful style. Children will love watching this talking parrot rhyme while enjoying the vibrant visuals and cheerful music.
+
+🎶 Our rhymes are designed for toddlers, preschoolers, and young kids to improve their listening, speaking, and learning skills in a fun way. Perfect for playtime, learning time, and bedtime entertainment!
+
+🌟 In this video, you’ll enjoy:
+
+मैं तोता मैं तोता (Main Tota Hindi Rhyme)
+
+Cute parrot dancing and singing with kids
+
+Colorful 3D animated backgrounds and characters
+
+Fun learning through music and rhythm
+
+👉 Don’t forget to LIKE, SHARE & SUBSCRIBE for more amazing rhymes and baby songs.
+
+Other Popular Rhymes You’ll Love:
+Kalu madari aya, Chanda Mama, Lakdi Ki Kathi, Nani Teri Morni, Machhli Jal Ki Rani Hai, Bandar Mama Pahan Pajama, Chuk Chuk Rail Gaadi, Meow Meow Billi, Chuha Bimar Hua, Titli Udi, Kalu Madari Aaya, Nanhe Munne Bachche, Twinkle Twinkle Little Star
+
+Hashtags:
+#MainTota #HindiRhymes #RiyaRhymes #KidsSongs #BabySong #NurseryRhymes #KidsLearning #मैंतोता #3DRhymes 
+#MainTotaHareRangKa
+#MainTotaMainTota
+#TotaSong
+#ParrotSong
+#KidsRhymes
+#HindiRhymes
+#NurseryRhymes
+#KidsSongs
+#BabySongs
+#ChildrenRhymes
+#CartoonRhymes
+#HindiKidsSongs
+#ToddlerLearning
+#PreschoolSongs
+#LearningForKids
+
+For Business enquiry:-
+Phone:
+Website: www.fatafatdigital.com
+Instagram:   https://www.instagram.com/fatafatdigital_official/profilecard/?igsh=MXM2bjhqdTh5dncyag==
+Facebook:    https://www.facebook.com/fatafatdigitalofficial?mibextid=ZbWKwL
+LinkedIn:    https://www.linkedin.com/company/fatafat-digital-private-limited/24:T12cc,Main Tota Hindi Rhyme | मैं तोता मैं तोता | Kids Poems In Hindi | Nursery Rhymes - Riya Kids Tv 
+
+Main Tota Hindi Rhyme | मैं तोता मैं तोता | Kids Poems In Hindi | Nursery Rhymes - Riya Kids Tv 
+
+Video Name :- Main Tota Main Tota
+Singer :- Palak Gujela
+Lyrics :- Traditional
+Music :- 
+FD2111235210_OTR4173
+
+***********************************
+For Subscribe : https://bit.ly/3ghcip1
+*******************************
+
+“Main Tota Hindi Rhyme (मैं तोता, Main Tota Hare Rang Ka | मैं तोता मैं तोता)” – a fun and educational rhyme for children. This beautiful rhyme is specially made in a joyful 3D animation style to keep kids entertained and engaged while learning.
+
+🐦 Main Tota is a story about a cute green parrot who sings, dances, and entertains kids with his playful style. Children will love watching this talking parrot rhyme while enjoying the vibrant visuals and cheerful music.
+
+🎶 Our rhymes are designed for toddlers, preschoolers, and young kids to improve their listening, speaking, and learning skills in a fun way. Perfect for playtime, learning time, and bedtime entertainment!
+
+🌟 In this video, you’ll enjoy:
+
+मैं तोता मैं तोता (Main Tota Hindi Rhyme)
+
+Cute parrot dancing and singing with kids
+
+Colorful 3D animated backgrounds and characters
+
+Kalu madari aya, Chanda Mama, Lakdi Ki Kathi, Nani Teri Morni, Machhli Jal Ki Rani Hai, Bandar Mama Pahan Pajama, Chuk Chuk Rail Gaadi, Meow Meow Billi, Chuha Bimar Hua, Titli Udi, Kalu Madari Aaya, Nanhe Munne Bachche, Twinkle Twinkle Little Star
+
+Hashtags:
+#MainTota #HindiRhymes #MainTotaRhymes #MainTotaHareRangKa #AnayaRhymes  #KidsSongs #BabySong #NurseryRhymes #KidsLearning #मैंतोता #3DRhymes #RiyaKidsTv  #Balgeet #kidspoem 
+
+
+#maintota #maintotamaintota #hindirhymes #kidspoem #riyarhymes 
+
+
+🌈 If you enjoyed this collection, you may also like these Hindi compilations:
+
+   • Chanda Mama Aao Na | चंदा मामा आओ ना ...  
+   • Titli Rani | तितली रानी | Hindi Rhyme...  
+   • Aaja Nindiya Rani Aaja | आजा निंदिया ...  
+   • Meow Meow Billi Karti | Kids Poems In...  
+   • Nani Tere Chaand Taare Aakash Mein Kh...  
+   • Nani Teri Morni | नानी तेरी मोरनी | N...  
+   • व्यंजन गीत - Hindi Varnamala Geet - H...  
+   • Chhuk Chhuk Karti Rail Chali Hindi | ...  
+   • बारिश बारिश जाओ ना (Rain Rain Go Away...  
+   • Nani Teri Morni Ko Mor Le Gaye (नानी ...  
+   • Machli Jal Ki Rani Hai - Hindi Rhymes...  
+   • Sher Nirala Himmat Wala - Hindi Nurse...  
+   • सारे जहाँ से अच्छा | Sare Jahan Se Ac...  
+   • चंदा मामा सबके साथ | Nursery Rhymes F...  
+   • Naav Banao | नाव बनाओ | Hindi Rhymes ...  
+   • लकड़ी की काठी | Lakdi ki kathi | Popul...  
+   • Titli Udi Ud Na Saki | तितली उड़ी | H...  
+   • Gadi Aayi Gadi Aayi Chuk Chuk Rhyme |...  
+   • Titli Udi Ud Na Saki + More Hindi Rhy...  
+   • Ek Mota Hathi | एक मोटा हाथी | Hindi ...  
+   • Twinkle Twinkle Little Star | Nursery...  
+   • Main Tota Hindi Rhyme | Children Hind...  
+   • आलू कचालू बेटा कहाँ गए थे | Aloo Kach...  
+   • Hathi Raja Kahan Chale | Hindi Nurser...  
+   • Bandar Mama Gaye Sasuraal – New Video...  
+   • जंगल में चुनाव | Jungle Me Chunav | E...  
+   • Chidiya Rani Badi Sayani Chugti Dana ...  
+   • Posham Paa Bhai Posam Paa Laal Kile M...  
+   • Bal Ganesha | बाल गणेशा | Hindi Rhyme...  
+   • Humpty Dumpty Sat On A Wall | Nursery...  
+   • Humpty the Train on a Fruits Ride | ह...  
+   • Hindi Varnamala Geet - अ से अनार | Hi...  
+   • Phonics Song with TWO Words - A For A...  
+   • Wheels on the Bus (Play Version) Nurs...  
+   • Kukdoo Koo Hindi Rhyme | कुकड़ू कु | ...  
+   • Chal Mere Ghode Chal Tik Tik | चल मेर...  
+   • बन्दर मामा पहन पजामा | Bandar Mama Pa...  
+
+#riyakidstv
+#riya 
+#nurseryrhymes 
+
+For Business enquiry:-
+Phone:
+Website: www.fatafatdigital.com
+Instagram:   https://www.instagram.com/fatafatdigital_official/profilecard/?igsh=MXM2bjhqdTh5dncyag==
+Facebook:    https://www.facebook.com/fatafatdigitalofficial?mibextid=ZbWKwL
+LinkedIn:    https://www.linkedin.com/company/fatafat-digital-private-limited/
+
+Come back to check out our latest uploads on Kids Learning Videos ,Kids Moral Stories ,Fun Rhymes ,Rhymes for Children ,Children Songs ,children stories ,Hindi Nursery Rhym25:T12c0,#riyarhymes 
+
+मछली जल की रानी  Hindi Poem - Machli Jal ki Rani - Nursery Rhymes Hindi Rhymes for Kids #riya rhymes
+
+मछली जल की रानी  Hindi Poem - Machli Jal ki Rani - Nursery Rhymes Hindi Rhymes for Kids #riya rhymes
+
+******************************************************
+😊For Subscription - https://bit.ly/31XM6Z0
+
+
+FD2111235209_OTR4172
+
+🎵 Credits 🎵
+
+Singer: Palak Gujela
+Music: Vinit Suneja (RVP)
+Producer: Fatafat Digital Pvt. Ltd.
+Lyrics: Traditional
+
+
+#riyarhymes  #nurseryrhyme #rhymes #rhymesinhindi #rhymespoem #railgadi   #riyarhyme #cartoon  #rhymesinhindi #nurseryrhymes #childrenssong  #kidspoem   #machhali   #machhalijalkiranihai   #machhaliwala  #machhalidikhaiye  #machhalijalkiranihai #मछली जल की रानी
+
+🌈 If you enjoyed this collection, you may also like these Hindi compilations: must-watch Songs by Riya Rhymes
+
+☀️https://www.youtube.com/watch?v=xY3Ug6_3WXU&t=10s&ab_channel=RiyaRhymes
+☀️https://www.youtube.com/watch?v=YInuEF9wgMw&ab_channel=RiyaRhymes 
+☀️https://www.youtube.com/watch?v=Iz-T3vB0FL8&t=11s&ab_channel=RiyaRhymes
+☀️https://www.youtube.com/watch?v=uLATnFObFgA&ab_channel=RiyaRhymes
+☀️https://www.youtube.com/watch?v=iAdqfloLXys&ab_channel=RiyaRhymes
+☀️https://www.youtube.com/watch?v=h-J6gl4_GFc&t=3s&ab_channel=RiyaRhymes
+☀️https://www.youtube.com/watch?v=j8C5k5Ga9ZI&ab_channel=RiyaRhymes
+☀️https://www.youtube.com/watch?v=-p4YddWlzng&t=2s&ab_channel=RiyaRhymes
+☀️https://www.youtube.com/watch?v=yw-niM_8VJY&ab_channel=RiyaRhymes
+☀️https://www.youtube.com/watch?v=aAZAO0V5sKA&ab_channel=RiyaRhymes
+☀️https://www.youtube.com/watch?v=e-p1BsqHDzo&ab_channel=RiyaRhymes
+☀️https://www.youtube.com/watch?v=FFj4gG0yIsk&ab_channel=RiyaRhymes
+☀️https://www.youtube.com/watch?v=HorSSHEr4BU&ab_channel=RiyaRhymes
+☀️https://www.youtube.com/watch?v=vdd5JlpgL1g&ab_channel=RiyaRhymes
+☀️https://www.youtube.com/watch?v=Z7Z0zhO3rbI&t=100s&ab_channel=RiyaRhymes
+☀️https://www.youtube.com/watch?v=P-TuTitncCc&ab_channel=RiyaRhymes
+☀️https://www.youtube.com/watch?v=g7pMijMBGMc&ab_channel=RiyaRhymes
+☀️https://www.youtube.com/watch?v=359zzj445gE&ab_channel=RiyaRhymes
+☀️https://www.youtube.com/watch?v=XL8HE1IbHcs&t=7s&ab_channel=RiyaRhymes
+☀️https://www.youtube.com/watch?v=AwpP2iTPQmA&ab_channel=RiyaRhymes
+☀️https://www.youtube.com/watch?v=OSxhfKh22lo&t=6s&ab_channel=RiyaRhymes
+☀️https://www.youtube.com/watch?v=naUWQR0JwK4&ab_channel=RiyaRhymes
+☀️https://www.youtube.com/watch?v=6pzEHIZW-xw&ab_channel=RiyaRhymes
+☀️https://www.youtube.com/watch?v=fUee_5QMNnM&ab_channel=RiyaRhymes
+☀️https://www.youtube.com/watch?v=yKQbXrxbdN4&ab_channel=RiyaRhymes
+☀️https://www.youtube.com/watch?v=FaHCPlX4v0c&t=17s&ab_channel=RiyaRhymes
+☀️https://www.youtube.com/watch?v=I9YrGGj2kME&t=41s&ab_channel=RiyaRhymes
+☀️https://www.youtube.com/watch?v=Vdfwa3XHmAY&ab_channel=RiyaRhymes
+☀️https://www.youtube.com/watch?v=ZJ_MBAKCfrc&t=56s&ab_channel=RiyaRhymes
+☀️https://www.youtube.com/watch?v=6h2JSo98PxE&ab_channel=RiyaRhymes
+☀️https://www.youtube.com/watch?v=J85xRfUJwtk&ab_channel=RiyaRhymes
+
+🌈  If you enjoyed this collection, you may also like these English compilations: must-watch Songs by Riya Rhymes
+
+☀️The Number Song - https://www.youtube.com/watch?v=tsJosgrlViQ&ab_channel=RiyaRhymes
+☀️Humpty the Train on a Fruits Ride - https://www.youtube.com/watch?v=UGdVEJfoKvc&ab_channel=RiyaRhymes
+☀️Old MacDonald Had A Farm - https://www.youtube.com/watch?v=gO8a_cgqMAQ&ab_channel=RiyaRhymes
+☀️Humpty Dumpty Sat On A Wall - https://www.youtube.com/watch?v=jRAJubrDVG8&t=8s&ab_channel=RiyaRhymes
+☀️Jingle Bells - https://www.youtube.com/watch?v=efmm9tI1f_Y&ab_channel=RiyaRhymes
+☀️We Wish You a Merry Christmas - https://www.youtube.com/watch?v=VTYqPSOBUIU&ab_channel=RiyaRhymes
+☀️New Years Eve Song 2022 - https://www.youtube.com/watch?v=Ow-uHGChVpg&t=3s&ab_channel=RiyaRhymes
+☀️Twinkle Twinkle Little Star - https://www.youtube.com/watch?v=J6k-urR9ztw&ab_channel=RiyaRhymes
+☀️Happy Lohri - https://www.youtube.com/watch?v=VzDAB8WxdTo&ab_channel=RiyaRhymes
+☀️Phonics Song - https://www.youtube.com/watch?v=8WaWnhqWwNk&ab_channel=RiyaRhymes
+
+
+🌈 Story - 
+☀️चू चू चूहे की चतुराई - https://www.youtube.com/watch?v=l-yzPDESfFY&t=38s&ab_channel=RiyaRhymes
+☀️ईमानदार लकड़हारा - https://www.youtube.com/watch?v=FIWvVw_Pfmw&t=3s&ab_channel=RiyaRhymes
+जादुई मछली - https://www.youtube.com/watch?v=f4UfFFPTmgs&t=28s&ab_channel=RiyaRhymes
+
+1. Rhymes for Children (Logic, music)
+2. Shapes
+3. Color's
+4. Numbers
+5. Letters
+6. Fables and original stories
+7. Lullabies26:Tb18,#RiyaRhymes
+
+Main Tota Hare Rang Ka | मैं तोता मैं तोता | Popular Hindi Rhymes For Children | Riya Rhymes 
+
+Main Tota Hare Rang Ka | मैं तोता मैं तोता | Popular Hindi Rhymes For Children | Riya Rhymes 
+
+Video Name :- Main Tota Main Tota 
+Singer/Vocal :- Palak Gujela 
+Lyrics :- Traditional 
+Music :- 
+FD/TR :-FD2111235210 OTR4173 
+
+Enjoy the super fun Hindi nursery rhyme "Aaha Tamatar Bada Mazedar" with colorful animations, cute cartoon characters, and catchy music. This popular kids rhyme helps children learn about vegetables while enjoying fun-filled entertainment and musical learning.
+
+Join the cheerful tomato on an exciting adventure full of laughter, music, and imagination. Perfect for toddlers, preschoolers, kindergarten kids, and young learners.
+
+“Main Tota Hindi Rhyme (मैं तोता, Main Tota Hare Rang Ka | मैं तोता मैं तोता)” – a fun and educational rhyme for children. This beautiful rhyme is specially made in a joyful 3D animation style to keep kids entertained and engaged while learning.
+
+🐦 Main Tota is a story about a cute green parrot who sings, dances, and entertains kids with his playful style. Children will love watching this talking parrot rhyme while enjoying the vibrant visuals and cheerful music.
+
+🎶 Our rhymes are designed for toddlers, preschoolers, and young kids to improve their listening, speaking, and learning skills in a fun way. Perfect for playtime, learning time, and bedtime entertainment!
+
+🌟 In this video, you’ll enjoy:
+
+मैं तोता मैं तोता (Main Tota Hindi Rhyme)
+
+Cute parrot dancing and singing with kids
+
+Colorful 3D animated backgrounds and characters
+
+Kalu madari aya, Chanda Mama, Lakdi Ki Kathi, Nani Teri Morni, Machhli Jal Ki Rani Hai, Bandar Mama Pahan Pajama, Chuk Chuk Rail Gaadi, Meow Meow Billi, Chuha Bimar Hua, Titli Udi, Kalu Madari Aaya, Nanhe Munne Bachche, Twinkle Twinkle Little Star
+
+Hashtags:
+#MainTota #HindiRhymes #MainTotaRhymes #MainTotaHareRangKa #AnayaRhymes  #KidsSongs #BabySong #NurseryRhymes #KidsLearning #मैंतोता #3DRhymes #RiyaKidsTv  #Balgeet #kidspoem 
+
+#maintota #maintotamaintota #hindirhymes #kidspoem #riyarhymes 
+#maintota #maintotaharerangka #maintotamaintota #hindirhymes #rhymes #riyakidstv #nurseryrhymes #rhymesforkids #mitthumitthu 
+#balgeet 
+#MainTotaHareRangKa  #MainTotaMainTota #Rhymes #KidsRhymes #NurseryRhymes 
+
+
+For Business enquiry:-
+Phone:
+Website: www.fatafatdigital.com
+Instagram:   https://www.instagram.com/fatafatdigital_official/profilecard/?igsh=MXM2bjhqdTh5dncyag==
+Facebook:    https://www.facebook.com/fatafatdigitalofficial?mibextid=ZbWKwL
+LinkedIn:    https://www.linkedin.com/company/fatafat-digital-private-limited/
+
+© & ℗ Fatafat Digital. All Rights Reserved.2:["$","div",null,{"className":"max-w-[1280px] mx-auto w-full px-1 xs:px-2 sm:px-6 lg:px-8 py-4 sm:py-6 space-y-6 sm:space-y-8","children":[["$","$L10",null,{"video":{"id":"qC9IkcYmziw","title":"Kalu Madari Aaya | कालू मदारी आया | Nursery Rhyme | poem for kids | Hindi Rhyme | Poem | Riya Rhymes","description":"$11","channelTitle":"Riya Rhymes","channelId":"UC7G7sF9ExNFfYpRg1b6byiQ","publishedAt":"2026-10-01T05:30:18Z","duration":"15:31","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/qC9IkcYmziw/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/qC9IkcYmziw/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/qC9IkcYmziw/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/qC9IkcYmziw/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/qC9IkcYmziw/maxresdefault.jpg","width":1280,"height":720}}}}],["$","div",null,{"children":["$","$L12",null,{"href":"/","className":"inline-flex items-center gap-2 px-3.5 py-2 bg-white rounded-full text-slate-700 font-bold text-xs sm:text-sm border border-slate-200 hover:border-purple-300 hover:text-purple-700 hover:bg-purple-50 transition-all shadow-subtle active:scale-95 focus:outline-none focus:ring-2 focus:ring-purple-600","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-4 h-4","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"Back to Discover"}]]}]}],["$","section",null,{"className":"w-full max-w-full","children":["$","$L13",null,{"videoId":"qC9IkcYmziw","title":"Kalu Madari Aaya | कालू मदारी आया | Nursery Rhyme | poem for kids | Hindi Rhyme | Poem | Riya Rhymes"}]}],["$","section",null,{"className":"bg-white rounded-2xl sm:rounded-3xl p-4 xs:p-6 sm:p-8 border border-slate-200/80 shadow-subtle space-y-5 sm:space-y-6","children":[["$","h1",null,{"className":"text-xl sm:text-3xl lg:text-4xl font-black text-slate-900 leading-tight tracking-tight break-words","children":"Kalu Madari Aaya | कालू मदारी आया | Nursery Rhyme | poem for kids | Hindi Rhyme | Poem | Riya Rhymes"}],["$","div",null,{"className":"flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-slate-100 pb-5 sm:pb-6","children":[["$","div",null,{"className":"space-y-2.5 sm:space-y-3","children":[["$","div",null,{"children":[["$","p",null,{"className":"text-base sm:text-lg font-black text-slate-900","children":"Riya Rhymes"}],["$","p",null,{"className":"text-xs text-slate-500 font-semibold","children":"Kids songs & educational content"}]]}],["$","div",null,{"className":"flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"bg-purple-100 text-purple-900 text-xs font-black px-3 py-1 rounded-full","children":"Kids Pick"}],["$","span",null,{"className":"bg-amber-100 text-amber-950 text-xs font-black px-3 py-1 rounded-full","children":"Ages 2–6"}],["$","span",null,{"className":"bg-slate-100 text-slate-700 text-xs font-bold px-3 py-1 rounded-full flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-3.5 h-3.5 text-amber-500","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","polyline","68esgv",{"points":"12 6 12 12 16 14"}],"$undefined"]}],["$","span",null,{"children":"15:31"}]]}]]}]]}],["$","div",null,{"className":"shrink-0","children":["$","$L14",null,{"video":"$15"}]}]]}],["$","div",null,{"className":"space-y-3","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-purple-900 font-bold text-xs uppercase tracking-wider","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles w-3.5 h-3.5 text-amber-500","children":[["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}],["$","path","1olli1",{"d":"M20 3v4"}],["$","path","1gvqau",{"d":"M22 5h-4"}],["$","path","vumght",{"d":"M4 17v2"}],["$","path","zchphs",{"d":"M5 18H3"}],"$undefined"]}],["$","span",null,{"children":"About this video"}]]}],["$","p",null,{"className":"text-slate-700 font-medium text-xs sm:text-sm leading-relaxed whitespace-pre-line bg-slate-50 p-3.5 sm:p-4 rounded-xl border border-slate-100","children":"$1d"}],["$","div",null,{"className":"flex items-center gap-2 text-xs font-semibold text-slate-500 pt-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-shield-check w-4 h-4 text-emerald-600 shrink-0","children":[["$","path","oel41y",{"d":"M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"}],["$","path","dzmm74",{"d":"m9 12 2 2 4-4"}],"$undefined"]}],["$","span",null,{"children":"Embedded directly via official YouTube no-cookie player (COPPA Safe)."}]]}]]}]]}],["$","section",null,{"aria-label":"Advertisement","children":["$","$L1e",null,{"placement":"watch","context":"kids","ageTreatment":"child"}]}],["$","section",null,{"className":"space-y-4 sm:space-y-6","children":[["$","div",null,{"className":"flex items-center justify-between","children":["$","h2",null,{"className":"text-lg sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles w-5 h-5 sm:w-6 sm:h-6 text-purple-600","children":[["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}],["$","path","1olli1",{"d":"M20 3v4"}],["$","path","1gvqau",{"d":"M22 5h-4"}],["$","path","vumght",{"d":"M4 17v2"}],["$","path","zchphs",{"d":"M5 18H3"}],"$undefined"]}],["$","span",null,{"children":"More Like This"}]]}]}],["$","div",null,{"className":"grid grid-cols-1 xs:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3.5 sm:gap-6","children":[["$","$L1f","3mfjhsMWsxc",{"video":{"id":"3mfjhsMWsxc","title":"मछली जल की रानी है - Machli Jal ki Rani Hai | Hindi Poem | Hindi Rhymes for Kids #riya_rhymes","description":"$20","channelTitle":"Riya Rhymes","channelId":"UC7G7sF9ExNFfYpRg1b6byiQ","publishedAt":"2022-10-28T12:22:36Z","duration":"5:22","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/3mfjhsMWsxc/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/3mfjhsMWsxc/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/3mfjhsMWsxc/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/3mfjhsMWsxc/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/3mfjhsMWsxc/maxresdefault.jpg","width":1280,"height":720}}}}],["$","$L1f","V5CLBmufUNA",{"video":{"id":"V5CLBmufUNA","title":"Main Tota Hare Rang Ka | मैं तोता मैं तोता | Hindi Nursery Rhymes For Kids | Riya Rhymes","description":"$21","channelTitle":"Riya Rhymes","channelId":"UC7G7sF9ExNFfYpRg1b6byiQ","publishedAt":"2026-05-20T04:30:11Z","duration":"18:18","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/V5CLBmufUNA/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/V5CLBmufUNA/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/V5CLBmufUNA/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/V5CLBmufUNA/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/V5CLBmufUNA/maxresdefault.jpg","width":1280,"height":720},"fhd":{"url":"https://i.ytimg.com/vi/V5CLBmufUNA/fhddefault.jpg","width":1920,"height":1080}}}}],["$","$L1f","6rRRAVSilss",{"video":{"id":"6rRRAVSilss","title":"आहा टमाटर - Aaha Tamatar Bade Mazedar | Hindi Nursery Rhymes And Kids Song | Riya Kids Tv","description":"$22","channelTitle":"RIYA KIDS TV","channelId":"UCxF1KQ8QKeNmKqMG-BUyTkg","publishedAt":"2024-10-03T11:30:04Z","duration":"6:06","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/6rRRAVSilss/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/6rRRAVSilss/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/6rRRAVSilss/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/6rRRAVSilss/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/6rRRAVSilss/maxresdefault.jpg","width":1280,"height":720}}}}],["$","$L1f","HphvB-xItjI",{"video":{"id":"HphvB-xItjI","title":"Titli Udi Ud Na Saki | तितली उड़ी उड़ न सकी | Popular Hindi Rhymes For Children | Riya Rhymes","description":"#RiyaRhymes\n\nTitli Udi Ud Na Saki | तितली उड़ी उड़ न सकी | Popular Hindi Rhymes For Children | Riya Rhymes\n\nTitli Udi Ud Na Saki | तितली उड़ी उड़ न सकी | Popular Hindi Rhymes For Children | Riya Rhymes\n\nVideo Name :- Titli Udi Ud Na Saki \nSinger:- Palak Gujela \nLyrics :- Traditional \nMusic :- FD\nFD/TR :- FD2111235198_OTR4161\n\n#TitliUdiBusMeChadi \n#TitliUdi \n#RiyaKidsTv   \n#TitliUdi2026 \n#AahaTamatarBadeMazedar \n#KaluMadari \n#MainTotaHareRangKa \n#AnayaRhymes \n#TitliUdiUdNaSaki \n#HindiRhymes \n#NurseryRhymes \n#KidsRhymes \n#RiyaKidsTv \n#RhymesForKids \n#KidsPoem \n#Rhymes \n#PopularRhymes \n\nFor Business enquiry:-\nPhone:\nWebsite: www.fatafatdigital.com\nInstagram:   https://www.instagram.com/fatafatdigital_official/profilecard/?igsh=MXM2bjhqdTh5dncyag==\nFacebook:    https://www.facebook.com/fatafatdigitalofficial?mibextid=ZbWKwL\nLinkedIn:    https://www.linkedin.com/company/fatafat-digital-private-limited/\n\n© & ℗ Fatafat Digital. All Rights Reserved.","channelTitle":"Riya Rhymes","channelId":"UC7G7sF9ExNFfYpRg1b6byiQ","publishedAt":"2026-08-24T10:30:03Z","duration":"17:26","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/HphvB-xItjI/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/HphvB-xItjI/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/HphvB-xItjI/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/HphvB-xItjI/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/HphvB-xItjI/maxresdefault.jpg","width":1280,"height":720},"fhd":{"url":"https://i.ytimg.com/vi/HphvB-xItjI/fhddefault.jpg","width":1920,"height":1080}}}}],["$","$L1f","N1i2ly54rvQ",{"video":{"id":"N1i2ly54rvQ","title":"Main Tota Hare Rang Ka | Hindi Rhymes | मैं तोता मैं तोता | Hindi Rhymes For Kids | Riya Rhymes","description":"$23","channelTitle":"Riya Rhymes","channelId":"UC7G7sF9ExNFfYpRg1b6byiQ","publishedAt":"2026-06-02T05:32:44Z","duration":"17:54","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/N1i2ly54rvQ/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/N1i2ly54rvQ/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/N1i2ly54rvQ/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/N1i2ly54rvQ/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/N1i2ly54rvQ/maxresdefault.jpg","width":1280,"height":720},"fhd":{"url":"https://i.ytimg.com/vi/N1i2ly54rvQ/fhddefault.jpg","width":1920,"height":1080}}}}],["$","$L1f","xYx4EGURyB8",{"video":{"id":"xYx4EGURyB8","title":"Main Tota Hindi Rhyme | मैं तोता मैं तोता | Kids Poems In Hindi | Nursery Rhymes - Riya Kids Tv","description":"$24","channelTitle":"RIYA KIDS TV","channelId":"UCxF1KQ8QKeNmKqMG-BUyTkg","publishedAt":"2026-05-19T04:30:33Z","duration":"13:14","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/xYx4EGURyB8/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/xYx4EGURyB8/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/xYx4EGURyB8/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/xYx4EGURyB8/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/xYx4EGURyB8/maxresdefault.jpg","width":1280,"height":720},"fhd":{"url":"https://i.ytimg.com/vi/xYx4EGURyB8/fhddefault.jpg","width":1920,"height":1080}}}}],["$","$L1f","VkpwsOiL-RM",{"video":{"id":"VkpwsOiL-RM","title":"मछली जल की रानी  Hindi Poem - Machli Jal ki Rani - Nursery Rhymes Hindi Rhymes for Kids #riya rhymes","description":"$25","channelTitle":"Riya Rhymes","channelId":"UC7G7sF9ExNFfYpRg1b6byiQ","publishedAt":"2024-10-15T07:30:18Z","duration":"5:22","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/VkpwsOiL-RM/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/VkpwsOiL-RM/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/VkpwsOiL-RM/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/VkpwsOiL-RM/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/VkpwsOiL-RM/maxresdefault.jpg","width":1280,"height":720}}}}],["$","$L1f","30Jw9WGUjOw",{"video":{"id":"30Jw9WGUjOw","title":"Main Tota Hare Rang Ka | मैं तोता मैं तोता | Popular Hindi Rhymes For Children | Riya Rhymes","description":"$26","channelTitle":"Riya Rhymes","channelId":"UC7G7sF9ExNFfYpRg1b6byiQ","publishedAt":"2026-07-28T07:30:22Z","duration":"18:18","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/30Jw9WGUjOw/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/30Jw9WGUjOw/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/30Jw9WGUjOw/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/30Jw9WGUjOw/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/30Jw9WGUjOw/maxresdefault.jpg","width":1280,"height":720}}}}]]}]]}]]}]

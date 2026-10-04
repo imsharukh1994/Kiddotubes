@@ -51,7 +51,7 @@ export default function VideoCard({ video, className = '', categoryLabel, ageLab
     <article className={`group relative bg-white rounded-xl overflow-hidden border border-slate-200/80 shadow-subtle hover:shadow-hover transition-all duration-200 flex flex-col h-full ${className}`}>
       {/* 16:9 Widescreen Thumbnail Container */}
       <Link
-        href={`/watch/${video.id}`}
+        href={`/watch?v=${video.id}`}
         aria-label={`Watch ${video.title}`}
         className="relative w-full aspect-[16/9] shrink-0 overflow-hidden bg-slate-900 block focus:outline-none focus:ring-2 focus:ring-purple-700"
       >
@@ -96,7 +96,7 @@ export default function VideoCard({ video, className = '', categoryLabel, ageLab
       {/* Card Content & Metadata */}
       <div className="p-4 flex flex-col flex-1 justify-between">
         <div>
-          <Link href={`/watch/${video.id}`} className="block focus:outline-none focus:underline">
+          <Link href={`/watch?v=${video.id}`} className="block focus:outline-none focus:underline">
             <h3
               className="font-bold text-slate-900 text-base leading-snug line-clamp-2 group-hover:text-purple-700 transition-colors"
               title={video.title}

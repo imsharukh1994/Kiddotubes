@@ -11,7 +11,12 @@ import { ArrowLeft, Sparkles, ShieldCheck, Clock } from 'lucide-react';
 import type { Metadata } from 'next';
 
 export async function generateStaticParams() {
-  const fallbackIds = ['_slpLnBoHek', 'fC7oUOUEEi4', 'XqZsoesa55w', 't0Q2otsqC4I', '30pY7-F-JdI', '71h8MZKFkt4', 'dp1_xV0-R0k', 'hTqtGJwsJVE'];
+  const fallbackIds = [
+    '_slpLnBoHek', 'fC7oUOUEEi4', 'XqZsoesa55w', 't0Q2otsqC4I', '30pY7-F-JdI', '71h8MZKFkt4',
+    'dp1_xV0-R0k', 'hTqtGJwsJVE', 'ujC1dkYDTOs', 'PNepUHLyYwE', 'qC9IkcYmziw', 'RvgnuPL9x-s',
+    'XGwnjA2aSR8', '8zpmlJt-tEU', 'WEwA0Een3wY', 'DiV48J0uB_Y', 'H0XtYA7JFAw', 'fHqjNHxmB7c',
+    'j86yN2bOiBQ', 'JT0MmZcJ2Vw', 'UZ4LF99rDM4'
+  ];
   return fallbackIds.map((id) => ({ videoId: id }));
 }
 

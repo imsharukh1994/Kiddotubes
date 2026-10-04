@@ -41,7 +41,7 @@ export default function FeaturedContent({ featuredVideo, sideVideos = [] }: Feat
           
           {/* Left Side: 16:9 Horizontal Video Thumbnail */}
           <Link
-            href={`/watch/${mainVideoId}`}
+            href={`/watch?v=${mainVideoId}`}
             className="md:col-span-6 lg:col-span-5 relative w-full aspect-[16/9] overflow-hidden block bg-slate-950 focus:outline-none"
           >
             <Image
@@ -75,7 +75,7 @@ export default function FeaturedContent({ featuredVideo, sideVideos = [] }: Feat
               </div>
 
               <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight leading-snug group-hover:text-purple-700 transition-colors">
-                <Link href={`/watch/${mainVideoId}`}>
+                <Link href={`/watch?v=${mainVideoId}`}>
                   {mainVideoTitle}
                 </Link>
               </h3>
@@ -96,7 +96,7 @@ export default function FeaturedContent({ featuredVideo, sideVideos = [] }: Feat
               </div>
 
               <Link
-                href={`/watch/${mainVideoId}`}
+                href={`/watch?v=${mainVideoId}`}
                 className="px-6 py-2.5 bg-purple-600 hover:bg-purple-700 text-white font-black text-xs rounded-xl shadow-sm hover:shadow transition-all flex items-center gap-1.5 active:scale-95"
               >
                 <Play className="w-3.5 h-3.5 fill-current" />

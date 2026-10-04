@@ -1,0 +1,530 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[575,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"AuthProvider"]
+7:I[1196,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"TimerProvider"]
+8:I[842,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+9:I[8349,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+a:I[3313,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+b:I[6733,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+c:I[3633,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+d:I[833,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+e:I[5050,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+4:["videoId","XGwnjA2aSR8","d"]
+0:["rAMQWTTpVHN77KICyo0QE",[[["",{"children":["watch",{"children":[["videoId","XGwnjA2aSR8","d"],{"children":["__PAGE__?{\"videoId\":\"XGwnjA2aSR8\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["watch",{"children":[["videoId","XGwnjA2aSR8","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","watch","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","watch","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/fa2c964e9fff47bf.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"bg-[#F8FAFC] text-slate-900 font-sans min-h-screen flex flex-col antialiased pb-16 md:pb-0","children":["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","main",null,{"className":"flex-1 max-w-[1440px] w-full mx-auto px-4 xs:px-5 sm:px-8 lg:px-12 py-4 sm:py-8","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}],["$","$Le",null,{}]]}]}]}]}]],null],null],["$Lf",null]]]]
+f:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Learn Vegetables and Fruits | Let's Plant Vegetables | Nursery Rhymes & Kids Songs | BabyBus — KiddoTube"}],["$","meta","3",{"name":"description","content":"Yes! Neo Official Facebook: https://www.facebook.com/yesneoofficial\nHow do you plant a cabbage?\n\nLyrics:\nHow do you plant a cabbage?\nTell me how, tell me how.\nH"}],["$","meta","4",{"name":"keywords","content":"Kids Videos,KiddoTube,Educational Videos,Nursery Rhymes,Safe Content Discovery"}],["$","link","5",{"rel":"shortcut icon","href":"/images/favicon.png"}],["$","link","6",{"rel":"icon","href":"/images/favicon.png"}],["$","link","7",{"rel":"apple-touch-icon","href":"/images/favicon.png"}]]
+1:null
+10:I[9374,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","359","static/chunks/359-71e1a687d9d4dce4.js","688","static/chunks/app/watch/%5BvideoId%5D/page-b03a147664fc495d.js"],"default"]
+12:I[2972,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","359","static/chunks/359-71e1a687d9d4dce4.js","688","static/chunks/app/watch/%5BvideoId%5D/page-b03a147664fc495d.js"],""]
+13:I[2271,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","359","static/chunks/359-71e1a687d9d4dce4.js","688","static/chunks/app/watch/%5BvideoId%5D/page-b03a147664fc495d.js"],"default"]
+14:I[2697,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","359","static/chunks/359-71e1a687d9d4dce4.js","688","static/chunks/app/watch/%5BvideoId%5D/page-b03a147664fc495d.js"],"default"]
+1e:I[6532,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","359","static/chunks/359-71e1a687d9d4dce4.js","688","static/chunks/app/watch/%5BvideoId%5D/page-b03a147664fc495d.js"],"default"]
+1f:I[265,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","359","static/chunks/359-71e1a687d9d4dce4.js","688","static/chunks/app/watch/%5BvideoId%5D/page-b03a147664fc495d.js"],"default"]
+11:Ta52,Yes! Neo Official Facebook: https://www.facebook.com/yesneoofficial
+How do you plant a cabbage?
+
+Lyrics:
+How do you plant a cabbage?
+Tell me how, tell me how.
+How do you plant a cabbage?
+Can you come and show me now?
+
+We can plant it with our feet
+Like we do, like we do
+We can plant it with our feet
+Just like we do, you can too!
+I can plant it with my feet
+Like you do, like you do
+I can plant it with my feet
+Just like you do, I can too!
+
+MagicKid is a magical, family-friendly TV channel. Give it a try! https://magickid.tv/en/VideoPlay/CZMQH1
+
+Enjoy watching BabyBus songs and cartoons! 💕 👶 💕
+1. Yes! Neo | Nursery Rhymes & Kids Songs | Imagine!: https://www.youtube.com/playlist?list=PLPA49Pz3BAxMzc-8pwBRztAIG1rxgdyuV
+2. Sheriff Labrador - Kids Cartoon | Safety Cartoon for Kids: https://www.youtube.com/playlist?list=PLPA49Pz3BAxMQZcPY3tAF9ODTxlJIawOv
+3. BabyBus | Monster Trucks | Vroom Vroom Zone🛞| Car Songs | Cars for Kids | Kids Song: https://www.youtube.com/playlist?list=PLPA49Pz3BAxNzQfqtFEoXpIqo9EPfCez7
+4. BabyBus | Food Song | Cooking Pretend Play | Learn Numbers, Learn Colors,  Ice Cream, Colors Song | Kids Song: https://www.youtube.com/playlist?list=PLPA49Pz3BAxNHYb9Iiv8Mbk6OKwCTCxnD
+
+BabyBus has released four best albums for kids! Best Car Songs, Best Food Songs, Super Rescue Team, and Classics for Kids! 
+All the music is available on Spotify, Apple Music, and more!
+（🎵） Spotify: https://spoti.fi/3wRHZsr
+（🍎）Apple Music:  https://apple.co/3wT2jtp 
+
+#kidssong #nurseryrhymes #cartoon #kidscartoon #babybus #babycartoon #cartoonforkids #toddlers #forkids #kidsvideos #childrensongs #babysongs #kidssong #songsforkids  #singalong
+—————BabyBus—————
+At BabyBus, our goal is to make learning a fun and imaginative experience for kids aged 2 - 6 by creating classic nursery rhymes, kid songs, and stories with 2D & 3D animations. 
+
+In the BabyBus world, KiKi, Miumiu, and their friends inspire kids to experience true friendship, care, creativity, and imagination in a fun and smart way. Through our songs and animations, kids around the world can learn about colors, letters, life skills, good habits, safety tips, and more in a fun and educational way.
+
+In the eyes of Kiki and Miumiu, all things are alive: you can talk to animals, you can make friends with vehicles... All the activities can be enjoyed, you can experience different occupations, you can go everywhere... All the unknowns are interesting: what will be in space? Are there aliens on earth?... Join Kiki and Miumiu for the exploration of this world together!
+
+Copyright ©BABYBUS CO.Ltd All Rights Reserved.16:Ta52,Yes! Neo Official Facebook: https://www.facebook.com/yesneoofficial
+How do you plant a cabbage?
+
+Lyrics:
+How do you plant a cabbage?
+Tell me how, tell me how.
+How do you plant a cabbage?
+Can you come and show me now?
+
+We can plant it with our feet
+Like we do, like we do
+We can plant it with our feet
+Just like we do, you can too!
+I can plant it with my feet
+Like you do, like you do
+I can plant it with my feet
+Just like you do, I can too!
+
+MagicKid is a magical, family-friendly TV channel. Give it a try! https://magickid.tv/en/VideoPlay/CZMQH1
+
+Enjoy watching BabyBus songs and cartoons! 💕 👶 💕
+1. Yes! Neo | Nursery Rhymes & Kids Songs | Imagine!: https://www.youtube.com/playlist?list=PLPA49Pz3BAxMzc-8pwBRztAIG1rxgdyuV
+2. Sheriff Labrador - Kids Cartoon | Safety Cartoon for Kids: https://www.youtube.com/playlist?list=PLPA49Pz3BAxMQZcPY3tAF9ODTxlJIawOv
+3. BabyBus | Monster Trucks | Vroom Vroom Zone🛞| Car Songs | Cars for Kids | Kids Song: https://www.youtube.com/playlist?list=PLPA49Pz3BAxNzQfqtFEoXpIqo9EPfCez7
+4. BabyBus | Food Song | Cooking Pretend Play | Learn Numbers, Learn Colors,  Ice Cream, Colors Song | Kids Song: https://www.youtube.com/playlist?list=PLPA49Pz3BAxNHYb9Iiv8Mbk6OKwCTCxnD
+
+BabyBus has released four best albums for kids! Best Car Songs, Best Food Songs, Super Rescue Team, and Classics for Kids! 
+All the music is available on Spotify, Apple Music, and more!
+（🎵） Spotify: https://spoti.fi/3wRHZsr
+（🍎）Apple Music:  https://apple.co/3wT2jtp 
+
+#kidssong #nurseryrhymes #cartoon #kidscartoon #babybus #babycartoon #cartoonforkids #toddlers #forkids #kidsvideos #childrensongs #babysongs #kidssong #songsforkids  #singalong
+—————BabyBus—————
+At BabyBus, our goal is to make learning a fun and imaginative experience for kids aged 2 - 6 by creating classic nursery rhymes, kid songs, and stories with 2D & 3D animations. 
+
+In the BabyBus world, KiKi, Miumiu, and their friends inspire kids to experience true friendship, care, creativity, and imagination in a fun and smart way. Through our songs and animations, kids around the world can learn about colors, letters, life skills, good habits, safety tips, and more in a fun and educational way.
+
+In the eyes of Kiki and Miumiu, all things are alive: you can talk to animals, you can make friends with vehicles... All the activities can be enjoyed, you can experience different occupations, you can go everywhere... All the unknowns are interesting: what will be in space? Are there aliens on earth?... Join Kiki and Miumiu for the exploration of this world together!
+
+Copyright ©BABYBUS CO.Ltd All Rights Reserved.18:{"url":"https://i.ytimg.com/vi/XGwnjA2aSR8/default.jpg","width":120,"height":90}
+19:{"url":"https://i.ytimg.com/vi/XGwnjA2aSR8/mqdefault.jpg","width":320,"height":180}
+1a:{"url":"https://i.ytimg.com/vi/XGwnjA2aSR8/hqdefault.jpg","width":480,"height":360}
+1b:{"url":"https://i.ytimg.com/vi/XGwnjA2aSR8/sddefault.jpg","width":640,"height":480}
+1c:{"url":"https://i.ytimg.com/vi/XGwnjA2aSR8/maxresdefault.jpg","width":1280,"height":720}
+17:{"default":"$18","medium":"$19","high":"$1a","standard":"$1b","maxres":"$1c"}
+15:{"id":"XGwnjA2aSR8","title":"Learn Vegetables and Fruits | Let's Plant Vegetables | Nursery Rhymes & Kids Songs | BabyBus","description":"$16","channelTitle":"BabyBus - Preschool Songs & Learning Cartoons","channelId":"UCpYye8D5fFMUPf9nSfgd4bA","publishedAt":"2025-10-26T10:30:14Z","duration":"16:52","thumbnails":"$17"}
+1d:Ta52,Yes! Neo Official Facebook: https://www.facebook.com/yesneoofficial
+How do you plant a cabbage?
+
+Lyrics:
+How do you plant a cabbage?
+Tell me how, tell me how.
+How do you plant a cabbage?
+Can you come and show me now?
+
+We can plant it with our feet
+Like we do, like we do
+We can plant it with our feet
+Just like we do, you can too!
+I can plant it with my feet
+Like you do, like you do
+I can plant it with my feet
+Just like you do, I can too!
+
+MagicKid is a magical, family-friendly TV channel. Give it a try! https://magickid.tv/en/VideoPlay/CZMQH1
+
+Enjoy watching BabyBus songs and cartoons! 💕 👶 💕
+1. Yes! Neo | Nursery Rhymes & Kids Songs | Imagine!: https://www.youtube.com/playlist?list=PLPA49Pz3BAxMzc-8pwBRztAIG1rxgdyuV
+2. Sheriff Labrador - Kids Cartoon | Safety Cartoon for Kids: https://www.youtube.com/playlist?list=PLPA49Pz3BAxMQZcPY3tAF9ODTxlJIawOv
+3. BabyBus | Monster Trucks | Vroom Vroom Zone🛞| Car Songs | Cars for Kids | Kids Song: https://www.youtube.com/playlist?list=PLPA49Pz3BAxNzQfqtFEoXpIqo9EPfCez7
+4. BabyBus | Food Song | Cooking Pretend Play | Learn Numbers, Learn Colors,  Ice Cream, Colors Song | Kids Song: https://www.youtube.com/playlist?list=PLPA49Pz3BAxNHYb9Iiv8Mbk6OKwCTCxnD
+
+BabyBus has released four best albums for kids! Best Car Songs, Best Food Songs, Super Rescue Team, and Classics for Kids! 
+All the music is available on Spotify, Apple Music, and more!
+（🎵） Spotify: https://spoti.fi/3wRHZsr
+（🍎）Apple Music:  https://apple.co/3wT2jtp 
+
+#kidssong #nurseryrhymes #cartoon #kidscartoon #babybus #babycartoon #cartoonforkids #toddlers #forkids #kidsvideos #childrensongs #babysongs #kidssong #songsforkids  #singalong
+—————BabyBus—————
+At BabyBus, our goal is to make learning a fun and imaginative experience for kids aged 2 - 6 by creating classic nursery rhymes, kid songs, and stories with 2D & 3D animations. 
+
+In the BabyBus world, KiKi, Miumiu, and their friends inspire kids to experience true friendship, care, creativity, and imagination in a fun and smart way. Through our songs and animations, kids around the world can learn about colors, letters, life skills, good habits, safety tips, and more in a fun and educational way.
+
+In the eyes of Kiki and Miumiu, all things are alive: you can talk to animals, you can make friends with vehicles... All the activities can be enjoyed, you can experience different occupations, you can go everywhere... All the unknowns are interesting: what will be in space? Are there aliens on earth?... Join Kiki and Miumiu for the exploration of this world together!
+
+Copyright ©BABYBUS CO.Ltd All Rights Reserved.20:Tdfd,Let's take care of ten little babies and learn how to care for our families!
+
+Lyrics:
+Oh oh oh oh oh oh      
+One little, two little, three little babies    
+Four little, five little, six little babies    
+Seven little, eight little, nine little babies    
+Ten babies feeling sick      
+
+Sick babies, cry babies    
+Oh oh oh oh oh oh oh oh Poor babies    
+Sick babies, cry babies    
+Oh oh oh oh oh oh oh oh Poor babies   
+Sick babies, cry babies    
+I'll take care of you!    
+
+One little hug for a poor sick baby   
+Two little blankets keep them cozy   
+Three little kisses make them happy   
+Babies, babies, I'm right here   
+
+Four little spoons of “magical” soup   
+Five little songs with happy tunes   
+Six little books before bedtime    
+Babies, babies, get well soon    
+
+Seven little stars twinkling all night   
+Eight little smiles make them sleep tight  
+Nine little whispers      
+saying, “Night-night”     
+Ten babies feeling fine     
+
+One little, two little, three little babies   
+Four little ,five little, six little babies   
+Seven little, eight little, nine little babies   
+Ten babies taking care of you.    
+
+One two three four five six seven eight nine ten   
+Oh oh oh oh oh oh    
+Silly babies, cute babies   
+Oh oh oh oh oh oh taking care of you   
+Silly babies, cute babies   
+Oh oh oh oh oh oh taking care of you 
+Silly babies, cute babies   
+Babies taking care of you!  
+
+One two three four five six seven eight nine ten    
+Ten babies taking care of you
+
+Enjoy watching BabyBus songs and cartoons! 💕 👶 💕
+1. Yes! Neo | Nursery Rhymes & Kids Songs | Imagine!: https://www.youtube.com/playlist?list=PLPA49Pz3BAxMzc-8pwBRztAIG1rxgdyuV
+2. Sheriff Labrador - Kids Cartoon | Safety Cartoon for Kids: https://www.youtube.com/playlist?list=PLPA49Pz3BAxMQZcPY3tAF9ODTxlJIawOv
+3. BabyBus | Monster Trucks | Vroom Vroom Zone🛞| Car Songs | Cars for Kids | Kids Song: https://www.youtube.com/playlist?list=PLPA49Pz3BAxNzQfqtFEoXpIqo9EPfCez7
+4. BabyBus | Food Song | Cooking Pretend Play | Learn Numbers, Learn Colors,Ice Cream, Colors Song | Kids Song: https://www.youtube.com/playlist?list=PLPA49Pz3BAxNHYb9Iiv8Mbk6OKwCTCxnD
+
+BabyBus has released four best albums for kids! Best Car Songs, Best Food Songs, Super Rescue Team, and Classics for Kids! 
+All the music is available on Spotify, Apple Music, and more!
+（🎵） Spotify: https://spoti.fi/3wRHZsr
+（🍎）Apple Music:  https://apple.co/3wT2jtp 
+
+#kidssong #nurseryrhymes #cartoon #kidscartoon #babybus #babycartoon #cartoonforkids #toddlers #forkids #kidsvideos #childrensongs #babysongs #kidssong #songsforkids  #singalong
+—————BabyBus—————
+At BabyBus, our goal is to make learning a fun and imaginative experience for kids aged 2 - 6 by creating classic nursery rhymes, kid songs, and stories with 2D & 3D animations. 
+
+In the BabyBus world, KiKi, Miumiu, and their friends inspire kids to experience true friendship, care, creativity, and imagination in a fun and smart way. Through our songs and animations, kids around the world can learn about colors, letters, life skills, good habits, safety tips, and more in a fun and educational way.
+
+In the eyes of Kiki and Miumiu, all things are alive: you can talk to animals, you can make friends with vehicles... All the activities can be enjoyed, you can experience different occupations, you can go everywhere... All the unknowns are interesting: what will be in space? Are there aliens on earth?... Join Kiki and Miumiu for the exploration of this world together!
+
+Copyright ©BABYBUS CO.Ltd All Rights Reserved.21:Ta68,Yes! Neo Official Facebook: https://www.facebook.com/yesneoofficial
+I wanna grow up tall. What to do? 
+
+Lyrics:
+Oh oh oh, I wanna be tall, tall, tall!
+I wanna grow up tall
+Tell me how tall
+As tall as a giraffe
+That might take some time
+I want it now, grow right now!
+Not that fast, you know
+I say, I wanna grow!
+
+Okay okay, to the line
+You must be this tall
+Okay okay, stand up straight
+You must be this tall
+Oh oh oh, I wanna grow,
+tall enough to ride them all!
+
+MagicKid is a magical, family-friendly TV channel. Give it a try! https://magickid.tv/en/VideoPlay/CZMQH1
+
+Enjoy watching BabyBus songs and cartoons! 💕 👶 💕
+1. Yes! Neo | Nursery Rhymes & Kids Songs | Imagine!: https://www.youtube.com/playlist?list=PLPA49Pz3BAxMzc-8pwBRztAIG1rxgdyuV
+2. Sheriff Labrador - Kids Cartoon | Safety Cartoon for Kids: https://www.youtube.com/playlist?list=PLPA49Pz3BAxMQZcPY3tAF9ODTxlJIawOv
+3. BabyBus | Monster Trucks | Vroom Vroom Zone🛞| Car Songs | Cars for Kids | Kids Song: https://www.youtube.com/playlist?list=PLPA49Pz3BAxNzQfqtFEoXpIqo9EPfCez7
+4. BabyBus | Food Song | Cooking Pretend Play | Learn Numbers, Learn Colors,  Ice Cream, Colors Song | Kids Song: https://www.youtube.com/playlist?list=PLPA49Pz3BAxNHYb9Iiv8Mbk6OKwCTCxnD
+
+BabyBus has released four best albums for kids! Best Car Songs, Best Food Songs, Super Rescue Team, and Classics for Kids! 
+All the music is available on Spotify, Apple Music, and more!
+（🎵） Spotify: https://spoti.fi/3wRHZsr
+（🍎）Apple Music:  https://apple.co/3wT2jtp 
+
+#kidssong #nurseryrhymes #cartoon #kidscartoon #babybus #babycartoon #cartoonforkids #toddlers #forkids #kidsvideos #childrensongs #babysongs #kidssong #songsforkids  #singalong
+—————BabyBus—————
+At BabyBus, our goal is to make learning a fun and imaginative experience for kids aged 2 - 6 by creating classic nursery rhymes, kid songs, and stories with 2D & 3D animations. 
+
+In the BabyBus world, KiKi, Miumiu, and their friends inspire kids to experience true friendship, care, creativity, and imagination in a fun and smart way. Through our songs and animations, kids around the world can learn about colors, letters, life skills, good habits, safety tips, and more in a fun and educational way.
+
+In the eyes of Kiki and Miumiu, all things are alive: you can talk to animals, you can make friends with vehicles... All the activities can be enjoyed, you can experience different occupations, you can go everywhere... All the unknowns are interesting: what will be in space? Are there aliens on earth?... Join Kiki and Miumiu for the exploration of this world together!
+
+Copyright ©BABYBUS CO.Ltd All Rights Reserved.22:Ta1f,Brave policemen Kiki and Miumiu are trapped in cardboard rooms. They have to find a way out. Can they find the keys?
+
+Lyrics:
+Na na na na na, you can’t catch me!
+Na na na na na, you can’t catch me!
+Bleh bleh bleh!
+
+Brave little cops, don't be scared
+Brave little cops, be prepared
+Look around, look around, find the red key
+Go go go go go, we’re not afraid!
+Go go go go go, ready to be brave!
+Go go go go go, we’re not afraid!
+Go go go go go, ready to be brave!
+We found it - the red key!
+
+Enjoy watching BabyBus songs and cartoons! 💕 👶 💕
+1. Yes! Neo | Nursery Rhymes & Kids Songs | Imagine!: https://www.youtube.com/playlist?list=PLPA49Pz3BAxMzc-8pwBRztAIG1rxgdyuV
+2. Sheriff Labrador - Kids Cartoon | Safety Cartoon for Kids: https://www.youtube.com/playlist?list=PLPA49Pz3BAxMQZcPY3tAF9ODTxlJIawOv
+3. BabyBus | Monster Trucks | Vroom Vroom Zone🛞| Car Songs | Cars for Kids | Kids Song: https://www.youtube.com/playlist?list=PLPA49Pz3BAxNzQfqtFEoXpIqo9EPfCez7
+4. BabyBus | Food Song | Cooking Pretend Play | Learn Numbers, Learn Colors,  Ice Cream, Colors Song | Kids Song: https://www.youtube.com/playlist?list=PLPA49Pz3BAxNHYb9Iiv8Mbk6OKwCTCxnD
+
+BabyBus has released four best albums for kids! Best Car Songs, Best Food Songs, Super Rescue Team, and Classics for Kids! 
+All the music is available on Spotify, Apple Music, and more!
+（🎵） Spotify: https://spoti.fi/3wRHZsr
+（🍎）Apple Music:  https://apple.co/3wT2jtp 
+
+#kidssong #nurseryrhymes #cartoon #kidscartoon #babybus #babycartoon #cartoonforkids #toddlers #forkids #kidsvideos #childrensongs #babysongs #kidssong #songsforkids  #singalong
+—————BabyBus—————
+At BabyBus, our goal is to make learning a fun and imaginative experience for kids aged 2 - 6 by creating classic nursery rhymes, kid songs, and stories with 2D & 3D animations. 
+
+In the BabyBus world, KiKi, Miumiu, and their friends inspire kids to experience true friendship, care, creativity, and imagination in a fun and smart way. Through our songs and animations, kids around the world can learn about colors, letters, life skills, good habits, safety tips, and more in a fun and educational way.
+
+In the eyes of Kiki and Miumiu, all things are alive: you can talk to animals, you can make friends with vehicles... All the activities can be enjoyed, you can experience different occupations, you can go everywhere... All the unknowns are interesting: what will be in space? Are there aliens on earth?... Join Kiki and Miumiu for the exploration of this world together!
+
+Copyright ©BABYBUS CO.Ltd All Rights Reserved.23:T9e2,👶🎵 Count from 1 to 10 with muddy fun and playful songs designed for toddlers and preschoolers to learn numbers through music and repetition!
+
+Lyrics:
+There was one by the car,
+She's pushing so hard.
+Push push! Push push!
+But the car is still in the mud.
+
+Yes! Neo Official Facebook: https://www.facebook.com/yesneoofficial
+
+MagicKid is a magical, family-friendly TV channel. Give it a try! https://magickid.tv/en/VideoPlay/CZMQH1
+
+Enjoy watching BabyBus songs and cartoons! 💕 👶 💕
+1. Yes! Neo | Nursery Rhymes & Kids Songs | Imagine!: https://www.youtube.com/playlist?list=PLPA49Pz3BAxMzc-8pwBRztAIG1rxgdyuV
+2. Sheriff Labrador - Kids Cartoon | Safety Cartoon for Kids: https://www.youtube.com/playlist?list=PLPA49Pz3BAxMQZcPY3tAF9ODTxlJIawOv
+3. BabyBus | Monster Trucks | Vroom Vroom Zone🛞| Car Songs | Cars for Kids | Kids Song: https://www.youtube.com/playlist?list=PLPA49Pz3BAxNzQfqtFEoXpIqo9EPfCez7
+4. BabyBus | Food Song | Cooking Pretend Play | Learn Numbers, Learn Colors,  Ice Cream, Colors Song | Kids Song: https://www.youtube.com/playlist?list=PLPA49Pz3BAxNHYb9Iiv8Mbk6OKwCTCxnD
+
+BabyBus has released four best albums for kids! Best Car Songs, Best Food Songs, Super Rescue Team, and Classics for Kids! 
+All the music is available on Spotify, Apple Music, and more!
+（🎵） Spotify: https://spoti.fi/3wRHZsr
+（🍎）Apple Music:  https://apple.co/3wT2jtp 
+
+#cartoon #kidscartoon #kidssong #nurseryrhymes #babybus #babycartoon #cartoonforkids #toddlers #forkids #kidsvideos #childrensongs #babysongs #kidssong #songsforkids  #singalong
+—————BabyBus—————
+At BabyBus, our goal is to make learning a fun and imaginative experience for kids aged 2 - 6 by creating classic nursery rhymes, kid songs, and stories with 2D & 3D animations. 
+
+In the BabyBus world, KiKi, Miumiu, and their friends inspire kids to experience true friendship, care, creativity, and imagination in a fun and smart way. Through our songs and animations, kids around the world can learn about colors, letters, life skills, good habits, safety tips, and more in a fun and educational way.
+
+In the eyes of Kiki and Miumiu, all things are alive: you can talk to animals, you can make friends with vehicles... All the activities can be enjoyed, you can experience different occupations, you can go everywhere... All the unknowns are interesting: what will be in space? Are there aliens on earth?... Join Kiki and Miumiu for the exploration of this world together!
+
+Copyright ©BABYBUS CO.Ltd All Rights Reserved.24:Tc80,Sharing is caring, we take turns happily!
+
+Lyrics:
+Verse1
+Do you like to share the slime?
+Share the slime, share the slime?
+No, no, it's mine, it's mine.
+Only I can make it shine!
+Do you feel a little sad,
+little sad, little sad?
+Fine, fine, here you are.
+Sharing makes us happy, right?
+Verse2
+Do you like to share the toy?
+Share the toy, share the toy?
+No, no, it's mine, it's mine.
+Only I can make it cook!
+Do you feel a little sad,
+little sad, little sad?
+Fine, fine, here you are.
+Sharing makes us happy, right?
+Verse3
+Do you like to share the eggs?
+Share the eggs, share the eggs?
+No, no, they're mine, they're mine.
+Only I can make them crack!
+Do you feel a little sad,
+little sad, little sad?
+Fine, fine, here you are.
+Sharing makes us happy, right?
+Verse4
+Do you want to share the balls?
+Share the balls, share the balls?
+No, no, they're mine, they're mine.
+Only I can make them fly!
+Do you feel a little sad?
+Little sad, little sad?
+Fine, fine, here you are.
+Sharing makes us happy, right?
+
+MagicKid is a magical, family-friendly TV channel. Give it a try! https://magickid.tv/en/VideoPlay/CZMQH1
+
+Enjoy watching BabyBus songs and cartoons! 💕 👶 💕
+1. Yes! Neo | Nursery Rhymes & Kids Songs | Imagine!: https://www.youtube.com/playlist?list=PLPA49Pz3BAxMzc-8pwBRztAIG1rxgdyuV
+2. Sheriff Labrador - Kids Cartoon | Safety Cartoon for Kids: https://www.youtube.com/playlist?list=PLPA49Pz3BAxMQZcPY3tAF9ODTxlJIawOv
+3. BabyBus | Monster Trucks | Vroom Vroom Zone🛞| Car Songs | Cars for Kids | Kids Song: https://www.youtube.com/playlist?list=PLPA49Pz3BAxNzQfqtFEoXpIqo9EPfCez7
+4. BabyBus | Food Song | Cooking Pretend Play | Learn Numbers, Learn Colors,  Ice Cream, Colors Song | Kids Song: https://www.youtube.com/playlist?list=PLPA49Pz3BAxNHYb9Iiv8Mbk6OKwCTCxnD
+
+BabyBus has released four best albums for kids! Best Car Songs, Best Food Songs, Super Rescue Team, and Classics for Kids! 
+All the music is available on Spotify, Apple Music, and more!
+（🎵） Spotify: https://spoti.fi/3wRHZsr
+（🍎）Apple Music:  https://apple.co/3wT2jtp 
+
+#kidssong #nurseryrhymes #cartoon #kidscartoon #babybus #babycartoon #cartoonforkids #toddlers #forkids #kidsvideos #childrensongs #babysongs #kidssong #songsforkids  #singalong
+—————BabyBus—————
+At BabyBus, our goal is to make learning a fun and imaginative experience for kids aged 2 - 6 by creating classic nursery rhymes, kid songs, and stories with 2D & 3D animations. 
+
+In the BabyBus world, KiKi, Miumiu, and their friends inspire kids to experience true friendship, care, creativity, and imagination in a fun and smart way. Through our songs and animations, kids around the world can learn about colors, letters, life skills, good habits, safety tips, and more in a fun and educational way.
+
+In the eyes of Kiki and Miumiu, all things are alive: you can talk to animals, you can make friends with vehicles... All the activities can be enjoyed, you can experience different occupations, you can go everywhere... All the unknowns are interesting: what will be in space? Are there aliens on earth?... Join Kiki and Miumiu for the exploration of this world together!
+
+Copyright ©BABYBUS CO.Ltd All Rights Reserved.25:Te43,An educational video for kids to learn about wild animals and animal facts.
+
+Lyrics:
+The lion is back
+Oh—with a furry mane
+The lion is back
+Oh — with sharp, sharp claws!
+The lion is back
+I want some meat
+Big lion, big lion
+Such a scary lion
+(Such a scary lion)
+Big lion, big lion
+Such a scary lion
+(Such a scary lion)
+
+The polar bear is back
+Oh — with snowy white fur 
+The polar bear is back
+Oh — with giant paws! 
+The polar bear is back
+I want some ice
+Polar bear, polar bear  
+Such a strong polar bear  
+(Such a strong polar bear)  
+Polar bear, polar bear  
+Such a strong polar bear  
+(Such a strong polar bear)  
+
+The zebra is back  
+Oh — with black and white stripes  
+The zebra is back
+Oh — what a speedy runner
+The zebra is back  
+I want to play hide-and-seek
+Zebra, zebra, zebra
+Such a playful zebra
+(Such a playful zebra) 
+Zebra, zebra, zebra
+Such a playful zebra
+(Such a playful zebra) 
+
+The giraffe is back  
+Oh — with four long legs 
+The giraffe is back  
+Oh — with a long, long neck
+The giraffe is back  
+I want some leaves
+Giraffe, giraffe  
+Such a lovely giraffe 
+(Such a lovely giraffe) 
+Giraffe, giraffe  
+Such a lovely giraffe 
+(Such a lovely giraffe) 
+
+The elephant is back
+Oh — with a long trunk
+The elephant is back
+Oh — with big, big ears
+The elephant is back
+I want to play in water
+Elephant, elephant
+Such a tall elephant
+(Such a tall elephant)
+Elephant, elephant
+Such a tall elephant
+(Such a tall elephant)
+MagicKid is a magical, family-friendly TV channel. Give it a try! https://magickid.tv/en/VideoPlay/CZMQH1
+
+Enjoy watching BabyBus songs and cartoons! 💕 👶 💕
+1. Yes! Neo | Nursery Rhymes & Kids Songs | Imagine!: https://www.youtube.com/playlist?list=PLPA49Pz3BAxMzc-8pwBRztAIG1rxgdyuV
+2. Sheriff Labrador - Kids Cartoon | Safety Cartoon for Kids: https://www.youtube.com/playlist?list=PLPA49Pz3BAxMQZcPY3tAF9ODTxlJIawOv
+3. BabyBus | Monster Trucks | Vroom Vroom Zone🛞| Car Songs | Cars for Kids | Kids Song: https://www.youtube.com/playlist?list=PLPA49Pz3BAxNzQfqtFEoXpIqo9EPfCez7
+4. BabyBus | Food Song | Cooking Pretend Play | Learn Numbers, Learn Colors,  Ice Cream, Colors Song | Kids Song: https://www.youtube.com/playlist?list=PLPA49Pz3BAxNHYb9Iiv8Mbk6OKwCTCxnD
+
+BabyBus has released four best albums for kids! Best Car Songs, Best Food Songs, Super Rescue Team, and Classics for Kids! 
+All the music is available on Spotify, Apple Music, and more!
+（🎵） Spotify: https://spoti.fi/3wRHZsr
+（🍎）Apple Music:  https://apple.co/3wT2jtp 
+
+#kidssong #nurseryrhymes #cartoon #kidscartoon #babybus #babycartoon #cartoonforkids #toddlers #forkids #kidsvideos #childrensongs #babysongs #kidssong #songsforkids  #singalong
+—————BabyBus—————
+At BabyBus, our goal is to make learning a fun and imaginative experience for kids aged 2 - 6 by creating classic nursery rhymes, kid songs, and stories with 2D & 3D animations. 
+
+In the BabyBus world, KiKi, Miumiu, and their friends inspire kids to experience true friendship, care, creativity, and imagination in a fun and smart way. Through our songs and animations, kids around the world can learn about colors, letters, life skills, good habits, safety tips, and more in a fun and educational way.
+
+In the eyes of Kiki and Miumiu, all things are alive: you can talk to animals, you can make friends with vehicles... All the activities can be enjoyed, you can experience different occupations, you can go everywhere... All the unknowns are interesting: what will be in space? Are there aliens on earth?... Join Kiki and Miumiu for the exploration of this world together!
+
+Copyright ©BABYBUS CO.Ltd All Rights Reserved.26:Tc4c,What's the Fastest Vehicle? Let's enjoy this fun song and learn about different vehicles and their sounds.
+
+Lyrics:
+Hello, hello! Good to see you
+Who are you?
+I'm a bike, I'm a bike
+Hey bike, let's race! Who's faster?
+A bike goes faster than a scooter
+
+Hello, hello! Good to see you
+Who are you?
+I'm a bus, I'm a bus 
+Hey bus, let's race! Who's faster?
+A bus goes faster than a bike
+
+Hello, hello! Good to see you
+Who are you?
+I'm a car, I'm a car
+Hey car, let's race! Who's faster?
+A car goes faster than a bus
+
+Hello, hello! Good to see you
+Who are you?
+I'm a train, I'm a train
+Hey train, let's race! Who's faster?
+A train goes faster than a car
+
+Hello, hello! Good to see you
+Who are you?
+I'm an airplane, I'm an airplane
+Airplane, let's race! Who's faster?
+An airplane goes faster than a train
+
+Hello, hello! Good to see you
+Who are you?
+I'm a rocket, I'm a rocket
+Rocket, let's race! Who's faster?
+A rocket is the fastest thing in the world
+
+MagicKid is a magical, family-friendly TV channel. Give it a try! https://magickid.tv/en/VideoPlay/CZMQH1
+
+Enjoy watching BabyBus songs and cartoons! 💕 👶 💕
+1. Yes! Neo | Nursery Rhymes & Kids Songs | Imagine!: https://www.youtube.com/playlist?list=PLPA49Pz3BAxMzc-8pwBRztAIG1rxgdyuV
+2. Sheriff Labrador - Kids Cartoon | Safety Cartoon for Kids: https://www.youtube.com/playlist?list=PLPA49Pz3BAxMQZcPY3tAF9ODTxlJIawOv
+3. BabyBus | Monster Trucks | Vroom Vroom Zone🛞| Car Songs | Cars for Kids | Kids Song: https://www.youtube.com/playlist?list=PLPA49Pz3BAxNzQfqtFEoXpIqo9EPfCez7
+4. BabyBus | Food Song | Cooking Pretend Play | Learn Numbers, Learn Colors,  Ice Cream, Colors Song | Kids Song: https://www.youtube.com/playlist?list=PLPA49Pz3BAxNHYb9Iiv8Mbk6OKwCTCxnD
+
+BabyBus has released four best albums for kids! Best Car Songs, Best Food Songs, Super Rescue Team, and Classics for Kids! 
+All the music is available on Spotify, Apple Music, and more!
+（🎵） Spotify: https://spoti.fi/3wRHZsr
+（🍎）Apple Music:  https://apple.co/3wT2jtp 
+
+#kidssong #nurseryrhymes #cartoon #kidscartoon #babybus #babycartoon #cartoonforkids #toddlers #forkids #kidsvideos #childrensongs #babysongs #kidssong #songsforkids  #singalong
+—————BabyBus—————
+At BabyBus, our goal is to make learning a fun and imaginative experience for kids aged 2 - 6 by creating classic nursery rhymes, kid songs, and stories with 2D & 3D animations. 
+
+In the BabyBus world, KiKi, Miumiu, and their friends inspire kids to experience true friendship, care, creativity, and imagination in a fun and smart way. Through our songs and animations, kids around the world can learn about colors, letters, life skills, good habits, safety tips, and more in a fun and educational way.
+
+In the eyes of Kiki and Miumiu, all things are alive: you can talk to animals, you can make friends with vehicles... All the activities can be enjoyed, you can experience different occupations, you can go everywhere... All the unknowns are interesting: what will be in space? Are there aliens on earth?... Join Kiki and Miumiu for the exploration of this world together!
+
+Copyright ©BABYBUS CO.Ltd All Rights Reserved.2:["$","div",null,{"className":"max-w-[1280px] mx-auto w-full px-1 xs:px-2 sm:px-6 lg:px-8 py-4 sm:py-6 space-y-6 sm:space-y-8","children":[["$","$L10",null,{"video":{"id":"XGwnjA2aSR8","title":"Learn Vegetables and Fruits | Let's Plant Vegetables | Nursery Rhymes & Kids Songs | BabyBus","description":"$11","channelTitle":"BabyBus - Preschool Songs & Learning Cartoons","channelId":"UCpYye8D5fFMUPf9nSfgd4bA","publishedAt":"2025-10-26T10:30:14Z","duration":"16:52","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/XGwnjA2aSR8/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/XGwnjA2aSR8/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/XGwnjA2aSR8/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/XGwnjA2aSR8/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/XGwnjA2aSR8/maxresdefault.jpg","width":1280,"height":720}}}}],["$","div",null,{"children":["$","$L12",null,{"href":"/","className":"inline-flex items-center gap-2 px-3.5 py-2 bg-white rounded-full text-slate-700 font-bold text-xs sm:text-sm border border-slate-200 hover:border-purple-300 hover:text-purple-700 hover:bg-purple-50 transition-all shadow-subtle active:scale-95 focus:outline-none focus:ring-2 focus:ring-purple-600","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-4 h-4","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"Back to Discover"}]]}]}],["$","section",null,{"className":"w-full max-w-full","children":["$","$L13",null,{"videoId":"XGwnjA2aSR8","title":"Learn Vegetables and Fruits | Let's Plant Vegetables | Nursery Rhymes & Kids Songs | BabyBus"}]}],["$","section",null,{"className":"bg-white rounded-2xl sm:rounded-3xl p-4 xs:p-6 sm:p-8 border border-slate-200/80 shadow-subtle space-y-5 sm:space-y-6","children":[["$","h1",null,{"className":"text-xl sm:text-3xl lg:text-4xl font-black text-slate-900 leading-tight tracking-tight break-words","children":"Learn Vegetables and Fruits | Let's Plant Vegetables | Nursery Rhymes & Kids Songs | BabyBus"}],["$","div",null,{"className":"flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-slate-100 pb-5 sm:pb-6","children":[["$","div",null,{"className":"space-y-2.5 sm:space-y-3","children":[["$","div",null,{"children":[["$","p",null,{"className":"text-base sm:text-lg font-black text-slate-900","children":"BabyBus - Preschool Songs & Learning Cartoons"}],["$","p",null,{"className":"text-xs text-slate-500 font-semibold","children":"Kids songs & educational content"}]]}],["$","div",null,{"className":"flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"bg-purple-100 text-purple-900 text-xs font-black px-3 py-1 rounded-full","children":"Kids Pick"}],["$","span",null,{"className":"bg-amber-100 text-amber-950 text-xs font-black px-3 py-1 rounded-full","children":"Ages 2–6"}],["$","span",null,{"className":"bg-slate-100 text-slate-700 text-xs font-bold px-3 py-1 rounded-full flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-3.5 h-3.5 text-amber-500","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","polyline","68esgv",{"points":"12 6 12 12 16 14"}],"$undefined"]}],["$","span",null,{"children":"16:52"}]]}]]}]]}],["$","div",null,{"className":"shrink-0","children":["$","$L14",null,{"video":"$15"}]}]]}],["$","div",null,{"className":"space-y-3","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-purple-900 font-bold text-xs uppercase tracking-wider","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles w-3.5 h-3.5 text-amber-500","children":[["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}],["$","path","1olli1",{"d":"M20 3v4"}],["$","path","1gvqau",{"d":"M22 5h-4"}],["$","path","vumght",{"d":"M4 17v2"}],["$","path","zchphs",{"d":"M5 18H3"}],"$undefined"]}],["$","span",null,{"children":"About this video"}]]}],["$","p",null,{"className":"text-slate-700 font-medium text-xs sm:text-sm leading-relaxed whitespace-pre-line bg-slate-50 p-3.5 sm:p-4 rounded-xl border border-slate-100","children":"$1d"}],["$","div",null,{"className":"flex items-center gap-2 text-xs font-semibold text-slate-500 pt-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-shield-check w-4 h-4 text-emerald-600 shrink-0","children":[["$","path","oel41y",{"d":"M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"}],["$","path","dzmm74",{"d":"m9 12 2 2 4-4"}],"$undefined"]}],["$","span",null,{"children":"Embedded directly via official YouTube no-cookie player (COPPA Safe)."}]]}]]}]]}],["$","section",null,{"aria-label":"Advertisement","children":["$","$L1e",null,{"placement":"watch","context":"kids","ageTreatment":"child"}]}],["$","section",null,{"className":"space-y-4 sm:space-y-6","children":[["$","div",null,{"className":"flex items-center justify-between","children":["$","h2",null,{"className":"text-lg sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles w-5 h-5 sm:w-6 sm:h-6 text-purple-600","children":[["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}],["$","path","1olli1",{"d":"M20 3v4"}],["$","path","1gvqau",{"d":"M22 5h-4"}],["$","path","vumght",{"d":"M4 17v2"}],["$","path","zchphs",{"d":"M5 18H3"}],"$undefined"]}],["$","span",null,{"children":"More Like This"}]]}]}],["$","div",null,{"className":"grid grid-cols-1 xs:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3.5 sm:gap-6","children":[["$","$L1f","akIrVWm0v48",{"video":{"id":"akIrVWm0v48","title":"Ten Little Babies Boo Boo Song | Take Care of Babies | Nursery Rhyme & Kids Song | BabyBus","description":"$20","channelTitle":"BabyBus - Preschool Songs & Learning Cartoons","channelId":"UCpYye8D5fFMUPf9nSfgd4bA","publishedAt":"2025-08-14T10:30:01Z","duration":"16:54","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/akIrVWm0v48/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/akIrVWm0v48/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/akIrVWm0v48/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/akIrVWm0v48/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/akIrVWm0v48/maxresdefault.jpg","width":1280,"height":720}}}}],["$","$L1f","cNHRxn_qk2E",{"video":{"id":"cNHRxn_qk2E","title":"Baby Wants to Be Taller | Healthy Habits for Kids | Nursery Rhymes & Kids Songs | BabyBus","description":"$21","channelTitle":"BabyBus - Preschool Songs & Learning Cartoons","channelId":"UCpYye8D5fFMUPf9nSfgd4bA","publishedAt":"2025-09-26T10:30:36Z","duration":"18:23","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/cNHRxn_qk2E/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/cNHRxn_qk2E/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/cNHRxn_qk2E/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/cNHRxn_qk2E/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/cNHRxn_qk2E/maxresdefault.jpg","width":1280,"height":720}}}}],["$","$L1f","GYnjvSEpvhI",{"video":{"id":"GYnjvSEpvhI","title":"Escape from Cardboard Room | Brave Policeman | Nursery Rhymes & Kids Songs | BabyBus","description":"$22","channelTitle":"BabyBus - Preschool Songs & Learning Cartoons","channelId":"UCpYye8D5fFMUPf9nSfgd4bA","publishedAt":"2025-09-28T10:30:09Z","duration":"18:41","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/GYnjvSEpvhI/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/GYnjvSEpvhI/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/GYnjvSEpvhI/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/GYnjvSEpvhI/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/GYnjvSEpvhI/maxresdefault.jpg","width":1280,"height":720}}}}],["$","$L1f","tsqe1rb8glA",{"video":{"id":"tsqe1rb8glA","title":"Ten in the Mud 2 | Learn Numbers 1 to 10 | Preschool Learning | Kids Songs | BabyBus","description":"$23","channelTitle":"BabyBus - Preschool Songs & Learning Cartoons","channelId":"UCpYye8D5fFMUPf9nSfgd4bA","publishedAt":"2026-05-22T10:30:38Z","duration":"17:51","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/tsqe1rb8glA/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/tsqe1rb8glA/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/tsqe1rb8glA/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/tsqe1rb8glA/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/tsqe1rb8glA/maxresdefault.jpg","width":1280,"height":720}}}}],["$","$L1f","uXYU7L_o_e4",{"video":{"id":"uXYU7L_o_e4","title":"Sharing is Caring 2 | Can You Share? | Take Turns | Nursery Rhymes & Kids Songs | BabyBus","description":"$24","channelTitle":"BabyBus - Preschool Songs & Learning Cartoons","channelId":"UCpYye8D5fFMUPf9nSfgd4bA","publishedAt":"2026-01-30T10:42:51Z","duration":"19:07","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/uXYU7L_o_e4/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/uXYU7L_o_e4/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/uXYU7L_o_e4/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/uXYU7L_o_e4/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/uXYU7L_o_e4/maxresdefault.jpg","width":1280,"height":720}}}}],["$","$L1f","udzblk7r1ig",{"video":{"id":"udzblk7r1ig","title":"Wild Animals Stories for Kids | Kids Learn Wild Animals | Nursery Rhymes & Kids Songs | BabyBus","description":"$25","channelTitle":"BabyBus - Preschool Songs & Learning Cartoons","channelId":"UCpYye8D5fFMUPf9nSfgd4bA","publishedAt":"2026-01-11T10:30:42Z","duration":"19:53","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/udzblk7r1ig/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/udzblk7r1ig/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/udzblk7r1ig/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/udzblk7r1ig/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/udzblk7r1ig/maxresdefault.jpg","width":1280,"height":720}}}}],["$","$L1f","O-H-cdNM6rA",{"video":{"id":"O-H-cdNM6rA","title":"Vehicles Song | Zoom! Zoom! What Vehicle is the FASTEST?  | Nursery Rhyme & Kids Songs | BabyBus","description":"$26","channelTitle":"BabyBus - Preschool Songs & Learning Cartoons","channelId":"UCpYye8D5fFMUPf9nSfgd4bA","publishedAt":"2025-08-29T10:30:14Z","duration":"19:29","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/O-H-cdNM6rA/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/O-H-cdNM6rA/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/O-H-cdNM6rA/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/O-H-cdNM6rA/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/O-H-cdNM6rA/maxresdefault.jpg","width":1280,"height":720}}}}]]}]]}]]}]

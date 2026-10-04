@@ -1,0 +1,485 @@
+3:I[4707,[],""]
+5:I[6423,[],""]
+6:I[575,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"AuthProvider"]
+7:I[1196,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"TimerProvider"]
+8:I[842,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+9:I[8349,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+a:I[3313,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+b:I[6733,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+c:I[3633,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+d:I[833,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+e:I[5050,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","985","static/chunks/985-b83af6ff2aaa44f4.js","494","static/chunks/494-02f206267f7f7562.js","185","static/chunks/app/layout-cd1f3a70d47e2533.js"],"default"]
+4:["videoId","H0XtYA7JFAw","d"]
+0:["rAMQWTTpVHN77KICyo0QE",[[["",{"children":["watch",{"children":[["videoId","H0XtYA7JFAw","d"],{"children":["__PAGE__?{\"videoId\":\"H0XtYA7JFAw\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["watch",{"children":[["videoId","H0XtYA7JFAw","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","watch","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","watch","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/fa2c964e9fff47bf.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"bg-[#F8FAFC] text-slate-900 font-sans min-h-screen flex flex-col antialiased pb-16 md:pb-0","children":["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","main",null,{"className":"flex-1 max-w-[1440px] w-full mx-auto px-4 xs:px-5 sm:px-8 lg:px-12 py-4 sm:py-8","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}],["$","$Le",null,{}]]}]}]}]}]],null],null],["$Lf",null]]]]
+f:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Strongest Dinosaur | The Dinosaurs Song For Kids | FunForKidsTV - Nursery Rhymes & Baby Songs — KiddoTube"}],["$","meta","3",{"name":"description","content":"WHO’S THE STRONGEST DINO?\n\nFirst comes in Brachiosaurus\n\nThey say I’m a giant\nThe largest dinosaur\nMy neck is the longest\nI reach the tallest trees of all\nMy ta"}],["$","meta","4",{"name":"keywords","content":"Kids Videos,KiddoTube,Educational Videos,Nursery Rhymes,Safe Content Discovery"}],["$","link","5",{"rel":"shortcut icon","href":"/images/favicon.png"}],["$","link","6",{"rel":"icon","href":"/images/favicon.png"}],["$","link","7",{"rel":"apple-touch-icon","href":"/images/favicon.png"}]]
+1:null
+10:I[9374,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","359","static/chunks/359-71e1a687d9d4dce4.js","688","static/chunks/app/watch/%5BvideoId%5D/page-b03a147664fc495d.js"],"default"]
+12:I[2972,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","359","static/chunks/359-71e1a687d9d4dce4.js","688","static/chunks/app/watch/%5BvideoId%5D/page-b03a147664fc495d.js"],""]
+13:I[2271,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","359","static/chunks/359-71e1a687d9d4dce4.js","688","static/chunks/app/watch/%5BvideoId%5D/page-b03a147664fc495d.js"],"default"]
+14:I[2697,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","359","static/chunks/359-71e1a687d9d4dce4.js","688","static/chunks/app/watch/%5BvideoId%5D/page-b03a147664fc495d.js"],"default"]
+1e:I[6532,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","359","static/chunks/359-71e1a687d9d4dce4.js","688","static/chunks/app/watch/%5BvideoId%5D/page-b03a147664fc495d.js"],"default"]
+1f:I[265,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","359","static/chunks/359-71e1a687d9d4dce4.js","688","static/chunks/app/watch/%5BvideoId%5D/page-b03a147664fc495d.js"],"default"]
+11:T5b8,WHO’S THE STRONGEST DINO?
+
+First comes in Brachiosaurus
+
+They say I’m a giant
+The largest dinosaur
+My neck is the longest
+I reach the tallest trees of all
+My tail is hard and thick
+Strong enough to sit
+Brachiosaurus is my name
+I’m the strongest dinosaur
+
+Second comes in Spinosaurus
+
+My spine is my armour
+And I am number one
+I have webbed feet to swim
+And three strong toes to run
+I love to hunt fish
+They are my favourite dish
+Spinosaurus is my name 
+I’m the strongest Dinosaur
+
+Third comes in Triceratops
+
+Make way for me & my horns
+Big strong bony thorns
+They are sharp and dangerous
+So I look ferocious
+I also have a bony frill
+No T-Rex teeth can drill
+They call me Triceratops
+I’m the strongest Dinosaur
+
+Last comes in T-Rex
+
+The big great hunter
+The fierce & strong
+With razor sharp teeth
+I hunt alone
+I’m the king of dinosaurs
+The hunter of all
+I’m Tyrannosaurus Rex
+The strongest dinosaur…
+
+Strongest Dinosaur | Dinosaur For Kids | FunForKidsTV - Nursery Rhymes & Baby Songs:
+
+00:02  Strongest Dino
+03:02  I am T-rex 
+05:30  Brachiosaurus 
+07:27  T-rex peekaboo 
+09:09  Baby T-rex got a boo-boo
+12:11  Baby T-rex doo doo-doo
+14:14  Spinosaurus
+
+
+Subscribe: https://www.youtube.com/channel/UCT-vkVJZwqIK4HBdDRPgkgg?sub_confirmation=1
+
+Best Youtube kids videos playlist by Fun For KidsTV - Nursery Rhymes & Baby Songs:
+ 
+
+#thedinosaurssong #nurseryrhymes #babysongs #kidssongs #dynasore #dinosaur #dinosaurs #forkids #forkidsandchildren16:T5b8,WHO’S THE STRONGEST DINO?
+
+First comes in Brachiosaurus
+
+They say I’m a giant
+The largest dinosaur
+My neck is the longest
+I reach the tallest trees of all
+My tail is hard and thick
+Strong enough to sit
+Brachiosaurus is my name
+I’m the strongest dinosaur
+
+Second comes in Spinosaurus
+
+My spine is my armour
+And I am number one
+I have webbed feet to swim
+And three strong toes to run
+I love to hunt fish
+They are my favourite dish
+Spinosaurus is my name 
+I’m the strongest Dinosaur
+
+Third comes in Triceratops
+
+Make way for me & my horns
+Big strong bony thorns
+They are sharp and dangerous
+So I look ferocious
+I also have a bony frill
+No T-Rex teeth can drill
+They call me Triceratops
+I’m the strongest Dinosaur
+
+Last comes in T-Rex
+
+The big great hunter
+The fierce & strong
+With razor sharp teeth
+I hunt alone
+I’m the king of dinosaurs
+The hunter of all
+I’m Tyrannosaurus Rex
+The strongest dinosaur…
+
+Strongest Dinosaur | Dinosaur For Kids | FunForKidsTV - Nursery Rhymes & Baby Songs:
+
+00:02  Strongest Dino
+03:02  I am T-rex 
+05:30  Brachiosaurus 
+07:27  T-rex peekaboo 
+09:09  Baby T-rex got a boo-boo
+12:11  Baby T-rex doo doo-doo
+14:14  Spinosaurus
+
+
+Subscribe: https://www.youtube.com/channel/UCT-vkVJZwqIK4HBdDRPgkgg?sub_confirmation=1
+
+Best Youtube kids videos playlist by Fun For KidsTV - Nursery Rhymes & Baby Songs:
+ 
+
+#thedinosaurssong #nurseryrhymes #babysongs #kidssongs #dynasore #dinosaur #dinosaurs #forkids #forkidsandchildren18:{"url":"https://i.ytimg.com/vi/H0XtYA7JFAw/default.jpg","width":120,"height":90}
+19:{"url":"https://i.ytimg.com/vi/H0XtYA7JFAw/mqdefault.jpg","width":320,"height":180}
+1a:{"url":"https://i.ytimg.com/vi/H0XtYA7JFAw/hqdefault.jpg","width":480,"height":360}
+1b:{"url":"https://i.ytimg.com/vi/H0XtYA7JFAw/sddefault.jpg","width":640,"height":480}
+1c:{"url":"https://i.ytimg.com/vi/H0XtYA7JFAw/maxresdefault.jpg","width":1280,"height":720}
+17:{"default":"$18","medium":"$19","high":"$1a","standard":"$1b","maxres":"$1c"}
+15:{"id":"H0XtYA7JFAw","title":"Strongest Dinosaur | The Dinosaurs Song For Kids | FunForKidsTV - Nursery Rhymes & Baby Songs","description":"$16","channelTitle":"FunForKidsTV - Nursery Rhymes & Baby Songs","channelId":"UCT-vkVJZwqIK4HBdDRPgkgg","publishedAt":"2023-06-16T10:15:13Z","duration":"16:18","thumbnails":"$17"}
+1d:T5b8,WHO’S THE STRONGEST DINO?
+
+First comes in Brachiosaurus
+
+They say I’m a giant
+The largest dinosaur
+My neck is the longest
+I reach the tallest trees of all
+My tail is hard and thick
+Strong enough to sit
+Brachiosaurus is my name
+I’m the strongest dinosaur
+
+Second comes in Spinosaurus
+
+My spine is my armour
+And I am number one
+I have webbed feet to swim
+And three strong toes to run
+I love to hunt fish
+They are my favourite dish
+Spinosaurus is my name 
+I’m the strongest Dinosaur
+
+Third comes in Triceratops
+
+Make way for me & my horns
+Big strong bony thorns
+They are sharp and dangerous
+So I look ferocious
+I also have a bony frill
+No T-Rex teeth can drill
+They call me Triceratops
+I’m the strongest Dinosaur
+
+Last comes in T-Rex
+
+The big great hunter
+The fierce & strong
+With razor sharp teeth
+I hunt alone
+I’m the king of dinosaurs
+The hunter of all
+I’m Tyrannosaurus Rex
+The strongest dinosaur…
+
+Strongest Dinosaur | Dinosaur For Kids | FunForKidsTV - Nursery Rhymes & Baby Songs:
+
+00:02  Strongest Dino
+03:02  I am T-rex 
+05:30  Brachiosaurus 
+07:27  T-rex peekaboo 
+09:09  Baby T-rex got a boo-boo
+12:11  Baby T-rex doo doo-doo
+14:14  Spinosaurus
+
+
+Subscribe: https://www.youtube.com/channel/UCT-vkVJZwqIK4HBdDRPgkgg?sub_confirmation=1
+
+Best Youtube kids videos playlist by Fun For KidsTV - Nursery Rhymes & Baby Songs:
+ 
+
+#thedinosaurssong #nurseryrhymes #babysongs #kidssongs #dynasore #dinosaur #dinosaurs #forkids #forkidsandchildren20:T843,Five little baby penguins love the snow and as soon as they get a chance, they run away to play in the snow. When mom called them, only four little penguins come back. Would you like to help mom find this missing baby penguin?? 
+
+00:06  Five Little Funny Penguin
+02:27  T. Rex Finger Family Song
+04:27  Royal Sharks & Mermaid
+06:18  Police Shark Do Do
+08:15  Baby T. Rex Doo Doo
+10:20  Animals - Tail Tail Tail Song
+12:29  Baby Shark Sing and Dance
+14:28  I am Tyrannosaurus Rex (Dinosaur)
+16:56  Baby Plane Zoom Zoom
+18:44  Baby Shark Do Do Superheroes
+20:30  ABC song
+22:59  Did You Ever See My Squirrel Tail?
+25:12  Five Baby Planes
+27:20  Baby Car Pom Pom Halloween
+29:20  Jingle Bells
+
+Subscribe: https://www.youtube.com/channel/UCT-vkVJZwqIK4HBdDRPgkgg?sub_confirmation=1
+
+Our other kids' nursery rhymes (playlist): 
+Baby TREX Doo Doo: https://youtu.be/-PEs4wc75tc
+Snowflakes (Little Snowflake): https://youtu.be/CpeiHwb9g6E
+Did You Ever See My Tail ?: https://youtu.be/UFmdlHhGBSE
+I am Red T-rex (Tyrannosaurus Rex Dinosaur):  https://youtu.be/PbVU0te_zV4
+Baby Plane Zoom Cartoon:   https://youtu.be/VcZt_kDBNtI
+Five Baby Sharks Went Out:  https://youtu.be/F1J6fs-WgnM
+Baby Shark Do Do Do: https://youtu.be/ezTG5c6WXc4
+Police Car Chase Thief: https://youtu.be/AhzyvxjlTlM 
+5 Little Penguins (Learn Numbers): https://youtu.be/Bkon2fcnOhU
+ABC Train Song (Learn Alphabets): https://youtu.be/1k5cFIUWxpU
+
+Nursery rhymes in English, canciones en inglés para niños, Comptines en anglais, Lagu-lagu anak berbahasa Inggeris, Musik Untuk Anak, barnvisorna på engelska, Músicas em inglês para crianças, Gyerekzene, Kinderlieder in Englisch, 英文兒歌, Písničky v angličtině, أناشيد أطفال باللغة الإنجليزية, अंग्रेजी में नर्सरी कविताएं, Barnerim på engelsk, Canzoni per bambini in inglese, Engelse kinderliedjes, Piosenki dla dzieci po angielsku, เพลงภาษาอังกฤษสำหรับเด็ก
+
+ #fivelittlepenguins #penguinsongs #littlepenguin
+
+Copyright © Source Animation, India. All Rights Reserved.21:Tc19,Penguins Attention | Baby Shark Halloween | T. Rex Car Compilation + Nursery Rhymes
+
+00:06  Penguins Attention
+02:08  5 Little Penguins 
+04:28  Penguins Superheroes 
+06:05  Five Little Penguins Jumping On The Bed 
+07:57  Baby Shark Halloween
+10:03  Baby Car Pom Pom
+11:58  Police Sharks
+13:54  Mermaid Royal Sharks
+15:45  T-rex Finger Family
+17:46  Baby Shark Learn Color
+20:03  Princess Song
+
+Subscribe: https://www.youtube.com/channel/UCT-vkVJZwqIK4HBdDRPgkgg?sub_confirmation=1
+
+Lyrics: 
+
+Left, Right, Left  
+Left, Right, Left  
+Penguins, attention! 
+Penguins, salute! 
+Did you ever see 
+penguins marching here?  
+When you look at us 
+some penguins you will see!  
+ 
+Penguins, attention! 
+Penguins, salute! 
+Left flipper  
+Have you ever seen  
+penguins marching here?  
+When you look at us 
+some penguins you will see!  
+ 
+Penguins, attention! 
+Penguins, salute! 
+Left flipper 
+Right flipper  
+Have you ever seen  
+penguins marching here?  
+When you look at us 
+some penguins you will see!  
+ 
+Penguins, attention! 
+Penguins, salute! 
+Left flipper 
+Right flipper  
+Left foot 
+Have you ever seen  
+penguins marching here?  
+When you look at us 
+some penguins you will see!  
+ 
+Penguins, attention! 
+Penguins, salute! 
+Left flipper  
+Right flipper  
+Left foot!  
+Right foot!  
+Have you ever seen  
+penguins marching here?  
+When you look at us 
+some penguins you will see!  
+ 
+Penguins, attention! 
+Penguins, salute! 
+Left flipper  
+Right flipper  
+Left foot!  
+Right foot!  
+Turn Around  
+Have you ever seen  
+penguins marching here?  
+When you look at us 
+some penguins you will see!  
+ 
+Penguins, attention! 
+Penguins, salute! 
+Left flipper  
+Right flipper  
+Left foot!  
+Right foot!  
+Turn Around  
+Wiggle your tail 
+Have you ever seen  
+penguins marching here?  
+Left, Right, Left  
+Left, Right, Left  
+
+
+
+Best Youtube kids videos playlist by Fun For KidsTV:
+ 
+Princesses Song: https://youtu.be/QOZ5HxORSKA
+Monkey Banana Dance: https://youtu.be/gy-igKFXKDw
+Police Sharks: https://youtu.be/TPxxdDFZKcA
+Five Little Penguins Jumping On The Bed: https://youtu.be/Yg1d-FVOB5Q
+Baby TREX Doo Doo : https://youtu.be/-PEs4wc75tc
+Baby Shark Sing & Dance Challenge : https://youtu.be/tm6tWqEiPuY 
+Baby Shark Doo Doo Faster :  https://youtu.be/xZBbM8VTcIQ
+Snowflakes (Little Snowflake) : https://youtu.be/CpeiHwb9g6E
+Mermaid & Royal Sharks : https://youtu.be/kjRFbPVAa-Y
+BabyShark Happy Halloween :  https://youtu.be/zIewuBHcpng
+Did You Ever See My Tail ?: https://youtu.be/UFmdlHhGBSE
+Baby Shark SuperHeroes :  https://youtu.be/8RbnsEUZrys
+Baby Car & Monster Trucks:  https://youtu.be/PANCg95nqV8
+I am Red T-rex (Tyrannosaurus Rex Dinosaur):  https://youtu.be/PbVU0te_zV4
+Baby Plane Zoom Cartoon:   https://youtu.be/VcZt_kDBNtI
+Five Baby Sharks Went Out:  https://youtu.be/F1J6fs-WgnM
+Baby Shark Do Do Do :  https://youtu.be/ezTG5c6WXc4
+Police Car Chase Thief : https://youtu.be/AhzyvxjlTlM 
+Five Little Penguins (Learn Numbers) : https://youtu.be/Bkon2fcnOhU
+ABC Train Song (Learn Alphabets): https://youtu.be/1k5cFIUWxpU
+
+#nurseryrhymes #babysongs #kidssongs #penguins #penguin #3d
+#penguinsattention22:Tc79,Learn Colors with Winter Penguins 🐧 | Fun For Kids TV Nursery Rhymes & Baby Songs
+
+Watch this fun penguin cartoon where cute penguins go sledding and skiing. Kids will practice counting numbers with our animated friends.
+
+This animated video is designed for young learners who enjoy winter activities for kids. We follow a group of penguins as they enjoy the snow, go ice fishing, and line up for a counting lesson. It provides a simple, visual way for children to recognize numbers while being entertained by the winter scenes.
+
+Beyond the ice, you will also see animated sharks swimming underwater. This penguin cartoon helps children connect numbers with counting objects in a playful environment. It is a perfect way to keep little ones engaged while they focus on basic number recognition.
+
+Subscribe for weekly learning videos and tell us in the comments if you want to see more winter animal adventures next.
+
+00:02  Learn Colors with Winter Penguins 
+02:17  Five Little Penguins
+04:52  Baby Shark Boo Boo
+
+
+Learn Colors with Winter Penguins 🐧 - Lyrics:
+
+Red, green, blue, pink, and yellow!
+Let's learn colours with the penguins
+Red penguin, red penguin, where are you?
+Here i am, here i am, how do you do?
+Red penguin, red penguin, what do you do?
+Slip and slide, slip and slide, here we go!
+
+Wheee! Your turn!
+
+Green penguin, green penguin, where are you?
+Here I am, here I am, how do you do?
+Green penguin, green penguin, what do you do?
+Catch a fish, catch a fish, one for you!
+
+Fresh fishes for everyone!
+
+Blue penguin, blue penguin, where are you?
+Here I am, here I am, how do you do?
+Blue penguin, blue penguin, what do you do?
+Build a fort, build a fort, out of snow!
+Our ice fort is strong!
+
+Pink penguin, pink penguin, where are you?
+Here I am, here I am, how do you do?
+Pink penguin, pink penguin, what do you do?
+Love to skate, love to skate, watch me do!!
+1, 2, 3, 4… and spin!
+
+Yellow penguin, yellow penguin, where are you?
+Here I am, here I am, how do you do?
+Yellow penguin, yellow penguin, what do you do?
+Waddle waddle, waddle waddle, one and two!
+1,2,3,4,5….Yayyyyy!
+
+
+
+Best Youtube kids videos playlist by Fun For KidsTV - Nursery Rhymes & Baby Songs:
+Nursery rhymes in English, canciones en inglés para niños, barnvisorna på engelska, Músicas em inglês para crianças, Gyerekzene, Kinderlieder in Englisch, 英文兒歌, Písničky v angličtině, أناشيد أطفال باللغة الإنجليزية, अंग्रेजी में नर्सरी कविताएं, Comptines en anglais, Lagu-lagu anak berbahasa Inggeris, Musik Untuk Anak, Barnerim på engelsk, Canzoni per bambini in inglese, Engelse kinderliedjes, Piosenki dla dzieci po angielsku, เพลงภาษาอังกฤษสำหรับเด็ก
+
+Facebook: https://www.facebook.com/fun4kids.tv/
+Instgram: https://www.instagram.com/funforkids_tv/
+Tiktok https://www.tiktok.com/@fun.for.kids.tv5?_r=1&_t=ZS-97t9Gv9BeK2
+Threads https://www.threads.com/@funforkids_tv
+Pinterest https://pin.it/5ylHgaZmX
+Twitch https://www.twitch.tv/funforkidst_tv
+Bluesky https://funforkidstv.bsky.social
+Website www.funforkids.tv
+
+#penguin #colors #counting #nerseryrhymes23:T47c,Penguins Songs For Kids: 
+
+00:02  Baby Penguin Got A Boo Boo Song
+02:27  Five little Penguins
+05:02  Penguins Attention
+07:03  Penguins Hide And Seek
+08:46  Row Row Row Your Boat
+
+Lyrics: 
+
+Ouch!
+Mommy, Mommy! Where are you?
+I’ve got a boo-boo. Boo-boo!
+I fell from the swing, it hurts!
+
+Aww sweetie, don’t worry!
+Mommy will help make it go away
+
+First, we’ll wash do-do-do-do do-do
+Then put a bandage do-do-do do-do
+Then a kiss do-do-do-do
+Bye-bye boo boo!
+
+Oooooh!! Ouch!
+Daddy, Daddy! Where are you?
+I’ve got a boo-boo. Boo-boo!
+I tripped on a stone, it hurts!
+
+Aww, honey, don’t worry!
+Daddy will help make it go away
+
+First, we’ll wash do-do-do-do do-do
+Then put a bandage do-do-do-do do-do
+Then a kiss do-do-do-do
+Bye-bye boo boo!
+
+Ouch!
+Mommy, Mommy! Where are you?
+I’ve got a boo-boo. Boo-boo!
+I bruised my leg, it hurts!
+
+Aww sweetie, don’t worry!
+Mommy will help make it go away
+
+First, we’ll wash do do-do-do do-do
+Then put a bandage do-do-do do-do-do
+Then a kiss do-do-do-do
+Bye-bye boo boo!
+
+
+Best Youtube kids videos playlist by Fun For KidsTV - Nursery Rhymes & Baby Songs
+ 
+
+#nurseryrhymes #babysongs #kidssongs2:["$","div",null,{"className":"max-w-[1280px] mx-auto w-full px-1 xs:px-2 sm:px-6 lg:px-8 py-4 sm:py-6 space-y-6 sm:space-y-8","children":[["$","$L10",null,{"video":{"id":"H0XtYA7JFAw","title":"Strongest Dinosaur | The Dinosaurs Song For Kids | FunForKidsTV - Nursery Rhymes & Baby Songs","description":"$11","channelTitle":"FunForKidsTV - Nursery Rhymes & Baby Songs","channelId":"UCT-vkVJZwqIK4HBdDRPgkgg","publishedAt":"2023-06-16T10:15:13Z","duration":"16:18","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/H0XtYA7JFAw/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/H0XtYA7JFAw/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/H0XtYA7JFAw/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/H0XtYA7JFAw/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/H0XtYA7JFAw/maxresdefault.jpg","width":1280,"height":720}}}}],["$","div",null,{"children":["$","$L12",null,{"href":"/","className":"inline-flex items-center gap-2 px-3.5 py-2 bg-white rounded-full text-slate-700 font-bold text-xs sm:text-sm border border-slate-200 hover:border-purple-300 hover:text-purple-700 hover:bg-purple-50 transition-all shadow-subtle active:scale-95 focus:outline-none focus:ring-2 focus:ring-purple-600","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-4 h-4","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"Back to Discover"}]]}]}],["$","section",null,{"className":"w-full max-w-full","children":["$","$L13",null,{"videoId":"H0XtYA7JFAw","title":"Strongest Dinosaur | The Dinosaurs Song For Kids | FunForKidsTV - Nursery Rhymes & Baby Songs"}]}],["$","section",null,{"className":"bg-white rounded-2xl sm:rounded-3xl p-4 xs:p-6 sm:p-8 border border-slate-200/80 shadow-subtle space-y-5 sm:space-y-6","children":[["$","h1",null,{"className":"text-xl sm:text-3xl lg:text-4xl font-black text-slate-900 leading-tight tracking-tight break-words","children":"Strongest Dinosaur | The Dinosaurs Song For Kids | FunForKidsTV - Nursery Rhymes & Baby Songs"}],["$","div",null,{"className":"flex flex-col md:flex-row md:items-center justify-between gap-4 border-b border-slate-100 pb-5 sm:pb-6","children":[["$","div",null,{"className":"space-y-2.5 sm:space-y-3","children":[["$","div",null,{"children":[["$","p",null,{"className":"text-base sm:text-lg font-black text-slate-900","children":"FunForKidsTV - Nursery Rhymes & Baby Songs"}],["$","p",null,{"className":"text-xs text-slate-500 font-semibold","children":"Kids songs & educational content"}]]}],["$","div",null,{"className":"flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"bg-purple-100 text-purple-900 text-xs font-black px-3 py-1 rounded-full","children":"Kids Pick"}],["$","span",null,{"className":"bg-amber-100 text-amber-950 text-xs font-black px-3 py-1 rounded-full","children":"Ages 2–6"}],["$","span",null,{"className":"bg-slate-100 text-slate-700 text-xs font-bold px-3 py-1 rounded-full flex items-center gap-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-clock w-3.5 h-3.5 text-amber-500","children":[["$","circle","1mglay",{"cx":"12","cy":"12","r":"10"}],["$","polyline","68esgv",{"points":"12 6 12 12 16 14"}],"$undefined"]}],["$","span",null,{"children":"16:18"}]]}]]}]]}],["$","div",null,{"className":"shrink-0","children":["$","$L14",null,{"video":"$15"}]}]]}],["$","div",null,{"className":"space-y-3","children":[["$","div",null,{"className":"flex items-center gap-1.5 text-purple-900 font-bold text-xs uppercase tracking-wider","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles w-3.5 h-3.5 text-amber-500","children":[["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}],["$","path","1olli1",{"d":"M20 3v4"}],["$","path","1gvqau",{"d":"M22 5h-4"}],["$","path","vumght",{"d":"M4 17v2"}],["$","path","zchphs",{"d":"M5 18H3"}],"$undefined"]}],["$","span",null,{"children":"About this video"}]]}],["$","p",null,{"className":"text-slate-700 font-medium text-xs sm:text-sm leading-relaxed whitespace-pre-line bg-slate-50 p-3.5 sm:p-4 rounded-xl border border-slate-100","children":"$1d"}],["$","div",null,{"className":"flex items-center gap-2 text-xs font-semibold text-slate-500 pt-1","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-shield-check w-4 h-4 text-emerald-600 shrink-0","children":[["$","path","oel41y",{"d":"M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"}],["$","path","dzmm74",{"d":"m9 12 2 2 4-4"}],"$undefined"]}],["$","span",null,{"children":"Embedded directly via official YouTube no-cookie player (COPPA Safe)."}]]}]]}]]}],["$","section",null,{"aria-label":"Advertisement","children":["$","$L1e",null,{"placement":"watch","context":"kids","ageTreatment":"child"}]}],["$","section",null,{"className":"space-y-4 sm:space-y-6","children":[["$","div",null,{"className":"flex items-center justify-between","children":["$","h2",null,{"className":"text-lg sm:text-2xl font-black text-slate-900 tracking-tight flex items-center gap-2","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-sparkles w-5 h-5 sm:w-6 sm:h-6 text-purple-600","children":[["$","path","4pj2yx",{"d":"M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z"}],["$","path","1olli1",{"d":"M20 3v4"}],["$","path","1gvqau",{"d":"M22 5h-4"}],["$","path","vumght",{"d":"M4 17v2"}],["$","path","zchphs",{"d":"M5 18H3"}],"$undefined"]}],["$","span",null,{"children":"More Like This"}]]}]}],["$","div",null,{"className":"grid grid-cols-1 xs:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3.5 sm:gap-6","children":[["$","$L1f","7lsrm-kAmfY",{"video":{"id":"7lsrm-kAmfY","title":"Five Little Penguins Song + More Funny Cute 3D Baby Penguin Songs by FunForKidsTV","description":"$20","channelTitle":"FunForKidsTV - Nursery Rhymes & Baby Songs","channelId":"UCT-vkVJZwqIK4HBdDRPgkgg","publishedAt":"2018-06-22T07:48:59Z","duration":"10:34","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/7lsrm-kAmfY/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/7lsrm-kAmfY/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/7lsrm-kAmfY/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/7lsrm-kAmfY/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/7lsrm-kAmfY/maxresdefault.jpg","width":1280,"height":720}}}}],["$","$L1f","KDJU6P-OBcw",{"video":{"id":"KDJU6P-OBcw","title":"Penguins Attention | Baby Shark Halloween | T. Rex Car Compilation + Nursery Rhymes","description":"$21","channelTitle":"FunForKidsTV - Nursery Rhymes & Baby Songs","channelId":"UCT-vkVJZwqIK4HBdDRPgkgg","publishedAt":"2018-10-13T00:27:51Z","duration":"17:54","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/KDJU6P-OBcw/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/KDJU6P-OBcw/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/KDJU6P-OBcw/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/KDJU6P-OBcw/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/KDJU6P-OBcw/maxresdefault.jpg","width":1280,"height":720}}}}],["$","$L1f","VWJ6aaCMWqA",{"video":{"id":"VWJ6aaCMWqA","title":"I Am Triceratops | The Dinosaurs Song For Kids | FunForKidsTV Nursery Rhymes & Baby Songs","description":"Lyrics: \n\n\nI am Triceratops\nThe three horned dinosaur\n1…. 2…. 3…  \n\nThe bony frill on my neck\nHelps to save me from T-Rex\nI have 800 teeth\nAnd a bird like beak\n\nI am Triceratops\nThe three horned dinosaur\nMy legs are small & stout\nBut strong without a doubt\n\nI am Triceratops\nThe three horned dinosaur\nI love plants and shrubs and grass\nI’m a herbivore first class\n\nI am Triceratops\nThe three horned dinosaur\nI may run little slow\nBut I can killl with one blow\n\nI am triceratops\nThe three horned dinosaur\n\n\n00:02   I am triceratops\n01:52   Strongest Dino\n04:52   I am T-Rex\n07:20   Brachiosaurus\n09:17   T-Rex Peekaboo\n10:59   T-Rex Got a boo boo\n14:01   T-Rex doo doo\n16:04   Spinosaurus\n\nSubscribe: https://www.youtube.com/channel/UCT-vkVJZwqIK4HBdDRPgkgg?sub_confirmation=1\r\n\r\nBest Youtube kids videos playlist by Fun For KidsTV - Nursery Rhymes & Baby Songs:\r\n \r\n#triceratops #thedinosaurssong #nurseryrhymes #babysongs #kidssongs #dynasore #dinosaur #dinosaurs #forkids #forkidsandchildren","channelTitle":"FunForKidsTV - Nursery Rhymes & Baby Songs","channelId":"UCT-vkVJZwqIK4HBdDRPgkgg","publishedAt":"2023-10-24T10:00:11Z","duration":"18:07","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/VWJ6aaCMWqA/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/VWJ6aaCMWqA/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/VWJ6aaCMWqA/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/VWJ6aaCMWqA/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/VWJ6aaCMWqA/maxresdefault.jpg","width":1280,"height":720}}}}],["$","$L1f","WkbfeCays4w",{"video":{"id":"WkbfeCays4w","title":"Baby Shark Sing and Dance Song Compilation | FunForKidsTV Nursery Rhymes","description":"Mermaid is curious to know about the Royal Family and she finally visits the palace to meet the Royal Sharks. All the family members are happy to meet Mermaid... and they give her a warm welcome. They all sing and dance together and have loads of fun. \n\nHope you will enjoy this baby shark doo do songs compilation by FunForKidsTV - Nursery Rhymes \n\n\n#singanddance #royalsharks #babyshark\n\n\nCopyright © Source Animation, India. All Rights Reserved.","channelTitle":"FunForKidsTV - Nursery Rhymes & Baby Songs","channelId":"UCT-vkVJZwqIK4HBdDRPgkgg","publishedAt":"2018-03-26T12:51:17Z","duration":"10:55","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/WkbfeCays4w/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/WkbfeCays4w/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/WkbfeCays4w/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/WkbfeCays4w/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/WkbfeCays4w/maxresdefault.jpg","width":1280,"height":720}}}}],["$","$L1f","grefzKN9LJQ",{"video":{"id":"grefzKN9LJQ","title":"Learn Colors with Winter Penguins 🐧 | Fun For Kids TV Nursery Rhymes & Baby Songs","description":"$22","channelTitle":"FunForKidsTV - Nursery Rhymes & Baby Songs","channelId":"UCT-vkVJZwqIK4HBdDRPgkgg","publishedAt":"2026-07-29T12:30:28Z","duration":"7:20","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/grefzKN9LJQ/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/grefzKN9LJQ/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/grefzKN9LJQ/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/grefzKN9LJQ/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/grefzKN9LJQ/maxresdefault.jpg","width":1280,"height":720},"fhd":{"url":"https://i.ytimg.com/vi/grefzKN9LJQ/fhddefault.jpg","width":1920,"height":1080}}}}],["$","$L1f","AL8tdhFy_2s",{"video":{"id":"AL8tdhFy_2s","title":"Dinosaur Songs | Brachiosaurus | Tyrannosaurus (T-Rex)  by FunForKidsTV Nursery Rhymes","description":"Dinosaur Songs | Tyrannosaurus Rex | Brachiosaurus + FunForKidsTV Nursery Rhymes\n\nSubscribe: https://www.youtube.com/channel/UCT-vkVJZwqIK4HBdDRPgkgg?sub_confirmation=1\n\n00:06   Brachiosaurus Song \n02:03   I am T-Rex (tyrannosaurus rex)\n04:31   Penguins Attention \n06:33   Baby Shark Halloween \n08:39   Monkey Banana \n10:30   Shark Police \n12:27   We Are Princess \n14:12   Five Little Baby plane\n16:14   Tail Tail \n18:24   Baby Shark Dance\n\n\n#nurseryrhymes #brachiosaurus #tyrannosaurus #babysongs #kidssongs #babyshark #t-rex","channelTitle":"FunForKidsTV - Nursery Rhymes & Baby Songs","channelId":"UCT-vkVJZwqIK4HBdDRPgkgg","publishedAt":"2018-11-02T01:13:34Z","duration":"16:28","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/AL8tdhFy_2s/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/AL8tdhFy_2s/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/AL8tdhFy_2s/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/AL8tdhFy_2s/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/AL8tdhFy_2s/maxresdefault.jpg","width":1280,"height":720}}}}],["$","$L1f","woBGb3zKTDA",{"video":{"id":"woBGb3zKTDA","title":"Baby Penguin Got A Boo Boo Song | Penguins Songs For Kids | FunForKidsTV Nursery Rhymes","description":"$23","channelTitle":"FunForKidsTV - Nursery Rhymes & Baby Songs","channelId":"UCT-vkVJZwqIK4HBdDRPgkgg","publishedAt":"2025-10-28T13:33:47Z","duration":"10:58","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/woBGb3zKTDA/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/woBGb3zKTDA/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/woBGb3zKTDA/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/woBGb3zKTDA/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/woBGb3zKTDA/maxresdefault.jpg","width":1280,"height":720}}}}]]}]]}]]}]
