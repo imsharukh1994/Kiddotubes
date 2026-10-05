@@ -1,6 +1,7 @@
 package com.kiddotube.app.billing
 
 import android.util.Log
+import com.getcapacitor.JSArray
 import com.getcapacitor.JSObject
 import com.getcapacitor.Plugin
 import com.getcapacitor.PluginCall
@@ -41,6 +42,29 @@ class BillingPlugin : Plugin() {
     }
 
     @PluginMethod
+    fun getProducts(call: PluginCall) {
+        billingManager.startConnection {
+            billingManager.querySubscriptionProducts { products ->
+                val productArray = JSArray()
+                for (p in products) {
+                    val item = JSObject()
+                    item.put("productId", p.productId)
+                    item.put("basePlanId", p.basePlanId)
+                    item.put("formattedPrice", p.formattedPrice)
+                    item.put("title", p.title)
+                    item.put("description", p.description)
+                    item.put("billingPeriod", p.billingPeriod)
+                    item.put("offerToken", p.offerToken)
+                    productArray.put(item)
+                }
+                val ret = JSObject()
+                ret.put("products", productArray)
+                call.resolve(ret)
+            }
+        }
+    }
+
+    @PluginMethod
     fun launchPurchase(call: PluginCall) {
         val activity = activity
         if (activity == null) {
@@ -48,7 +72,7 @@ class BillingPlugin : Plugin() {
             return
         }
 
-        val basePlanId = call.getString("basePlanId") ?: "monthly"
+        val basePlanId = call.getString("basePlanId") ?: BillingConfig.BASE_PLAN_MONTHLY
 
         billingManager.startConnection {
             billingManager.querySubscriptionProducts { products ->
@@ -56,7 +80,7 @@ class BillingPlugin : Plugin() {
                     it.basePlanId.equals(basePlanId, ignoreCase = true) 
                 } ?: products.find { 
                     (it.basePlanId.contains("monthly", ignoreCase = true) && basePlanId.contains("monthly", ignoreCase = true)) ||
-                    (it.basePlanId.contains("year", ignoreCase = true) && basePlanId.contains("year", ignoreCase = true))
+                    (it.basePlanId.contains("yearly", ignoreCase = true) && basePlanId.contains("yearly", ignoreCase = true))
                 } ?: products.firstOrNull { 
                     it.productId == BillingConfig.PRODUCT_ID_PREMIUM 
                 }
@@ -71,7 +95,7 @@ class BillingPlugin : Plugin() {
                     call.resolve(ret)
                 } else {
                     Log.w("BillingPlugin", "No matching product found on Google Play Console for basePlanId: $basePlanId. Total products found: ${products.size}")
-                    call.reject("Subscription product 'kiddotube_premium' is not yet active on Google Play Console for this app release.")
+                    call.reject("Subscription product 'kiddotube_premium' ($basePlanId) is not yet active on Google Play Console for this app release.")
                 }
             }
         }

@@ -7,8 +7,8 @@ import com.android.billingclient.api.ProductDetails
  */
 object BillingConfig {
     const val PRODUCT_ID_PREMIUM = "kiddotube_premium"
-    const val BASE_PLAN_MONTHLY = "monthly"
-    const val BASE_PLAN_YEARLY = "yearly" // Configured for seamless future expansion
+    const val BASE_PLAN_MONTHLY = "monthly-premium"
+    const val BASE_PLAN_YEARLY = "yearly-premium"
 }
 
 /**

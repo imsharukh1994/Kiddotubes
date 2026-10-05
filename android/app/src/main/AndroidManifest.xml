@@ -13,7 +13,7 @@
         android:label="KiddoTube"
         android:supportsRtl="true"
         android:theme="@style/Theme.KiddoTube"
-        android:usesCleartextTraffic="true"
+        android:usesCleartextTraffic="false"
         tools:targetApi="31">
 
         <activity

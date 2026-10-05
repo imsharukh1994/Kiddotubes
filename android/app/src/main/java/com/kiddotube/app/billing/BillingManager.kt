@@ -157,7 +157,7 @@ class BillingManager private constructor(context: Context) : PurchasesUpdatedLis
                             SubscriptionProduct(
                                 productId = productDetails.productId,
                                 basePlanId = BillingConfig.BASE_PLAN_MONTHLY,
-                                formattedPrice = "$4.99/month",
+                                formattedPrice = "",
                                 title = productDetails.title,
                                 description = productDetails.description,
                                 billingPeriod = "P1M",
@@ -169,7 +169,7 @@ class BillingManager private constructor(context: Context) : PurchasesUpdatedLis
                         for (offer in offerDetailsList) {
                             val basePlanId = offer.basePlanId
                             val pricingPhase = offer.pricingPhases.pricingPhaseList.firstOrNull()
-                            val formattedPrice = pricingPhase?.formattedPrice ?: "$4.99/month"
+                            val formattedPrice = pricingPhase?.formattedPrice ?: ""
 
                             parsedProducts.add(
                                 SubscriptionProduct(

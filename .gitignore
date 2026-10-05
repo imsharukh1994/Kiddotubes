@@ -39,3 +39,6 @@ android/captures
 android/.externalNativeBuild
 android/.cxx
 android/local.properties
+android/release-key.jks
+*.jks
+*.keystore

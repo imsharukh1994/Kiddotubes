@@ -22,10 +22,11 @@ android {
 
     signingConfigs {
         release {
-            storeFile file('release-key.jks')
-            storePassword 'kiddotube123'
-            keyAlias 'kiddotube-key-alias'
-            keyPassword 'kiddotube123'
+            def storeFilePath = project.findProperty('RELEASE_STORE_FILE') ?: System.getenv('RELEASE_STORE_FILE') ?: 'release-key.jks'
+            storeFile file(storeFilePath)
+            storePassword project.findProperty('RELEASE_STORE_PASSWORD') ?: System.getenv('RELEASE_STORE_PASSWORD') ?: ''
+            keyAlias project.findProperty('RELEASE_KEY_ALIAS') ?: System.getenv('RELEASE_KEY_ALIAS') ?: ''
+            keyPassword project.findProperty('RELEASE_KEY_PASSWORD') ?: System.getenv('RELEASE_KEY_PASSWORD') ?: ''
         }
     }
 

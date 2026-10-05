@@ -37,6 +37,7 @@ interface AuthContextType {
   logout: () => void;
   demoLogin: () => void;
   updateUserPin: (newPin: string) => void;
+  deleteAccount: () => void;
 }
 
 const AuthContext = createContext<AuthContextType | undefined>(undefined);
@@ -166,6 +167,14 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     localStorage.removeItem(CURRENT_USER_KEY);
   };
 
+  const deleteAccount = () => {
+    if (!user) return;
+    const usersDB = getUsersDB();
+    const updatedDB = usersDB.filter((u) => u.id !== user.id);
+    localStorage.setItem(USERS_STORAGE_KEY, JSON.stringify(updatedDB));
+    logout();
+  };
+
   const demoLogin = () => {
     const usersDB = getUsersDB();
     const demoAccount = usersDB[0] || DEFAULT_DEMO_USERS[0];
@@ -206,6 +215,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
         logout,
         demoLogin,
         updateUserPin,
+        deleteAccount,
       }}
     >
       {children}

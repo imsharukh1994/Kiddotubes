@@ -3,13 +3,16 @@
 import React, { useState } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
+import { useRouter } from 'next/navigation';
 import { useAuth } from '@/context/AuthContext';
-import { ArrowLeft, User, ShieldCheck, Heart, History, KeyRound, LogOut, Check } from 'lucide-react';
+import { ArrowLeft, ShieldCheck, Heart, History, KeyRound, LogOut, Check, Trash2, AlertTriangle } from 'lucide-react';
 
 export default function ProfilePage() {
-  const { user, isAuthenticated, logout, updateUserPin } = useAuth();
+  const router = useRouter();
+  const { user, isAuthenticated, logout, updateUserPin, deleteAccount } = useAuth();
   const [newPin, setNewPin] = useState(user?.pin || '1234');
   const [pinSaved, setPinSaved] = useState(false);
+  const [showDeleteConfirm, setShowDeleteConfirm] = useState(false);
 
   if (!isAuthenticated || !user) {
     return (
@@ -35,6 +38,12 @@ export default function ProfilePage() {
       setPinSaved(true);
       setTimeout(() => setPinSaved(false), 2500);
     }
+  };
+
+  const handleConfirmDelete = () => {
+    deleteAccount();
+    setShowDeleteConfirm(false);
+    router.push('/');
   };
 
   return (
@@ -162,6 +171,65 @@ export default function ProfilePage() {
           </button>
         </form>
       </section>
+
+      {/* Account Deletion Section (P0 Play Store Requirement) */}
+      <section className="bg-rose-50/70 rounded-3xl p-6 sm:p-8 border border-rose-200 shadow-subtle space-y-4">
+        <div className="flex items-center gap-2 text-rose-900">
+          <Trash2 className="w-5 h-5 text-rose-600" />
+          <h2 className="text-lg font-black tracking-tight">Delete User Account</h2>
+        </div>
+        <p className="text-xs text-rose-800 font-medium leading-relaxed">
+          In compliance with Google Play Privacy guidelines, you can permanently delete your user profile and local account data from this device at any time.
+        </p>
+
+        <div className="pt-2">
+          <button
+            type="button"
+            onClick={() => setShowDeleteConfirm(true)}
+            className="px-4 py-2.5 bg-rose-600 hover:bg-rose-700 text-white font-bold text-xs rounded-xl shadow-sm transition-all flex items-center gap-2"
+          >
+            <Trash2 className="w-4 h-4" />
+            <span>Delete Account Profile</span>
+          </button>
+        </div>
+      </section>
+
+      {/* Delete Confirmation Warning Modal */}
+      {showDeleteConfirm && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-950/70 backdrop-blur-sm animate-fadeIn">
+          <div className="bg-white rounded-3xl max-w-md w-full p-6 sm:p-8 space-y-5 border border-rose-200 shadow-2xl text-center">
+            <div className="w-14 h-14 rounded-2xl bg-rose-100 text-rose-600 flex items-center justify-center mx-auto">
+              <AlertTriangle className="w-8 h-8" />
+            </div>
+
+            <div className="space-y-2">
+              <h3 className="text-xl font-black text-slate-900">Permanently Delete Account?</h3>
+              <p className="text-xs font-semibold text-slate-600 leading-relaxed">
+                This will delete your user profile (<strong className="text-slate-900">{user.email}</strong>) and erase your saved preferences. This action cannot be undone.
+              </p>
+            </div>
+
+            <div className="flex items-center gap-3 pt-2">
+              <button
+                type="button"
+                onClick={() => setShowDeleteConfirm(false)}
+                className="flex-1 py-2.5 bg-slate-100 hover:bg-slate-200 text-slate-700 font-bold text-xs rounded-xl transition-colors"
+              >
+                Cancel
+              </button>
+
+              <button
+                type="button"
+                onClick={handleConfirmDelete}
+                className="flex-1 py-2.5 bg-rose-600 hover:bg-rose-700 text-white font-black text-xs rounded-xl shadow transition-colors flex items-center justify-center gap-1.5"
+              >
+                <Trash2 className="w-4 h-4" />
+                <span>Confirm Delete</span>
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   );
 }

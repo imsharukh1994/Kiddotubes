@@ -1,9 +1,18 @@
 'use client';
 
 import React, { useState, useEffect } from 'react';
-import Image from 'next/image';
 import { useAuth } from '@/context/AuthContext';
-import { X, Crown, Check, Sparkles, ShieldCheck, Zap, Heart, Star, Loader2 } from 'lucide-react';
+import { X, Crown, Check, Sparkles, ShieldCheck, Loader2 } from 'lucide-react';
+
+interface SubscriptionProduct {
+  productId: string;
+  basePlanId: string;
+  formattedPrice: string;
+  title: string;
+  description: string;
+  billingPeriod: string;
+  offerToken: string;
+}
 
 export default function PremiumUpgradeModal() {
   const { premiumModalOpen, closePremiumModal, activatePremium, user } = useAuth();
@@ -11,6 +20,8 @@ export default function PremiumUpgradeModal() {
   const [isSuccess, setIsSuccess] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
   const [errorMessage, setErrorMessage] = useState<string | null>(null);
+  const [products, setProducts] = useState<SubscriptionProduct[]>([]);
+  const [fetchingProducts, setFetchingProducts] = useState(false);
 
   useEffect(() => {
     if (typeof window === 'undefined') return;
@@ -32,59 +43,75 @@ export default function PremiumUpgradeModal() {
       console.warn('Could not register BillingPlugin listener:', e);
     }
 
+    // Fetch dynamic products from Google Play
+    if (premiumModalOpen) {
+      setFetchingProducts(true);
+      capacitorPlugin
+        .getProducts()
+        .then((res: { products?: SubscriptionProduct[] }) => {
+          if (res && res.products) {
+            setProducts(res.products);
+          }
+        })
+        .catch((err: any) => {
+          console.warn('Could not fetch Google Play products:', err);
+        })
+        .finally(() => {
+          setFetchingProducts(false);
+        });
+    }
+
     return () => {
       if (listener && typeof listener.remove === 'function') {
         listener.remove();
       }
     };
-  }, [activatePremium]);
+  }, [activatePremium, premiumModalOpen]);
 
   if (!premiumModalOpen) return null;
+
+  const monthlyProduct = products.find((p) => p.basePlanId === 'monthly-premium');
+  const yearlyProduct = products.find((p) => p.basePlanId === 'yearly-premium');
+
+  const selectedProduct = billingCycle === 'annual' ? yearlyProduct : monthlyProduct;
+  const displayPrice = selectedProduct?.formattedPrice
+    ? selectedProduct.formattedPrice
+    : fetchingProducts
+    ? 'Loading price...'
+    : 'Google Play Pricing';
 
   const handleSubscribe = async () => {
     setErrorMessage(null);
     setIsLoading(true);
-    const capacitorPlugin = (typeof window !== 'undefined' && (window as any).Capacitor?.Plugins?.BillingPlugin);
+    const capacitorPlugin = typeof window !== 'undefined' && (window as any).Capacitor?.Plugins?.BillingPlugin;
 
     if (capacitorPlugin) {
       try {
-        const res = await capacitorPlugin.launchPurchase({ 
-          basePlanId: billingCycle === 'annual' ? 'yearly' : 'monthly' 
+        const targetBasePlanId = billingCycle === 'annual' ? 'yearly-premium' : 'monthly-premium';
+        const res = await capacitorPlugin.launchPurchase({
+          basePlanId: targetBasePlanId,
         });
         console.log('Google Play Billing flow launched:', res);
-        // Billing sheet opened on device; Purchase result will trigger subscriptionStatusChanged listener
       } catch (err: any) {
         console.error('Google Play Billing Error:', err);
         setErrorMessage(
-          err?.message || 
-          "Google Play Store product 'kiddotube_premium' is not yet published in Google Play Console."
+          err?.message ||
+            "Subscription product 'kiddotube_premium' is being processed by Google Play."
         );
       } finally {
         setIsLoading(false);
       }
     } else {
-      // Web fallback
       setIsLoading(false);
-      setIsSuccess(true);
-      setTimeout(() => {
-        activatePremium();
-        setIsSuccess(false);
-      }, 1800);
+      setErrorMessage(
+        'Google Play Billing is available when running on an Android device with Google Play Store installed.'
+      );
     }
-  };
-
-  const handleBypassTestActivation = () => {
-    setIsSuccess(true);
-    setTimeout(() => {
-      activatePremium();
-      setIsSuccess(false);
-    }, 1500);
   };
 
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center p-4 sm:p-6 overflow-y-auto bg-slate-950/70 backdrop-blur-md animate-fadeIn">
       <div className="relative w-full max-w-lg bg-white rounded-3xl shadow-2xl border border-purple-200 overflow-hidden my-auto">
-        
         {/* Close Button */}
         <button
           onClick={closePremiumModal}
@@ -96,7 +123,6 @@ export default function PremiumUpgradeModal() {
 
         {/* Top Header Banner */}
         <div className="relative bg-gradient-to-br from-purple-800 via-purple-900 to-indigo-950 p-6 sm:p-8 text-white text-center space-y-3 overflow-hidden">
-          {/* Background Decorative Glow */}
           <div className="absolute top-0 right-0 w-64 h-64 bg-amber-400/20 rounded-full blur-3xl pointer-events-none" />
 
           <div className="w-14 h-14 rounded-2xl bg-gradient-to-tr from-amber-400 to-amber-200 text-purple-950 flex items-center justify-center mx-auto shadow-xl transform rotate-3">
@@ -125,13 +151,12 @@ export default function PremiumUpgradeModal() {
             </div>
             <h3 className="text-2xl font-black text-slate-900">Welcome to KiddoTube Premium!</h3>
             <p className="text-xs font-semibold text-slate-600 max-w-xs mx-auto">
-              Your 7-Day Free Trial is now active. Enjoy 100% ad-free video discovery & AI 3D avatars!
+              Your subscription is now active through Google Play. Enjoy 100% ad-free video discovery & AI 3D avatars!
             </p>
           </div>
         ) : (
           /* Main Subscription Form */
           <div className="p-6 sm:p-8 space-y-6">
-            
             {/* Billing Cycle Selector */}
             <div className="flex bg-purple-50 p-1.5 rounded-2xl border border-purple-100">
               <button
@@ -143,9 +168,12 @@ export default function PremiumUpgradeModal() {
                     : 'text-purple-900 hover:text-purple-950'
                 }`}
               >
-                <span>Annual Pass ($2.49/mo)</span>
+                <span>Annual Pass</span>
+                {yearlyProduct?.formattedPrice ? (
+                  <span className="text-[10px] font-extrabold opacity-90">({yearlyProduct.formattedPrice})</span>
+                ) : null}
                 <span className="px-2 py-0.5 bg-amber-400 text-slate-950 text-[10px] font-black rounded-full uppercase">
-                  Save 50%
+                  Best Value
                 </span>
               </button>
 
@@ -158,7 +186,10 @@ export default function PremiumUpgradeModal() {
                     : 'text-purple-900 hover:text-purple-950'
                 }`}
               >
-                Monthly ($4.99/mo)
+                <span>Monthly Pass</span>
+                {monthlyProduct?.formattedPrice ? (
+                  <span className="text-[10px] font-extrabold opacity-90"> ({monthlyProduct.formattedPrice})</span>
+                ) : null}
               </button>
             </div>
 
@@ -170,7 +201,7 @@ export default function PremiumUpgradeModal() {
                 '⏱️ Advanced Screen Time & Bedtime Routines',
                 '👦 Unlimited Multi-Kid Profiles',
                 '🎨 Printable PDF Activity & Coloring Workbooks',
-                '🛡️ Strict Parent Channel Whitelisting',
+                '📥 Offline Video Downloads — Coming Soon',
               ].map((perk, idx) => (
                 <div key={idx} className="flex items-center gap-2.5 text-xs font-bold text-slate-800">
                   <div className="w-5 h-5 rounded-full bg-emerald-100 text-emerald-600 flex items-center justify-center shrink-0">
@@ -181,23 +212,16 @@ export default function PremiumUpgradeModal() {
               ))}
             </div>
 
-            {/* Error Banner & Testing Fallback */}
+            {/* Error Banner */}
             {errorMessage && (
-              <div className="p-4 bg-amber-50 border border-amber-200 rounded-2xl text-amber-900 text-xs font-medium space-y-2">
+              <div className="p-4 bg-amber-50 border border-amber-200 rounded-2xl text-amber-900 text-xs font-medium space-y-1">
                 <div className="flex items-start gap-2">
                   <span className="text-base">⚠️</span>
                   <div>
-                    <span className="font-bold text-amber-950">Google Play Billing Notice:</span>
+                    <span className="font-bold text-amber-950">Google Play Billing:</span>
                     <p className="mt-0.5">{errorMessage}</p>
                   </div>
                 </div>
-                <button
-                  type="button"
-                  onClick={handleBypassTestActivation}
-                  className="w-full mt-2 py-2 bg-amber-200 hover:bg-amber-300 text-amber-950 font-bold text-xs rounded-xl transition-colors border border-amber-300"
-                >
-                  ⚡ Activate Premium (Local Test Mode)
-                </button>
               </div>
             )}
 
@@ -217,7 +241,11 @@ export default function PremiumUpgradeModal() {
                 ) : (
                   <>
                     <Crown className="w-5 h-5 fill-current text-slate-950" />
-                    <span>Start 7-Day Free Trial (${billingCycle === 'annual' ? '29.99/yr' : '4.99/mo'})</span>
+                    <span>
+                      {user?.isPremium
+                        ? 'Active Premium Member'
+                        : `Subscribe via Google Play ${displayPrice ? `(${displayPrice})` : ''}`}
+                    </span>
                   </>
                 )}
               </button>
@@ -225,13 +253,12 @@ export default function PremiumUpgradeModal() {
               <div className="flex items-center justify-center gap-3 text-[11px] font-semibold text-slate-400">
                 <span className="flex items-center gap-1">
                   <ShieldCheck className="w-3.5 h-3.5 text-emerald-600" />
-                  Cancel Anytime
+                  Official Google Play Store Billing
                 </span>
                 <span>•</span>
-                <span>No Credit Card Charged Today</span>
+                <span>Cancel Anytime</span>
               </div>
             </div>
-
           </div>
         )}
       </div>
