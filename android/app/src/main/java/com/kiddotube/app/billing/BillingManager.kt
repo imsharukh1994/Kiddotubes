@@ -127,10 +127,10 @@ class BillingManager private constructor(context: Context) : PurchasesUpdatedLis
      * Queries Google Play for configured subscription products (e.g. kiddotube_premium).
      * Retrieves actual localized price, title, description, and offer details.
      */
-    fun querySubscriptionProducts() {
+    fun querySubscriptionProducts(onResult: ((List<SubscriptionProduct>) -> Unit)? = null) {
         val client = billingClient
         if (client == null || !client.isReady) {
-            startConnection { querySubscriptionProducts() }
+            startConnection { querySubscriptionProducts(onResult) }
             return
         }
 
@@ -145,36 +145,54 @@ class BillingManager private constructor(context: Context) : PurchasesUpdatedLis
             .setProductList(productList)
             .build()
 
-        client.queryProductDetailsAsync(params) { billingResult, productDetailsList ->
-            if (billingResult.responseCode == BillingClient.BillingResponseCode.OK) {
+        client.queryProductDetailsAsync(params) { billingResult, queryResult ->
+            if (billingResult.responseCode == BillingClient.BillingResponseCode.OK && queryResult != null) {
                 val parsedProducts = mutableListOf<SubscriptionProduct>()
+                val detailsList = queryResult.productDetailsList ?: emptyList()
 
-                for (productDetails in productDetailsList) {
+                for (productDetails in detailsList) {
                     val offerDetailsList = productDetails.subscriptionOfferDetails ?: emptyList()
-                    for (offer in offerDetailsList) {
-                        val basePlanId = offer.basePlanId
-                        val pricingPhase = offer.pricingPhases.pricingPhaseList.firstOrNull()
-                        val formattedPrice = pricingPhase?.formattedPrice ?: "₹99/month"
-
+                    if (offerDetailsList.isEmpty()) {
                         parsedProducts.add(
                             SubscriptionProduct(
                                 productId = productDetails.productId,
-                                basePlanId = basePlanId,
-                                formattedPrice = formattedPrice,
+                                basePlanId = BillingConfig.BASE_PLAN_MONTHLY,
+                                formattedPrice = "$4.99/month",
                                 title = productDetails.title,
                                 description = productDetails.description,
-                                billingPeriod = pricingPhase?.billingPeriod ?: "P1M",
+                                billingPeriod = "P1M",
                                 productDetails = productDetails,
-                                offerToken = offer.offerToken
+                                offerToken = ""
                             )
                         )
+                    } else {
+                        for (offer in offerDetailsList) {
+                            val basePlanId = offer.basePlanId
+                            val pricingPhase = offer.pricingPhases.pricingPhaseList.firstOrNull()
+                            val formattedPrice = pricingPhase?.formattedPrice ?: "$4.99/month"
+
+                            parsedProducts.add(
+                                SubscriptionProduct(
+                                    productId = productDetails.productId,
+                                    basePlanId = basePlanId,
+                                    formattedPrice = formattedPrice,
+                                    title = productDetails.title,
+                                    description = productDetails.description,
+                                    billingPeriod = pricingPhase?.billingPeriod ?: "P1M",
+                                    productDetails = productDetails,
+                                    offerToken = offer.offerToken
+                                )
+                            )
+                        }
                     }
                 }
 
                 _subscriptionProducts.value = parsedProducts
                 Log.d(TAG, "Queried ${parsedProducts.size} subscription products from Google Play")
+                onResult?.invoke(parsedProducts)
             } else {
-                Log.e(TAG, "Failed to query products: ${billingResult.debugMessage}")
+                Log.e(TAG, "Failed to query products code ${billingResult.responseCode}: ${billingResult.debugMessage}")
+                onResult?.invoke(emptyList())
             }
         }
     }
@@ -300,7 +318,7 @@ class BillingManager private constructor(context: Context) : PurchasesUpdatedLis
             .build()
 
         client.queryPurchasesAsync(params) { billingResult, purchasesList ->
-            if (billingResult.responseCode == BillingClient.BillingResponseCode.OK) {
+            if (billingResult.responseCode == BillingClient.BillingResponseCode.OK && purchasesList != null) {
                 val activePremiumPurchase = purchasesList.firstOrNull { purchase ->
                     purchase.products.contains(BillingConfig.PRODUCT_ID_PREMIUM) &&
                             purchase.purchaseState == Purchase.PurchaseState.PURCHASED

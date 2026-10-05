@@ -51,20 +51,28 @@ class BillingPlugin : Plugin() {
         val basePlanId = call.getString("basePlanId") ?: "monthly"
 
         billingManager.startConnection {
-            val products = billingManager.subscriptionProducts.value
-            val targetProduct = products.find { it.basePlanId == basePlanId || it.productId == BillingConfig.PRODUCT_ID_PREMIUM }
-
-            if (targetProduct != null) {
-                activity.runOnUiThread {
-                    billingManager.launchPurchaseFlow(activity, targetProduct)
+            billingManager.querySubscriptionProducts { products ->
+                val targetProduct = products.find { 
+                    it.basePlanId.equals(basePlanId, ignoreCase = true) 
+                } ?: products.find { 
+                    (it.basePlanId.contains("monthly", ignoreCase = true) && basePlanId.contains("monthly", ignoreCase = true)) ||
+                    (it.basePlanId.contains("year", ignoreCase = true) && basePlanId.contains("year", ignoreCase = true))
+                } ?: products.firstOrNull { 
+                    it.productId == BillingConfig.PRODUCT_ID_PREMIUM 
                 }
-                val ret = JSObject()
-                ret.put("success", true)
-                ret.put("message", "Billing flow launched")
-                call.resolve(ret)
-            } else {
-                Log.w("BillingPlugin", "No matching product found on Google Play Console for basePlanId: $basePlanId")
-                call.reject("Product not available on Google Play. Make sure 'kiddotube_premium' is published in Google Play Console.")
+
+                if (targetProduct != null) {
+                    activity.runOnUiThread {
+                        billingManager.launchPurchaseFlow(activity, targetProduct)
+                    }
+                    val ret = JSObject()
+                    ret.put("success", true)
+                    ret.put("message", "Billing flow launched")
+                    call.resolve(ret)
+                } else {
+                    Log.w("BillingPlugin", "No matching product found on Google Play Console for basePlanId: $basePlanId. Total products found: ${products.size}")
+                    call.reject("Subscription product 'kiddotube_premium' is not yet active on Google Play Console for this app release.")
+                }
             }
         }
     }

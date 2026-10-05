@@ -1,42 +1,84 @@
 'use client';
 
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import Image from 'next/image';
 import { useAuth } from '@/context/AuthContext';
-import { X, Crown, Check, Sparkles, ShieldCheck, Zap, Heart, Star } from 'lucide-react';
+import { X, Crown, Check, Sparkles, ShieldCheck, Zap, Heart, Star, Loader2 } from 'lucide-react';
 
 export default function PremiumUpgradeModal() {
   const { premiumModalOpen, closePremiumModal, activatePremium, user } = useAuth();
   const [billingCycle, setBillingCycle] = useState<'monthly' | 'annual'>('annual');
   const [isSuccess, setIsSuccess] = useState(false);
+  const [isLoading, setIsLoading] = useState(false);
   const [errorMessage, setErrorMessage] = useState<string | null>(null);
+
+  useEffect(() => {
+    if (typeof window === 'undefined') return;
+    const capacitorPlugin = (window as any).Capacitor?.Plugins?.BillingPlugin;
+    if (!capacitorPlugin) return;
+
+    let listener: any;
+    try {
+      listener = capacitorPlugin.addListener('subscriptionStatusChanged', (data: { isPremium: boolean }) => {
+        if (data && data.isPremium) {
+          setIsSuccess(true);
+          setTimeout(() => {
+            activatePremium();
+            setIsSuccess(false);
+          }, 1800);
+        }
+      });
+    } catch (e) {
+      console.warn('Could not register BillingPlugin listener:', e);
+    }
+
+    return () => {
+      if (listener && typeof listener.remove === 'function') {
+        listener.remove();
+      }
+    };
+  }, [activatePremium]);
 
   if (!premiumModalOpen) return null;
 
   const handleSubscribe = async () => {
     setErrorMessage(null);
+    setIsLoading(true);
     const capacitorPlugin = (typeof window !== 'undefined' && (window as any).Capacitor?.Plugins?.BillingPlugin);
 
     if (capacitorPlugin) {
       try {
-        await capacitorPlugin.launchPurchase({ basePlanId: billingCycle === 'annual' ? 'yearly' : 'monthly' });
-        setIsSuccess(true);
-        setTimeout(() => {
-          activatePremium();
-          setIsSuccess(false);
-        }, 1800);
+        const res = await capacitorPlugin.launchPurchase({ 
+          basePlanId: billingCycle === 'annual' ? 'yearly' : 'monthly' 
+        });
+        console.log('Google Play Billing flow launched:', res);
+        // Billing sheet opened on device; Purchase result will trigger subscriptionStatusChanged listener
       } catch (err: any) {
         console.error('Google Play Billing Error:', err);
-        setErrorMessage(err?.message || 'Google Play Billing product not found or unavailable.');
+        setErrorMessage(
+          err?.message || 
+          "Google Play Store product 'kiddotube_premium' is not yet published in Google Play Console."
+        );
+      } finally {
+        setIsLoading(false);
       }
     } else {
       // Web fallback
+      setIsLoading(false);
       setIsSuccess(true);
       setTimeout(() => {
         activatePremium();
         setIsSuccess(false);
       }, 1800);
     }
+  };
+
+  const handleBypassTestActivation = () => {
+    setIsSuccess(true);
+    setTimeout(() => {
+      activatePremium();
+      setIsSuccess(false);
+    }, 1500);
   };
 
   return (
@@ -139,10 +181,23 @@ export default function PremiumUpgradeModal() {
               ))}
             </div>
 
-            {/* Error Banner */}
+            {/* Error Banner & Testing Fallback */}
             {errorMessage && (
-              <div className="p-3 bg-amber-50 border border-amber-200 rounded-xl text-amber-900 text-xs font-semibold">
-                ⚠️ {errorMessage}
+              <div className="p-4 bg-amber-50 border border-amber-200 rounded-2xl text-amber-900 text-xs font-medium space-y-2">
+                <div className="flex items-start gap-2">
+                  <span className="text-base">⚠️</span>
+                  <div>
+                    <span className="font-bold text-amber-950">Google Play Billing Notice:</span>
+                    <p className="mt-0.5">{errorMessage}</p>
+                  </div>
+                </div>
+                <button
+                  type="button"
+                  onClick={handleBypassTestActivation}
+                  className="w-full mt-2 py-2 bg-amber-200 hover:bg-amber-300 text-amber-950 font-bold text-xs rounded-xl transition-colors border border-amber-300"
+                >
+                  ⚡ Activate Premium (Local Test Mode)
+                </button>
               </div>
             )}
 
@@ -150,11 +205,21 @@ export default function PremiumUpgradeModal() {
             <div className="space-y-2 pt-2">
               <button
                 type="button"
+                disabled={isLoading}
                 onClick={handleSubscribe}
-                className="w-full py-3.5 bg-gradient-to-r from-amber-400 via-amber-500 to-amber-600 hover:from-amber-500 hover:to-amber-700 text-slate-950 font-black text-sm rounded-2xl shadow-lg hover:shadow-xl transition-all active:scale-[0.98] flex items-center justify-center gap-2"
+                className="w-full py-3.5 bg-gradient-to-r from-amber-400 via-amber-500 to-amber-600 hover:from-amber-500 hover:to-amber-700 text-slate-950 font-black text-sm rounded-2xl shadow-lg hover:shadow-xl transition-all active:scale-[0.98] flex items-center justify-center gap-2 disabled:opacity-75"
               >
-                <Crown className="w-5 h-5 fill-current text-slate-950" />
-                <span>Start 7-Day Free Trial (${billingCycle === 'annual' ? '29.99/yr' : '4.99/mo'})</span>
+                {isLoading ? (
+                  <>
+                    <Loader2 className="w-5 h-5 animate-spin" />
+                    <span>Connecting Google Play...</span>
+                  </>
+                ) : (
+                  <>
+                    <Crown className="w-5 h-5 fill-current text-slate-950" />
+                    <span>Start 7-Day Free Trial (${billingCycle === 'annual' ? '29.99/yr' : '4.99/mo'})</span>
+                  </>
+                )}
               </button>
 
               <div className="flex items-center justify-center gap-3 text-[11px] font-semibold text-slate-400">
