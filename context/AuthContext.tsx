@@ -31,7 +31,11 @@ interface AuthContextType {
   closeAuthModal: () => void;
   openPremiumModal: () => void;
   closePremiumModal: () => void;
-  activatePremium: () => void;
+  /** True only when Google Play reports an active kiddotube_premium subscription. */
+  isPremium: boolean;
+  /** True while the initial Google Play subscription check is still running. */
+  isCheckingPremium: boolean;
+  restorePurchases: () => Promise<string>;
   login: (credentials: LoginCredentials) => Promise<{ success: boolean; message?: string }>;
   register: (credentials: RegisterCredentials) => Promise<{ success: boolean; message?: string }>;
   logout: () => void;
@@ -48,6 +52,9 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
   const [authModalOpen, setAuthModalOpen] = useState<boolean>(false);
   const [authModalTab, setAuthModalTab] = useState<'login' | 'register'>('login');
   const [premiumModalOpen, setPremiumModalOpen] = useState<boolean>(false);
+  // Google Play entitlement: null = not yet known / billing unavailable
+  const [playEntitlement, setPlayEntitlement] = useState<boolean | null>(null);
+  const [hasBilling, setHasBilling] = useState<boolean>(false);
 
   // Load existing users DB or initialize default demo accounts
   const getUsersDB = (): (User & { passwordHash: string })[] => {
@@ -96,18 +103,60 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     setPremiumModalOpen(false);
   };
 
-  const activatePremium = () => {
-    if (user) {
-      const updatedUser = { ...user, isPremium: true };
-      setUser(updatedUser);
-      localStorage.setItem(CURRENT_USER_KEY, JSON.stringify(updatedUser));
+  // Subscribe to Google Play Billing subscription state (Android app only).
+  useEffect(() => {
+    if (typeof window === 'undefined') return;
+    const plugin = (window as any).Capacitor?.Plugins?.BillingPlugin;
+    if (!plugin) return;
+    setHasBilling(true);
 
-      // Update in users DB
-      const usersDB = getUsersDB();
-      const updatedDB = usersDB.map(u => u.id === user.id ? { ...u, isPremium: true } : u);
-      localStorage.setItem(USERS_STORAGE_KEY, JSON.stringify(updatedDB));
+    const apply = (data?: { subscriptionState?: string }) => {
+      if (!data) return;
+      if (data.subscriptionState === 'PREMIUM') setPlayEntitlement(true);
+      else if (data.subscriptionState === 'FREE' || data.subscriptionState === 'PENDING') setPlayEntitlement(false);
+      // UNKNOWN: keep waiting for Google Play to answer
+    };
+
+    let handle: any;
+    try {
+      handle = plugin.addListener('subscriptionStatusChanged', apply);
+    } catch (e) {
+      console.warn('BillingPlugin listener unavailable:', e);
     }
-    setPremiumModalOpen(false);
+    plugin.getSubscriptionStatus?.().then(apply).catch(() => {});
+
+    return () => {
+      Promise.resolve(handle).then((h: any) => h?.remove?.()).catch(() => {});
+    };
+  }, []);
+
+  // Premium is granted only by Google Play. Outside the Android app there is no way to buy,
+  // so the web preview never unlocks Premium.
+  const isPremium = hasBilling && playEntitlement === true;
+  const isCheckingPremium = hasBilling && playEntitlement === null;
+
+  // Keep the stored profile's display flag in sync with Google Play (display only, never used for gating).
+  useEffect(() => {
+    if (!user || playEntitlement === null || !!user.isPremium === playEntitlement) return;
+    const updatedUser = { ...user, isPremium: playEntitlement };
+    setUser(updatedUser);
+    localStorage.setItem(CURRENT_USER_KEY, JSON.stringify(updatedUser));
+    const updatedDB = getUsersDB().map(u => (u.id === user.id ? { ...u, isPremium: playEntitlement } : u));
+    localStorage.setItem(USERS_STORAGE_KEY, JSON.stringify(updatedDB));
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [playEntitlement, user?.id]);
+
+  const restorePurchases = async (): Promise<string> => {
+    const plugin = typeof window !== 'undefined' && (window as any).Capacitor?.Plugins?.BillingPlugin;
+    if (!plugin) return 'Purchases can only be restored in the KiddoTube Android app.';
+    try {
+      const res = await plugin.restorePurchases();
+      if (res?.subscriptionState === 'PREMIUM') setPlayEntitlement(true);
+      else if (res?.subscriptionState === 'FREE') setPlayEntitlement(false);
+      return res?.resultMessage || 'Restore complete.';
+    } catch (e: any) {
+      return e?.message || 'Could not reach Google Play. Please try again.';
+    }
   };
 
   const login = async (credentials: LoginCredentials): Promise<{ success: boolean; message?: string }> => {
@@ -128,6 +177,9 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     setUser(userSession);
     localStorage.setItem(CURRENT_USER_KEY, JSON.stringify(userSession));
     closeAuthModal();
+    if (!isPremium) {
+      setTimeout(() => openPremiumModal(), 300);
+    }
     return { success: true };
   };
 
@@ -147,7 +199,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
       email: credentials.email.trim(),
       avatar: credentials.avatar || '🦁',
       pin: credentials.pin || '1234',
-      isPremium: true, // Gift 7-day free trial on new registrations
+      isPremium: false, // Standard registration requires Premium subscription purchase
       createdAt: new Date().toISOString(),
       passwordHash: credentials.password,
     };
@@ -159,6 +211,9 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     setUser(userSession);
     localStorage.setItem(CURRENT_USER_KEY, JSON.stringify(userSession));
     closeAuthModal();
+    if (!isPremium) {
+      setTimeout(() => openPremiumModal(), 300);
+    }
     return { success: true };
   };
 
@@ -209,7 +264,9 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
         closeAuthModal,
         openPremiumModal,
         closePremiumModal,
-        activatePremium,
+        isPremium,
+        isCheckingPremium,
+        restorePurchases,
         login,
         register,
         logout,

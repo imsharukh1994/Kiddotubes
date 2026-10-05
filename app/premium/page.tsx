@@ -16,32 +16,25 @@ interface SubscriptionProduct {
 }
 
 export default function PremiumPage() {
-  const { user, activatePremium } = useAuth();
+  const { user, isPremium } = useAuth();
   const [billingCycle, setBillingCycle] = useState<'monthly' | 'annual'>('annual');
   const [isSuccess, setIsSuccess] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
   const [products, setProducts] = useState<SubscriptionProduct[]>([]);
   const [errorMessage, setErrorMessage] = useState<string | null>(null);
+  const wasPremium = React.useRef(isPremium);
+
+  useEffect(() => {
+    if (isPremium && !wasPremium.current) {
+      setIsSuccess(true);
+    }
+    wasPremium.current = isPremium;
+  }, [isPremium]);
 
   useEffect(() => {
     if (typeof window === 'undefined') return;
     const capacitorPlugin = (window as any).Capacitor?.Plugins?.BillingPlugin;
     if (!capacitorPlugin) return;
-
-    let listener: any;
-    try {
-      listener = capacitorPlugin.addListener('subscriptionStatusChanged', (data: { isPremium: boolean }) => {
-        if (data && data.isPremium) {
-          setIsSuccess(true);
-          setTimeout(() => {
-            activatePremium();
-            setIsSuccess(false);
-          }, 1800);
-        }
-      });
-    } catch (e) {
-      console.warn('Could not register BillingPlugin listener:', e);
-    }
 
     capacitorPlugin
       .getProducts()
@@ -53,13 +46,7 @@ export default function PremiumPage() {
       .catch((err: any) => {
         console.warn('Could not fetch Google Play products:', err);
       });
-
-    return () => {
-      if (listener && typeof listener.remove === 'function') {
-        listener.remove();
-      }
-    };
-  }, [activatePremium]);
+  }, []);
 
   const monthlyProduct = products.find((p) => p.basePlanId === 'monthly-premium');
   const yearlyProduct = products.find((p) => p.basePlanId === 'yearly-premium');

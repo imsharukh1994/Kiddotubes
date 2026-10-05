@@ -4,9 +4,11 @@ import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import SearchBar from './SearchBar';
-import { Sparkles, ShieldCheck, Play } from 'lucide-react';
+import { Sparkles, ShieldCheck, Play, Crown } from 'lucide-react';
+import { useAuth } from '@/context/AuthContext';
 
 export default function Hero() {
+  const { isPremium, isCheckingPremium, openPremiumModal } = useAuth();
   const ageOptions = [
     { id: '0-2', label: '0–2', tag: 'Baby' },
     { id: '2-4', label: '2–4', tag: 'Toddler' },
@@ -65,6 +67,30 @@ export default function Hero() {
                 </Link>
               ))}
             </div>
+
+            {/* Prominent Premium Upgrade Banner for Non-Premium Users */}
+            {!isPremium && !isCheckingPremium && (
+              <div className="mt-4 p-4 bg-gradient-to-r from-amber-400 via-amber-500 to-amber-600 rounded-2xl text-slate-950 shadow-xl border border-amber-300 flex flex-col sm:flex-row items-center justify-between gap-3 animate-fadeIn">
+                <div className="flex items-center gap-3 text-left">
+                  <div className="w-10 h-10 rounded-xl bg-slate-950 text-amber-400 flex items-center justify-center shrink-0 shadow-md">
+                    <Crown className="w-6 h-6 fill-current" />
+                  </div>
+                  <div>
+                    <h3 className="font-black text-sm tracking-tight leading-tight">Unlock KiddoTube Premium</h3>
+                    <p className="text-xs font-bold text-slate-900 opacity-90">Required to play videos & unlock 3D AI avatars</p>
+                  </div>
+                </div>
+
+                <button
+                  type="button"
+                  onClick={openPremiumModal}
+                  className="w-full sm:w-auto px-5 py-2.5 bg-slate-950 hover:bg-slate-900 text-amber-300 font-black text-xs rounded-xl shadow-lg transition-all active:scale-95 shrink-0 flex items-center justify-center gap-1.5"
+                >
+                  <span>Get Premium Pass</span>
+                  <Crown className="w-4 h-4 fill-current" />
+                </button>
+              </div>
+            )}
           </div>
         </div>
 

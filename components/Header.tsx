@@ -11,7 +11,7 @@ import { useAuth } from '@/context/AuthContext';
 
 export default function Header() {
   const pathname = usePathname();
-  const { user, isAuthenticated, openAuthModal, openPremiumModal, logout } = useAuth();
+  const { user, isAuthenticated, isPremium, openAuthModal, openPremiumModal, logout } = useAuth();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [searchOpen, setSearchOpen] = useState(false);
   const [profileDropdownOpen, setProfileDropdownOpen] = useState(false);
@@ -75,13 +75,13 @@ export default function Header() {
             <Link
               href="/premium"
               className={`flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-black transition-all shadow-xs active:scale-95 ${
-                user?.isPremium
+                isPremium
                   ? 'bg-amber-100 text-amber-900 border border-amber-300'
                   : 'bg-gradient-to-r from-amber-400 to-amber-500 hover:from-amber-500 hover:to-amber-600 text-slate-950 shadow-sm hover:shadow'
               }`}
             >
               <Crown className="w-3.5 h-3.5 fill-current text-slate-950" />
-              <span>{user?.isPremium ? 'Premium' : 'Try Premium'}</span>
+              <span>{isPremium ? 'Premium' : 'Try Premium'}</span>
             </Link>
 
             {/* Auth Actions */}
@@ -99,7 +99,7 @@ export default function Header() {
                     )}
                   </div>
                   <span className="text-xs font-black truncate max-w-[100px]">{user.name}</span>
-                  {user.isPremium && <Crown className="w-3.5 h-3.5 text-amber-500 fill-current" />}
+                  {isPremium && <Crown className="w-3.5 h-3.5 text-amber-500 fill-current" />}
                   <ChevronDown className="w-3.5 h-3.5 text-purple-700" />
                 </button>
 
@@ -114,7 +114,7 @@ export default function Header() {
                         <p className="text-xs font-black text-slate-900 truncate">{user.name}</p>
                         <p className="text-[11px] font-semibold text-slate-500 truncate">{user.email}</p>
                       </div>
-                      {user.isPremium ? (
+                      {isPremium ? (
                         <span className="px-2 py-0.5 bg-amber-100 text-amber-900 text-[10px] font-black rounded-full uppercase tracking-wider">
                           👑 Pass
                         </span>
@@ -166,7 +166,7 @@ export default function Header() {
                       className="w-full text-left flex items-center gap-2 px-4 py-2 text-xs font-black text-amber-800 hover:bg-amber-50 transition-colors"
                     >
                       <Crown className="w-4 h-4 text-amber-500 fill-current" />
-                      <span>{user.isPremium ? '👑 Premium Member' : '👑 Upgrade Pass ($4.99)'}</span>
+                      <span>{isPremium ? '👑 Premium Member' : '👑 Upgrade to Premium'}</span>
                     </button>
 
                     <Link
@@ -295,6 +295,23 @@ export default function Header() {
               </button>
             </div>
           )}
+
+          {/* Mobile Premium Entry (desktop button is hidden on small screens) */}
+          <button
+            type="button"
+            onClick={() => {
+              openPremiumModal();
+              setMobileMenuOpen(false);
+            }}
+            className={`w-full flex items-center justify-center gap-2 py-3 rounded-xl text-xs font-black transition-all active:scale-[0.98] ${
+              isPremium
+                ? 'bg-amber-100 text-amber-900 border border-amber-300'
+                : 'bg-gradient-to-r from-amber-400 to-amber-500 text-slate-950 shadow-sm'
+            }`}
+          >
+            <Crown className="w-4 h-4 fill-current" />
+            <span>{isPremium ? 'Premium Active' : 'Get KiddoTube Premium'}</span>
+          </button>
 
           <div className="flex flex-col space-y-1 font-bold text-sm text-slate-800">
             <Link

@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { useAuth } from '@/context/AuthContext';
 import { X, Crown, Check, Sparkles, ShieldCheck, Loader2 } from 'lucide-react';
 
@@ -15,60 +15,63 @@ interface SubscriptionProduct {
 }
 
 export default function PremiumUpgradeModal() {
-  const { premiumModalOpen, closePremiumModal, activatePremium, user } = useAuth();
+  const { premiumModalOpen, closePremiumModal, isPremium, restorePurchases } = useAuth();
   const [billingCycle, setBillingCycle] = useState<'monthly' | 'annual'>('annual');
   const [isSuccess, setIsSuccess] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
+  const [isRestoring, setIsRestoring] = useState(false);
   const [errorMessage, setErrorMessage] = useState<string | null>(null);
+  const [infoMessage, setInfoMessage] = useState<string | null>(null);
   const [products, setProducts] = useState<SubscriptionProduct[]>([]);
   const [fetchingProducts, setFetchingProducts] = useState(false);
+  const wasPremium = useRef(isPremium);
 
+  // Celebrate only when Google Play flips the entitlement to Premium while the modal is open
   useEffect(() => {
-    if (typeof window === 'undefined') return;
+    if (isPremium && !wasPremium.current && premiumModalOpen) {
+      setIsSuccess(true);
+      const t = setTimeout(() => {
+        setIsSuccess(false);
+        closePremiumModal();
+      }, 1800);
+      wasPremium.current = isPremium;
+      return () => clearTimeout(t);
+    }
+    wasPremium.current = isPremium;
+  }, [isPremium, premiumModalOpen, closePremiumModal]);
+
+  // Fetch dynamic products from Google Play when the modal opens
+  useEffect(() => {
+    if (typeof window === 'undefined' || !premiumModalOpen) return;
     const capacitorPlugin = (window as any).Capacitor?.Plugins?.BillingPlugin;
     if (!capacitorPlugin) return;
 
-    let listener: any;
-    try {
-      listener = capacitorPlugin.addListener('subscriptionStatusChanged', (data: { isPremium: boolean }) => {
-        if (data && data.isPremium) {
-          setIsSuccess(true);
-          setTimeout(() => {
-            activatePremium();
-            setIsSuccess(false);
-          }, 1800);
+    setFetchingProducts(true);
+    capacitorPlugin
+      .getProducts()
+      .then((res: { products?: SubscriptionProduct[] }) => {
+        if (res && res.products) {
+          setProducts(res.products);
         }
+      })
+      .catch((err: any) => {
+        console.warn('Could not fetch Google Play products:', err);
+      })
+      .finally(() => {
+        setFetchingProducts(false);
       });
-    } catch (e) {
-      console.warn('Could not register BillingPlugin listener:', e);
-    }
-
-    // Fetch dynamic products from Google Play
-    if (premiumModalOpen) {
-      setFetchingProducts(true);
-      capacitorPlugin
-        .getProducts()
-        .then((res: { products?: SubscriptionProduct[] }) => {
-          if (res && res.products) {
-            setProducts(res.products);
-          }
-        })
-        .catch((err: any) => {
-          console.warn('Could not fetch Google Play products:', err);
-        })
-        .finally(() => {
-          setFetchingProducts(false);
-        });
-    }
-
-    return () => {
-      if (listener && typeof listener.remove === 'function') {
-        listener.remove();
-      }
-    };
-  }, [activatePremium, premiumModalOpen]);
+  }, [premiumModalOpen]);
 
   if (!premiumModalOpen) return null;
+
+  const handleRestore = async () => {
+    setErrorMessage(null);
+    setInfoMessage(null);
+    setIsRestoring(true);
+    const msg = await restorePurchases();
+    setIsRestoring(false);
+    setInfoMessage(msg);
+  };
 
   const monthlyProduct = products.find((p) => p.basePlanId === 'monthly-premium');
   const yearlyProduct = products.find((p) => p.basePlanId === 'yearly-premium');
@@ -225,11 +228,17 @@ export default function PremiumUpgradeModal() {
               </div>
             )}
 
+            {infoMessage && (
+              <div className="p-3 bg-purple-50 border border-purple-200 rounded-2xl text-purple-900 text-xs font-semibold text-center">
+                {infoMessage}
+              </div>
+            )}
+
             {/* Subscribe Action Button */}
             <div className="space-y-2 pt-2">
               <button
                 type="button"
-                disabled={isLoading}
+                disabled={isLoading || isPremium}
                 onClick={handleSubscribe}
                 className="w-full py-3.5 bg-gradient-to-r from-amber-400 via-amber-500 to-amber-600 hover:from-amber-500 hover:to-amber-700 text-slate-950 font-black text-sm rounded-2xl shadow-lg hover:shadow-xl transition-all active:scale-[0.98] flex items-center justify-center gap-2 disabled:opacity-75"
               >
@@ -242,13 +251,24 @@ export default function PremiumUpgradeModal() {
                   <>
                     <Crown className="w-5 h-5 fill-current text-slate-950" />
                     <span>
-                      {user?.isPremium
+                      {isPremium
                         ? 'Active Premium Member'
                         : `Subscribe via Google Play ${displayPrice ? `(${displayPrice})` : ''}`}
                     </span>
                   </>
                 )}
               </button>
+
+              {!isPremium && (
+                <button
+                  type="button"
+                  disabled={isRestoring}
+                  onClick={handleRestore}
+                  className="w-full py-2 text-xs font-bold text-purple-700 hover:text-purple-900 hover:underline disabled:opacity-60"
+                >
+                  {isRestoring ? 'Checking Google Play...' : 'Already subscribed? Restore Purchases'}
+                </button>
+              )}
 
               <div className="flex items-center justify-center gap-3 text-[11px] font-semibold text-slate-400">
                 <span className="flex items-center gap-1">
