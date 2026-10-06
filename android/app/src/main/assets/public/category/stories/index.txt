@@ -1,16 +1,16 @@
 3:I[4707,[],""]
 5:I[6423,[],""]
-6:I[575,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","602","static/chunks/602-dd11d6db8949b247.js","494","static/chunks/494-396162d18046f1e8.js","185","static/chunks/app/layout-de22be9cfd77eb5e.js"],"AuthProvider"]
-7:I[1196,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","602","static/chunks/602-dd11d6db8949b247.js","494","static/chunks/494-396162d18046f1e8.js","185","static/chunks/app/layout-de22be9cfd77eb5e.js"],"TimerProvider"]
-8:I[842,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","602","static/chunks/602-dd11d6db8949b247.js","494","static/chunks/494-396162d18046f1e8.js","185","static/chunks/app/layout-de22be9cfd77eb5e.js"],"default"]
-9:I[8349,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","602","static/chunks/602-dd11d6db8949b247.js","494","static/chunks/494-396162d18046f1e8.js","185","static/chunks/app/layout-de22be9cfd77eb5e.js"],"default"]
-a:I[3313,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","602","static/chunks/602-dd11d6db8949b247.js","494","static/chunks/494-396162d18046f1e8.js","185","static/chunks/app/layout-de22be9cfd77eb5e.js"],"default"]
-b:I[6733,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","602","static/chunks/602-dd11d6db8949b247.js","494","static/chunks/494-396162d18046f1e8.js","185","static/chunks/app/layout-de22be9cfd77eb5e.js"],"default"]
-c:I[3633,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","602","static/chunks/602-dd11d6db8949b247.js","494","static/chunks/494-396162d18046f1e8.js","185","static/chunks/app/layout-de22be9cfd77eb5e.js"],"default"]
-d:I[833,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","602","static/chunks/602-dd11d6db8949b247.js","494","static/chunks/494-396162d18046f1e8.js","185","static/chunks/app/layout-de22be9cfd77eb5e.js"],"default"]
-e:I[5050,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","602","static/chunks/602-dd11d6db8949b247.js","494","static/chunks/494-396162d18046f1e8.js","185","static/chunks/app/layout-de22be9cfd77eb5e.js"],"default"]
+6:I[2906,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","602","static/chunks/602-dd11d6db8949b247.js","939","static/chunks/939-4ee698a395686017.js","185","static/chunks/app/layout-86d42cf68a26bf43.js"],"AuthProvider"]
+7:I[1196,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","602","static/chunks/602-dd11d6db8949b247.js","939","static/chunks/939-4ee698a395686017.js","185","static/chunks/app/layout-86d42cf68a26bf43.js"],"TimerProvider"]
+8:I[842,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","602","static/chunks/602-dd11d6db8949b247.js","939","static/chunks/939-4ee698a395686017.js","185","static/chunks/app/layout-86d42cf68a26bf43.js"],"default"]
+9:I[8349,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","602","static/chunks/602-dd11d6db8949b247.js","939","static/chunks/939-4ee698a395686017.js","185","static/chunks/app/layout-86d42cf68a26bf43.js"],"default"]
+a:I[3313,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","602","static/chunks/602-dd11d6db8949b247.js","939","static/chunks/939-4ee698a395686017.js","185","static/chunks/app/layout-86d42cf68a26bf43.js"],"default"]
+b:I[6733,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","602","static/chunks/602-dd11d6db8949b247.js","939","static/chunks/939-4ee698a395686017.js","185","static/chunks/app/layout-86d42cf68a26bf43.js"],"default"]
+c:I[3633,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","602","static/chunks/602-dd11d6db8949b247.js","939","static/chunks/939-4ee698a395686017.js","185","static/chunks/app/layout-86d42cf68a26bf43.js"],"default"]
+d:I[833,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","602","static/chunks/602-dd11d6db8949b247.js","939","static/chunks/939-4ee698a395686017.js","185","static/chunks/app/layout-86d42cf68a26bf43.js"],"default"]
+e:I[5050,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","602","static/chunks/602-dd11d6db8949b247.js","939","static/chunks/939-4ee698a395686017.js","185","static/chunks/app/layout-86d42cf68a26bf43.js"],"default"]
 4:["category","stories","d"]
-0:["Y3xyAaPitGJd5bH01Yazo",[[["",{"children":["category",{"children":[["category","stories","d"],{"children":["__PAGE__?{\"category\":\"stories\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["category",{"children":[["category","stories","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","category","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","category","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/0b270ba66c2a134c.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"bg-[#F8FAFC] text-slate-900 font-sans min-h-screen flex flex-col antialiased pb-16 md:pb-0","children":["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","main",null,{"className":"flex-1 max-w-[1440px] w-full mx-auto px-4 xs:px-5 sm:px-8 lg:px-12 py-4 sm:py-8","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}],["$","$Le",null,{}]]}]}]}]}]],null],null],["$Lf",null]]]]
+0:["P2gK3vq0zW7vIr_RS1z8B",[[["",{"children":["category",{"children":[["category","stories","d"],{"children":["__PAGE__?{\"category\":\"stories\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["category",{"children":[["category","stories","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","category","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","category","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d2f368d763c27031.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"bg-[#F8FAFC] text-slate-900 font-sans min-h-screen flex flex-col antialiased pb-16 md:pb-0","children":["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","main",null,{"className":"flex-1 max-w-[1440px] w-full mx-auto px-4 xs:px-5 sm:px-8 lg:px-12 py-4 sm:py-8","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}],["$","$Le",null,{}]]}]}]}]}]],null],null],["$Lf",null]]]]
 f:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Stories Videos — KiddoTube"}],["$","meta","3",{"name":"description","content":"Magical stories"}],["$","meta","4",{"name":"keywords","content":"Kids Videos,KiddoTube,Educational Videos,Nursery Rhymes,Safe Content Discovery"}],["$","link","5",{"rel":"shortcut icon","href":"/images/favicon.png"}],["$","link","6",{"rel":"icon","href":"/images/favicon.png"}],["$","link","7",{"rel":"apple-touch-icon","href":"/images/favicon.png"}]]
 1:null
 10:I[2972,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","130","static/chunks/app/category/%5Bcategory%5D/page-f5e524b6907ef51d.js"],""]
@@ -32,7 +32,64 @@ Connect with us on G+: https://plus.google.com/1111428737915...
 Tweet us your favourite videos on: https://twitter.com/musicandchants
 Visit our official website: http://www.musicandchants.com/
 Connect on iTunes: https://goo.gl/7qhHcp
-Pintrest: http://www.pinterest.com/navindaswani5/13:T49b,Goldilocks and the Three Bears | Fairy Tales and Bedtime Stories for Kids in English | Storytime
+Pintrest: http://www.pinterest.com/navindaswani5/13:T6bd,Follow the journey of a tiny caterpillar who eats his way through yummy fruits and treats until he transforms into a beautiful butterfly!A colorful, fun, and educational story perfect for young children.
+
+https://www.youtube.com/@TwinkleTalesTime1?sub_confirmation=1
+
+
+#VeryHungryCaterpillar #KidsStories #StoryTime #BedtimeStories #FairyTalesForKids #AnimatedStories #ClassicKidsBooks#kidssongs 
+#the very hungry caterpillar
+#hungry caterpillar story
+#eric carle stories
+#kids books read aloud
+#children’s bedtime story
+#animated story for kids
+#storytime for preschoolers
+#learn days of the week kids
+#butterfly life cycle story
+#educational story for children
+#moral stories for kids
+#classic picture book
+#story for toddlers
+#story for kindergarten kids
+#animated read aloud 
+
+#bedtimestories
+#bedtimestoriesforkids
+#threelittlepigs
+#3littlepigs
+#thethreelittlepigs
+#bedtimestoriesforchildren
+#bedtimestoriesfortoddlers
+#fairytales
+#fairytalesforkids
+#FairyTalesandStoriesforKids 
+#storytime
+#bedtimestory
+#storyforkids
+#princessstory
+#kidsbedtimestory
+#kidsstoryinenglish
+#cocomelon
+#the very hungry caterpillar read aloud
+#the very hungry caterpillar animation
+#hungry caterpillar book for kids
+#eric carle read aloud
+#the very hungry caterpillar full story
+#storytime with the very hungry caterpillar
+#read aloud story for toddlers
+#hungry caterpillar learning video
+#animated bedtime stories for kids
+#baby learning videos
+#classic children’s books
+#fun kids stories to read aloud
+#bedtime stories for toddlers
+#moral story for kids about change
+#growth and transformation stories
+#cute animal stories for children
+
+Bedtime stories for kids
+https://www.youtube.com/playlist?list=PLSdCIGEB8w9L48HVHkjQyL09P5RWAnUgR14:T49b,Goldilocks and the Three Bears | Fairy Tales and Bedtime Stories for Kids in English | Storytime
 ❤️❤️❤️ Please Subscribe: https://goo.gl/qND9BT ❤️❤️❤️
 
 © 2020 Adisebaba Animation all rights reserved
@@ -69,7 +126,7 @@ Considering the length of time that children spend in front of the screen, the e
 🚩  Princess and the Pea: https://youtu.be/oGLg5khGlis
 
 
-#bedtimestoriesforkids #storiesforkidsAdisebaba #animation #cartoon #achristmascarol14:T628,The Three Billy Goats Gruff can't wait to cross the bridge and eat the sweet green grass that's on the other side. But can they get past the Bad Old Toll without being eaten? 
+#bedtimestoriesforkids #storiesforkidsAdisebaba #animation #cartoon #achristmascarol15:T628,The Three Billy Goats Gruff can't wait to cross the bridge and eat the sweet green grass that's on the other side. But can they get past the Bad Old Toll without being eaten? 
 
 ******
 ❤️ Subscribe to our channel and receive updates of our totally new and original songs and Fairy Tales!  → http://bit.do/subscribe_gigglebox_tv
@@ -99,11 +156,115 @@ Please send us your feedback, suggestions and comments on social media.
 #Threebillygoatsgruff #Gigglebox
 
 ► Parental guidance: Some material of this video may not be suitable for children’s Below 13 years of age.
-► Disclaimer Gigglebox Channel and all of its videos are not “directed to children” within the meaning of Title 16 C.F.R. § 312.2 of CHILDREN'S ONLINE PRIVACY PROTECTION ACT (USA) are not intended for children under 13 years of age. Gigglebox and its owner(s), agents, representatives, and employees do not collect any information from children under 13 years of age and expressly deny permission to any third party seeking to collect information from children under 13 years of age on behalf of Gigglebox CHANNEL. Further, Gigglebox CHANNEL denies any and all liability or responsibility for the practices and policies of YouTube and its agents and subsidiaries, or any other affiliated third party, regarding data collection.15:Tbc0,One day, the shark gang hatches a plan to catch three little red fish. One of the sharks introduces itself as a red fish. Three little red fish, who do not listen to their mother and talk to strangers, believe the shark and fall into a trap. Let's see how the little fish will get out of this trap.
+► Disclaimer Gigglebox Channel and all of its videos are not “directed to children” within the meaning of Title 16 C.F.R. § 312.2 of CHILDREN'S ONLINE PRIVACY PROTECTION ACT (USA) are not intended for children under 13 years of age. Gigglebox and its owner(s), agents, representatives, and employees do not collect any information from children under 13 years of age and expressly deny permission to any third party seeking to collect information from children under 13 years of age on behalf of Gigglebox CHANNEL. Further, Gigglebox CHANNEL denies any and all liability or responsibility for the practices and policies of YouTube and its agents and subsidiaries, or any other affiliated third party, regarding data collection.16:T8bd,Watch amazing Animated Fairy Tales playlist including Sleeping Beauty, The Gingerbread Man, Pinnochio, The Mermaid Princess, Snow White and many more - https://goo.gl/v0wZsq
 
-Watch ''The Red Fish And The Shark Gang'' tale now to learn more!
+THE UGLY DUCKLING STORY:
+It is a beautiful summer day. The sun shines warmly on an old house near a river. Behind the house a mother duck is sitting on ten eggs. "Tchick." One by one all the eggs break open.
+All except one. This one is the biggest egg of all.
+Mother duck sits and sits on the big egg. At last it breaks open, "Tchick, tchick!"
+Out jumps the last baby duck. It looks big and strong. It is grey and ugly.
+The next day mother duck takes all her little ducks to the river. She jumps into it. All her baby ducks jump in. The big ugly duckling jumps in too.
+They all swim and play together. The ugly duckling swims better than all the other ducklings.
+- Quack, quack! Come with me to the farm yard! - says mother duck to her baby ducks and they all follow her there.
+The farm yard is very noisy. The poor duckling is so unhappy there. The hens peck him, the rooster flies at him, the ducks bite him, the farmer kicks him.
+At last one day he runs away. He comes to a river. He sees many beautiful big birds swimming there. Their feathers are so white, their necks so long, their wings so pretty. The little duckling looks and looks at them. He wants to be with them. He wants to stay and watch them. He knows they are swans. Oh, how he wants to be beautiful like them.
+Now it is winter. Everything is white with snow. The river is covered with ice. The ugly duckling is very cold and unhappy.
+Spring comes once again. The sun shines warmly. Everything is fresh and green.
+One morning the ugly duckling sees the beautiful swans again. He knows them. He wants so much to swim with them in the river. But he is afraid of them. He wants to die. So he runs into the river. He looks into the water. There in the water he sees a beautiful swan. It is he! He is no more an ugly duckling. He is a beautiful white swan.
 
-The Red Fish And The Shark Gang | Bedtime Stories for Kids in English | Fairy Tales
+Subscribe to out Geethanjali Kids Channel:
+https://goo.gl/Mu5CzK
+
+#fairytale #fairytales #uglyduckling #story #shortstory #kids #children #shortstories #uglyduckling - The Ugly Duckling Full Movie | Fairy Tales For Children | Bedtime Stories17:T640,When Little Red Riding Hood arrives at Grandmas cottage, there's someone BIG, HAIRY and very, very SCARY waiting in Granny's bed... 
+Will Little Red Riding Hood be breakfast for that big, bad wolf? 
+
+******
+❤️ Subscribe to our channel and receive updates of our totally new and original songs and Fairy Tales!  → http://bit.do/subscribe_gigglebox_tv
+
+
+******
+
+If you like what you hear, please also follow us on Facebook and Instagram for updates and new songs! 
+
+Insta: giggleboxforkids
+
+FB: giggleboxofficial
+
+We’d love to hear from you! 
+
+Please send us your feedback, suggestions and comments on social media.
+
+******
+
+english fairy tale
+fairy tail
+Little Red Riding Hood
+story for kids in english
+
+******
+
+#LittleRedRidingHood #Gigglebox
+
+► Parental guidance: Some material of this video may not be suitable for children’s Below 13 years of age. 
+► Disclaimer  
+Gigglebox Channel and all of its videos are not “directed to children” within the meaning of Title 16 C.F.R. § 312.2 of CHILDREN'S ONLINE PRIVACY PROTECTION ACT (USA) are not intended for children under 13 years of age. Gigglebox and its owner(s), agents, representatives, and employees do not collect any information from children under 13 years of age and expressly deny permission to any third party seeking to collect information from children under 13 years of age on behalf of Gigglebox CHANNEL. Further, Gigglebox CHANNEL denies any and all liability or responsibility for the practices and policies of YouTube and its agents and subsidiaries, or any other affiliated third party, regarding data collection.18:T55c,by Anna Dewdney (Author, Illustrator)
+Publisher ‏ : ‎ Viking
+Baby Llama turns bedtime into an all-out llama drama! Tucked into bed by his mama, Baby Llama immediately starts worrying when she goes downstairs, and his soft whimpers turn to hollers when she doesn't come right back!
+
+Subscribe to Reading is Here: https://www.youtube.com/channel/UC0MXCIEspd1cBXivnaeVRTQ?sub_confirmation=1
+
+Support the author and publisher take your copies and let's read together! 
+
+You can purchase this book on Amazon : https://www.amazon.ca/shop/readingis/list/6PRGU4TXY93I?ref_=aip_sf_list_spv_ons_list_d
+
+You can show your support by purchasing me a coffee ☕️https://www.buymeacoffee.com/youtubereab
+
+#kidsanimatedbooks  #llamallamaredpajama #pajama #readaloud #storytime #kidsbooksonline #readingis #nighttimestory #fairytales #llamallamaredpajamabyannadewdney #bedtimestory
+
+♪Music: Last Kiss Goodnight by Kevin MacLeod
+Download: https://filmmusic.io/song/3969-last-kiss-goodnight
+Licensed under CC BY 4.0: https://filmmusic.io/standard-license
+♪Music: Night Terrors 2 by Tim Kulig
+Download: https://filmmusic.io/song/8727-night-terrors-2
+Licensed under CC BY 4.0: https://filmmusic.io/standard-license
+
+Thank you so much for watching! I hope you enjoyed this video. Don't forget to subscribe to stay tuned for another latest videos.
+Much love to you all! ♥
+@readingis19:T64d,Hansel and Gretel are tricked by their evil stepmother into getting lost deep in the forest. Luckily they stumble upon a house made of gingerbread and candy. What will happen to them next ?  
+Enjoy this classic fairy tale.
+
+******
+❤️ Subscribe to our channel and receive updates of our totally new and original songs and Fairy Tales!  → http://bit.do/subscribe_gigglebox_tv
+
+
+******
+
+If you like what you hear, please also follow us on Facebook and Instagram for updates and new songs! 
+
+Insta: giggleboxforkids
+
+FB: giggleboxofficial
+
+We’d love to hear from you! 
+
+Please send us your feedback, suggestions and comments on social media.
+
+******
+
+ english fairy tale
+ fairy tail
+ hansel and gretel
+ story for kids in english
+
+******
+
+#hanselgretel #Gigglebox
+
+► Parental guidance: Some material of this video may not be suitable for children’s Below 13 years of age.
+► Disclaimer Gigglebox Channel and all of its videos are not “directed to children” within the meaning of Title 16 C.F.R. § 312.2 of CHILDREN'S ONLINE PRIVACY PROTECTION ACT (USA) are not intended for children under 13 years of age. Gigglebox and its owner(s), agents, representatives, and employees do not collect any information from children under 13 years of age and expressly deny permission to any third party seeking to collect information from children under 13 years of age on behalf of Gigglebox CHANNEL. Further, Gigglebox CHANNEL denies any and all liability or responsibility for the practices and policies of YouTube and its agents and subsidiaries, or any other affiliated third party, regarding data collection.1a:Tb26,One day, the farmer Gopi finds a magic pot while digging his field. Gopi becomes wealthy thanks to the magic pot that gives a hundred more from everything he puts in it. But there are some people who complain about this situation...
+
+
+Magic Pot | Bedtime Stories for Kids in English | Fairy Tales
 
 
 ❤️❤️❤️ Please Subscribe: https://goo.gl/qND9BT ❤️❤️❤️
@@ -193,109 +354,17 @@ Considering the length of time that children spend in front of the screen, the e
 
 🚩  Princess and the Pea: https://youtu.be/oGLg5khGlis
 
-#bedtimestoriesforkids #storiesforkidsAdisebaba #animation #cartoon16:Ta1a,There is a father and two daughters, one of them diligent and the other one lazy, lived together in a land far away. One day, the father decided to ask them to find a job. After that, sisters went to find a job in turn. 
-
-You can find out what happened to diligent and lazy sisters in The Lazy Girl story!
-
-The Lazy Girl Story | Bedtime Stories for Kids in English | Fairy Tales
+#bedtimestoriesforkids #storiesforkidsAdisebaba #animation #cartoon1b:Tc44,Three little pigs mom ask them to go and collect the missing ingredients for the pizza. Three little pigs make their way through the forest fields. However, the wolf, smelling the pigs, confronts and convinces them that the most delicious ingredients are in his house. The Three Little Pigs are thus caged in the wolf's den! Let's see what plan they will make to get rid of the wolf and they will be successful...
 
 
-© 2020 Adisebaba Animation all rights reserved
-
-#FairyTalesandStoriesforKids 
-
-❤️🧚‍♀️❤️
-
-🐷** FABLES & MORAL STORIES ** 🐷
-
-🚩  The Wolf and The Seven Little Goats: https://youtu.be/OZl3gjh5IhM
-
-🚩  Lion and Mouse: https://youtu.be/DKgRHys6bfA
-
-🚩  The Ugly Duckling: https://youtu.be/X9BnQsQeadE
- 
-🚩  The Gingerbrad Man: https://youtu.be/hsEorBffl3o
- 
-🎈 **BEST CHILDREN'S CLASSICS**🎈 
-
-🚩  The Nutcracker: https://youtu.be/Y32nLilL1-s
-
-🚩  The Little Red Riding Hood: https://youtu.be/RT-EwqgHqCk
-
-🚩  Jack and the Beanstalk: https://youtu.be/Sg0Bf2VAvlk
-
-🚩  The Little Match Girl: https://youtu.be/LRjeVRpFRuM
-
-🚩  Ali Baba and the 40 Thieves: https://youtu.be/vsHS6lLrrf4
-
-🚩  Hansel and Gratel: https://youtu.be/jfg-CYLs9_s
-
-🚩  Jungle Book: https://youtu.be/BS_ofTKqR1w
-
-🚩  Pinocchio: https://youtu.be/aewbOlGXv6s
-
-🚩  Alaaddin and the Magic Lamp: https://youtu.be/w5Ga-iHRaPM
-
-🚩  Gingerbread Man: https://youtu.be/hsEorBffl3o
-
-🚩  Alice in Wonderland: https://youtu.be/8AaPHUYMnW8
-
-🚩  Thumbelina: https://youtu.be/sb5qTK8PYJE
-
-🚩  Puss in Boots: https://youtu.be/C6O9Af_SsnI
-
-🚩  Peter Pan: https://youtu.be/TjpZj6GK3L4
-
-🚩   Heidi: https://youtu.be/bVgWSqtHo2Q
-
-🚩  A Christmas Carol: https://youtu.be/KEIhYN_70EI
-
-🚩  Goldilock and Three Bears: https://youtu.be/Xdy6MOLPgDk
-
-🚩  Wizard of Oz: https://youtu.be/v4EzVo1poUs
-
-🚩  Rumpelstiltskin: https://youtu.be/JDB9lHsGV84
-
-🚩  The Shoemaker and The Elves: https://youtu.be/X0-9b0S42HI
-
-🚩  The Happy Prince: https://youtu.be/2vG-03Ru3M4
-
-
-👗** PRINCESS STORIES**👗
-
-🚩  Cinderella: https://youtu.be/DgwZebuIiXc 
-
-🚩  Rapunzel: https://youtu.be/N2DYQumSvCQ
-
-🚩  12 Dancing Princess: https://youtu.be/VnSdDcm4rdA
-
-🚩  Snow Queen: https://youtu.be/-Rkb88fPMd8
-
-🚩  Snow White: https://youtu.be/payHOUiOuxQ
-
-🚩  The Little Mermaid: https://youtu.be/pf_xz7GFCHw
-
-🚩  Sleeping Beauty: https://youtu.be/fz531jczzQ0
-
-🚩  Beauty and The Beast: https://youtu.be/fkCPEujxTho
-
-🚩  The Frog Prince: https://youtu.be/Dhq_FEUEc8Y
-
-🚩  Princess and the Pea: https://youtu.be/oGLg5khGlis
-
-#bedtimestoriesforkids #storiesforkidsAdisebaba #animation #cartoon17:Tb3c,The purple dragon and his lover, the yellow dragon, are separated by a storm. The purple dragon falls into the evil Bao's cave. Bao tries to learn how to breathe fire by capturing the purple dragon...
-
-Watch  The Lost Dragon tale now to learn more!
-
-
-The Lost Dragon | Bedtime Stories for Kids in English | Fairy Tales
+Three Little Pigs - Pizza Party | Bedtime Stories for Kids in English | Fairy Tales
 
 
 ❤️❤️❤️ Please Subscribe: https://goo.gl/qND9BT ❤️❤️❤️
 
 © 2020 Adisebaba Animation all rights reserved
 
-#FairyTalesandStoriesforKids 
+#FairyTalesandStoriesforKids #threelittlepigs #littlepigs #threepigs #pizza #party #pizzaparty #wolf #wolfstory 
 
 ❤️🧚‍♀️❤️ 
 Considering the length of time that children spend in front of the screen, the effects of the content they follow becomes crucial to us. For this reason, as Adisebaba, our contents are prepared under the supervision of psychological counselor.
@@ -378,151 +447,21 @@ Considering the length of time that children spend in front of the screen, the e
 
 🚩  Princess and the Pea: https://youtu.be/oGLg5khGlis
 
-#bedtimestoriesforkids #storiesforkidsAdisebaba #animation #cartoon18:T5a8,Experience the timeless fairy tale of Snow White in breathtaking Disney-style 3D animation, as the beloved story unfolds from the jealous Queen’s dark schemes to the warmth of the Seven Dwarfs’ cottage, the fateful bite of the poisoned apple, and the Prince’s heartfelt rescue. This cinematic retelling captures every magical moment—Snow White’s beauty and kindness, the Queen’s sinister disguises, the dwarfs’ loyalty, and a grand royal wedding filled with joy and justice. Perfect for fairy tale lovers and animation fans, this is the complete “once upon a time” to “happily ever after” journey, told with dazzling visuals and heart.
-#SnowWhite #FairyTale #DisneyStyleAnimation #3DAnimation #HappilyEverAfter #princessstory 
+#bedtimestoriesforkids #storiesforkidsAdisebaba #animation #cartoon1c:T714,🌊 Disney's Moana: Moana Finds the Way | Audiobook Adventure 📚✨
 
+Embark on an enchanting journey with the beloved Disney heroine, Moana, as we bring you a captivating audiobook rendition of "Moana: Moana Finds the Way." 🌺🚣‍♀️ Join us in this immersive storytelling experience that will transport you to the breathtaking world of Oceania!
 
-⚠️Disclaimer: The stories presented on this channel are intended for entertainment purposes only. While our content is designed to be family-friendly, we recommend parental guidance, especially for teenagers as individual sensitivities may vary.
+📖 Synopsis: Follow the courageous and spirited Moana as she sets out on a daring voyage across the vast ocean to save her island and discover her true destiny. With the help of demigod Maui, Moana faces mythical creatures, overcomes daunting challenges, and learns to navigate her inner strength.
 
-Our adaptations of classic tales include original elements and creative interpretations. They are not intended as educational instruction or historical information.
+🎧 Immerse yourself in the magic of this narrated audiobook, where every chapter comes to life with vivid descriptions and dynamic character voices. Whether you're a fan of the heartwarming Disney film or new to Moana's adventures, this audiobook offers a fresh perspective on the tale.
 
-Dive into the timeless story of Snow White, retold in this captivating animated story. From the queen's magic mirror to Snow White's adventures, this fairy tale is a classic for teenagers. Enjoy this enchanting story time, perfect for bedtime and filled with memorable characters.19:Td42,Rapunzel: The Magical Story 🌟✨ Bedtime Stories for Kids in English | Fairy Tales
+🌟 Rediscover the power of self-discovery, friendship, and the importance of protecting our environment through Moana's courageous journey. Perfect for all ages, this audiobook is a wonderful addition to family listening time, road trips, or quiet moments of relaxation.
 
-Rapunzel tells the story of a princess with magical long hair. Trapped in a tower, Rapunzel connects with the outside world through her golden hair and one day meets a handsome prince, leading her to freedom. In this magical fairy tale, the power of courage, freedom, and love takes center stage. Rapunzel’s journey teaches us the importance of following our dreams and discovering our inner strength. Join Rapunzel in her adventure as she finds her way to a happy ending with the prince! #3danimation #3d #4k 
+🔊 Sit back, relax, and let the soothing tones of the narrator carry you away to a world of wonder and imagination. Whether you're reliving the magic or discovering it for the first time, "Moana: Moana Finds the Way" audiobook is a must-listen!
 
-Don't forget to subscribe and enjoy this magical story! ✨
+🎉 Don't forget to like, subscribe, and hit the notification bell to stay updated on more enchanting audiobooks and Disney adventures. Let's spread the joy of storytelling! ✨📚
 
-#Rapunzel #MagicalHair #PrincessTale #FairyTales #KidsFairyTales, #PrinceAndPrincess #FairyTaleTime #RapunzelStory #AnimatedFairyTales
-
-❤️❤️❤️ Please Subscribe: https://goo.gl/qND9BT ❤️❤️❤️
-
-
-© 2020 Adisebaba Animation all rights reserved
-
-
-#FairyTalesandStoriesforKids 
-
-
-❤️🧚‍♀️❤️ 
-Considering the length of time that children spend in front of the screen, the effects of the content they follow becomes crucial to us. For this reason, as Adisebaba, our contents are prepared under the supervision of psychological counselor.
-❤️🧚‍♀️❤️
-
-
-🐷** FABLES & MORAL STORIES ** 🐷
-
-
-🚩  The Wolf and The Seven Little Goats: https://youtu.be/OZl3gjh5IhM
-
-
-🚩  Lion and Mouse: https://youtu.be/DKgRHys6bfA
-
-
-🚩  The Ugly Duckling: https://youtu.be/X9BnQsQeadE
- 
-🚩  The Gingerbrad Man: https://youtu.be/hsEorBffl3o
- 
-🎈 **BEST CHILDREN'S CLASSICS**🎈 
-
-
-🚩  The Nutcracker: https://youtu.be/Y32nLilL1-s
-
-
-🚩  The Little Red Riding Hood: https://youtu.be/RT-EwqgHqCk
-
-
-🚩  Jack and the Beanstalk: https://youtu.be/Sg0Bf2VAvlk
-
-
-🚩  The Little Match Girl: https://youtu.be/LRjeVRpFRuM
-
-
-🚩  Ali Baba and the 40 Thieves: https://youtu.be/vsHS6lLrrf4
-
-
-🚩  Hansel and Gratel: https://youtu.be/jfg-CYLs9_s
-
-
-🚩  Jungle Book: https://youtu.be/BS_ofTKqR1w
-
-
-🚩  Pinocchio: https://youtu.be/aewbOlGXv6s
-
-
-🚩  Alaaddin and the Magic Lamp: https://youtu.be/w5Ga-iHRaPM
-
-
-🚩  Gingerbread Man: https://youtu.be/hsEorBffl3o
-
-
-🚩  Alice in Wonderland: https://youtu.be/8AaPHUYMnW8
-
-
-🚩  Thumbelina: https://youtu.be/sb5qTK8PYJE
-
-
-🚩  Puss in Boots: https://youtu.be/C6O9Af_SsnI
-
-
-🚩  Peter Pan: https://youtu.be/TjpZj6GK3L4
-
-
-🚩   Heidi: https://youtu.be/bVgWSqtHo2Q
-
-
-🚩  A Christmas Carol: https://youtu.be/KEIhYN_70EI
-
-
-🚩  Goldilock and Three Bears: https://youtu.be/Xdy6MOLPgDk
-
-
-🚩  Wizard of Oz: https://youtu.be/v4EzVo1poUs
-
-
-🚩  Rumpelstiltskin: https://youtu.be/JDB9lHsGV84
-
-
-🚩  The Shoemaker and The Elves: https://youtu.be/X0-9b0S42HI
-
-
-🚩  The Happy Prince: https://youtu.be/2vG-03Ru3M4
-
-
-
-
-👗** PRINCESS STORIES**👗
-
-
-🚩  Cinderella: https://youtu.be/DgwZebuIiXc 
-
-
-🚩  Rapunzel: https://youtu.be/N2DYQumSvCQ
-
-
-🚩  12 Dancing Princess: https://youtu.be/VnSdDcm4rdA
-
-
-🚩  Snow Queen: https://youtu.be/-Rkb88fPMd8
-
-
-🚩  Snow White: https://youtu.be/payHOUiOuxQ
-
-
-🚩  The Little Mermaid: https://youtu.be/pf_xz7GFCHw
-
-
-🚩  Sleeping Beauty: https://youtu.be/fz531jczzQ0
-
-
-🚩  Beauty and The Beast: https://youtu.be/fkCPEujxTho
-
-
-🚩  The Frog Prince: https://youtu.be/Dhq_FEUEc8Y
-
-
-🚩  Princess and the Pea: https://youtu.be/oGLg5khGlis
-
-
-#bedtimestoriesforkids #storiesforkidsAdisebaba #animation #cartoon1a:T638,Jack and his mother are so poor that they don't have anything to eat. Their hope is fading, until Jack meets a strange old man with a handful of magic beans. Enjoy this classic fairy tale.
+#MoanaAudiobook #DisneyMagic #AudiobookAdventure #MoanaFindsTheWay #JourneyWithMoana #OceanicOdyssey #FamilyListening #RediscoverDisney #ImaginationUnleashed1d:T638,Jack and his mother are so poor that they don't have anything to eat. Their hope is fading, until Jack meets a strange old man with a handful of magic beans. Enjoy this classic fairy tale.
 
 ******
 ❤️ Subscribe to our channel and receive updates of our totally new and original songs and Fairy Tales!  → http://bit.do/subscribe_gigglebox_tv
@@ -552,225 +491,4 @@ Please send us your feedback, suggestions and comments on social media.
 #jackandthebeanstalk #Gigglebox
 
 ► Parental guidance: Some material of this video may not be suitable for children’s Below 13 years of age.
-► Disclaimer Gigglebox Channel and all of its videos are not “directed to children” within the meaning of Title 16 C.F.R. § 312.2 of CHILDREN'S ONLINE PRIVACY PROTECTION ACT (USA) are not intended for children under 13 years of age. Gigglebox and its owner(s), agents, representatives, and employees do not collect any information from children under 13 years of age and expressly deny permission to any third party seeking to collect information from children under 13 years of age on behalf of Gigglebox CHANNEL. Further, Gigglebox CHANNEL denies any and all liability or responsibility for the practices and policies of YouTube and its agents and subsidiaries, or any other affiliated third party, regarding data collection.1b:T4af,Hansel and Gretel | Fairy Tales and Bedtime Stories for Kids in English | Storytime | Story Time
-❤️❤️❤️ Please Subscribe: https://goo.gl/qND9BT ❤️❤️❤️
-
-© 2020 Adisebaba Animation all rights reserved
-
-#FairyTalesandStoriesforKids 
-
-
-
-❤️🧚‍♀️❤️ 
-Considering the length of time that children spend in front of the screen, the effects of the content they follow becomes crucial to us. For this reason, as Adisebaba, our contents are prepared under the supervision of psychological counselor.
-❤️🧚‍♀️❤️
-
-
-👗** PRINCESS STORIES**👗
-
-🚩  Cinderella: https://youtu.be/DgwZebuIiXc 
-
-🚩  Rapunzel: https://youtu.be/N2DYQumSvCQ
-
-🚩  12 Dancing Princess: https://youtu.be/VnSdDcm4rdA
-
-🚩  Snow Queen: https://youtu.be/-Rkb88fPMd8
-
-🚩  Snow White: https://youtu.be/payHOUiOuxQ
-
-🚩  The Little Mermaid: https://youtu.be/pf_xz7GFCHw
-
-🚩  Sleeping Beauty: https://youtu.be/fz531jczzQ0
-
-🚩  Beauty and The Beast: https://youtu.be/fkCPEujxTho
-
-🚩  The Frog Prince: https://youtu.be/Dhq_FEUEc8Y
-
-🚩  Princess and the Pea: https://youtu.be/oGLg5khGlis
-
-
-#bedtimestoriesforkids #storiesforkidsAdisebaba #animation #cartoon #achristmascarol1c:Tba3,In one of the distant lands lived a beautiful red-haired princess. The red-haired Rose Princess used to sing a lullaby with the golden bird at night, making her people fall asleep. One day, the evil witch cast a spell on the Rose Princess. The princess, whose hair was black because of this spell, was no longer the same as before...
-
-
-Rose Princess and the Golden Bird | Bedtime Stories for Kids in English | Fairy Tales
-
-
-❤️❤️❤️ Please Subscribe: https://goo.gl/qND9BT ❤️❤️❤️
-
-© 2020 Adisebaba Animation all rights reserved
-
-#FairyTalesandStoriesforKids 
-
-❤️🧚‍♀️❤️ 
-Considering the length of time that children spend in front of the screen, the effects of the content they follow becomes crucial to us. For this reason, as Adisebaba, our contents are prepared under the supervision of psychological counselor.
-❤️🧚‍♀️❤️
-
-🐷** FABLES & MORAL STORIES ** 🐷
-
-🚩  The Wolf and The Seven Little Goats: https://youtu.be/OZl3gjh5IhM
-
-🚩  Lion and Mouse: https://youtu.be/DKgRHys6bfA
-
-🚩  The Ugly Duckling: https://youtu.be/X9BnQsQeadE
- 
-🚩  The Gingerbrad Man: https://youtu.be/hsEorBffl3o
- 
-🎈 **BEST CHILDREN'S CLASSICS**🎈 
-
-🚩  The Nutcracker: https://youtu.be/Y32nLilL1-s
-
-🚩  The Little Red Riding Hood: https://youtu.be/RT-EwqgHqCk
-
-🚩  Jack and the Beanstalk: https://youtu.be/Sg0Bf2VAvlk
-
-🚩  The Little Match Girl: https://youtu.be/LRjeVRpFRuM
-
-🚩  Ali Baba and the 40 Thieves: https://youtu.be/vsHS6lLrrf4
-
-🚩  Hansel and Gratel: https://youtu.be/jfg-CYLs9_s
-
-🚩  Jungle Book: https://youtu.be/BS_ofTKqR1w
-
-🚩  Pinocchio: https://youtu.be/aewbOlGXv6s
-
-🚩  Alaaddin and the Magic Lamp: https://youtu.be/w5Ga-iHRaPM
-
-🚩  Gingerbread Man: https://youtu.be/hsEorBffl3o
-
-🚩  Alice in Wonderland: https://youtu.be/8AaPHUYMnW8
-
-🚩  Thumbelina: https://youtu.be/sb5qTK8PYJE
-
-🚩  Puss in Boots: https://youtu.be/C6O9Af_SsnI
-
-🚩  Peter Pan: https://youtu.be/TjpZj6GK3L4
-
-🚩   Heidi: https://youtu.be/bVgWSqtHo2Q
-
-🚩  A Christmas Carol: https://youtu.be/KEIhYN_70EI
-
-🚩  Goldilock and Three Bears: https://youtu.be/Xdy6MOLPgDk
-
-🚩  Wizard of Oz: https://youtu.be/v4EzVo1poUs
-
-🚩  Rumpelstiltskin: https://youtu.be/JDB9lHsGV84
-
-🚩  The Shoemaker and The Elves: https://youtu.be/X0-9b0S42HI
-
-🚩  The Happy Prince: https://youtu.be/2vG-03Ru3M4
-
-
-👗** PRINCESS STORIES**👗
-
-🚩  Cinderella: https://youtu.be/DgwZebuIiXc 
-
-🚩  Rapunzel: https://youtu.be/N2DYQumSvCQ
-
-🚩  12 Dancing Princess: https://youtu.be/VnSdDcm4rdA
-
-🚩  Snow Queen: https://youtu.be/-Rkb88fPMd8
-
-🚩  Snow White: https://youtu.be/payHOUiOuxQ
-
-🚩  The Little Mermaid: https://youtu.be/pf_xz7GFCHw
-
-🚩  Sleeping Beauty: https://youtu.be/fz531jczzQ0
-
-🚩  Beauty and The Beast: https://youtu.be/fkCPEujxTho
-
-🚩  The Frog Prince: https://youtu.be/Dhq_FEUEc8Y
-
-🚩  Princess and the Pea: https://youtu.be/oGLg5khGlis
-
-#bedtimestoriesforkids #storiesforkidsAdisebaba #animation #cartoon1d:Ta10,The evil assistant takes the place of the real princess and the real princess is known as the assistant girl in the kingdom they go to. The princess becomes a goose herder. Until she caught the king's attention...
-
-You can watch the exciting story of the goose girl in this fairy tale!
-
-
-The Goose Girl | Bedtime Stories for Kids in English | Fairy Tales
-
-
-© 2020 Adisebaba Animation all rights reserved
-
-#FairyTalesandStoriesforKids 
-
-❤️🧚‍♀️❤️
-
-🐷** FABLES & MORAL STORIES ** 🐷
-
-🚩  The Wolf and The Seven Little Goats: https://youtu.be/OZl3gjh5IhM
-
-🚩  Lion and Mouse: https://youtu.be/DKgRHys6bfA
-
-🚩  The Ugly Duckling: https://youtu.be/X9BnQsQeadE
- 
-🚩  The Gingerbrad Man: https://youtu.be/hsEorBffl3o
- 
-🎈 **BEST CHILDREN'S CLASSICS**🎈 
-
-🚩  The Nutcracker: https://youtu.be/Y32nLilL1-s
-
-🚩  The Little Red Riding Hood: https://youtu.be/RT-EwqgHqCk
-
-🚩  Jack and the Beanstalk: https://youtu.be/Sg0Bf2VAvlk
-
-🚩  The Little Match Girl: https://youtu.be/LRjeVRpFRuM
-
-🚩  Ali Baba and the 40 Thieves: https://youtu.be/vsHS6lLrrf4
-
-🚩  Hansel and Gratel: https://youtu.be/jfg-CYLs9_s
-
-🚩  Jungle Book: https://youtu.be/BS_ofTKqR1w
-
-🚩  Pinocchio: https://youtu.be/aewbOlGXv6s
-
-🚩  Alaaddin and the Magic Lamp: https://youtu.be/w5Ga-iHRaPM
-
-🚩  Gingerbread Man: https://youtu.be/hsEorBffl3o
-
-🚩  Alice in Wonderland: https://youtu.be/8AaPHUYMnW8
-
-🚩  Thumbelina: https://youtu.be/sb5qTK8PYJE
-
-🚩  Puss in Boots: https://youtu.be/C6O9Af_SsnI
-
-🚩  Peter Pan: https://youtu.be/TjpZj6GK3L4
-
-🚩   Heidi: https://youtu.be/bVgWSqtHo2Q
-
-🚩  A Christmas Carol: https://youtu.be/KEIhYN_70EI
-
-🚩  Goldilock and Three Bears: https://youtu.be/Xdy6MOLPgDk
-
-🚩  Wizard of Oz: https://youtu.be/v4EzVo1poUs
-
-🚩  Rumpelstiltskin: https://youtu.be/JDB9lHsGV84
-
-🚩  The Shoemaker and The Elves: https://youtu.be/X0-9b0S42HI
-
-🚩  The Happy Prince: https://youtu.be/2vG-03Ru3M4
-
-
-👗** PRINCESS STORIES**👗
-
-🚩  Cinderella: https://youtu.be/DgwZebuIiXc 
-
-🚩  Rapunzel: https://youtu.be/N2DYQumSvCQ
-
-🚩  12 Dancing Princess: https://youtu.be/VnSdDcm4rdA
-
-🚩  Snow Queen: https://youtu.be/-Rkb88fPMd8
-
-🚩  Snow White: https://youtu.be/payHOUiOuxQ
-
-🚩  The Little Mermaid: https://youtu.be/pf_xz7GFCHw
-
-🚩  Sleeping Beauty: https://youtu.be/fz531jczzQ0
-
-🚩  Beauty and The Beast: https://youtu.be/fkCPEujxTho
-
-🚩  The Frog Prince: https://youtu.be/Dhq_FEUEc8Y
-
-🚩  Princess and the Pea: https://youtu.be/oGLg5khGlis
-
-#bedtimestoriesforkids #storiesforkidsAdisebaba #animation #cartoon #thegoosegirl2:["$","div",null,{"className":"space-y-8 pb-8","children":[["$","div",null,{"children":["$","$L10",null,{"href":"/","className":"inline-flex items-center gap-1.5 px-3 py-1.5 bg-white rounded-lg text-slate-600 font-semibold text-xs border border-slate-200 hover:border-purple-300 hover:text-purple-900 transition-colors shadow-subtle","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-3.5 h-3.5","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"Back to Discover"}]]}]}],["$","section",null,{"className":"bg-white rounded-2xl sm:rounded-3xl p-4 xs:p-6 sm:p-8 border border-slate-200/80 shadow-subtle space-y-3","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"px-2.5 py-0.5 bg-purple-100 text-purple-900 text-xs font-bold rounded-md uppercase tracking-wider","children":["Ages ","5–7"]}],["$","span",null,{"className":"text-xs text-slate-400 font-semibold","children":["• ",16," Videos"]}]]}],["$","h1",null,{"className":"text-xl xs:text-2xl sm:text-4xl font-black text-slate-900 tracking-tight","children":"Stories"}],["$","p",null,{"className":"text-slate-600 font-medium text-xs sm:text-base max-w-2xl leading-relaxed","children":"Magical stories"}],["$","div",null,{"className":"pt-2 flex items-center gap-2 text-xs font-medium text-slate-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-shield-check w-4 h-4 text-emerald-600 shrink-0","children":[["$","path","oel41y",{"d":"M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"}],["$","path","dzmm74",{"d":"m9 12 2 2 4-4"}],"$undefined"]}],["$","span",null,{"children":["Strict server-side safe query: \"","animated kids stories fairy tales read aloud bedtime","\""]}]]}]]}],["$","section",null,{"className":"space-y-4","children":[["$","h2",null,{"className":"text-lg sm:text-xl font-bold text-slate-900","children":"Watch & Learn"}],["$","div",null,{"className":"grid grid-cols-1 xs:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3.5 sm:gap-5","children":[["$","$L11","pckuS--UlV4",{"video":{"id":"pckuS--UlV4","title":"The Gingerbread Man | Full Story | Animated Fairy Tales For Children | 4K UHD","description":"$12","channelTitle":"Geethanjali Kids - Rhymes and Stories","channelId":"UCGVrxaJHUQHbPSUVDZ8sUVQ","publishedAt":"2016-10-29T07:47:10Z","duration":"12:19","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/pckuS--UlV4/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/pckuS--UlV4/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/pckuS--UlV4/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/pckuS--UlV4/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/pckuS--UlV4/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Stories"}],["$","$L11","1vOqQl0vJ4k",{"video":{"id":"1vOqQl0vJ4k","title":"The Three Billy Goats Gruff | Classic Bedtime Stories | Fairy Tales","description":"Once upon a time, there were three billy goats who wanted to cross a bridge to eat the delicious grass on the other side of the river. But under the bridge lived a big, mean, and ugly troll who wanted to eat them! Watch this classic fairy tale to see how the three goats outsmart the hungry troll.\n\nThis animated story is perfect for children, teaching valuable lessons about courage, cleverness, and bravery.\n\nThis video is a great tool for teaching English to kids and a fun way to share a classic tale.\n\n#FairyTales #KidsStories  The Three Billy Goats Gruff, #AnimatedStory, Kids Videos, Bedtime Stories, Children's Fables, Classic Fairy Tales, English Stories, Kids learning English, Troll, Billy Goats, Animation, Kids Cartoon`","channelTitle":"Zgapariko English","channelId":"UClQLt_rf19M2LoPqRFIMg6A","publishedAt":"2025-09-03T14:02:25Z","duration":"6:52","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/1vOqQl0vJ4k/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/1vOqQl0vJ4k/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/1vOqQl0vJ4k/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/1vOqQl0vJ4k/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/1vOqQl0vJ4k/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Stories"}],["$","$L11","VjIE-Sl-qKY",{"video":{"id":"VjIE-Sl-qKY","title":"Goldilocks and the Three Bears | Fairy Tales and Bedtime Stories for Kids in English | Storytime","description":"$13","channelTitle":"Fairy Tales and Stories for Kids","channelId":"UCOPzf8kf-FUDs32E7F2wGdg","publishedAt":"2020-07-25T11:00:14Z","duration":"19:32","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/VjIE-Sl-qKY/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/VjIE-Sl-qKY/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/VjIE-Sl-qKY/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/VjIE-Sl-qKY/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/VjIE-Sl-qKY/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Stories"}],["$","$L11","3QzT1sq6kCY",{"video":{"id":"3QzT1sq6kCY","title":"The Three Billy Goats Gruff | Fairy Tales | Gigglebox","description":"$14","channelTitle":"Gigglebox","channelId":"UCmnlBrE7TCf3wkrwd6mxPrQ","publishedAt":"2018-10-07T23:45:49Z","duration":"5:41","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/3QzT1sq6kCY/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/3QzT1sq6kCY/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/3QzT1sq6kCY/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/3QzT1sq6kCY/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/3QzT1sq6kCY/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Stories"}],["$","$L11","SRZLew1fFHY",{"video":{"id":"SRZLew1fFHY","title":"The Red Fish And The Shark Gang | Bedtime Stories for Kids in English | Fairy Tales","description":"$15","channelTitle":"Fairy Tales and Stories for Kids","channelId":"UCOPzf8kf-FUDs32E7F2wGdg","publishedAt":"2022-03-18T12:00:12Z","duration":"8:06","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/SRZLew1fFHY/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/SRZLew1fFHY/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/SRZLew1fFHY/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/SRZLew1fFHY/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/SRZLew1fFHY/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Stories"}],["$","$L11","9a9qNLUpkV8",{"video":{"id":"9a9qNLUpkV8","title":"Jack and the Beanstalk - UK English accent (TheFableCottage.com)","description":"Jack means well, but when he sells his family's only cow for a handful of beans, he's in deep trouble with his mother. Will those beans really make him \"richer than the richest man in the world?\"\n\nAn original retelling of the tale ©TheFableCottage.com.","channelTitle":"The Fable Cottage","channelId":"UCh6vBhXZTd0p_r5XIvdmLsA","publishedAt":"2022-09-12T23:57:44Z","duration":"13:44","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/9a9qNLUpkV8/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/9a9qNLUpkV8/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/9a9qNLUpkV8/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/9a9qNLUpkV8/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/9a9qNLUpkV8/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Stories"}],["$","$L11","HsOES1QEtyk",{"video":{"id":"HsOES1QEtyk","title":"The Ant and the Grasshopper 🐜🎻 Bedtime Stories for Kids | 3D Fairy Tale","description":"Watch the classic Aesop's Fable, \"The Ant and the Grasshopper\" brought to life in beautiful 3D animation! 🐜🎻 In this sunny meadow, the hardworking Ant gathers food for the cold winter, while the lazy Grasshopper just wants to play his fiddle and sing. What will happen when the snow starts to fall? ❄️\n\nThis educational bedtime story teaches children the valuable moral: \"Work first, play later!\" It is the perfect short story for kids, toddlers, and babies to learn about hard work, preparation, and the value of true friendship. \n\n✨ Subscribe to Zgapariko for more magical 3D fairy tales and animated bedtime stories in English! \n\n#TheAntAndTheGrasshopper #BedtimeStories #FairyTales #KidsAnimation","channelTitle":"Zgapariko English","channelId":"UClQLt_rf19M2LoPqRFIMg6A","publishedAt":"2026-03-20T07:22:21Z","duration":"10:39","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/HsOES1QEtyk/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/HsOES1QEtyk/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/HsOES1QEtyk/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/HsOES1QEtyk/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/HsOES1QEtyk/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Stories"}],["$","$L11","F198bDkOJz8",{"video":{"id":"F198bDkOJz8","title":"The Lazy Girl Story | Bedtime Stories for Kids in English | Fairy Tales","description":"$16","channelTitle":"Fairy Tales and Stories for Kids","channelId":"UCOPzf8kf-FUDs32E7F2wGdg","publishedAt":"2021-04-17T15:00:07Z","duration":"13:33","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/F198bDkOJz8/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/F198bDkOJz8/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/F198bDkOJz8/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/F198bDkOJz8/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/F198bDkOJz8/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Stories"}],["$","$L11","MJcWGOkbl10",{"video":{"id":"MJcWGOkbl10","title":"The Lost Dragon | Bedtime Stories for Kids in English | Fairy Tales","description":"$17","channelTitle":"Fairy Tales and Stories for Kids","channelId":"UCOPzf8kf-FUDs32E7F2wGdg","publishedAt":"2022-02-11T12:00:08Z","duration":"8:51","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/MJcWGOkbl10/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/MJcWGOkbl10/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/MJcWGOkbl10/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/MJcWGOkbl10/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/MJcWGOkbl10/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Stories"}],["$","$L11","g3zpDW7Rato",{"video":{"id":"g3zpDW7Rato","title":"The Original Story of Snow White And The Seven Dwarfs | Stories For Teenagers","description":"$18","channelTitle":"Magical Fairy Tales","channelId":"UC-sfDVEbCJheDbhzN2NUg4w","publishedAt":"2025-08-13T12:01:24Z","duration":"14:31","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/g3zpDW7Rato/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/g3zpDW7Rato/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/g3zpDW7Rato/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/g3zpDW7Rato/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/g3zpDW7Rato/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Stories"}],["$","$L11","dfueGxYy-_E",{"video":{"id":"dfueGxYy-_E","title":"Rapunzel: The Magical Story 🌟✨ | 3D 4K | Bedtime Stories for Kids in English | Fairy Tales","description":"$19","channelTitle":"Fairy Tales and Stories for Kids","channelId":"UCOPzf8kf-FUDs32E7F2wGdg","publishedAt":"2025-04-12T12:01:06Z","duration":"8:06","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/dfueGxYy-_E/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/dfueGxYy-_E/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/dfueGxYy-_E/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/dfueGxYy-_E/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/dfueGxYy-_E/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Stories"}],["$","$L11","-qxtmahpBwM",{"video":{"id":"-qxtmahpBwM","title":"Jack and The Bean Stalk | Fairy Tales | Gigglebox","description":"$1a","channelTitle":"Gigglebox","channelId":"UCmnlBrE7TCf3wkrwd6mxPrQ","publishedAt":"2021-06-11T00:44:58Z","duration":"10:00","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/-qxtmahpBwM/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/-qxtmahpBwM/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/-qxtmahpBwM/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/-qxtmahpBwM/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/-qxtmahpBwM/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Stories"}],["$","$L11","8CS8AcqaaU0",{"video":{"id":"8CS8AcqaaU0","title":"Hansel and Gretel | Fairy Tales and Bedtime Stories for Kids in English | Storytime | Story Time","description":"$1b","channelTitle":"Fairy Tales and Stories for Kids","channelId":"UCOPzf8kf-FUDs32E7F2wGdg","publishedAt":"2020-08-22T11:00:01Z","duration":"17:47","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/8CS8AcqaaU0/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/8CS8AcqaaU0/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/8CS8AcqaaU0/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/8CS8AcqaaU0/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/8CS8AcqaaU0/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Stories"}],["$","$L11","1sL2lieER-E",{"video":{"id":"1sL2lieER-E","title":"Rose Princess and the Golden Bird | Bedtime Stories for Kids in English | Fairy Tales","description":"$1c","channelTitle":"Fairy Tales and Stories for Kids","channelId":"UCOPzf8kf-FUDs32E7F2wGdg","publishedAt":"2022-11-25T12:00:02Z","duration":"9:07","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/1sL2lieER-E/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/1sL2lieER-E/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/1sL2lieER-E/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/1sL2lieER-E/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/1sL2lieER-E/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Stories"}],["$","$L11","DNg26rPHAFo",{"video":{"id":"DNg26rPHAFo","title":"Jack and the Beanstalk | Magical Fairy Tale for Kids","description":"In this enchanting retelling of Jack and the Beanstalk, children will enjoy a story filled with wonder, courage, and a timeless lesson: even small people can do big, brave things. \n\nA boy named Jack traded his family’s cow for three mysterious beans… and discovered a magical adventure that reached all the way to the clouds!\n\nThis story is perfect for bedtime, classroom storytelling, or anyone who loves classic fairy tales brought to life with magic, adventure, and a gentle moral at the end.\n\nSubscribe for more magical fairy tales, stories and myths!\n👉 https://www.youtube.com/channel/UC4Mbu--dYvYyotnRyhPu3QAsub_confirmation=1\n\nMore magical adventures coming soon!\n\nIf you love magical stories like Jack and the Beanstalk, don't forget to LIKE and SHARE this video.","channelTitle":"Little Legends Tales and Tunes","channelId":"UC4Mbu--dYvYyotnRyhPu3QA","publishedAt":"2025-08-23T06:00:19Z","duration":"7:33","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/DNg26rPHAFo/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/DNg26rPHAFo/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/DNg26rPHAFo/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/DNg26rPHAFo/sddefault.jpg","width":640,"height":480}}},"categoryLabel":"Stories"}],["$","$L11","ps0YK8N1eZY",{"video":{"id":"ps0YK8N1eZY","title":"The Goose Girl | Bedtime Stories for Kids in English | Fairy Tales","description":"$1d","channelTitle":"Fairy Tales and Stories for Kids","channelId":"UCOPzf8kf-FUDs32E7F2wGdg","publishedAt":"2021-06-12T15:00:21Z","duration":"11:33","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/ps0YK8N1eZY/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/ps0YK8N1eZY/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/ps0YK8N1eZY/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/ps0YK8N1eZY/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/ps0YK8N1eZY/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Stories"}]]}]]}]]}]
+► Disclaimer Gigglebox Channel and all of its videos are not “directed to children” within the meaning of Title 16 C.F.R. § 312.2 of CHILDREN'S ONLINE PRIVACY PROTECTION ACT (USA) are not intended for children under 13 years of age. Gigglebox and its owner(s), agents, representatives, and employees do not collect any information from children under 13 years of age and expressly deny permission to any third party seeking to collect information from children under 13 years of age on behalf of Gigglebox CHANNEL. Further, Gigglebox CHANNEL denies any and all liability or responsibility for the practices and policies of YouTube and its agents and subsidiaries, or any other affiliated third party, regarding data collection.2:["$","div",null,{"className":"space-y-8 pb-8","children":[["$","div",null,{"children":["$","$L10",null,{"href":"/","className":"inline-flex items-center gap-1.5 px-3 py-1.5 bg-white rounded-lg text-slate-600 font-semibold text-xs border border-slate-200 hover:border-purple-300 hover:text-purple-900 transition-colors shadow-subtle","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-3.5 h-3.5","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"Back to Discover"}]]}]}],["$","section",null,{"className":"bg-white rounded-2xl sm:rounded-3xl p-4 xs:p-6 sm:p-8 border border-slate-200/80 shadow-subtle space-y-3","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"px-2.5 py-0.5 bg-purple-100 text-purple-900 text-xs font-bold rounded-md uppercase tracking-wider","children":["Ages ","5–7"]}],["$","span",null,{"className":"text-xs text-slate-400 font-semibold","children":["• ",16," Videos"]}]]}],["$","h1",null,{"className":"text-xl xs:text-2xl sm:text-4xl font-black text-slate-900 tracking-tight","children":"Stories"}],["$","p",null,{"className":"text-slate-600 font-medium text-xs sm:text-base max-w-2xl leading-relaxed","children":"Magical stories"}],["$","div",null,{"className":"pt-2 flex items-center gap-2 text-xs font-medium text-slate-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-shield-check w-4 h-4 text-emerald-600 shrink-0","children":[["$","path","oel41y",{"d":"M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"}],["$","path","dzmm74",{"d":"m9 12 2 2 4-4"}],"$undefined"]}],["$","span",null,{"children":["Strict server-side safe query: \"","animated kids stories fairy tales read aloud bedtime","\""]}]]}]]}],["$","section",null,{"className":"space-y-4","children":[["$","h2",null,{"className":"text-lg sm:text-xl font-bold text-slate-900","children":"Watch & Learn"}],["$","div",null,{"className":"grid grid-cols-1 xs:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3.5 sm:gap-5","children":[["$","$L11","pckuS--UlV4",{"video":{"id":"pckuS--UlV4","title":"The Gingerbread Man | Full Story | Animated Fairy Tales For Children | 4K UHD","description":"$12","channelTitle":"Geethanjali Kids - Rhymes and Stories","channelId":"UCGVrxaJHUQHbPSUVDZ8sUVQ","publishedAt":"2016-10-29T07:47:10Z","duration":"12:19","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/pckuS--UlV4/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/pckuS--UlV4/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/pckuS--UlV4/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/pckuS--UlV4/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/pckuS--UlV4/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Stories"}],["$","$L11","i4CPSH6eQWE",{"video":{"id":"i4CPSH6eQWE","title":"The Very Hungry Caterpillar | Bedtime stories for kids | Fairy tales for toddlers with Moral lessons","description":"$13","channelTitle":"Twinkle Tales Time","channelId":"UCKGzPNpaB8Bc6ZPov69gh2A","publishedAt":"2025-08-09T00:15:33Z","duration":"4:57","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/i4CPSH6eQWE/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/i4CPSH6eQWE/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/i4CPSH6eQWE/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/i4CPSH6eQWE/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/i4CPSH6eQWE/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Stories"}],["$","$L11","VjIE-Sl-qKY",{"video":{"id":"VjIE-Sl-qKY","title":"Goldilocks and the Three Bears | Fairy Tales and Bedtime Stories for Kids in English | Storytime","description":"$14","channelTitle":"Fairy Tales and Stories for Kids","channelId":"UCOPzf8kf-FUDs32E7F2wGdg","publishedAt":"2020-07-25T11:00:14Z","duration":"19:32","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/VjIE-Sl-qKY/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/VjIE-Sl-qKY/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/VjIE-Sl-qKY/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/VjIE-Sl-qKY/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/VjIE-Sl-qKY/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Stories"}],["$","$L11","3QzT1sq6kCY",{"video":{"id":"3QzT1sq6kCY","title":"The Three Billy Goats Gruff | Fairy Tales | Gigglebox","description":"$15","channelTitle":"Gigglebox","channelId":"UCmnlBrE7TCf3wkrwd6mxPrQ","publishedAt":"2018-10-07T23:45:49Z","duration":"5:41","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/3QzT1sq6kCY/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/3QzT1sq6kCY/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/3QzT1sq6kCY/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/3QzT1sq6kCY/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/3QzT1sq6kCY/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Stories"}],["$","$L11","OSWLxj4kTKA",{"video":{"id":"OSWLxj4kTKA","title":"The Ugly Duckling | Full Story |  Fairytale | Bedtime Stories For Kids | 4K UHD","description":"$16","channelTitle":"Geethanjali Kids - Rhymes and Stories","channelId":"UCGVrxaJHUQHbPSUVDZ8sUVQ","publishedAt":"2017-03-17T12:06:00Z","duration":"9:43","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/OSWLxj4kTKA/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/OSWLxj4kTKA/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/OSWLxj4kTKA/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/OSWLxj4kTKA/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/OSWLxj4kTKA/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Stories"}],["$","$L11","uyZTIuTwSMc",{"video":{"id":"uyZTIuTwSMc","title":"The Brave Little Dragon | Animated Short Film | Kids Bedtime Story | Read aloud | English Fairy Tale","description":"Join Ember, a small dragon with an unpredictable flame, as she faces the biggest storm of her life! Despite being teased, Ember believes in herself and proves that true strength comes from within. This inspiring tale will show you how courage and determination can conquer any challenge. ✨ Perfect for all ages!\n\nThis moral story is perfect for kids and families, teaching valuable lessons about humility, friendship, and appreciating different strengths. Made with AI animation, it brings a classic fable feel to life!\n✨ Ideal for toddlers, preschoolers, and young children.\n\n💤 A calming, non-stimulating tale for bedtime.🎨 Full of colorful characters, magical landscapes, and important life lessons.\n\n👍 If you loved this story, give it a thumbs up and subscribe!\n\n#storytime  #kidscartoon  #moralstories  #bedtimetraditions #bedtimeforkids  #fairytaleseveryday  #princessstory #dragontale #fairytale #fairytaleseveryday  #truebeauty  #teamwork  #storytime  #kidsstories  #lessonforkids","channelTitle":"Toon Tales & More","channelId":"UCsGbBgxxGoPgoKc1xsOM45A","publishedAt":"2025-06-30T21:18:46Z","duration":"5:54","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/uyZTIuTwSMc/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/uyZTIuTwSMc/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/uyZTIuTwSMc/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/uyZTIuTwSMc/sddefault.jpg","width":640,"height":480}}},"categoryLabel":"Stories"}],["$","$L11","0YuIrp3Hu18",{"video":{"id":"0YuIrp3Hu18","title":"Little Red Riding Hood  | Folktales | Stories for Kids | Bedtime Stories","description":"Little Red Riding Hood\n\nA girl named Little Red Riding Hood meets a big, bad wolf on her way to Grandma's house!\n\nVisit https://www.littlefox.com/ for more of our fun animated stories and songs for kids and ESL learners!","channelTitle":"Little Fox - Kids Stories and Songs","channelId":"UCXRPWm72nrs5sK7fNTSXZrw","publishedAt":"2019-05-11T01:00:00Z","duration":"6:43","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/0YuIrp3Hu18/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/0YuIrp3Hu18/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/0YuIrp3Hu18/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/0YuIrp3Hu18/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/0YuIrp3Hu18/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Stories"}],["$","$L11","y2MroIbueUs",{"video":{"id":"y2MroIbueUs","title":"The Very Hungry Caterpillar | Bedtime stories for kids | Fairy tales for toddlers with Moral lessons","description":"Music video by Binod performing The Very Hungry Caterpillar | Bedtime stories for kids | Fairy tales for toddlers with Moral lessons.Binod","channelTitle":"ShekhTanveerVEVO","channelId":"UCHaEFSnuEenvhzn-PAaKi1w","publishedAt":"2026-04-24T19:20:31Z","duration":"4:58","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/y2MroIbueUs/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/y2MroIbueUs/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/y2MroIbueUs/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/y2MroIbueUs/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/y2MroIbueUs/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Stories"}],["$","$L11","LDMWJCrDVMI",{"video":{"id":"LDMWJCrDVMI","title":"Little Red Riding Hood | Fairy Tales | Gigglebox","description":"$17","channelTitle":"Gigglebox","channelId":"UCmnlBrE7TCf3wkrwd6mxPrQ","publishedAt":"2019-08-09T07:40:43Z","duration":"5:30","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/LDMWJCrDVMI/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/LDMWJCrDVMI/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/LDMWJCrDVMI/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/LDMWJCrDVMI/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/LDMWJCrDVMI/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Stories"}],["$","$L11","K7evZs9iRoU",{"video":{"id":"K7evZs9iRoU","title":"🦙Llama Llama Red Pajama - Animated Read Aloud Book","description":"$18","channelTitle":"Reading is","channelId":"UC0MXCIEspd1cBXivnaeVRTQ","publishedAt":"2023-09-22T13:00:27Z","duration":"5:31","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/K7evZs9iRoU/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/K7evZs9iRoU/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/K7evZs9iRoU/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/K7evZs9iRoU/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/K7evZs9iRoU/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Stories"}],["$","$L11","pFy3Wnmchd8",{"video":{"id":"pFy3Wnmchd8","title":"Hansel and Gretel | Fairy Tales | Gigglebox","description":"$19","channelTitle":"Gigglebox","channelId":"UCmnlBrE7TCf3wkrwd6mxPrQ","publishedAt":"2021-09-15T10:34:18Z","duration":"10:17","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/pFy3Wnmchd8/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/pFy3Wnmchd8/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/pFy3Wnmchd8/hqdefault.jpg","width":480,"height":360}}},"categoryLabel":"Stories"}],["$","$L11","ADi7F695d90",{"video":{"id":"ADi7F695d90","title":"Magic Pot | Bedtime Stories for Kids in English | Fairy Tales","description":"$1a","channelTitle":"Fairy Tales and Stories for Kids","channelId":"UCOPzf8kf-FUDs32E7F2wGdg","publishedAt":"2021-12-11T13:00:03Z","duration":"5:33","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/ADi7F695d90/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/ADi7F695d90/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/ADi7F695d90/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/ADi7F695d90/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/ADi7F695d90/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Stories"}],["$","$L11","DVkPeHXjCQA",{"video":{"id":"DVkPeHXjCQA","title":"Three Little Pigs - Pizza Party | Bedtime Stories for Kids in English | Fairy Tales","description":"$1b","channelTitle":"Fairy Tales and Stories for Kids","channelId":"UCOPzf8kf-FUDs32E7F2wGdg","publishedAt":"2023-04-28T12:00:20Z","duration":"8:25","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/DVkPeHXjCQA/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/DVkPeHXjCQA/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/DVkPeHXjCQA/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/DVkPeHXjCQA/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/DVkPeHXjCQA/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Stories"}],["$","$L11","A2PSrjfmu5c",{"video":{"id":"A2PSrjfmu5c","title":"Moana 🌊 Short Disney Princess Adventure Bedtime Stories for Kids Read Aloud | Audiobook","description":"$1c","channelTitle":"Story Time Stars","channelId":"UCuiMLbJid1LKmw_YMhouIUQ","publishedAt":"2023-08-31T19:05:56Z","duration":"6:19","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/A2PSrjfmu5c/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/A2PSrjfmu5c/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/A2PSrjfmu5c/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/A2PSrjfmu5c/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/A2PSrjfmu5c/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Stories"}],["$","$L11","-qxtmahpBwM",{"video":{"id":"-qxtmahpBwM","title":"Jack and The Bean Stalk | Fairy Tales | Gigglebox","description":"$1d","channelTitle":"Gigglebox","channelId":"UCmnlBrE7TCf3wkrwd6mxPrQ","publishedAt":"2021-06-11T00:44:58Z","duration":"10:00","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/-qxtmahpBwM/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/-qxtmahpBwM/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/-qxtmahpBwM/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/-qxtmahpBwM/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/-qxtmahpBwM/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Stories"}],["$","$L11","HsOES1QEtyk",{"video":{"id":"HsOES1QEtyk","title":"The Ant and the Grasshopper 🐜🎻 Bedtime Stories for Kids | 3D Fairy Tale","description":"Watch the classic Aesop's Fable, \"The Ant and the Grasshopper\" brought to life in beautiful 3D animation! 🐜🎻 In this sunny meadow, the hardworking Ant gathers food for the cold winter, while the lazy Grasshopper just wants to play his fiddle and sing. What will happen when the snow starts to fall? ❄️\n\nThis educational bedtime story teaches children the valuable moral: \"Work first, play later!\" It is the perfect short story for kids, toddlers, and babies to learn about hard work, preparation, and the value of true friendship. \n\n✨ Subscribe to Zgapariko for more magical 3D fairy tales and animated bedtime stories in English! \n\n#TheAntAndTheGrasshopper #BedtimeStories #FairyTales #KidsAnimation","channelTitle":"Zgapariko English","channelId":"UClQLt_rf19M2LoPqRFIMg6A","publishedAt":"2026-03-20T07:22:21Z","duration":"10:39","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/HsOES1QEtyk/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/HsOES1QEtyk/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/HsOES1QEtyk/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/HsOES1QEtyk/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/HsOES1QEtyk/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Stories"}]]}]]}]]}]

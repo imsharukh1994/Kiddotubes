@@ -16,7 +16,7 @@ interface SubscriptionProduct {
 }
 
 export default function PremiumPage() {
-  const { user, isPremium } = useAuth();
+  const { isPremium } = useAuth();
   const [billingCycle, setBillingCycle] = useState<'monthly' | 'annual'>('annual');
   const [isSuccess, setIsSuccess] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
@@ -207,7 +207,7 @@ export default function PremiumPage() {
             {/* Subscribe Button */}
             <button
               type="button"
-              disabled={isLoading}
+              disabled={isLoading || isPremium}
               onClick={handleSubscribe}
               className="w-full py-4 bg-gradient-to-r from-amber-400 via-amber-500 to-amber-600 hover:from-amber-500 hover:to-amber-700 text-slate-950 font-black text-sm rounded-2xl shadow-lg hover:shadow-xl transition-all active:scale-95 flex items-center justify-center gap-2 disabled:opacity-75"
             >
@@ -219,7 +219,7 @@ export default function PremiumPage() {
               ) : (
                 <>
                   <Crown className="w-5 h-5 fill-current text-slate-950" />
-                  <span>{user?.isPremium ? 'Active Premium Member' : 'Subscribe via Google Play'}</span>
+                  <span>{isPremium ? 'Active Premium Member' : 'Subscribe via Google Play'}</span>
                 </>
               )}
             </button>

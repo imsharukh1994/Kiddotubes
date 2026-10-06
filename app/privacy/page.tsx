@@ -116,7 +116,7 @@ export default function PrivacyPolicyPage() {
             <span>2. COPPA & GDPR-K Compliance</span>
           </h2>
           <p>
-            Under the Children's Online Privacy Protection Act (COPPA) and GDPR-Kids guidelines, we do not intentionally request or harvest personal data from children under 13 years of age. All user accounts must be established by a parent or legal guardian.
+            Under the Children&apos;s Online Privacy Protection Act (COPPA) and GDPR-Kids guidelines, we do not intentionally request or harvest personal data from children under 13 years of age. All user accounts must be established by a parent or legal guardian.
           </p>
         </section>
 
@@ -124,7 +124,7 @@ export default function PrivacyPolicyPage() {
         <section className="space-y-3 border-t border-slate-100 pt-6">
           <h2 className="text-lg font-black text-slate-900">3. Your Data Deletion & Privacy Rights</h2>
           <p>
-            Parents have complete control over stored data. You can clear watch history and saved favorites anytime from your profile settings or by clicking "Clear Browser Storage" in the parent dashboard (`/parents`).
+            Parents have complete control over stored data. You can clear watch history and saved favorites anytime from your profile settings or by clicking &quot;Clear Browser Storage&quot; in the parent dashboard (`/parents`).
           </p>
         </section>
 

@@ -48,7 +48,7 @@ export default function TermsOfServicePage() {
             <span>Acceptance of Terms</span>
           </h2>
           <p>
-            By accessing or using the KiddoTube platform, website, or mobile applications ("Service"), you agree to be bound by these Terms of Service. If you are a parent or legal guardian accessing KiddoTube on behalf of a child, you agree to accept responsibility for your child’s compliance with these Terms.
+            By accessing or using the KiddoTube platform, website, or mobile applications (&quot;Service&quot;), you agree to be bound by these Terms of Service. If you are a parent or legal guardian accessing KiddoTube on behalf of a child, you agree to accept responsibility for your child’s compliance with these Terms.
           </p>
         </section>
 
@@ -86,7 +86,7 @@ export default function TermsOfServicePage() {
             <span>KiddoTube Premium Subscriptions & Billing</span>
           </h2>
           <p>
-            KiddoTube offers optional Premium Subscriptions ("KiddoTube Premium Pass") on a monthly ($4.99/mo) or annual ($29.99/yr) basis:
+            KiddoTube offers optional Premium Subscriptions (&quot;KiddoTube Premium Pass&quot;) on a monthly ($4.99/mo) or annual ($29.99/yr) basis:
           </p>
           <ul className="list-disc pl-5 space-y-1 text-xs sm:text-sm font-medium text-slate-600">
             <li><strong>7-Day Free Trial</strong>: New subscribers may receive a 7-day free trial. You may cancel at any time before the trial ends without being charged.</li>

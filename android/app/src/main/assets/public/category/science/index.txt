@@ -1,46 +1,21 @@
 3:I[4707,[],""]
 5:I[6423,[],""]
-6:I[575,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","602","static/chunks/602-dd11d6db8949b247.js","494","static/chunks/494-396162d18046f1e8.js","185","static/chunks/app/layout-de22be9cfd77eb5e.js"],"AuthProvider"]
-7:I[1196,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","602","static/chunks/602-dd11d6db8949b247.js","494","static/chunks/494-396162d18046f1e8.js","185","static/chunks/app/layout-de22be9cfd77eb5e.js"],"TimerProvider"]
-8:I[842,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","602","static/chunks/602-dd11d6db8949b247.js","494","static/chunks/494-396162d18046f1e8.js","185","static/chunks/app/layout-de22be9cfd77eb5e.js"],"default"]
-9:I[8349,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","602","static/chunks/602-dd11d6db8949b247.js","494","static/chunks/494-396162d18046f1e8.js","185","static/chunks/app/layout-de22be9cfd77eb5e.js"],"default"]
-a:I[3313,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","602","static/chunks/602-dd11d6db8949b247.js","494","static/chunks/494-396162d18046f1e8.js","185","static/chunks/app/layout-de22be9cfd77eb5e.js"],"default"]
-b:I[6733,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","602","static/chunks/602-dd11d6db8949b247.js","494","static/chunks/494-396162d18046f1e8.js","185","static/chunks/app/layout-de22be9cfd77eb5e.js"],"default"]
-c:I[3633,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","602","static/chunks/602-dd11d6db8949b247.js","494","static/chunks/494-396162d18046f1e8.js","185","static/chunks/app/layout-de22be9cfd77eb5e.js"],"default"]
-d:I[833,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","602","static/chunks/602-dd11d6db8949b247.js","494","static/chunks/494-396162d18046f1e8.js","185","static/chunks/app/layout-de22be9cfd77eb5e.js"],"default"]
-e:I[5050,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","602","static/chunks/602-dd11d6db8949b247.js","494","static/chunks/494-396162d18046f1e8.js","185","static/chunks/app/layout-de22be9cfd77eb5e.js"],"default"]
+6:I[2906,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","602","static/chunks/602-dd11d6db8949b247.js","939","static/chunks/939-4ee698a395686017.js","185","static/chunks/app/layout-86d42cf68a26bf43.js"],"AuthProvider"]
+7:I[1196,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","602","static/chunks/602-dd11d6db8949b247.js","939","static/chunks/939-4ee698a395686017.js","185","static/chunks/app/layout-86d42cf68a26bf43.js"],"TimerProvider"]
+8:I[842,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","602","static/chunks/602-dd11d6db8949b247.js","939","static/chunks/939-4ee698a395686017.js","185","static/chunks/app/layout-86d42cf68a26bf43.js"],"default"]
+9:I[8349,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","602","static/chunks/602-dd11d6db8949b247.js","939","static/chunks/939-4ee698a395686017.js","185","static/chunks/app/layout-86d42cf68a26bf43.js"],"default"]
+a:I[3313,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","602","static/chunks/602-dd11d6db8949b247.js","939","static/chunks/939-4ee698a395686017.js","185","static/chunks/app/layout-86d42cf68a26bf43.js"],"default"]
+b:I[6733,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","602","static/chunks/602-dd11d6db8949b247.js","939","static/chunks/939-4ee698a395686017.js","185","static/chunks/app/layout-86d42cf68a26bf43.js"],"default"]
+c:I[3633,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","602","static/chunks/602-dd11d6db8949b247.js","939","static/chunks/939-4ee698a395686017.js","185","static/chunks/app/layout-86d42cf68a26bf43.js"],"default"]
+d:I[833,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","602","static/chunks/602-dd11d6db8949b247.js","939","static/chunks/939-4ee698a395686017.js","185","static/chunks/app/layout-86d42cf68a26bf43.js"],"default"]
+e:I[5050,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","602","static/chunks/602-dd11d6db8949b247.js","939","static/chunks/939-4ee698a395686017.js","185","static/chunks/app/layout-86d42cf68a26bf43.js"],"default"]
 4:["category","science","d"]
-0:["Y3xyAaPitGJd5bH01Yazo",[[["",{"children":["category",{"children":[["category","science","d"],{"children":["__PAGE__?{\"category\":\"science\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["category",{"children":[["category","science","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","category","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","category","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/0b270ba66c2a134c.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"bg-[#F8FAFC] text-slate-900 font-sans min-h-screen flex flex-col antialiased pb-16 md:pb-0","children":["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","main",null,{"className":"flex-1 max-w-[1440px] w-full mx-auto px-4 xs:px-5 sm:px-8 lg:px-12 py-4 sm:py-8","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}],["$","$Le",null,{}]]}]}]}]}]],null],null],["$Lf",null]]]]
+0:["P2gK3vq0zW7vIr_RS1z8B",[[["",{"children":["category",{"children":[["category","science","d"],{"children":["__PAGE__?{\"category\":\"science\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["category",{"children":[["category","science","d"],{"children":["__PAGE__",{},[["$L1","$L2",null],null],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","category","children","$4","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[null,["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","category","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/d2f368d763c27031.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"bg-[#F8FAFC] text-slate-900 font-sans min-h-screen flex flex-col antialiased pb-16 md:pb-0","children":["$","$L6",null,{"children":["$","$L7",null,{"children":[["$","$L8",null,{}],["$","main",null,{"className":"flex-1 max-w-[1440px] w-full mx-auto px-4 xs:px-5 sm:px-8 lg:px-12 py-4 sm:py-8","children":["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","$Ld",null,{}],["$","$Le",null,{}]]}]}]}]}]],null],null],["$Lf",null]]]]
 f:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Science Videos — KiddoTube"}],["$","meta","3",{"name":"description","content":"Explore & learn"}],["$","meta","4",{"name":"keywords","content":"Kids Videos,KiddoTube,Educational Videos,Nursery Rhymes,Safe Content Discovery"}],["$","link","5",{"rel":"shortcut icon","href":"/images/favicon.png"}],["$","link","6",{"rel":"icon","href":"/images/favicon.png"}],["$","link","7",{"rel":"apple-touch-icon","href":"/images/favicon.png"}]]
 1:null
 10:I[2972,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","130","static/chunks/app/category/%5Bcategory%5D/page-f5e524b6907ef51d.js"],""]
 11:I[265,["635","static/chunks/635-85013b17f034f495.js","145","static/chunks/145-0a5998591d0b8743.js","130","static/chunks/app/category/%5Bcategory%5D/page-f5e524b6907ef51d.js"],"default"]
-12:T754,🌎 30 Fun Science & Nature Quiz Questions for Kids! 🚀🦁🌳
-
-Can your child answer all 30 questions correctly? Join us for a fun and educational quiz adventure designed especially for kids, preschoolers, kindergarteners, and young learners!
-
-In this exciting kids quiz, children will explore:
-🌍 Geography – Earth, oceans, continents, and weather
-🚀 Astronomy – The Sun, Moon, planets, and space
-🦁 Biology – Animals, plants, and living things
-⚡ Basic Physics – Gravity, magnets, heat, and more
-
-Each question includes multiple-choice answers and encouraging feedback to help children learn while having fun. Perfect for family game time, classroom activities, homeschooling, preschool learning, kindergarten lessons, and educational entertainment.
-
-⭐ Great for ages 3–8
-⭐ Fun and easy questions
-⭐ Improves general knowledge
-⭐ Supports early science learning
-⭐ Family-friendly educational content
-
-How many answers can you get right? Let us know your score in the comments!
-
-👍 Like this video if you enjoyed the quiz
-🔔 Subscribe for more fun quizzes, science facts, and educational videos for kids
-
-#KidsQuiz #ScienceForKids #NatureQuiz #EducationalVideos #LearningForKids #PreschoolLearning #Kindergarten #KidsScience #GeographyForKids #AstronomyForKids #BiologyForKids #PhysicsForKids #FunLearning #Homeschool #KidsTrivia #EducationalQuiz #STEMForKids #QuizTime #GeneralKnowledgeForKids #FamilyLearning
-
-Keywords: kids quiz, science quiz for kids, nature quiz, educational videos for kids, preschool quiz, kindergarten learning, STEM for kids, geography quiz, astronomy quiz, biology quiz, physics quiz, easy quiz for children, fun learning activities, kids trivia questions, children's educational content, homeschool resources, family quiz game, learning games for kids, general knowledge quiz for kids, science facts for children.13:T897,Animal adaptations for kids is a video that explores the different ways that animals can adapt to their environments.  There is a number of ways that different animals do this, from Migration or Hibernation, to Body Structures and even changing their colors and in this video we will explore them all.  There are different kind of animal adaptions Behavioral Adaptions, Physical Adaptions, and Life Cycle Adaptions each animal might use a different technique but ultimately they are adapting to survive in their environment. 
+12:T897,Animal adaptations for kids is a video that explores the different ways that animals can adapt to their environments.  There is a number of ways that different animals do this, from Migration or Hibernation, to Body Structures and even changing their colors and in this video we will explore them all.  There are different kind of animal adaptions Behavioral Adaptions, Physical Adaptions, and Life Cycle Adaptions each animal might use a different technique but ultimately they are adapting to survive in their environment. 
 
 After viewing this video we invite you to download and go through our free Animal Adaptations lesson plan with more activities, learning content, worksheets and more! When completed your students will be able to identify and describe various animal adaptations used for survival in the environment.
 
@@ -66,45 +41,7 @@ Website: https://learnbright.org/
 
 Browse our entire collection of Science lesson plans: https://learnbright.org/lessons/?filter_subject=science
 
-#AnimalAdaptationsForKids14:T9cd,Blippi explores the Pacific Science Center for craft inspiration to make a rocket ship.
-
-https://www.youtube.com/channel/UCKjjmMqvuxNYw8c6knceexQ?sub_confirmation=1
-
-For more Blippi videos and Blippi songs be sure to SUBSCRIBE:
-🔔 https://www.youtube.com/channel/UCKjjmMqvuxNYw8c6knceexQ?sub_confirmation=1 🔔
-
-Brand New Blippi Episodes Every Saturday!
-https://www.youtube.com/watch?v=5_lGysdHLFQ&list=PLzgk_uTg08P-2LCpM-FK-_Mhb7anv2fBY&index=2
-
-Blippi Website ► https://www.blippi.com/
-Music ► https://blippi.lnk.to/BlippiCompleteCollectionYT
-Instagram ► instagram.com/blippi
-Facebook ► facebook.com/Blippi
-TikTok ► tiktok.com/@blippi
-Moonbug ►moonbug.com/about
-Play Blippi's Curiosity Club App on iOS ► https://apps.apple.com/gb/app/blippis-curiosity-club/id6743079008
-Play Blippi's Curiosity Club App on Android ► https://play.google.com/store/apps/details?id=com.moonbug.blippilearn
-
-Thanks for watching this Blippi play and learn video with Blippi's songs for toddlers and videos for toddlers.
-
-More educational fun for kids with Blippi: https://www.youtube.com/watch?v=LfuEad93Ap0&list=PLzgk_uTg08P-UbUdr1x0gPdC5tVAixw8_&index=2
-
-Learn Machines with Blippi: https://www.youtube.com/watch?v=eTvrSLFWmLo&list=PLzgk_uTg08P_nhILV2WV8LEAeSwOmVqNQ&index=2
-
-Blippi Sink Or Float: https://www.youtube.com/watch?v=astwv4c_iP0
-
-Blippi Learns About Bubbles: https://www.youtube.com/watch?v=Enbvtr78mqo
-
-Blippi Makes Healthy Fruit Popsicles: https://www.youtube.com/watch?v=CxKN-Aab3U0
-
-Blippi The Pirate! https://www.youtube.com/watch?v=1jDjonQpLz0
-
-Come explore the wonderous world with everybody's best friend, Blippi. How does a recycling truck work? What does a baker do? What is the best playground around? There are so many exciting things to explore and learn. Feed your kids’ curiosity while they learn about vehicles, animals, the natural world and so much more. Blippi helps children‘s understanding of the world and encourages vocabulary development. Blippi loves visiting exciting places such as children’s museums and the zoo! He loves singing, dancing, playing and exploring. His contagious curiosity engages young viewers in learning adventures that help them both grow and develop.
-
-Learn colors and science with Blippi! Join Blippi to have with rainbow colors, do science experiments, and explore the scientific world in these educational videos for kids.
-
-#blippi #meekah #blippilearns
-© Moonbug Entertainment. All rights Reserved.15:T60c,There are so many fun experiments that show you how science works! Emily's Wonder Lab is now on Netflix.
+#AnimalAdaptationsForKids13:T60c,There are so many fun experiments that show you how science works! Emily's Wonder Lab is now on Netflix.
 
 SUBSCRIBE: http://bit.ly/NetflixJrSubscribe
 
@@ -144,275 +81,7 @@ Songs About Shapes: http://bit.ly/StoryBotsShapes
 
 Songs About Behaviors: http://bit.ly/StoryBotsBehaviors
 
-Vehicle Songs: http://bit.ly/StoryBotsVehicles16:T48d,🧸 Meet the amazing tardigrade—also called the water bear!
-
-Did you know one of Earth's tiniest animals can survive some of the harshest conditions scientists have studied? Join Sparkie from STEM Spark Zone as we explore the incredible world of tardigrades through a fun, factual science song for kids!
-
-In this educational STEM adventure, you'll discover:
-🔬 What a tardigrade is
-💧 Where water bears live
-🐾 Why they have eight tiny legs
-🪨 How small they really are
-🧬 What happens during the tun state
-🌍 Where they can be found around the world
-🚀 Why scientists study them—including research related to surviving the harsh conditions of space
-
-Perfect for:
-✅ Grades 2–5
-✅ Elementary science
-✅ Homeschool learning
-✅ Classroom lessons
-✅ Curious kids
-✅ Parents and teachers
-
-🎵 Learn science through music with STEM Spark Zone, where curiosity comes alive!
-
-👍 Like • Subscribe • Share • Keep exploring!
-
-#Tardigrade #WaterBear #ScienceForKids #STEM #STEMSparkZone #KidsLearning #Microscope #AnimalFacts #Biology #LifeScience #ScienceSong #EducationalVideos #ElementaryScience #Homeschool #LearningIsFun #stemeducation17:Tccf,Join Blippi at the Pacific Science Center as he goes on a fun and creative field trip to build an awesome astronaut puppet and a DIY rocket ship! To find the perfect inspiration for his arts and crafts project, Blippi explores amazing museum exhibits. 
-
-First, he steps into the beautiful Butterfly House to learn about the life cycle of butterflies, using the chrysalis shape as the design for his rocket's body. Next, Blippi visits the touch-tank tide pools to meet colorful sea stars, anemones, and sea urchins, which inspires him to add fun textures and pom-poms to his craft. Finally, a trip to the planetarium teaches Blippi about constellations, stars, and the Milky Way galaxy, leading him to decorate his rocket with sparkly star stickers! 
-
-Throughout his journey, Blippi teaches children about geometric shapes like cylinders and cones, the importance of washing hands and hygiene, and how to make scientific observations. Get ready to learn about biology, marine life, and astronomy, and join Blippi for a fun 'blast off' to Jupiter! It's time to get curious, be creative with everyday materials, and explore the natural world!
-
-https://www.youtube.com/channel/UC42yByOQxxicqUZhWXX0vzA?sub_confirmation=1
-
-Thanks for watching this Blippi play and learn video with Blippi's songs for toddlers and videos for toddlers.
-
-(🔔) Subscribe for New Videos ►► https://www.youtube.com/channel/UC42yByOQxxicqUZhWXX0vzA?sub_confirmation=1
-
-For more Blippi videos and Blippi songs be sure to SUBSCRIBE to Blippi at https://youtube.com/Blippi?sub_confirmation=1
-
-Brand New Blippi Episodes Every Saturday!
-https://www.youtube.com/watch?v=5_lGysdHLFQ&list=PLzgk_uTg08P-2LCpM-FK-_Mhb7anv2fBY&index=2
-
-Website ► https://lnk.to/BLIPPIWB 
-Facebook ► https://lnk.to/BLIPPIFB 
-Instagram ► https://lnk.to/BLIPPIIG 
-Music Services ► https://Blippi.lnk.to/CompleteCollectionYT!DSC
-
-Thanks for watching this Blippi play and learn video with Blippi's songs for toddlers and videos for toddlers.
-
-More educational fun for kids with Blippi: https://www.youtube.com/watch?v=LfuEad93Ap0&list=PLzgk_uTg08P-UbUdr1x0gPdC5tVAixw8_&index=2
-
-Learn Machines with Blippi: https://www.youtube.com/watch?v=eTvrSLFWmLo&list=PLzgk_uTg08P_nhILV2WV8LEAeSwOmVqNQ&index=2
-
-Blippi Sink Or Float: https://www.youtube.com/watch?v=astwv4c_iP0
-
-Blippi Learns About Bubbles: https://www.youtube.com/watch?v=Enbvtr78mqo
-
-Blippi Makes Healthy Fruit Popsicles: https://www.youtube.com/watch?v=CxKN-Aab3U0
-
-Blippi The Pirate! https://www.youtube.com/watch?v=1jDjonQpLz0
-
-Come explore the wonderous world with everybody's best friend, Blippi. How does a recycling truck work? What does a baker do? What is the best playground around? There are so many exciting things to explore and learn. Feed your kids’ curiosity while they learn about vehicles, animals, the natural world and so much more. Blippi helps children‘s understanding of the world and encourages vocabulary development. Blippi loves visiting exciting places such as children’s museums and the zoo! He loves singing, dancing, playing and exploring. His contagious curiosity engages young viewers in learning adventures that help them both grow and develop.
-
-© Moonbug Entertainment. All rights Reserved.18:T528,Hey Sprouts! Here is a Space compilation of ABCs, Coloring, Space Facts, and more!
-
-Enjoy more educational videos from Schoolhouse Sprouts! 1, 2, 3 let's go!
-
-Schoolhouse Sprouts is an educational company dedicated to helping kids learn and grow! We provide songs, videos, worksheets, activities, games, and more for grades PreK-5.
-
-Visit our Website for more details - https://schoolhousesprouts.com/
-___________________________________________________________________________
-
-Our new children's book "Dinner at the Zoo" is available now! 
-
-Join our zoo friends on a rhyming adventure where animals dine and teach sequence adverbs. Perfect for young readers with silly rhymes and vibrant illustrations!
-
-Available now on SchoolhouseSprouts.com and Amazon.com! 
-
-Click the link to order your copy today! https://www.amazon.com/dp/B0D3M9VWDK 🦘🦥🐻🐼
-___________________________________________________________________________
-
-PARENTS AND TEACHERS: Thank you so much for watching Schoolhouse Sprouts with your families and/or students. 
-
-SOCIAL MEDIA: 
-Facebook: https://www.facebook.com/SchoolhouseSprouts 
-Instagram: https://www.instagram.com/schoolhousesprouts/
-TikTok: https://www.tiktok.com/@schoolhousesprouts
-Twitter: https://twitter.com/SHSprouts
-Pinterest: https://www.pinterest.com/schoolhousesprouts/19:Tf9f,Have you ever blown up a balloon and let it go? 🎈💨
-Whoosh! It zooms across the room!
-Guess what? Rockets fly using the SAME idea! 😲🚀
-In this video, we’ll discover how rockets can fly even in space where there is no air, and how smart science helps humans reach the stars!
-________________________________________
-
-🛒 AFFILIATE MESSAGE
-🧪🤖 Want to try space science at home?
-Check out fun learning tools like:
-🚀 Build-your-own rocket kits https://amzn.to/4qMnk3Y #ad 
-🧲 Magnet and science experiment sets https://amzn.to/4qLaCm7 #ad 
-🤖 Robot and coding toys https://amzn.to/4aZcTWp #ad 
-📘 Space and science books for kids https://amzn.to/4sEU9lq #ad 
-🌟 Learn by playing
-🌟 Great for school projects
-🌟 Perfect for future scientists!
-
-✈️ Why Can’t Airplanes Go to Space?
-Airplanes need air to work. Their engines suck in air and mix it with fuel to make power.
-But in space…
-😲 There is no air at all!
-So airplane engines would stop working.
-Rockets are different!
-They carry their own air and fuel, so they can fly on Earth and in space!
-________________________________________
-
-⚖️ The Simple Rule That Makes Rockets Fly
-Here’s the magic rule of motion:
-👉 If something pushes backward, it moves forward!
-When a rocket fires, hot gas shoots out the bottom very fast.
-That gas pushes down — and the rocket goes UP! 🚀⬆️
-Just like a balloon:
-Air goes one way → balloon goes the other way!
-This rule is called Newton’s Third Law, but you can just remember:
-Push back to go forward!
-________________________________________
-
-🧩 What’s Inside a Rocket?
-Rockets look simple, but inside they have four important parts:
-🧱 Body – Holds everything together
-🎒 Payload – What the rocket carries (satellites, robots, or people!)
-🧠 Computer Brain – Keeps the rocket going the right way
-🔥 Engine & Fuel – Makes the powerful fire and gas
-Most of the rocket is filled with fuel because it takes LOTS of power to go to space!
-________________________________________
-
-🔥 Two Types of Rocket Engines
-There are two main kinds of rockets:
-🎆 Solid Rockets
-• Like giant fireworks
-• Burn all at once
-• Very simple
-• Can’t be turned off
-💧 Liquid Rockets
-• Fuel and air stored separately
-• Can be turned on and off
-• Very powerful
-• Used for astronauts and satellites
-Big rockets often use both types together!
-
-________________________________________
-🎯 How Do Rockets Fly Straight?
-A rocket must not spin or fall over while flying.
-Two secret balance points help:
-⚖️ Balance Point — where weight is centered
-💨 Air Push Point — where air pushes the most
-For safe flying, the heavy part must be in front and the air push must be in the back.
-That’s why rockets have fins at the bottom — like arrows!
-________________________________________
-
-🪜 Why Do Rockets Drop Pieces While Flying?
-Have you seen rockets drop big parts after takeoff? 😮
-That’s called staging!
-Once one fuel tank is empty, the rocket drops it to become lighter.
-Then the next engine fires and goes even faster!
-Less weight = more speed! ⚡🚀
-It’s like throwing away an empty backpack while climbing a mountain.
-________________________________________
-
-🌟 Why Rockets Are Awesome
-Rockets help us:
-🛰 Send satellites
-🌍 Study Earth
-🌕 Visit the Moon
-🔴 Explore Mars
-🧑‍🚀 Send astronauts to space
-All using gas pushing backward!
-________________________________________
-💬 QUESTION FOR YOU
-What would you send into space if you had your own rocket?
-A robot? A camera? A space pet? 😄🚀
-Tell us in the comments!
-
-👍 LIKE · SHARE · SUBSCRIBE MESSAGE
-🚀😄 Did that rocket science blow your mind?!
-If you love cool science and space adventures:
-👍 LIKE to boost our rocket fuel!
-📺 SUBSCRIBE to join our Science Explorers Club!
-🔔 RING THE BELL so you never miss a blast-off!
-
-#rocket #space #science #scienceexplained #scienceexplanation #advay #advayagarwal #youngscientist1a:T9aa,🚀✨ Blast off on an exciting science adventure with **Little Explorer Science Songs (Space, Weather, Animals)!** 🌎🌦️🦁
-
-Join our happy little explorers as they sing, dance, and discover amazing facts about **outer space, changing weather, and incredible animals** through fun, catchy songs made especially for preschoolers and young learners!
-
-🌟 In this video, kids will:
-🚀 Explore planets, stars, rockets, and the moon
-☀️ Learn about sunshine, rain, clouds, wind, and snow
-🦒 Meet friendly animals from the jungle, ocean, farm, and beyond
-🎵 Sing along with easy, memorable educational songs
-💃 Dance, clap, and move while building early science knowledge
-
-Perfect for:
-👶 Toddlers (Ages 2–4)
-🧒 Preschoolers (Ages 3–6)
-🏫 Teachers & Classrooms
-👨‍👩‍👧‍👦 Family Learning Time
-📚 Homeschool Activities
-
-Our colorful animations, fun characters, and interactive music help children develop curiosity, vocabulary, listening skills, and a lifelong love for science—all while having tons of fun!
-
-👍 If your little explorer enjoyed this adventure, don't forget to **LIKE**, **SUBSCRIBE**, and **turn on notifications** so you never miss a new learning song!
-
-💬 Tell us in the comments:
-🌎 What was your favorite part—🚀 Space, 🌦️ Weather, or 🦁 Animals?
-
-#LittleExplorer #ScienceSongs #KidsSongs #PreschoolLearning #ToddlerSongs #SpaceForKids #WeatherForKids #AnimalsForKids #EducationalSongs #LearningIsFun #KidsMusic #NurseryRhymes #Preschool #EarlyLearning #KidsEducation
-
-
-
-###########################################
-🎉 Welcome to Choki Choki Kids! 🎉
-Get ready for a world full of colors, laughter, and exciting adventures! At Choki Choki Kids, we bring you fun, safe, and super entertaining cartoon animations that spark imagination and creativity in every child.
-
-🚀 From magical lands to silly stories, our animated episodes are packed with fun characters, life lessons, and lots of giggles. Whether you're 3 or 8, there's always something new to discover!
-✨ Why kids (and parents!) love Choki Choki Kids:
-Safe and age-appropriate content
-Bright and colorful animations
-Fun stories with positive messages
-New adventures added regularly!
-
-💫 Hit Subscribe and join the Choki Choki family for a magical cartoon journey that kids will love and parents will trust!
-
-
-Social Links:
-https://www.facebook.com/share/14GpKJiGrTh/
-tiktok.com/@choki.choki.kids
-www.instagram.com/chokichokikids1b:T757,Jessi and Squeaks learn all about crystallization while they make some yummy rock candy!
-----------
-Love SciShow Kids and want to help support it? Become a Patron on Patreon: 
-https://www.patreon.com/scishow
-
-If you have a question for Jessi, Squeaks, and Mister Brown you can write to them here: https://forms.gle/SENBjH9szoLGfrRC9
-----------
-Second Grade Next Generation Science Standards
-
-Disciplinary Core Ideas:
-
-PS1.A: Structure and Properties of Matter - Different kinds of matter exist and many of them can be either solid or liquid, depending on temperature (2-PS1-1). A great variety of objects can be built up from a small set of pieces (2-PS1-3).
-
-PS1.B: Chemical Reactions - Heating or cooling a substance may cause changes that can be observed. Sometimes these changes are reversible, and sometimes they are not (2-PS1-4).
-
-Performance Expectations:
-
-2-PS1-1. Plan and conduct an investigation to describe and classify different kinds of materials by their observable properties.
- 
-2-PS1-3. Make observations to construct an evidence-based account of how an object made of a small set of pieces can be disassembled and made into a new object.
- 
-2-PS1-4. Construct an argument with evidence that some changes caused by heating or cooling can be reversed and some cannot.
-----------
-Looking for SciShow elsewhere on the internet?
-Facebook: http://www.facebook.com/scishowkids
-Twitter: http://www.twitter.com/scishowkids
-Instagram: http://instagram.com/thescishow
-
-SOURCES:
-https://www.uidaho.edu/sci/chem/undergraduate/what-is-chemistry
-https://sciencebob.com/make-your-own-rock-candy/
-https://www.acs.org/content/acs/en/education/resources/highschool/chemmatters/past-issues/archive-2014-2015/candymaking.html
-https://www.chem.purdue.edu/gchelp/solutions/whatis.html
-
-#scishowkids #candy #cooking #sugar #education #science #elementary #learning #fun #scienceforkids1c:T62e,Work, Force & Power | What Is Force | Contact Force | Non Contact Force | What Is Energy | Magnetic Force | Gravitational Force | Educational Video | Best Kids Video | Science Video | Nature Video | Dr Binocs Show | Dr Binocs | Peekaboo Kidz
+Vehicle Songs: http://bit.ly/StoryBotsVehicles14:T62e,Work, Force & Power | What Is Force | Contact Force | Non Contact Force | What Is Energy | Magnetic Force | Gravitational Force | Educational Video | Best Kids Video | Science Video | Nature Video | Dr Binocs Show | Dr Binocs | Peekaboo Kidz
 
 Hey kids, in this video, Dr Binocs will explain, Force, Work & Energy | What Is Force? | The Dr Binocs Show | Peekaboo Kidz
 
@@ -450,4 +119,275 @@ Subscribe to Peekaboo Kidz: http://bit.ly/peekabookidz
 
 Like our Facebook page: https://www.facebook.com/peekabootv ,
 
-For brand collaborations and inquiries, reach out to us at :  collab@rajshri.com2:["$","div",null,{"className":"space-y-8 pb-8","children":[["$","div",null,{"children":["$","$L10",null,{"href":"/","className":"inline-flex items-center gap-1.5 px-3 py-1.5 bg-white rounded-lg text-slate-600 font-semibold text-xs border border-slate-200 hover:border-purple-300 hover:text-purple-900 transition-colors shadow-subtle","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-3.5 h-3.5","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"Back to Discover"}]]}]}],["$","section",null,{"className":"bg-white rounded-2xl sm:rounded-3xl p-4 xs:p-6 sm:p-8 border border-slate-200/80 shadow-subtle space-y-3","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"px-2.5 py-0.5 bg-purple-100 text-purple-900 text-xs font-bold rounded-md uppercase tracking-wider","children":["Ages ","8–12"]}],["$","span",null,{"className":"text-xs text-slate-400 font-semibold","children":["• ",16," Videos"]}]]}],["$","h1",null,{"className":"text-xl xs:text-2xl sm:text-4xl font-black text-slate-900 tracking-tight","children":"Science"}],["$","p",null,{"className":"text-slate-600 font-medium text-xs sm:text-base max-w-2xl leading-relaxed","children":"Explore & learn"}],["$","div",null,{"className":"pt-2 flex items-center gap-2 text-xs font-medium text-slate-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-shield-check w-4 h-4 text-emerald-600 shrink-0","children":[["$","path","oel41y",{"d":"M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"}],["$","path","dzmm74",{"d":"m9 12 2 2 4-4"}],"$undefined"]}],["$","span",null,{"children":["Strict server-side safe query: \"","educational science for kids animals space experiments","\""]}]]}]]}],["$","section",null,{"className":"space-y-4","children":[["$","h2",null,{"className":"text-lg sm:text-xl font-bold text-slate-900","children":"Watch & Learn"}],["$","div",null,{"className":"grid grid-cols-1 xs:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3.5 sm:gap-5","children":[["$","$L11","jzCZ0PfKkUU",{"video":{"id":"jzCZ0PfKkUU","title":"Kids Knowledge Quiz : Earth, Animals, Space & Science","description":"$12","channelTitle":"GUESS IT","channelId":"UCMIGHHtyLRsJLtHxVQM4OwA","publishedAt":"2026-06-17T15:52:05Z","duration":"8:05","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/jzCZ0PfKkUU/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/jzCZ0PfKkUU/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/jzCZ0PfKkUU/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/jzCZ0PfKkUU/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/jzCZ0PfKkUU/maxresdefault.jpg","width":1280,"height":720},"qhd":{"url":"https://i.ytimg.com/vi/jzCZ0PfKkUU/qhddefault.jpg","width":2560,"height":1440}}},"categoryLabel":"Science"}],["$","$L11","m2MibjJgyjs",{"video":{"id":"m2MibjJgyjs","title":"Animal Adaptations for Kids, Learn about physical, life cycle, and behavioral adaptations of animals","description":"$13","channelTitle":"Learn Bright","channelId":"UCKCsVSA5THlkHbnkZTPm6-g","publishedAt":"2020-09-29T18:13:53Z","duration":"8:22","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/m2MibjJgyjs/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/m2MibjJgyjs/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/m2MibjJgyjs/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/m2MibjJgyjs/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/m2MibjJgyjs/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Science"}],["$","$L11","grvXozH0UlA",{"video":{"id":"grvXozH0UlA","title":"Crafting and Learning About Space! 🚀🌑| Blippi Learns | Learn Science with Blippi! 🧪","description":"$14","channelTitle":"Blippi Learns - Educational Videos for Kids","channelId":"UCKjjmMqvuxNYw8c6knceexQ","publishedAt":"2026-08-21T11:00:12Z","duration":"10:55","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/grvXozH0UlA/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/grvXozH0UlA/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/grvXozH0UlA/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/grvXozH0UlA/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/grvXozH0UlA/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Science"}],["$","$L11","_QwaUmDbnGg",{"video":{"id":"_QwaUmDbnGg","title":"Let's Explore Space! | Astronomy for Kids","description":"It's a big day for Jessi and Squeaks because they've finally finished their brand new observatory! Join them as they try out their new telescope and take a look back at  a compilation of everything we've learned about space so far! \n----------\nLove SciShow Kids and want to help support it? Become a patron on Patreon: \nhttps://www.patreon.com/scishowkids\n----------\nLooking for SciShow elsewhere on the internet?\nFacebook: http://www.facebook.com/scishow\nTwitter: http://www.twitter.com/scishow\nTumblr: http://scishow.tumblr.com\nInstagram: http://instagram.com/thescishow\n\nSources:\nWhat are Stars:\nhttps://youtu.be/ZrS3Ye8p61Y?list=PLw2cuKNQvZ2c5UQcwMS4Fg05UdiT3-gs4\nRocky Planets:\nhttps://youtu.be/joq-IUFNkrw?list=PLw2cuKNQvZ2c5UQcwMS4Fg05UdiT3-gs4\nGas Giants:\nhttps://youtu.be/SeC22-94PMw?list=PLw2cuKNQvZ2c5UQcwMS4Fg05UdiT3-gs4\nExplore our Galaxy:\nhttps://youtu.be/DtiRn0Ecpjc\nWhat do Astronauts Do?:\nhttps://youtu.be/jhD8GFwy734","channelTitle":"SciShow Kids","channelId":"UCRFIPG2u1DxKLNuE3y2SjHA","publishedAt":"2017-06-27T21:54:13Z","duration":"19:33","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/_QwaUmDbnGg/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/_QwaUmDbnGg/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/_QwaUmDbnGg/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/_QwaUmDbnGg/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/_QwaUmDbnGg/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Science"}],["$","$L11","rqvahvwk50E",{"video":{"id":"rqvahvwk50E","title":"Science Experiments at Home! 🔬 Emily's Wonder Lab | Netflix Jr","description":"$15","channelTitle":"Netflix Jr.","channelId":"UCAJnyTWJPpKXuwgWQDdNWrQ","publishedAt":"2020-08-30T14:00:18Z","duration":"9:42","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/rqvahvwk50E/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/rqvahvwk50E/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/rqvahvwk50E/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/rqvahvwk50E/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/rqvahvwk50E/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Science"}],["$","$L11","oSuu_9s1vbI",{"video":{"id":"oSuu_9s1vbI","title":"Meet the Tardigrade! 🐻 The Tiny Water Bear That Survived Space! | Science Song for Kids","description":"$16","channelTitle":"STEM Spark Zone","channelId":"UCHTJZIw4hpL0GdpDtvU_JSA","publishedAt":"2026-06-30T12:00:29Z","duration":"5:30","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/oSuu_9s1vbI/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/oSuu_9s1vbI/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/oSuu_9s1vbI/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/oSuu_9s1vbI/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/oSuu_9s1vbI/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Science"}],["$","$L11","ynifLscFIEw",{"video":{"id":"ynifLscFIEw","title":"SPACE - The Science KID","description":"Hello! I hope you enjoyed!\n-----------------------------------------------------------------------------------\nMake to smash that like button and of course SUBSCRIBE if you haven't yet. What are you waiting for?\n-----------------------------------------------------------------------------------\nThe Science Kid is a scientific genius in a 12 year-old body! I post Science Videos on about everything Science. I hope you enjoy 😊 Remember \"Science Can Always Be FUN!\"\n-----------------------------------------------------------------------------------\nSpace is amazing so share this video to spread the amazingness of space!","channelTitle":"The Science KID","channelId":"UCzUBJaoBYkAKJQjwS3ur3Ng","publishedAt":"2017-08-21T20:40:56Z","duration":"4:38","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/ynifLscFIEw/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/ynifLscFIEw/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/ynifLscFIEw/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/ynifLscFIEw/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/ynifLscFIEw/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Science"}],["$","$L11","thVljp5C6e0",{"video":{"id":"thVljp5C6e0","title":"How does a space rocket work? | Science Activity for Kids | Let's Go Live with Maddie & Greg","description":"Take a look at our activities website for 3 rockets you can make and launch at home: https://letsgolivescience.com/activity/three-rockets-to-make-at-home/\n\nThis activity is taken from our live family science show “Let's Go Live with Maddie & Greg\". Watch the full episode this activity is part of here: https://www.youtube.com/watch?v=aq5oHO9uUjw\n\nThe Let's Go Live website has lots of free science activities, all searchable by age, theme, and National Curriculum area. Find one to explore & tinker with at www.letsgolivescience.com\n\nStay Curious!\nMaddie & Greg","channelTitle":"Let's Go Live Science Shows","channelId":"UC17sqz6AMfRMF2F_3A9ovNQ","publishedAt":"2021-02-22T18:24:12Z","duration":"4:31","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/thVljp5C6e0/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/thVljp5C6e0/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/thVljp5C6e0/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/thVljp5C6e0/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/thVljp5C6e0/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Science"}],["$","$L11","yCCo3VSRcQw",{"video":{"id":"yCCo3VSRcQw","title":"Blippi's Space Craft Adventure! | Pacific Science Center | Let's Get Moving - Kids Activities","description":"$17","channelTitle":"Let’s Get Moving - Kids Activities!","channelId":"UC42yByOQxxicqUZhWXX0vzA","publishedAt":"2026-09-13T11:00:10Z","duration":"10:55","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/yCCo3VSRcQw/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/yCCo3VSRcQw/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/yCCo3VSRcQw/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/yCCo3VSRcQw/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/yCCo3VSRcQw/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Science"}],["$","$L11","Ae8w0qFyQ0Q",{"video":{"id":"Ae8w0qFyQ0Q","title":"Curious George in Space 🐵 Curious George 🐵Kids Cartoon 🐵 Kids Movies 🐵Videos for Kids","description":"Watch George shoot up thousands of miles into space!\n\nBuy all the episodes of Curious George on YouTube:\nhttps://www.youtube.com/show/SC9gNnobtFNSHbk9yCwJOrNQ?season=1&sbp=CgEx\n \nFull episodes of Curious George are available to stream on Peacock now (US Only)\nhttps://www.peacocktv.com/watch-online/tv/curious-george/8456220604370545112\n\n🐵 Subscribe to the channel for more videos: https://www.youtube.com/channel/UCu7IDy0y-ZA0qaG51wrQY6w?sub_confirmation=1\n\n🐵 Watch the best of Curious George: https://youtube.com/playlist?list=PLnBTl2VtIwRkT3AHYqm11eQ81E0xmaqF_\n\nGeorge is a good little monkey…and always very curious! For over 80 years, the adventures of George and his friend The Man With the Yellow Hat have been delighting children with their playfulness and fun. The TV show reveals how curiosity is a building block of learning, as it introduces simple science, technology, engineering and math concepts to the youngest viewers.\n\n#CuriousGeorge #KidsCartoon","channelTitle":"Curious George Official","channelId":"UCu7IDy0y-ZA0qaG51wrQY6w","publishedAt":"2021-09-25T11:00:05Z","duration":"18:25","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/Ae8w0qFyQ0Q/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/Ae8w0qFyQ0Q/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/Ae8w0qFyQ0Q/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/Ae8w0qFyQ0Q/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/Ae8w0qFyQ0Q/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Science"}],["$","$L11","noaHalIUhB8",{"video":{"id":"noaHalIUhB8","title":"Space For Kids | Planet Facts | ABC's | Science | Learn & Grow | Schoolhouse Sprouts","description":"$18","channelTitle":"Schoolhouse Sprouts","channelId":"UCxNIrYdnTK3mtAypaeFqLXA","publishedAt":"2025-04-26T13:01:29Z","duration":"8:11","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/noaHalIUhB8/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/noaHalIUhB8/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/noaHalIUhB8/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/noaHalIUhB8/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/noaHalIUhB8/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Science"}],["$","$L11","CigkuKa5XiA",{"video":{"id":"CigkuKa5XiA","title":"How Do Rockets Fly in Space? 🚀✨ Science for Kids! #rocket #spaceship #science","description":"$19","channelTitle":"Young Scientist","channelId":"UC9bYY25OkTo7J6Sgr6vslBQ","publishedAt":"2026-01-31T03:00:15Z","duration":"7:00","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/CigkuKa5XiA/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/CigkuKa5XiA/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/CigkuKa5XiA/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/CigkuKa5XiA/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/CigkuKa5XiA/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Science"}],["$","$L11","AaYl5_dLReY",{"video":{"id":"AaYl5_dLReY","title":"🚀 Little Explorer Science Songs | Space 🌎 Weather 🌦️ Animals 🦁 | Fun Learning Songs for Kids","description":"$1a","channelTitle":"CHOKI CHOKI KIDS","channelId":"UChRF3dHKXtXeY8VrYDI0M2A","publishedAt":"2026-07-13T15:00:06Z","duration":"5:15","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/AaYl5_dLReY/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/AaYl5_dLReY/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/AaYl5_dLReY/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/AaYl5_dLReY/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/AaYl5_dLReY/maxresdefault.jpg","width":1280,"height":720},"fhd":{"url":"https://i.ytimg.com/vi/AaYl5_dLReY/fhddefault.jpg","width":1920,"height":1080}}},"categoryLabel":"Science"}],["$","$L11","jyYrHQvvqy8",{"video":{"id":"jyYrHQvvqy8","title":"Make Your Own Rock Candy! | The Science of Cooking! | SciShow Kids","description":"$1b","channelTitle":"SciShow Kids","channelId":"UCRFIPG2u1DxKLNuE3y2SjHA","publishedAt":"2021-03-01T22:38:30Z","duration":"4:47","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/jyYrHQvvqy8/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/jyYrHQvvqy8/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/jyYrHQvvqy8/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/jyYrHQvvqy8/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/jyYrHQvvqy8/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Science"}],["$","$L11","XxU_QenIO54",{"video":{"id":"XxU_QenIO54","title":"Fun With Bubbles! | Physics for Kids","description":"Blowing bubbles can be really fun, but they're also a great way to learn some science!\n\n----------\nLove SciShow Kids and want to help support it? Become a patron on Patreon: \nhttps://www.patreon.com/scishowkids\n----------\nLooking for SciShow elsewhere on the internet?\nFacebook: http://www.facebook.com/scishow\nTwitter: http://www.twitter.com/scishow\nTumblr: http://scishow.tumblr.com\nInstagram: http://instagram.com/thescishow\n\nSOURCES:\n\nhttps://www.cde.state.co.us/cdelib/bubblesforpreschoolers\nhttps://www.youtube.com/watch?v=FAzPfm-0onI\nhttps://www.exploratorium.edu/ronh/bubbles/soap.html\nhttps://www.kidsdiscover.com/teacherresources/bubbles-for-kids/\nhttps://www.nwf.org/Wildlife/Wildlife-Library/Invertebrates/Water-Strider.aspx","channelTitle":"SciShow Kids","channelId":"UCRFIPG2u1DxKLNuE3y2SjHA","publishedAt":"2017-08-03T21:00:01Z","duration":"4:20","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/XxU_QenIO54/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/XxU_QenIO54/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/XxU_QenIO54/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/XxU_QenIO54/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/XxU_QenIO54/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Science"}],["$","$L11","5-2NLHB4Gxg",{"video":{"id":"5-2NLHB4Gxg","title":"Work, Force & Energy | What Is Force? | Science For Kids | The Dr Binocs Show | Peekaboo Kidz","description":"$1c","channelTitle":"Peekaboo Kidz","channelId":"UCxlJ45KjG4XVcQ_hd8j227A","publishedAt":"2020-10-02T12:30:27Z","duration":"6:03","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/5-2NLHB4Gxg/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/5-2NLHB4Gxg/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/5-2NLHB4Gxg/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/5-2NLHB4Gxg/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/5-2NLHB4Gxg/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Science"}]]}]]}]]}]
+For brand collaborations and inquiries, reach out to us at :  collab@rajshri.com15:T5eb,What Is Hydroponics? | Hydroponics Explained | Hydroponic Farming At Home | How To Grow Plants Without Soil? | Hydroponic System | Magical Way Of Growing Plants | Genius Way to Save Water | All About Hydroponics | Soilless Farming | Soilless Plantation | Soilless Culture | Benefits Of Hydroponics | Science | Fun Learning | Fun Facts | Science For Kids | Science Videos For Kids | Video For Kids | Dr Binocs Show | Peekaboo Kidz 
+
+Hey kids, in this video, Dr Binocs will explain What Is Government? | The Dr Binocs Show | Peekaboo Kidz
+
+Make sure you watch the whole video to know all the answers to your curious questions! 
+
+Leave your ideas, suggestions and questions for Dr. Binocs at this Email Id: peekabookidzfeedback@gmail.com
+
+For more fun learning videos SUBSCRIBE to Peekaboo Kidz: http://bit.ly/SubscribeTo-Peekabookidz
+
+Watch Life Of Nelson Mandela, here- https://youtu.be/Nj0vzQWvQgw
+
+Credits - 
+Copyrights and Publishing: Rajshri Entertainment Private Limited 
+All rights reserved.
+
+#WhatIsHydroponics? #DrBinocsShow #PeekabooKidz
+
+Catch Dr.Binocs At - https://goo.gl/SXhLmc
+
+To Watch More Popular Nursery Rhymes Go To - https://goo.gl/CV0Xoo
+
+To Watch Alphabet Rhymes Go To - https://goo.gl/qmIRLv
+
+To Watch Compilations Go To - https://goo.gl/nW3kw9
+
+Catch More Lyricals At - https://goo.gl/A7kEmO
+
+Subscribe to Peekaboo Kidz: http://bit.ly/peekabookidz
+
+Like our Facebook page: https://www.facebook.com/peekabootv ,
+
+For brand collaborations and inquiries, reach out to us at :  collab@rajshri.com16:T432,Join Jessi and Squeaks as they talk about some things you can do to make the earth a better place!
+
+#scishowkids #earthday #environment #recycling #earth #science #education #elementary #fun
+----------
+From the team behind the YouTube series SciShow comes SciShow Kids!
+
+Join Jessi, Mister Brown, Squeaks the Robot Lab Rat, and all their friends at the Fort as they conduct experiments, research new questions, and talk with experts to learn about the science-filled world around us. 
+
+There's always something new to discover with SciShow Kids, no matter what your age!
+
+SciShow Kids is ideal for early-elementary learners, Grades 1-3, and many episodes are structured around the Next Generation Science Standards (NGSS) curriculum. 
+----------
+Love SciShow Kids and want to help support it? Become a patron on Patreon: 
+https://www.patreon.com/scishowkids
+----------
+Looking for SciShow elsewhere on the internet?
+Facebook: http://www.facebook.com/scishow
+Twitter: http://www.twitter.com/scishow
+Tumblr: http://scishow.tumblr.com
+Instagram: http://instagram.com/thescishow17:T4f6,Dr Binocs will explain, " What Is Acid Rain? Effects Of Acid Rain On Environment | Acid Rainfall | Ecosystem | Environmental Videos | Rainfall | Harmful Rains "
+
+Make sure you watch the whole video to know all the answers to your curious questions about our Environment and Earth's Ozone Layer! 
+
+For more fun learning videos SUBSCRIBE to Peekaboo Kidz: http://bit.ly/SubscribeTo-Peekabookidz
+
+Watch Guess The Shapes With Baby Binocs here - https://youtu.be/vNm422Ta44w
+
+Watch other fun learning episodes of Dr. Binocs here - http://bit.ly/2kfNS22
+
+Watch our NEW SERIES of Baby Binocs, stay tuned to this playlist - http://bit.ly/2kyC2jU
+
+Credits - 
+Copyrights and Publishing: Rajshri Entertainment Private Limited 
+All rights reserved.  
+
+Catch Dr.Binocs At - https://goo.gl/SXhLmc
+
+To Watch More Popular Nursery Rhymes Go To - https://goo.gl/CV0Xoo
+
+To Watch Alphabet Rhymes Go To - https://goo.gl/qmIRLv
+
+To Watch Compilations Go To - https://goo.gl/nW3kw9
+
+Catch More Lyricals At - https://goo.gl/A7kEmO
+
+Subscribe to Peekaboo Kidz: http://bit.ly/peekabookidz
+
+Like our Facebook page: https://www.facebook.com/peekabootv
+
+#WhatIsAcidRain #AcidRain #PeekabooKidz #SaveEarth #DrBinocs ,
+
+For brand collaborations and inquiries, reach out to us at :  collab@rajshri.com18:T658,Seed Germination | Seed Germination Video | Germination Of Seeds | Plant Germination | What Is Germination | Plant Germination Video | Educational Video | Best Kids Video | Science Video | Nature Video | Dr Binocs Show | Dr Binocs | Peekaboo Kidz
+
+Hey kids, in this video, Dr Binocs will explain, What Is Seed Germination? | SEED GERMINATION | Plant Germination | The Dr Binocs Show | Peekaboo Kidz
+
+Animal Adaptations - https://youtu.be/n3OWsRFtTeI
+
+Make sure you watch the whole video to know all the answers to your curious questions!
+
+Leave your ideas, suggestions and questions for Dr. Binocs at this Email Id: peekabookidzfeedback@gmail.com
+
+For more fun learning videos SUBSCRIBE to Peekaboo Kidz: http://bit.ly/SubscribeTo-Peekabookidz
+
+Watch Guess The Shapes With Baby Binocs here - https://youtu.be/vNm422Ta44w
+
+Watch other fun learning episodes of Dr. Binocs here - http://bit.ly/2kfNS22
+
+Watch our NEW SERIES of Baby Binocs, stay tuned to this playlist - http://bit.ly/2kyC2jU
+
+Credits -
+Copyrights and Publishing: Rajshri Entertainment Private Limited
+All rights reserved.
+
+#SeedGermination #WhatIsSeedGermination #DrBinocsShow #PeekabooKidz
+
+Catch Dr.Binocs At - https://goo.gl/SXhLmc
+
+To Watch More Popular Nursery Rhymes Go To - https://goo.gl/CV0Xoo
+
+To Watch Alphabet Rhymes Go To - https://goo.gl/qmIRLv
+
+To Watch Compilations Go To - https://goo.gl/nW3kw9
+
+Catch More Lyricals At - https://goo.gl/A7kEmO
+
+Subscribe to Peekaboo Kidz: http://bit.ly/peekabookidz
+
+Like our Facebook page: https://www.facebook.com/peekabootv ,
+
+For brand collaborations and inquiries, reach out to us at :  collab@rajshri.com19:T613,We have a lot of water on Earth, but we also can't actually drink much of it... or use it for farming. That's because most of the water on Earth is saltwater. We humans, like a lot of living things, need freshwater to survive. In this episode of Crash Course Kids, Sabrina talks about the difference between freshwater and saltwater and why freshwater is so important. 
+
+This first series is based on 5th-grade science. We're super excited and hope you enjoy Crash Course Kids!
+
+///Standards Used in This Video///
+5-ESS2-2. Describe and graph the amounts and percentages of water and fresh water in various reservoirs to provide evidence about the distribution of water on Earth. [Assessment Boundary: Assessment is limited to oceans, lakes, rivers, glaciers, groundwater, and polar ice caps, and does not include the atmosphere.]
+
+Want to find Crash Course elsewhere on the internet?
+Crash Course Main Channel: https://www.youtube.com/crashcourse
+Facebook - https://www.facebook.com/YouTubeCrashCourse
+Twitter - http://www.twitter.com/thecrashcourse
+Tumblr - http://thecrashcourse.tumblr.com
+
+Credits...
+
+Executive Producers: John & Hank Green
+Producer & Editor: Nicholas Jenkins
+Cinematographer & Director: Michael Aranda
+Host: Sabrina Cruz
+Script Supervisor: Mickie Halpern
+Writer: Kay Boatner
+Consultant: Shelby Alinsky
+Script Editor: Blake de Pastino
+
+Thought Cafe Team:
+Stephanie Bailis
+Cody Brown
+Suzanna Brusikiewicz
+Jonathan Corbiere
+Nick Counter
+Kelsey Heinrichs
+Jack Kenedy
+Corey MacDonald
+Tyler Sammy
+Nikkie Stinchcombe 
+James Tuer
+Adam Winnik1a:T417,Our journey through the solar system continues, as Jessi gives you a close look at comets and asteroids!
+
+----------
+Like SciShow? Want to help support us, and also get things to put on your walls, cover your torso and hold your liquids? Check out our awesome products over at DFTBA Records: http://dftba.com/SciShow
+
+Or help support us by becoming our patron on Patreon:
+https://www.patreon.com/scishow
+----------
+Looking for SciShow elsewhere on the internet?
+Facebook: http://www.facebook.com/scishow
+Twitter: http://www.twitter.com/scishow
+Tumblr: http://scishow.tumblr.com
+Instagram: http://instagram.com/thescishow
+
+SOURCES:
+http://www.esa.int/esaKIDSen/Cometsandmeteors.html
+
+http://www.sciencekids.co.nz/sciencefacts/space/cometasteroidmeteoroiddifferences.html
+
+http://www.kidscosmos.org/solar_system/asteroids_comets_meteors.php 
+
+http://www.kidsastronomy.com/meteorites.htm
+
+https://solarsystem.nasa.gov/planets/profile.cfm?Object=Asteroids&Display=Kids 
+
+http://neo.jpl.nasa.gov/images/
+
+-Atmosphere photo By Tecnòlegs de l'IES Bisbal1b:T713,What Are Sources of Energy? | Classification Of Energy Sources | Types of Energy Sources | What Is Energy? | Work, Force & Energy | Forms Of Energy | Energy Conservation | Law Of Conservation Of Energy | Laws Of Energy | Natural Sources Of Energy | Natural Resources | What Is Solar Energy? | Electric Energy | Electricity | How Is Electricity Generated? | Thermal Energy | Wind Turbines | How Do Wind Turbines Work? | Biomass | Animal Waste | Wood | Fuel | Nuclear Energy | Exhaustible Energy Resources | Non-Renewable Sources Of Energy | Environment Science | Environment | Save Earth | Fun Learning | Fun Facts | Science For Kids | Science Videos For Kids | Video For Kids | Dr Binocs Show | Peekaboo Kidz 
+
+Hey kids, in this video, Dr Binocs will explain What Are Sources of Energy? | The Dr Binocs Show | Peekaboo Kidz
+
+Make sure you watch the whole video to know all the answers to your curious questions! 
+
+Leave your ideas, suggestions and questions for Dr. Binocs at this Email Id: peekabookidzfeedback@gmail.com
+
+For more fun learning videos SUBSCRIBE to Peekaboo Kidz: http://bit.ly/SubscribeTo-Peekabookidz
+
+Watch How Do Wind Turbines Work?, here- https://youtu.be/ia1LJE9sOxQ
+
+Credits - 
+Copyrights and Publishing: Rajshri Entertainment Private Limited 
+All rights reserved.
+
+#WhatAreSourcesofEnergy? #DrBinocsShow #PeekabooKidz
+
+Catch Dr.Binocs At - https://goo.gl/SXhLmc
+
+To Watch More Popular Nursery Rhymes Go To - https://goo.gl/CV0Xoo
+
+To Watch Alphabet Rhymes Go To - https://goo.gl/qmIRLv
+
+To Watch Compilations Go To - https://goo.gl/nW3kw9
+
+Catch More Lyricals At - https://goo.gl/A7kEmO
+
+Subscribe to Peekaboo Kidz: http://bit.ly/peekabookidz
+
+Like our Facebook page: https://www.facebook.com/peekabootv ,
+
+For brand collaborations and inquiries, reach out to us at :  collab@rajshri.com1c:T48c,How did the rings around Saturn form? How many moons does the planet have? See stunning NASA images of the gas giant studied by Christian Huygens and Giovanni Cassini.
+➡ Subscribe: https://on.natgeo.com/4p5A0D6
+
+About National Geographic:
+National Geographic is the world's premium destination for critically acclaimed storytelling around science and exploration. Discover amazing wildlife, ancient civilizations, hidden worlds, and the incredible wonders of our Earth. Through world-class scientists, photographers, journalists, and filmmakers, Nat Geo inspires fans of all ages to connect with, explore, and care about the world.
+
+Get More National Geographic:
+Official Site: https://nationalgeographic.com
+Instagram: https://instagram.com/natgeo 
+Facebook: https://facebook.com/natgeo
+Threads: https://threads.com/@natgeo
+X: https://x.com/NatGeo
+LinkedIn: https://linkedin.com/company/national-geographic
+TikTok: https://tiktok.com/@natgeo
+Reddit: https://reddit.com/user/nationalgeographic
+
+Read more in "Saturn"
+https://on.natgeo.com/2FIaP4y
+
+Saturn 101 | National Geographic 
+https://youtu.be/epZdZaEQhS0
+
+National Geographic
+https://www.youtube.com/natgeo1d:T6a7,What Are Minerals? | Why Are MINERALS Important? | How Minerals Work | Minerals Explained | What Are The Essentials Minerals? | Functions Of Minerals | What Do Minerals Do To The Body? | Minerals Nutrition | How The Body Uses Minerals | What Are the Different Types Of Minerals? | What Are The Roles Of Different Minerals? | Names of Minerals | What Foods To Eat | Vitamins & Minerals | Nutrition Facts | Balanced Diet | Health | Biology For Kids | Fun Facts | Fun Learning | Interesting Facts | Best Kids Show | Science For Kids | Science Videos For Kids | Video For Kids | Dr Binocs Show | Peekaboo Kidz 
+
+Hey kids, in this video, Dr Binocs will explain Why Are Minerals Important? | The Dr Binocs Show | Peekaboo Kidz
+
+Make sure you watch the whole video to know all the answers to your curious questions! 
+
+Leave your ideas, suggestions and questions for Dr. Binocs at this Email Id: peekabookidzfeedback@gmail.com
+
+For more fun learning videos SUBSCRIBE to Peekaboo Kidz: http://bit.ly/SubscribeTo-Peekabookidz
+
+Watch Best Food Inventions, here- https://youtu.be/pPe7D8O0PFM
+
+Credits - 
+Copyrights and Publishing: Rajshri Entertainment Private Limited 
+All rights reserved.
+
+#WhyAreMineralsImportant? #DrBinocsShow #PeekabooKidz
+
+Catch Dr.Binocs At - https://goo.gl/SXhLmc
+
+To Watch More Popular Nursery Rhymes Go To - https://goo.gl/CV0Xoo
+
+To Watch Alphabet Rhymes Go To - https://goo.gl/qmIRLv
+
+To Watch Compilations Go To - https://goo.gl/nW3kw9
+
+Catch More Lyricals At - https://goo.gl/A7kEmO
+
+Subscribe to Peekaboo Kidz: http://bit.ly/peekabookidz
+
+Like our Facebook page: https://www.facebook.com/peekabootv ,
+
+For brand collaborations and inquiries, reach out to us at :  collab@rajshri.com2:["$","div",null,{"className":"space-y-8 pb-8","children":[["$","div",null,{"children":["$","$L10",null,{"href":"/","className":"inline-flex items-center gap-1.5 px-3 py-1.5 bg-white rounded-lg text-slate-600 font-semibold text-xs border border-slate-200 hover:border-purple-300 hover:text-purple-900 transition-colors shadow-subtle","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-arrow-left w-3.5 h-3.5","children":[["$","path","1l729n",{"d":"m12 19-7-7 7-7"}],["$","path","x3x0zl",{"d":"M19 12H5"}],"$undefined"]}],["$","span",null,{"children":"Back to Discover"}]]}]}],["$","section",null,{"className":"bg-white rounded-2xl sm:rounded-3xl p-4 xs:p-6 sm:p-8 border border-slate-200/80 shadow-subtle space-y-3","children":[["$","div",null,{"className":"flex items-center gap-2","children":[["$","span",null,{"className":"px-2.5 py-0.5 bg-purple-100 text-purple-900 text-xs font-bold rounded-md uppercase tracking-wider","children":["Ages ","8–12"]}],["$","span",null,{"className":"text-xs text-slate-400 font-semibold","children":["• ",16," Videos"]}]]}],["$","h1",null,{"className":"text-xl xs:text-2xl sm:text-4xl font-black text-slate-900 tracking-tight","children":"Science"}],["$","p",null,{"className":"text-slate-600 font-medium text-xs sm:text-base max-w-2xl leading-relaxed","children":"Explore & learn"}],["$","div",null,{"className":"pt-2 flex items-center gap-2 text-xs font-medium text-slate-400","children":[["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","width":24,"height":24,"viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":2,"strokeLinecap":"round","strokeLinejoin":"round","className":"lucide lucide-shield-check w-4 h-4 text-emerald-600 shrink-0","children":[["$","path","oel41y",{"d":"M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"}],["$","path","dzmm74",{"d":"m9 12 2 2 4-4"}],"$undefined"]}],["$","span",null,{"children":["Strict server-side safe query: \"","educational science for kids animals space experiments","\""]}]]}]]}],["$","section",null,{"className":"space-y-4","children":[["$","h2",null,{"className":"text-lg sm:text-xl font-bold text-slate-900","children":"Watch & Learn"}],["$","div",null,{"className":"grid grid-cols-1 xs:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3.5 sm:gap-5","children":[["$","$L11","m2MibjJgyjs",{"video":{"id":"m2MibjJgyjs","title":"Animal Adaptations for Kids, Learn about physical, life cycle, and behavioral adaptations of animals","description":"$12","channelTitle":"Learn Bright","channelId":"UCKCsVSA5THlkHbnkZTPm6-g","publishedAt":"2020-09-29T18:13:53Z","duration":"8:22","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/m2MibjJgyjs/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/m2MibjJgyjs/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/m2MibjJgyjs/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/m2MibjJgyjs/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/m2MibjJgyjs/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Science"}],["$","$L11","rqvahvwk50E",{"video":{"id":"rqvahvwk50E","title":"Science Experiments at Home! 🔬 Emily's Wonder Lab | Netflix Jr","description":"$13","channelTitle":"Netflix Jr.","channelId":"UCAJnyTWJPpKXuwgWQDdNWrQ","publishedAt":"2020-08-30T14:00:18Z","duration":"9:42","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/rqvahvwk50E/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/rqvahvwk50E/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/rqvahvwk50E/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/rqvahvwk50E/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/rqvahvwk50E/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Science"}],["$","$L11","XxU_QenIO54",{"video":{"id":"XxU_QenIO54","title":"Fun With Bubbles! | Physics for Kids","description":"Blowing bubbles can be really fun, but they're also a great way to learn some science!\n\n----------\nLove SciShow Kids and want to help support it? Become a patron on Patreon: \nhttps://www.patreon.com/scishowkids\n----------\nLooking for SciShow elsewhere on the internet?\nFacebook: http://www.facebook.com/scishow\nTwitter: http://www.twitter.com/scishow\nTumblr: http://scishow.tumblr.com\nInstagram: http://instagram.com/thescishow\n\nSOURCES:\n\nhttps://www.cde.state.co.us/cdelib/bubblesforpreschoolers\nhttps://www.youtube.com/watch?v=FAzPfm-0onI\nhttps://www.exploratorium.edu/ronh/bubbles/soap.html\nhttps://www.kidsdiscover.com/teacherresources/bubbles-for-kids/\nhttps://www.nwf.org/Wildlife/Wildlife-Library/Invertebrates/Water-Strider.aspx","channelTitle":"SciShow Kids","channelId":"UCRFIPG2u1DxKLNuE3y2SjHA","publishedAt":"2017-08-03T21:00:01Z","duration":"4:20","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/XxU_QenIO54/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/XxU_QenIO54/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/XxU_QenIO54/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/XxU_QenIO54/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/XxU_QenIO54/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Science"}],["$","$L11","c3W937dORLI",{"video":{"id":"c3W937dORLI","title":"How Do Submarines Work?","description":"Jessi and Squeaks got a question about how submarines go underwater and explore, so Squeaks did some research!\n\n----------\nLove SciShow Kids and want to help support it? Become a patron on Patreon: \nhttps://www.patreon.com/scishowkids\n----------\nLooking for SciShow elsewhere on the internet?\nFacebook: http://www.facebook.com/scishow\nTwitter: http://www.twitter.com/scishow\nTumblr: http://scishow.tumblr.com\nInstagram: http://instagram.com/thescishow\n\nSOURCES:\n\n\nhttps://science.howstuffworks.com/transport/engines-equipment/submarine1.htm\nhttps://www.militaryfactory.com/ships/how-submarines-work.asp","channelTitle":"SciShow Kids","channelId":"UCRFIPG2u1DxKLNuE3y2SjHA","publishedAt":"2018-08-16T21:00:04Z","duration":"4:29","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/c3W937dORLI/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/c3W937dORLI/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/c3W937dORLI/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/c3W937dORLI/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/c3W937dORLI/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Science"}],["$","$L11","_QwaUmDbnGg",{"video":{"id":"_QwaUmDbnGg","title":"Let's Explore Space! | Astronomy for Kids","description":"It's a big day for Jessi and Squeaks because they've finally finished their brand new observatory! Join them as they try out their new telescope and take a look back at  a compilation of everything we've learned about space so far! \n----------\nLove SciShow Kids and want to help support it? Become a patron on Patreon: \nhttps://www.patreon.com/scishowkids\n----------\nLooking for SciShow elsewhere on the internet?\nFacebook: http://www.facebook.com/scishow\nTwitter: http://www.twitter.com/scishow\nTumblr: http://scishow.tumblr.com\nInstagram: http://instagram.com/thescishow\n\nSources:\nWhat are Stars:\nhttps://youtu.be/ZrS3Ye8p61Y?list=PLw2cuKNQvZ2c5UQcwMS4Fg05UdiT3-gs4\nRocky Planets:\nhttps://youtu.be/joq-IUFNkrw?list=PLw2cuKNQvZ2c5UQcwMS4Fg05UdiT3-gs4\nGas Giants:\nhttps://youtu.be/SeC22-94PMw?list=PLw2cuKNQvZ2c5UQcwMS4Fg05UdiT3-gs4\nExplore our Galaxy:\nhttps://youtu.be/DtiRn0Ecpjc\nWhat do Astronauts Do?:\nhttps://youtu.be/jhD8GFwy734","channelTitle":"SciShow Kids","channelId":"UCRFIPG2u1DxKLNuE3y2SjHA","publishedAt":"2017-06-27T21:54:13Z","duration":"19:33","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/_QwaUmDbnGg/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/_QwaUmDbnGg/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/_QwaUmDbnGg/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/_QwaUmDbnGg/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/_QwaUmDbnGg/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Science"}],["$","$L11","5-2NLHB4Gxg",{"video":{"id":"5-2NLHB4Gxg","title":"Work, Force & Energy | What Is Force? | Science For Kids | The Dr Binocs Show | Peekaboo Kidz","description":"$14","channelTitle":"Peekaboo Kidz","channelId":"UCxlJ45KjG4XVcQ_hd8j227A","publishedAt":"2020-10-02T12:30:27Z","duration":"6:03","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/5-2NLHB4Gxg/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/5-2NLHB4Gxg/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/5-2NLHB4Gxg/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/5-2NLHB4Gxg/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/5-2NLHB4Gxg/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Science"}],["$","$L11","LV2jIkOwYl8",{"video":{"id":"LV2jIkOwYl8","title":"How To Grow Plants Without Soil? | Hydroponic Farming At Home | The Dr Binocs Show | Peekaboo Kidz","description":"$15","channelTitle":"Peekaboo Kidz","channelId":"UCxlJ45KjG4XVcQ_hd8j227A","publishedAt":"2022-08-05T12:30:06Z","duration":"6:04","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/LV2jIkOwYl8/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/LV2jIkOwYl8/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/LV2jIkOwYl8/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/LV2jIkOwYl8/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/LV2jIkOwYl8/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Science"}],["$","$L11","PePymheJcbc",{"video":{"id":"PePymheJcbc","title":"Happy Earth Day! | SciShow Kids Compilation","description":"$16","channelTitle":"SciShow Kids","channelId":"UCRFIPG2u1DxKLNuE3y2SjHA","publishedAt":"2017-04-18T21:00:00Z","duration":"17:53","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/PePymheJcbc/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/PePymheJcbc/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/PePymheJcbc/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/PePymheJcbc/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/PePymheJcbc/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Science"}],["$","$L11","3uzWUQlZvm0",{"video":{"id":"3uzWUQlZvm0","title":"What is ACID RAIN? | Acid Rain | Dr Binocs Show | Kids Learning Video | Peekaboo Kidz","description":"$17","channelTitle":"Peekaboo Kidz","channelId":"UCxlJ45KjG4XVcQ_hd8j227A","publishedAt":"2020-01-10T12:30:01Z","duration":"7:26","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/3uzWUQlZvm0/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/3uzWUQlZvm0/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/3uzWUQlZvm0/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/3uzWUQlZvm0/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/3uzWUQlZvm0/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Science"}],["$","$L11","JSe_VUMymjo",{"video":{"id":"JSe_VUMymjo","title":"What Is Seed Germination? | SEED GERMINATION | Plant Germination | Dr Binocs Show | Peekaboo Kidz","description":"$18","channelTitle":"Peekaboo Kidz","channelId":"UCxlJ45KjG4XVcQ_hd8j227A","publishedAt":"2020-09-22T12:32:03Z","duration":"6:28","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/JSe_VUMymjo/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/JSe_VUMymjo/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/JSe_VUMymjo/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/JSe_VUMymjo/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/JSe_VUMymjo/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Science"}],["$","$L11","Ae8w0qFyQ0Q",{"video":{"id":"Ae8w0qFyQ0Q","title":"Curious George in Space 🐵 Curious George 🐵Kids Cartoon 🐵 Kids Movies 🐵Videos for Kids","description":"Watch George shoot up thousands of miles into space!\n\nBuy all the episodes of Curious George on YouTube:\nhttps://www.youtube.com/show/SC9gNnobtFNSHbk9yCwJOrNQ?season=1&sbp=CgEx\n \nFull episodes of Curious George are available to stream on Peacock now (US Only)\nhttps://www.peacocktv.com/watch-online/tv/curious-george/8456220604370545112\n\n🐵 Subscribe to the channel for more videos: https://www.youtube.com/channel/UCu7IDy0y-ZA0qaG51wrQY6w?sub_confirmation=1\n\n🐵 Watch the best of Curious George: https://youtube.com/playlist?list=PLnBTl2VtIwRkT3AHYqm11eQ81E0xmaqF_\n\nGeorge is a good little monkey…and always very curious! For over 80 years, the adventures of George and his friend The Man With the Yellow Hat have been delighting children with their playfulness and fun. The TV show reveals how curiosity is a building block of learning, as it introduces simple science, technology, engineering and math concepts to the youngest viewers.\n\n#CuriousGeorge #KidsCartoon","channelTitle":"Curious George Official","channelId":"UCu7IDy0y-ZA0qaG51wrQY6w","publishedAt":"2021-09-25T11:00:05Z","duration":"18:25","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/Ae8w0qFyQ0Q/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/Ae8w0qFyQ0Q/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/Ae8w0qFyQ0Q/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/Ae8w0qFyQ0Q/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/Ae8w0qFyQ0Q/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Science"}],["$","$L11","oaQCiwzjnCM",{"video":{"id":"oaQCiwzjnCM","title":"The Basics of Freshwater: Crash Course Kids 14.1","description":"$19","channelTitle":"Crash Course Kids","channelId":"UCONtPx56PSebXJOxbFv-2jQ","publishedAt":"2015-06-09T20:21:41Z","duration":"4:16","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/oaQCiwzjnCM/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/oaQCiwzjnCM/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/oaQCiwzjnCM/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/oaQCiwzjnCM/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/oaQCiwzjnCM/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Science"}],["$","$L11","02wrLS-ue1Q",{"video":{"id":"02wrLS-ue1Q","title":"Comets and Asteroids!","description":"$1a","channelTitle":"SciShow Kids","channelId":"UCRFIPG2u1DxKLNuE3y2SjHA","publishedAt":"2015-06-25T22:54:18Z","duration":"4:01","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/02wrLS-ue1Q/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/02wrLS-ue1Q/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/02wrLS-ue1Q/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/02wrLS-ue1Q/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/02wrLS-ue1Q/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Science"}],["$","$L11","ViXtT8c4z-c",{"video":{"id":"ViXtT8c4z-c","title":"What Are Sources of Energy? | Energy Explained | The Dr Binocs Show | Peekaboo Kidz","description":"$1b","channelTitle":"Peekaboo Kidz","channelId":"UCxlJ45KjG4XVcQ_hd8j227A","publishedAt":"2022-07-08T12:30:11Z","duration":"5:43","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/ViXtT8c4z-c/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/ViXtT8c4z-c/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/ViXtT8c4z-c/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/ViXtT8c4z-c/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/ViXtT8c4z-c/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Science"}],["$","$L11","epZdZaEQhS0",{"video":{"id":"epZdZaEQhS0","title":"Saturn 101 | National Geographic","description":"$1c","channelTitle":"National Geographic","channelId":"UCpVm7bg6pXKo1Pr6k5kxG9A","publishedAt":"2017-09-15T12:00:05Z","duration":"4:07","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/epZdZaEQhS0/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/epZdZaEQhS0/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/epZdZaEQhS0/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/epZdZaEQhS0/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/epZdZaEQhS0/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Science"}],["$","$L11","uZousR_FfEE",{"video":{"id":"uZousR_FfEE","title":"Why Are Minerals Important? | Functions Of Minerals | The Dr Binocs Show | Peekaboo Kidz","description":"$1d","channelTitle":"Peekaboo Kidz","channelId":"UCxlJ45KjG4XVcQ_hd8j227A","publishedAt":"2022-05-27T12:30:30Z","duration":"5:45","thumbnails":{"default":{"url":"https://i.ytimg.com/vi/uZousR_FfEE/default.jpg","width":120,"height":90},"medium":{"url":"https://i.ytimg.com/vi/uZousR_FfEE/mqdefault.jpg","width":320,"height":180},"high":{"url":"https://i.ytimg.com/vi/uZousR_FfEE/hqdefault.jpg","width":480,"height":360},"standard":{"url":"https://i.ytimg.com/vi/uZousR_FfEE/sddefault.jpg","width":640,"height":480},"maxres":{"url":"https://i.ytimg.com/vi/uZousR_FfEE/maxresdefault.jpg","width":1280,"height":720}}},"categoryLabel":"Science"}]]}]]}]]}]

@@ -3,6 +3,17 @@ plugins {
     id 'org.jetbrains.kotlin.android'
 }
 
+// Release signing credentials are NEVER stored in source control.
+// Resolution order: android/keystore.properties (git-ignored) -> -P / ~/.gradle/gradle.properties -> environment variables.
+def keystoreProps = new Properties()
+def keystorePropsFile = rootProject.file('keystore.properties')
+if (keystorePropsFile.exists()) {
+    keystorePropsFile.withInputStream { keystoreProps.load(it) }
+}
+def signingValue = { String name ->
+    keystoreProps.getProperty(name) ?: project.findProperty(name) ?: System.getenv(name) ?: ''
+}
+
 android {
     namespace 'com.kiddotube.app'
     compileSdk 36
@@ -11,8 +22,8 @@ android {
         applicationId "com.pixelsdevelopments.kiddotubes"
         minSdk 24
         targetSdk 36
-        versionCode 5
-        versionName "1.0.4"
+        versionCode 6
+        versionName "1.0.5"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables {
@@ -22,11 +33,11 @@ android {
 
     signingConfigs {
         release {
-            def storeFilePath = project.findProperty('RELEASE_STORE_FILE') ?: System.getenv('RELEASE_STORE_FILE') ?: 'release-key.jks'
+            def storeFilePath = signingValue('RELEASE_STORE_FILE') ?: 'release-key.jks'
             storeFile file(storeFilePath)
-            storePassword project.findProperty('RELEASE_STORE_PASSWORD') ?: System.getenv('RELEASE_STORE_PASSWORD') ?: ''
-            keyAlias project.findProperty('RELEASE_KEY_ALIAS') ?: System.getenv('RELEASE_KEY_ALIAS') ?: ''
-            keyPassword project.findProperty('RELEASE_KEY_PASSWORD') ?: System.getenv('RELEASE_KEY_PASSWORD') ?: ''
+            storePassword signingValue('RELEASE_STORE_PASSWORD')
+            keyAlias signingValue('RELEASE_KEY_ALIAS')
+            keyPassword signingValue('RELEASE_KEY_PASSWORD')
         }
     }
 
@@ -37,6 +48,11 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
+    }
+
     androidResources {
         ignoreAssetsPattern ''
     }

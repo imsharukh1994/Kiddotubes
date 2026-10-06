@@ -71,7 +71,7 @@ export default function FeaturedContent({ featuredVideo, sideVideos = [] }: Feat
             <div className="space-y-2">
               <div className="inline-flex items-center gap-1.5 px-3 py-1 bg-purple-50 text-purple-900 text-xs font-extrabold rounded-full border border-purple-100">
                 <Sparkles className="w-3.5 h-3.5 text-amber-500" />
-                <span>Today's Top Pick</span>
+                <span>Today&apos;s Top Pick</span>
               </div>
 
               <h3 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight leading-snug group-hover:text-purple-700 transition-colors">

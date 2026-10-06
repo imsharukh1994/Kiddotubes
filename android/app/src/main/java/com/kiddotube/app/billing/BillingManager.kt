@@ -98,6 +98,7 @@ class BillingManager private constructor(context: Context) : PurchasesUpdatedLis
                 } else {
                     Log.e(TAG, "Billing setup failed code: ${billingResult.responseCode} - ${billingResult.debugMessage}")
                     _billingMessage.value = mapBillingError(billingResult.responseCode)
+                    markFreeIfUnknown()
                 }
             }
 
@@ -120,6 +121,17 @@ class BillingManager private constructor(context: Context) : PurchasesUpdatedLis
         } else {
             Log.e(TAG, "Max reconnect attempts reached.")
             _billingMessage.value = "Google Play Billing is currently unavailable. Please check your connection."
+            markFreeIfUnknown()
+        }
+    }
+
+    /**
+     * If Google Play cannot be reached we never grant Premium; we only stop the UI from waiting forever.
+     * An already-known state (e.g. PREMIUM from an earlier successful query) is left untouched.
+     */
+    private fun markFreeIfUnknown() {
+        if (_subscriptionState.value == SubscriptionState.UNKNOWN) {
+            _subscriptionState.value = SubscriptionState.FREE
         }
     }
 
@@ -152,38 +164,34 @@ class BillingManager private constructor(context: Context) : PurchasesUpdatedLis
 
                 for (productDetails in detailsList) {
                     val offerDetailsList = productDetails.subscriptionOfferDetails ?: emptyList()
-                    if (offerDetailsList.isEmpty()) {
+
+                    // Google Play returns every offer the user is ELIGIBLE for. A base plan can therefore appear
+                    // several times (base offer + introductory/promo offer). Pick exactly one offer per base plan:
+                    // an eligible introductory/promo offer (offerId != null) wins, otherwise the plain base offer.
+                    // The token is always the one Google Play returned - never hard-coded.
+                    val offersByBasePlan = offerDetailsList.groupBy { it.basePlanId }
+                    for ((basePlanId, offers) in offersByBasePlan) {
+                        val chosen = offers.firstOrNull { it.offerId != null } ?: offers.first()
+                        val phases = chosen.pricingPhases.pricingPhaseList
+                        // The LAST phase is the recurring price the user keeps paying after any intro phase.
+                        val recurringPhase = phases.lastOrNull()
+                        if (recurringPhase == null) {
+                            Log.w(TAG, "Offer for base plan $basePlanId has no pricing phases; skipping.")
+                            continue
+                        }
+
                         parsedProducts.add(
                             SubscriptionProduct(
                                 productId = productDetails.productId,
-                                basePlanId = BillingConfig.BASE_PLAN_MONTHLY,
-                                formattedPrice = "",
+                                basePlanId = basePlanId,
+                                formattedPrice = recurringPhase.formattedPrice,
                                 title = productDetails.title,
                                 description = productDetails.description,
-                                billingPeriod = "P1M",
+                                billingPeriod = recurringPhase.billingPeriod,
                                 productDetails = productDetails,
-                                offerToken = ""
+                                offerToken = chosen.offerToken
                             )
                         )
-                    } else {
-                        for (offer in offerDetailsList) {
-                            val basePlanId = offer.basePlanId
-                            val pricingPhase = offer.pricingPhases.pricingPhaseList.firstOrNull()
-                            val formattedPrice = pricingPhase?.formattedPrice ?: ""
-
-                            parsedProducts.add(
-                                SubscriptionProduct(
-                                    productId = productDetails.productId,
-                                    basePlanId = basePlanId,
-                                    formattedPrice = formattedPrice,
-                                    title = productDetails.title,
-                                    description = productDetails.description,
-                                    billingPeriod = pricingPhase?.billingPeriod ?: "P1M",
-                                    productDetails = productDetails,
-                                    offerToken = offer.offerToken
-                                )
-                            )
-                        }
                     }
                 }
 
@@ -192,6 +200,7 @@ class BillingManager private constructor(context: Context) : PurchasesUpdatedLis
                 onResult?.invoke(parsedProducts)
             } else {
                 Log.e(TAG, "Failed to query products code ${billingResult.responseCode}: ${billingResult.debugMessage}")
+                _billingMessage.value = mapBillingError(billingResult.responseCode)
                 onResult?.invoke(emptyList())
             }
         }
@@ -264,10 +273,12 @@ class BillingManager private constructor(context: Context) : PurchasesUpdatedLis
         if (purchase.products.contains(BillingConfig.PRODUCT_ID_PREMIUM)) {
             when (purchase.purchaseState) {
                 Purchase.PurchaseState.PURCHASED -> {
+                    // Google Play reports a completed, paid purchase: entitlement is active now.
+                    // Acknowledgement (required within 3 days or Play auto-refunds) is retried independently.
+                    _subscriptionState.value = SubscriptionState.PREMIUM
                     if (!purchase.isAcknowledged) {
                         acknowledgePurchase(purchase)
                     } else {
-                        _subscriptionState.value = SubscriptionState.PREMIUM
                         _billingMessage.value = "Welcome to KiddoTube Premium!"
                     }
                 }
@@ -299,6 +310,11 @@ class BillingManager private constructor(context: Context) : PurchasesUpdatedLis
             } else {
                 Log.e(TAG, "Failed to acknowledge purchase: ${billingResult.debugMessage}")
                 _billingMessage.value = "Subscription active, but acknowledgement pending."
+                // Retry once after a delay; queryActivePurchases() on next launch/resume also re-acknowledges.
+                scope.launch {
+                    delay(5000L)
+                    queryActivePurchases()
+                }
             }
         }
     }
@@ -325,10 +341,9 @@ class BillingManager private constructor(context: Context) : PurchasesUpdatedLis
                 }
 
                 if (activePremiumPurchase != null) {
+                    _subscriptionState.value = SubscriptionState.PREMIUM
                     if (!activePremiumPurchase.isAcknowledged) {
                         acknowledgePurchase(activePremiumPurchase)
-                    } else {
-                        _subscriptionState.value = SubscriptionState.PREMIUM
                     }
                     onComplete?.invoke(true)
                 } else {
@@ -345,6 +360,7 @@ class BillingManager private constructor(context: Context) : PurchasesUpdatedLis
                 }
             } else {
                 Log.e(TAG, "Error querying active purchases: ${billingResult.debugMessage}")
+                markFreeIfUnknown()
                 onComplete?.invoke(false)
             }
         }

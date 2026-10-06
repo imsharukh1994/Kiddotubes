@@ -8,7 +8,7 @@ import { Play, Eye, EyeOff, Lock, Mail, ArrowLeft, ShieldCheck } from 'lucide-re
 
 export default function LoginPage() {
   const router = useRouter();
-  const { login, demoLogin, isAuthenticated } = useAuth();
+  const { login, isAuthenticated } = useAuth();
 
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
@@ -126,19 +126,6 @@ export default function LoginPage() {
             {isSubmitting ? 'Signing in...' : 'Sign In'}
           </button>
         </form>
-
-        {/* Quick Demo Account */}
-        <div className="pt-4 border-t border-slate-100 text-center">
-          <button
-            onClick={() => {
-              demoLogin();
-              router.push('/');
-            }}
-            className="w-full py-2.5 px-3 bg-purple-50 hover:bg-purple-100 text-purple-900 border border-purple-200 rounded-xl text-xs font-extrabold flex items-center justify-center gap-1.5 transition-colors"
-          >
-            <span>✨ Try Demo Account (1-Click Login)</span>
-          </button>
-        </div>
 
         <div className="text-center pt-2 text-xs font-semibold text-slate-500">
           Don&apos;t have an account yet?{' '}

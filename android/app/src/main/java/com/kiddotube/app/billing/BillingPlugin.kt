@@ -32,6 +32,17 @@ class BillingPlugin : Plugin() {
         }
     }
 
+    /**
+     * Re-check Google Play every time the app returns to the foreground so an expired or
+     * refunded subscription loses Premium without requiring an app restart.
+     */
+    override fun handleOnResume() {
+        super.handleOnResume()
+        if (::billingManager.isInitialized) {
+            billingManager.queryActivePurchases()
+        }
+    }
+
     @PluginMethod
     fun getSubscriptionStatus(call: PluginCall) {
         val state = billingManager.subscriptionState.value
@@ -73,16 +84,17 @@ class BillingPlugin : Plugin() {
         }
 
         val basePlanId = call.getString("basePlanId") ?: BillingConfig.BASE_PLAN_MONTHLY
+        if (basePlanId != BillingConfig.BASE_PLAN_MONTHLY && basePlanId != BillingConfig.BASE_PLAN_YEARLY) {
+            call.reject("Unknown subscription plan.")
+            return
+        }
 
         billingManager.startConnection {
             billingManager.querySubscriptionProducts { products ->
-                val targetProduct = products.find { 
-                    it.basePlanId.equals(basePlanId, ignoreCase = true) 
-                } ?: products.find { 
-                    (it.basePlanId.contains("monthly", ignoreCase = true) && basePlanId.contains("monthly", ignoreCase = true)) ||
-                    (it.basePlanId.contains("yearly", ignoreCase = true) && basePlanId.contains("yearly", ignoreCase = true))
-                } ?: products.firstOrNull { 
-                    it.productId == BillingConfig.PRODUCT_ID_PREMIUM 
+                // Exact match on the Play Console Base Plan ID only. Never fall back to a different plan:
+                // a user must not be charged for a plan they did not choose.
+                val targetProduct = products.find {
+                    it.productId == BillingConfig.PRODUCT_ID_PREMIUM && it.basePlanId == basePlanId
                 }
 
                 if (targetProduct != null) {
@@ -95,7 +107,7 @@ class BillingPlugin : Plugin() {
                     call.resolve(ret)
                 } else {
                     Log.w("BillingPlugin", "No matching product found on Google Play Console for basePlanId: $basePlanId. Total products found: ${products.size}")
-                    call.reject("Subscription product 'kiddotube_premium' ($basePlanId) is not yet active on Google Play Console for this app release.")
+                    call.reject("This subscription plan is not available from Google Play right now. Please try again later.")
                 }
             }
         }

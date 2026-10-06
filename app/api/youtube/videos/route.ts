@@ -18,10 +18,10 @@ export async function GET(request: NextRequest) {
     }
 
     if (!ids) {
-      return NextResponse.json(
-        { success: false, error: 'Missing id or ids query parameter' },
-        { status: 400 }
-      );
+      return NextResponse.json({
+        success: true,
+        data: [],
+      });
     }
 
     const idList = ids.split(',').map(s => s.trim()).filter(Boolean);

@@ -91,6 +91,7 @@ export default function VideoPlayer({ videoId, title = 'KiddoTube Video Player' 
         className="w-full h-full border-0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         allowFullScreen
+        referrerPolicy="strict-origin-when-cross-origin"
       />
     </div>
   );

@@ -42,3 +42,12 @@ android/local.properties
 android/release-key.jks
 *.jks
 *.keystore
+
+# Release signing secrets (never commit)
+android/keystore.properties
+android/app/release-key.jks
+
+# Generated deploy/build output
+/.open-next/
+/.wrangler/
+

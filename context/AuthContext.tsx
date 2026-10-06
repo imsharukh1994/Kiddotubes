@@ -2,23 +2,16 @@
 
 import React, { createContext, useContext, useState, useEffect } from 'react';
 import { User, LoginCredentials, RegisterCredentials } from '@/types/auth';
+import { hashPassword, verifyPassword, isHashedPassword, isHashAvailable } from '@/lib/passwordHash';
 
 const USERS_STORAGE_KEY = 'kiddotube_users_db_v1';
 const CURRENT_USER_KEY = 'kiddotube_current_user_v1';
 
-// Preset default demo account
-const DEFAULT_DEMO_USERS: (User & { passwordHash: string })[] = [
-  {
-    id: 'demo-user-1',
-    name: 'Demo Explorer',
-    email: 'demo@kiddotube.com',
-    avatar: '🚀',
-    pin: '1234',
-    isPremium: false,
-    createdAt: new Date().toISOString(),
-    passwordHash: 'password123',
-  },
-];
+// NOTE: KiddoTube accounts are LOCAL-DEVICE accounts (stored in this device's storage only).
+// There is no cloud account/backend; passwords are salted+hashed (see lib/passwordHash.ts) and never leave the device.
+const EMAIL_PATTERN = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+// Demo account from earlier app versions; removed from the app and purged from stored data below.
+const LEGACY_DEMO_USER_ID = 'demo-user-1';
 
 interface AuthContextType {
   user: User | null;
@@ -39,7 +32,6 @@ interface AuthContextType {
   login: (credentials: LoginCredentials) => Promise<{ success: boolean; message?: string }>;
   register: (credentials: RegisterCredentials) => Promise<{ success: boolean; message?: string }>;
   logout: () => void;
-  demoLogin: () => void;
   updateUserPin: (newPin: string) => void;
   deleteAccount: () => void;
 }
@@ -56,28 +48,36 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
   const [playEntitlement, setPlayEntitlement] = useState<boolean | null>(null);
   const [hasBilling, setHasBilling] = useState<boolean>(false);
 
-  // Load existing users DB or initialize default demo accounts
+  // Load the local users DB (empty if none). Any legacy demo account is purged.
   const getUsersDB = (): (User & { passwordHash: string })[] => {
-    if (typeof window === 'undefined') return DEFAULT_DEMO_USERS;
+    if (typeof window === 'undefined') return [];
     try {
       const stored = localStorage.getItem(USERS_STORAGE_KEY);
-      if (stored) {
-        return JSON.parse(stored);
-      } else {
-        localStorage.setItem(USERS_STORAGE_KEY, JSON.stringify(DEFAULT_DEMO_USERS));
-        return DEFAULT_DEMO_USERS;
+      if (!stored) return [];
+      const users: (User & { passwordHash: string })[] = JSON.parse(stored);
+      if (!Array.isArray(users)) return [];
+      const cleaned = users.filter((u) => u.id !== LEGACY_DEMO_USER_ID);
+      if (cleaned.length !== users.length) {
+        localStorage.setItem(USERS_STORAGE_KEY, JSON.stringify(cleaned));
       }
+      return cleaned;
     } catch {
-      return DEFAULT_DEMO_USERS;
+      return [];
     }
   };
 
   useEffect(() => {
     try {
-      // Restore active session
+      // Restore active session (a leftover demo session is discarded)
+      getUsersDB();
       const savedSession = localStorage.getItem(CURRENT_USER_KEY);
       if (savedSession) {
-        setUser(JSON.parse(savedSession));
+        const session: User = JSON.parse(savedSession);
+        if (session?.id === LEGACY_DEMO_USER_ID) {
+          localStorage.removeItem(CURRENT_USER_KEY);
+        } else {
+          setUser(session);
+        }
       }
     } catch (err) {
       console.error('Failed to load session:', err);
@@ -160,17 +160,33 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
   };
 
   const login = async (credentials: LoginCredentials): Promise<{ success: boolean; message?: string }> => {
+    const email = (credentials.email || '').trim().toLowerCase();
+    const password = credentials.password || '';
+
+    if (!email || !password) {
+      return { success: false, message: 'Please enter your email and password.' };
+    }
+
     const usersDB = getUsersDB();
-    const foundUser = usersDB.find(
-      (u) => u.email.toLowerCase() === credentials.email.toLowerCase()
-    );
+    const foundUser = usersDB.find((u) => u.email.trim().toLowerCase() === email);
 
     if (!foundUser) {
       return { success: false, message: 'No account found with this email address.' };
     }
 
-    if (foundUser.passwordHash !== credentials.password) {
+    if (!(await verifyPassword(password, foundUser.passwordHash))) {
       return { success: false, message: 'Incorrect password. Please try again.' };
+    }
+
+    // Upgrade legacy plaintext records to a salted hash after a successful login.
+    if (!isHashedPassword(foundUser.passwordHash) && isHashAvailable()) {
+      try {
+        const upgradedHash = await hashPassword(password);
+        const upgradedDB = usersDB.map((u) => (u.id === foundUser.id ? { ...u, passwordHash: upgradedHash } : u));
+        localStorage.setItem(USERS_STORAGE_KEY, JSON.stringify(upgradedDB));
+      } catch {
+        // Keep the existing record; login still succeeds.
+      }
     }
 
     const { passwordHash, ...userSession } = foundUser;
@@ -184,30 +200,49 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
   };
 
   const register = async (credentials: RegisterCredentials): Promise<{ success: boolean; message?: string }> => {
+    const name = (credentials.name || '').trim();
+    const email = (credentials.email || '').trim();
+    const password = credentials.password || '';
+
+    if (!name) {
+      return { success: false, message: 'Please enter your name.' };
+    }
+    if (!EMAIL_PATTERN.test(email)) {
+      return { success: false, message: 'Please enter a valid email address.' };
+    }
+    if (password.length < 6) {
+      return { success: false, message: 'Password must be at least 6 characters.' };
+    }
+
     const usersDB = getUsersDB();
-    const exists = usersDB.some(
-      (u) => u.email.toLowerCase() === credentials.email.toLowerCase()
-    );
+    const exists = usersDB.some((u) => u.email.trim().toLowerCase() === email.toLowerCase());
 
     if (exists) {
       return { success: false, message: 'An account with this email already exists.' };
     }
 
+    let passwordHash: string;
+    try {
+      passwordHash = await hashPassword(password);
+    } catch {
+      return { success: false, message: 'Secure account storage is unavailable on this device.' };
+    }
+
     const newUserFull: User & { passwordHash: string } = {
       id: `user-${Date.now()}`,
-      name: credentials.name.trim(),
-      email: credentials.email.trim(),
+      name,
+      email,
       avatar: credentials.avatar || '🦁',
       pin: credentials.pin || '1234',
       isPremium: false, // Standard registration requires Premium subscription purchase
       createdAt: new Date().toISOString(),
-      passwordHash: credentials.password,
+      passwordHash,
     };
 
     const updatedDB = [...usersDB, newUserFull];
     localStorage.setItem(USERS_STORAGE_KEY, JSON.stringify(updatedDB));
 
-    const { passwordHash, ...userSession } = newUserFull;
+    const { passwordHash: _omit, ...userSession } = newUserFull;
     setUser(userSession);
     localStorage.setItem(CURRENT_USER_KEY, JSON.stringify(userSession));
     closeAuthModal();
@@ -228,15 +263,6 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     const updatedDB = usersDB.filter((u) => u.id !== user.id);
     localStorage.setItem(USERS_STORAGE_KEY, JSON.stringify(updatedDB));
     logout();
-  };
-
-  const demoLogin = () => {
-    const usersDB = getUsersDB();
-    const demoAccount = usersDB[0] || DEFAULT_DEMO_USERS[0];
-    const { passwordHash, ...userSession } = demoAccount;
-    setUser(userSession);
-    localStorage.setItem(CURRENT_USER_KEY, JSON.stringify(userSession));
-    closeAuthModal();
   };
 
   const updateUserPin = (newPin: string) => {
@@ -270,7 +296,6 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
         login,
         register,
         logout,
-        demoLogin,
         updateUserPin,
         deleteAccount,
       }}

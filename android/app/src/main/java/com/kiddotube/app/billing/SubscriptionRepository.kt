@@ -24,11 +24,13 @@ class SubscriptionRepository(context: Context) {
     val billingMessage: StateFlow<String?> = billingManager.billingMessage
     val isLoading: StateFlow<Boolean> = billingManager.isLoading
 
+    // The cached value is write-only diagnostics. It must never grant Premium before Google Play answers,
+    // so the initial value is always false and only a live PREMIUM billing state flips it.
     val isPremium: StateFlow<Boolean> = subscriptionState.map { state ->
         val active = state == SubscriptionState.PREMIUM
         saveCachedPremiumState(active)
         active
-    }.stateIn(scope, SharingStarted.Eagerly, getCachedPremiumState())
+    }.stateIn(scope, SharingStarted.Eagerly, false)
 
     init {
         // Refresh active purchases from Google Play on repository creation

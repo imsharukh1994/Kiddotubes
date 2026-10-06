@@ -141,6 +141,9 @@ export function formatIsoDuration(isoDuration?: string): string {
  * Server-side function to search YouTube videos
  */
 export async function searchYouTubeVideos(query: string, maxResults: number = 12): Promise<VideoItem[]> {
+  // YouTube accepts 0-50; also guards against NaN from a malformed ?limit= query parameter.
+  maxResults = Number.isFinite(maxResults) ? Math.min(Math.max(Math.trunc(maxResults), 1), 50) : 12;
+  query = (query || '').trim() || 'educational videos';
   const apiKey = process.env.YOUTUBE_API_KEY;
   if (!apiKey || apiKey === 'your_youtube_api_key_here') {
     console.warn('YOUTUBE_API_KEY is not set or using placeholder, using fallback videos.');

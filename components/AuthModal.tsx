@@ -2,13 +2,13 @@
 
 import React, { useState } from 'react';
 import { useAuth } from '@/context/AuthContext';
-import { X, Play, Eye, EyeOff, Lock, Mail, User, ShieldCheck, Sparkles, KeyRound } from 'lucide-react';
+import { X, Play, Eye, EyeOff, Lock, Mail, User, ShieldCheck, KeyRound } from 'lucide-react';
 import AvatarPicker from './AvatarPicker';
 
 const AVATAR_OPTIONS = ['🦁', '🚀', '🎨', '🦄', '🦉', '🐻', '👩‍👧‍👦', '⭐'];
 
 export default function AuthModal() {
-  const { authModalOpen, authModalTab, closeAuthModal, login, register, demoLogin } = useAuth();
+  const { authModalOpen, authModalTab, closeAuthModal, login, register } = useAuth();
 
   const [activeTab, setActiveTab] = useState<'login' | 'register'>(authModalTab);
   const [email, setEmail] = useState('');
@@ -243,18 +243,6 @@ export default function AuthModal() {
               ? 'Sign In'
               : 'Create KiddoTube Account'}
           </button>
-
-          {/* QUICK DEMO LOGIN SHORTCUT */}
-          <div className="pt-3 border-t border-slate-100 text-center">
-            <button
-              type="button"
-              onClick={demoLogin}
-              className="w-full py-2.5 px-3 bg-purple-50 hover:bg-purple-100 text-purple-900 border border-purple-200 rounded-xl text-xs font-extrabold flex items-center justify-center gap-1.5 transition-colors"
-            >
-              <Sparkles className="w-4 h-4 text-purple-600" />
-              <span>Try Demo Account (1-Click Login)</span>
-            </button>
-          </div>
         </form>
       </div>
     </div>
