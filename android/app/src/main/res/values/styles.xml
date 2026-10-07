@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <style name="Theme.KiddoTube" parent="Theme.AppCompat.Light.NoActionBar">
-        <item name="android:statusBarColor">#7C3AED</item>
-        <item name="android:navigationBarColor">#FFFFFF</item>
     </style>
     <style name="AppTheme" parent="Theme.KiddoTube" />
 </resources>
