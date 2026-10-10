@@ -8,6 +8,7 @@ import { Play, Search, Menu, X, ShieldCheck, Heart, History, Compass, Home, User
 import SearchBar from './SearchBar';
 import TimerControl from './TimerControl';
 import { useAuth } from '@/context/AuthContext';
+import { getGamification, GamificationData } from '@/lib/storage';
 
 export default function Header() {
   const pathname = usePathname();
@@ -15,6 +16,22 @@ export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [searchOpen, setSearchOpen] = useState(false);
   const [profileDropdownOpen, setProfileDropdownOpen] = useState(false);
+
+  const activeKid = user?.kidProfiles?.find(k => k.id === user.activeKidId);
+  const displayAvatar = activeKid ? activeKid.avatar : user?.avatar || '🦁';
+  const displayName = activeKid ? activeKid.name : user?.name || '';
+  const displaySubtext = activeKid ? `${activeKid.ageGroup} Yrs` : user?.email || '';
+
+  const [gamification, setGamification] = useState<GamificationData>({ stars: 0, badges: [] });
+
+  useEffect(() => {
+    setGamification(getGamification());
+    const handleUpdate = () => {
+      setGamification(getGamification());
+    };
+    window.addEventListener('kiddotube_gamification_updated', handleUpdate);
+    return () => window.removeEventListener('kiddotube_gamification_updated', handleUpdate);
+  }, [user?.activeKidId]);
 
   const navItems = [
     { href: '/', label: 'Home' },
@@ -92,14 +109,20 @@ export default function Header() {
                   className="flex items-center gap-2 px-3 py-1.5 bg-purple-50 hover:bg-purple-100 text-purple-900 border border-purple-200/80 rounded-full transition-all focus:outline-none focus:ring-2 focus:ring-purple-600 shadow-sm"
                 >
                   <div className="w-6 h-6 rounded-full overflow-hidden flex items-center justify-center text-sm shrink-0 bg-purple-200/60 relative">
-                    {user.avatar.startsWith('/') || user.avatar.startsWith('http') ? (
-                      <Image src={user.avatar} alt={user.name} width={24} height={24} className="w-full h-full object-cover" unoptimized />
+                    {displayAvatar.startsWith('/') || displayAvatar.startsWith('http') ? (
+                      <Image src={displayAvatar} alt={displayName} width={24} height={24} className="w-full h-full object-cover" unoptimized />
                     ) : (
-                      <span>{user.avatar}</span>
+                      <span>{displayAvatar}</span>
                     )}
                   </div>
-                  <span className="text-xs font-black truncate max-w-[100px]">{user.name}</span>
-                  {isPremium && <Crown className="w-3.5 h-3.5 text-amber-500 fill-current" />}
+                  <span className="text-xs font-black truncate max-w-[100px]">{displayName}</span>
+                  {activeKid && (
+                    <div className="flex items-center gap-0.5 bg-amber-100 px-1.5 py-0.5 rounded-md">
+                      <span className="text-[10px] font-black text-amber-900">{gamification.stars}</span>
+                      <span className="text-[10px]">⭐</span>
+                    </div>
+                  )}
+                  {isPremium && !activeKid && <Crown className="w-3.5 h-3.5 text-amber-500 fill-current" />}
                   <ChevronDown className="w-3.5 h-3.5 text-purple-700" />
                 </button>
 
@@ -111,8 +134,8 @@ export default function Header() {
                   >
                     <div className="px-4 py-2 border-b border-slate-100 flex items-center justify-between">
                       <div className="truncate">
-                        <p className="text-xs font-black text-slate-900 truncate">{user.name}</p>
-                        <p className="text-[11px] font-semibold text-slate-500 truncate">{user.email}</p>
+                        <p className="text-xs font-black text-slate-900 truncate">{displayName}</p>
+                        <p className="text-[11px] font-semibold text-slate-500 truncate">{displaySubtext}</p>
                       </div>
                       {isPremium ? (
                         <span className="px-2 py-0.5 bg-amber-100 text-amber-900 text-[10px] font-black rounded-full uppercase tracking-wider">
@@ -254,15 +277,15 @@ export default function Header() {
             <div className="p-3 bg-purple-50 border border-purple-100 rounded-2xl flex items-center justify-between mb-2">
               <div className="flex items-center gap-2.5">
                 <div className="w-8 h-8 rounded-full overflow-hidden flex items-center justify-center text-lg shrink-0 bg-purple-200/60">
-                  {user.avatar.startsWith('/') || user.avatar.startsWith('http') ? (
-                    <Image src={user.avatar} alt={user.name} width={32} height={32} className="w-full h-full object-cover" unoptimized />
+                  {displayAvatar.startsWith('/') || displayAvatar.startsWith('http') ? (
+                    <Image src={displayAvatar} alt={displayName} width={32} height={32} className="w-full h-full object-cover" unoptimized />
                   ) : (
-                    <span>{user.avatar}</span>
+                    <span>{displayAvatar}</span>
                   )}
                 </div>
                 <div>
-                  <p className="text-xs font-black text-purple-950">{user.name}</p>
-                  <p className="text-[10px] font-semibold text-purple-700">{user.email}</p>
+                  <p className="text-xs font-black text-purple-950">{displayName}</p>
+                  <p className="text-[10px] font-semibold text-purple-700">{displaySubtext}</p>
                 </div>
               </div>
               <Link

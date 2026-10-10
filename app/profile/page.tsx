@@ -5,14 +5,20 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { useRouter } from 'next/navigation';
 import { useAuth } from '@/context/AuthContext';
-import { ArrowLeft, ShieldCheck, Heart, History, KeyRound, LogOut, Check, Trash2, AlertTriangle } from 'lucide-react';
+import { ArrowLeft, ShieldCheck, Heart, History, KeyRound, LogOut, Check, Trash2, AlertTriangle, UserPlus, Users, Palette, CheckCircle2 } from 'lucide-react';
 
 export default function ProfilePage() {
   const router = useRouter();
-  const { user, isAuthenticated, logout, updateUserPin, deleteAccount } = useAuth();
+  const { user, isAuthenticated, logout, updateUserPin, deleteAccount, addKidProfile, switchKidProfile, deleteKidProfile } = useAuth();
   const [newPin, setNewPin] = useState(user?.pin || '1234');
   const [pinSaved, setPinSaved] = useState(false);
   const [showDeleteConfirm, setShowDeleteConfirm] = useState(false);
+  
+  const [showAddKid, setShowAddKid] = useState(false);
+  const [newKidName, setNewKidName] = useState('');
+  const [newKidAvatar, setNewKidAvatar] = useState('🐯');
+  const [newKidTheme, setNewKidTheme] = useState('purple');
+  const [newKidAgeGroup, setNewKidAgeGroup] = useState('all');
 
   if (!isAuthenticated || !user) {
     return (
@@ -44,6 +50,20 @@ export default function ProfilePage() {
     deleteAccount();
     setShowDeleteConfirm(false);
     router.push('/');
+  };
+
+  const handleAddKid = (e: React.FormEvent) => {
+    e.preventDefault();
+    if (newKidName.trim()) {
+      addKidProfile({
+        name: newKidName.trim(),
+        avatar: newKidAvatar,
+        themeColor: newKidTheme,
+        ageGroup: newKidAgeGroup
+      });
+      setNewKidName('');
+      setShowAddKid(false);
+    }
   };
 
   return (
@@ -133,6 +153,56 @@ export default function ProfilePage() {
           </div>
         </Link>
       </div>
+
+      {/* Kid Profiles Section */}
+      <section className="bg-white rounded-3xl p-6 sm:p-8 border border-slate-200/80 shadow-subtle space-y-6">
+        <div className="flex items-center justify-between">
+          <div className="flex items-center gap-2">
+            <Users className="w-5 h-5 text-indigo-600" />
+            <h2 className="text-lg font-black text-slate-900 tracking-tight">Kid Profiles</h2>
+          </div>
+          <button
+            onClick={() => setShowAddKid(true)}
+            className="px-3.5 py-1.5 bg-indigo-50 hover:bg-indigo-100 text-indigo-700 font-bold text-xs rounded-xl transition-colors flex items-center gap-1.5"
+          >
+            <UserPlus className="w-4 h-4" />
+            <span>Add Profile</span>
+          </button>
+        </div>
+
+        {user.kidProfiles && user.kidProfiles.length > 0 ? (
+          <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
+            {user.kidProfiles.map((kid) => (
+              <div
+                key={kid.id}
+                onClick={() => switchKidProfile(kid.id)}
+                className={`relative p-4 rounded-2xl border-2 cursor-pointer transition-all flex flex-col items-center gap-2 text-center ${
+                  user.activeKidId === kid.id
+                    ? 'border-indigo-500 bg-indigo-50 shadow-sm'
+                    : 'border-slate-100 bg-slate-50 hover:border-slate-200'
+                }`}
+              >
+                {user.activeKidId === kid.id && (
+                  <div className="absolute -top-2 -right-2 w-6 h-6 bg-indigo-500 text-white rounded-full flex items-center justify-center shadow-sm">
+                    <CheckCircle2 className="w-4 h-4" />
+                  </div>
+                )}
+                <div className="w-14 h-14 bg-white rounded-2xl shadow-sm border border-slate-100 flex items-center justify-center text-2xl">
+                  {kid.avatar}
+                </div>
+                <div>
+                  <h4 className="font-extrabold text-sm text-slate-900">{kid.name}</h4>
+                  <p className="text-[10px] font-bold text-slate-500 uppercase tracking-wider">{kid.ageGroup} Yrs</p>
+                </div>
+              </div>
+            ))}
+          </div>
+        ) : (
+          <div className="text-center py-6 bg-slate-50 rounded-2xl border border-dashed border-slate-300">
+            <p className="text-xs text-slate-500 font-medium">No kid profiles created yet.</p>
+          </div>
+        )}
+      </section>
 
       {/* Security PIN Settings */}
       <section className="bg-white rounded-3xl p-6 sm:p-8 border border-slate-200/80 shadow-subtle space-y-4">
@@ -227,6 +297,74 @@ export default function ProfilePage() {
                 <span>Confirm Delete</span>
               </button>
             </div>
+          </div>
+        </div>
+      )}
+
+      {/* Add Kid Modal */}
+      {showAddKid && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-950/70 backdrop-blur-sm animate-fadeIn">
+          <div className="bg-white rounded-3xl max-w-md w-full p-6 sm:p-8 space-y-6 border border-slate-200 shadow-2xl">
+            <div className="flex items-center justify-between">
+              <h3 className="text-xl font-black text-slate-900">New Kid Profile</h3>
+              <button onClick={() => setShowAddKid(false)} className="text-slate-400 hover:text-slate-600">
+                &times;
+              </button>
+            </div>
+            
+            <form onSubmit={handleAddKid} className="space-y-4">
+              <div className="space-y-1.5">
+                <label className="text-xs font-bold text-slate-700">Name</label>
+                <input
+                  type="text"
+                  required
+                  value={newKidName}
+                  onChange={(e) => setNewKidName(e.target.value)}
+                  className="w-full px-4 py-2.5 bg-slate-50 border border-slate-200 rounded-xl text-sm font-semibold focus:outline-none focus:border-indigo-500 focus:ring-1 focus:ring-indigo-500"
+                  placeholder="e.g. Leo"
+                />
+              </div>
+
+              <div className="space-y-1.5">
+                <label className="text-xs font-bold text-slate-700">Avatar</label>
+                <div className="flex gap-3">
+                  {['🐯', '🦁', '🦊', '🦄', '🦖', '🚀'].map((emoji) => (
+                    <button
+                      key={emoji}
+                      type="button"
+                      onClick={() => setNewKidAvatar(emoji)}
+                      className={`w-10 h-10 rounded-xl text-xl flex items-center justify-center transition-all ${
+                        newKidAvatar === emoji ? 'bg-indigo-100 border-2 border-indigo-500 shadow-sm' : 'bg-slate-50 border border-slate-200'
+                      }`}
+                    >
+                      {emoji}
+                    </button>
+                  ))}
+                </div>
+              </div>
+
+              <div className="space-y-1.5">
+                <label className="text-xs font-bold text-slate-700">Age Group</label>
+                <select
+                  value={newKidAgeGroup}
+                  onChange={(e) => setNewKidAgeGroup(e.target.value)}
+                  className="w-full px-4 py-2.5 bg-slate-50 border border-slate-200 rounded-xl text-sm font-semibold focus:outline-none focus:border-indigo-500 focus:ring-1 focus:ring-indigo-500"
+                >
+                  <option value="all">All Ages</option>
+                  <option value="0-2">0-2 (Toddlers)</option>
+                  <option value="3-5">3-5 (Preschool)</option>
+                  <option value="6-8">6-8 (Kids)</option>
+                  <option value="9-12">9-12 (Older Kids)</option>
+                </select>
+              </div>
+
+              <button
+                type="submit"
+                className="w-full py-3 bg-indigo-600 hover:bg-indigo-700 text-white font-black text-sm rounded-xl shadow transition-colors"
+              >
+                Create Profile
+              </button>
+            </form>
           </div>
         </div>
       )}

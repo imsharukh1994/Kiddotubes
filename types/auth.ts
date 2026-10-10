@@ -1,3 +1,12 @@
+export interface KidProfile {
+  id: string;
+  name: string;
+  avatar: string;
+  themeColor: string;
+  ageGroup: string;
+  createdAt: string;
+}
+
 export interface User {
   id: string;
   name: string;
@@ -6,6 +15,8 @@ export interface User {
   pin?: string;
   isPremium?: boolean;
   createdAt: string;
+  kidProfiles?: KidProfile[];
+  activeKidId?: string | null;
 }
 
 export interface LoginCredentials {
@@ -20,4 +31,3 @@ export interface RegisterCredentials {
   pin?: string;
   avatar?: string;
 }
-

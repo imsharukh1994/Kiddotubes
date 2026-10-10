@@ -1,7 +1,7 @@
 'use client';
 
 import React, { createContext, useContext, useState, useEffect } from 'react';
-import { User, LoginCredentials, RegisterCredentials } from '@/types/auth';
+import { User, LoginCredentials, RegisterCredentials, KidProfile } from '@/types/auth';
 import { hashPassword, verifyPassword, isHashedPassword, isHashAvailable } from '@/lib/passwordHash';
 
 const USERS_STORAGE_KEY = 'kiddotube_users_db_v1';
@@ -34,6 +34,10 @@ interface AuthContextType {
   logout: () => void;
   updateUserPin: (newPin: string) => void;
   deleteAccount: () => void;
+  addKidProfile: (profile: Omit<KidProfile, 'id' | 'createdAt'>) => void;
+  switchKidProfile: (kidId: string | null) => void;
+  deleteKidProfile: (kidId: string) => void;
+  updateKidProfile: (kidId: string, updates: Partial<KidProfile>) => void;
 }
 
 const AuthContext = createContext<AuthContextType | undefined>(undefined);
@@ -271,9 +275,67 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     setUser(updatedUser);
     localStorage.setItem(CURRENT_USER_KEY, JSON.stringify(updatedUser));
 
-    // Update in users DB
     const usersDB = getUsersDB();
     const updatedDB = usersDB.map(u => u.id === user.id ? { ...u, pin: newPin } : u);
+    localStorage.setItem(USERS_STORAGE_KEY, JSON.stringify(updatedDB));
+  };
+
+  const addKidProfile = (profile: Omit<KidProfile, 'id' | 'createdAt'>) => {
+    if (!user) return;
+    const newProfile: KidProfile = {
+      ...profile,
+      id: `kid-${Date.now()}`,
+      createdAt: new Date().toISOString(),
+    };
+    const updatedKidProfiles = [...(user.kidProfiles || []), newProfile];
+    const updatedUser = { ...user, kidProfiles: updatedKidProfiles };
+    
+    setUser(updatedUser);
+    localStorage.setItem(CURRENT_USER_KEY, JSON.stringify(updatedUser));
+    
+    const usersDB = getUsersDB();
+    const updatedDB = usersDB.map(u => u.id === user.id ? { ...u, kidProfiles: updatedKidProfiles } : u);
+    localStorage.setItem(USERS_STORAGE_KEY, JSON.stringify(updatedDB));
+  };
+
+  const switchKidProfile = (kidId: string | null) => {
+    if (!user) return;
+    const updatedUser = { ...user, activeKidId: kidId };
+    setUser(updatedUser);
+    localStorage.setItem(CURRENT_USER_KEY, JSON.stringify(updatedUser));
+    
+    const usersDB = getUsersDB();
+    const updatedDB = usersDB.map(u => u.id === user.id ? { ...u, activeKidId: kidId } : u);
+    localStorage.setItem(USERS_STORAGE_KEY, JSON.stringify(updatedDB));
+  };
+
+  const deleteKidProfile = (kidId: string) => {
+    if (!user) return;
+    const updatedKidProfiles = (user.kidProfiles || []).filter(p => p.id !== kidId);
+    let updatedActiveKidId = user.activeKidId;
+    if (user.activeKidId === kidId) {
+      updatedActiveKidId = null;
+    }
+    const updatedUser = { ...user, kidProfiles: updatedKidProfiles, activeKidId: updatedActiveKidId };
+    
+    setUser(updatedUser);
+    localStorage.setItem(CURRENT_USER_KEY, JSON.stringify(updatedUser));
+    
+    const usersDB = getUsersDB();
+    const updatedDB = usersDB.map(u => u.id === user.id ? { ...u, kidProfiles: updatedKidProfiles, activeKidId: updatedActiveKidId } : u);
+    localStorage.setItem(USERS_STORAGE_KEY, JSON.stringify(updatedDB));
+  };
+
+  const updateKidProfile = (kidId: string, updates: Partial<KidProfile>) => {
+    if (!user) return;
+    const updatedKidProfiles = (user.kidProfiles || []).map(p => p.id === kidId ? { ...p, ...updates } : p);
+    const updatedUser = { ...user, kidProfiles: updatedKidProfiles };
+    
+    setUser(updatedUser);
+    localStorage.setItem(CURRENT_USER_KEY, JSON.stringify(updatedUser));
+    
+    const usersDB = getUsersDB();
+    const updatedDB = usersDB.map(u => u.id === user.id ? { ...u, kidProfiles: updatedKidProfiles } : u);
     localStorage.setItem(USERS_STORAGE_KEY, JSON.stringify(updatedDB));
   };
 
@@ -298,6 +360,10 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
         logout,
         updateUserPin,
         deleteAccount,
+        addKidProfile,
+        switchKidProfile,
+        deleteKidProfile,
+        updateKidProfile,
       }}
     >
       {children}
